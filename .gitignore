@@ -1,3 +1,7 @@
+# R History files not needed! #
+###############################
+.RHistory
+
 .DS_Store
 .dropbox
 code_check*
