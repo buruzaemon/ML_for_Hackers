@@ -1,7 +1,12 @@
 # NOTES: Ch. 1 - Using R #
 
-### Matrix manipulations
+### Tips & Tricks 
+- `sessionInfo()` lists R version info and package details (both attached and loaded)
+
+### Matrix Filtering 
+1. `matrix[which(condition)]` 
+2. `matrix <- subset(matrix, (condition))` 
 
 ### Corrections
-1.  `scale_x_date` in calls to `ggplot`
-2.  `scale_color=manual` call uses `guide="none"`
+1.  `scale_x_date(breaks = date_breaks("n years"), labels = date_format("%Y"))`
+2.  `scale_color_manual` arguments require `guide="none"`
