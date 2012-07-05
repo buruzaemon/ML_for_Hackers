@@ -16,7 +16,8 @@
 2. `geom_density` renders kernel density estimates or density plots
 3. `geom_points` renders a scatter plot
 4. `geom_points + geom_smooth` renders a scatter plot and a separating hyperplane (classification)
-5. A feature of a dataset can also be represented with colors, using the `color` argument of the `aes` call in `ggplot` (c.f. Snippet 34, alternative using bright colors)
+5. A plot can be divided into multiple plots based on a specific feature of the dataset using the `facet_grid` call in `ggplot` (c.f. Snippet 26, producing two facets in a single plot to make it easier to see the hidden structure)
+6. A feature of a dataset can also be represented with colors, using the `color` argument of the `aes` call in `ggplot` (c.f. Snippet 34, alternative using bright colors)
 
 ### On distributions
 1. Random normal distributions can be generated with `rnorm(n, mean, sd)`
