@@ -38,10 +38,10 @@ To: Chris Garrigues <cwg-dated-1027805573.3ce2ae@DeepEddy.Com>,
 	exmh-workers@redhat.com
 Subject: PATCH (was: Re: Another bug)
 In-Reply-To: Message from Anders Eriksson <aeriksson@fastmail.fm> of
-    "Tue, 23 Jul 2002 02:20:35 +0200."
+    Tue, 23 Jul 2002 02:20:35 +0200.
     <20020723002041.2624D470D@tippex.localdomain>
 MIME-Version: 1.0
-Content-Type: multipart/mixed ; boundary="==_Exmh_6514812010"
+Content-Type: multipart/mixed ; boundary===_Exmh_6514812010
 From: Anders Eriksson <aeriksson@fastmail.fm>
 Message-Id: <20020724093457.D1035470D@tippex.localdomain>
 X-Loop: exmh-workers@spamassassin.taint.org
@@ -102,9 +102,9 @@ so I send the cvs diff rather than putting it in the cvs.
 
 
 --==_Exmh_6514812010
-Content-Type: application/x-patch ; name="exmh.patch"
+Content-Type: application/x-patch ; name=exmh.patch
 Content-Description: exmh.patch
-Content-Disposition: attachment; filename="exmh.patch"
+Content-Disposition: attachment; filename=exmh.patch
 
 Index: lib/ftoc.tcl
 ===================================================================
@@ -179,7 +179,7 @@ diff -u -b -B -w -p -r1.29 ftoc.tcl
      if {$ftoc(curLine) == {}} {
  	set ok 0
      } else {
--	if {$show == "show"} {
+-	if {$show == show} {
  	    $exwin(ftext) tag remove unseen $ftoc(curLine).0 $ftoc(curLine).end
 +	if {$oldline != {}} {
 +	    set ftoc(pickone) 1
@@ -206,7 +206,7 @@ diff -u -b -B -w -p -r1.29 ftoc.tcl
      if [catch {
  	set text [$exwin(ftext) get ${ix}.0 ${ix}.end]
 @@ -737,6 +765,57 @@ proc Ftoc_RescanLine { ix {plus none} } 
- 	Exmh_Error "FtocRescanLine $ix : $msg"
+ 	Exmh_Error FtocRescanLine $ix : $msg
      }
  }
 +
@@ -225,7 +225,7 @@ diff -u -b -B -w -p -r1.29 ftoc.tcl
 +       #foreach newCandidate [lsort -integer $lines_in] {
 +       #    if {$newCandidate != $lastCandidate} {
 +       #       lappend lines $newCandidate
-+       #       Exmh_Debug "** $lines"
++       #       Exmh_Debug ** $lines
 +       #       set lastCandidate $newCandidate
 +       #    }
 +       #}
@@ -236,13 +236,13 @@ diff -u -b -B -w -p -r1.29 ftoc.tcl
 +       foreach line $lines {
 +           lappend msgnos [Ftoc_MsgNumber $line]
 +       }
-+       set input [open "|$mhProfile(scan-proc) \
++       set input [open |$mhProfile(scan-proc) \
 +               [list +$ftoc(folder)] \
 +               [join $msgnos] \
-+               -width $ftoc(scanWidth)"]
++               -width $ftoc(scanWidth)]
 +       set texts [split [string trim [read $input] \n ] \n ]
 +       catch {close $input}
-+       #Exmh_Debug "* lines=$lines\nmsgnos=$msgnos\ntexts=$texts"
++       #Exmh_Debug * lines=$lines\nmsgnos=$msgnos\ntexts=$texts
 +
 +       set ll [llength $lines]
 +       for {set i 0} {$i<$ll} {incr i} {
@@ -262,7 +262,7 @@ diff -u -b -B -w -p -r1.29 ftoc.tcl
 +
  proc Ftoc_NextImplied { {show show} {implied implied} } {
      global ftoc
-     if {$ftoc(implied) && $ftoc(direction) == "prev"} {
+     if {$ftoc(implied) && $ftoc(direction) == prev} {
 @@ -793,7 +872,7 @@ proc Ftoc_NextFolder { {implied no} } {
  	    # If on last message, clear display because the
  	    # message is moved or deleted
@@ -271,7 +271,7 @@ diff -u -b -B -w -p -r1.29 ftoc.tcl
 +		Ftoc_ClearCurrent $ftoc(curLine)
  		Msg_ClearCurrent
  	    }
- 	    Exmh_Status ""
+ 	    Exmh_Status 
 @@ -809,7 +888,7 @@ proc Ftoc_NextFolder { {implied no} } {
  	    return
  	} else {
@@ -279,8 +279,8 @@ diff -u -b -B -w -p -r1.29 ftoc.tcl
 -	    Ftoc_ClearCurrent
 +	    Ftoc_ClearCurrent $ftoc(curLine)
  	    Msg_ClearCurrent
- 	    Exmh_Status ""
- 	    Exmh_Status "End of folder; <Next> => $f" warn
+ 	    Exmh_Status 
+ 	    Exmh_Status End of folder; <Next> => $f warn
 @@ -1113,7 +1192,7 @@ proc FtocCommit {tagname commitProc {cop
  	    set ftoc(displayDirty) 1
  	    Ftoc_ClearMsgCache
@@ -333,7 +333,7 @@ diff -u -b -B -w -p -r1.21 msg.tcl
      set line [Ftoc_FindMsg $msgid]
 -    if {! [Ftoc_Change $line $show]} {
 +    if {! [Ftoc_Change $line $prevline]} {
- 	Exmh_Status "Cannot find msg $msgid - Rescan?"
+ 	Exmh_Status Cannot find msg $msgid - Rescan?
      } else {
  	if {$msg(id) == {}} {
 @@ -652,14 +662,17 @@ proc Msg_UUdecode {} {
@@ -371,10 +371,10 @@ diff -u -b -B -w -p -r1.21 scan.tcl
 -	set curLine [Ftoc_ClearCurrent]			;# Clear +
 +	Ftoc_ClearCurrent $ftoc(curLine)        ;# Clear +
          if [file writable $cacheFile] {
-             set scancmd "exec $mhProfile(scan-proc) [list +$folder] \
- 		    -width $ftoc(scanWidth) > [list $cacheFile]"
+             set scancmd exec $mhProfile(scan-proc) [list +$folder] \
+ 		    -width $ftoc(scanWidth) > [list $cacheFile]
 @@ -273,12 +273,12 @@ proc Scan_CacheUpdate {} {
-                 Exmh_Status "failed to rescan folder $folder: $err" warn
+                 Exmh_Status failed to rescan folder $folder: $err warn
              }
          }
 -	Ftoc_Change $curLine	;# Restore it
@@ -383,7 +383,7 @@ diff -u -b -B -w -p -r1.21 scan.tcl
  	set cacheIO [open $cacheFile w]
 -	set curLine [Ftoc_ClearCurrent]			;# Clear +
 +	Ftoc_ClearCurrent $ftoc(curLine)        ;# Clear +
- 	set display [$exwin(ftext) get 1.0 "end -1 char"]
+ 	set display [$exwin(ftext) get 1.0 end -1 char]
 -	Ftoc_Change $curLine	;# Restore it
 +	Ftoc_Change $ftoc(curline)              ;# Restore it
  	puts $cacheIO $display nonewline

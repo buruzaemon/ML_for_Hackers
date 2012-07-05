@@ -52,7 +52,7 @@ Hi,
 how about applying this to the default apt.conf shipped with the
 freshrpms.net apt package?  I found it a bit weird when the behaviour
 changed between the old 0.3.x and the new 0.5.x versions so that when
-doing a "apt-get upgrade", it wouldn't tell me *which* packages were to
+doing a apt-get upgrade, it wouldn't tell me *which* packages were to
 be upgraded, just that it was about to upgrade something...
 
 --- apt.conf	2002-09-27 14:58:28.000000000 +0300
@@ -60,8 +60,8 @@ be upgraded, just that it was about to upgrade something...
 @@ -4,6 +4,7 @@
    Get 
    {
-      Download-Only "false";
-+     Show-Upgraded "true";
+      Download-Only false;
++     Show-Upgraded true;
    };
    
  };

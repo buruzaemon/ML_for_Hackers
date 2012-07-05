@@ -21,8 +21,8 @@ Received: from unknown (HELO maya.dyndns.org) (207.61.5.143) by
     smtp1.superb.net with SMTP; 21 Sep 2002 14:32:21 -0000
 Received: by maya.dyndns.org (Postfix, from userid 501) id 9679B1C2C4;
     Sat, 21 Sep 2002 10:32:14 -0400 (EDT)
-To: "R. A. Hettinga" <rah@shipwright.com>
-Cc: "Mr. FoRK" <fork_list@hotmail.com>, <fork@spamassassin.taint.org>
+To: R. A. Hettinga <rah@shipwright.com>
+Cc: Mr. FoRK <fork_list@hotmail.com>, <fork@spamassassin.taint.org>
 Subject: Re: sed /s/United States/Roman Empire/g
 References: <979BE8FE-CCF6-11D6-817E-000393A46DEA@alumni.caltech.edu>
     <DAV72xvjPkQTGpaoG1V00000fd0@hotmail.com>
@@ -49,11 +49,11 @@ List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
 List-Archive: <http://xent.com/pipermail/fork/>
 Date: 21 Sep 2002 10:32:14 -0400
 
->>>>> "R" == R A Hettinga <rah@shipwright.com> writes:
+>>>>> R == R A Hettinga <rah@shipwright.com> writes:
 
     R> At 9:34 PM -0700 on 9/20/02, Mr. FoRK wrote:
-    >> "Free trade and free markets have proven their ability to lift
-    >> whole societies out of poverty" I'm not a
+    >> Free trade and free markets have proven their ability to lift
+    >> whole societies out of poverty I'm not a
     >> socio-political/history buff - does anybody have some clear
     >> examples?
 
@@ -68,6 +68,6 @@ idea that the wealth gap is widening and deepening...
 -- 
 Gary Lawrence Murphy - garym@teledyn.com - TeleDynamics Communications
  - blog: http://www.auracom.com/~teledyn - biz: http://teledyn.com/ -
-  "Computers are useless. They can only give you answers." (Picasso)
+  Computers are useless. They can only give you answers. (Picasso)
 
 

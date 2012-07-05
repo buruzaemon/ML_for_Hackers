@@ -7,7 +7,7 @@ In-Reply-To: <200209070351.g873pC613144@pcp02138704pcs.reston01.va.comcast.net>
 Message-ID: <LNBBLJKPBEHFEDALKOLCCEPOBCAB.tim.one@comcast.net>
 
 [Guido]
-> There seem to be two "drivers" for the classifier now: Neale Pickett's
+> There seem to be two drivers for the classifier now: Neale Pickett's
 > hammie.py, and the original GBayes.py.  According to the README.txt,
 > GBayes.py hasn't been kept up to date.
 
@@ -30,7 +30,7 @@ That's been done now, right?
 
 Those tokenizers are truly trivial to rewrite from scratch if they're
 interesting.  The tiny spam/ham collections in GBayes are also worthless
-now.  The "self test" feature didn't do anything except print its results;
+now.  The self test feature didn't do anything except print its results;
 Tester.py since became doctest'ed and verifies that some basic machinery
 actually delivers what it's supposed to deliver.
 

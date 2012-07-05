@@ -61,7 +61,7 @@ On Tue, Oct 08, 2002 at 04:36:13PM +0200, Matthias Saou wrote:
 > 1) I've had to install a Red Hat Linux 6.2 server because of an old
 > proprietary IVR software that doesn't work on newer releases :-( So
 > I've recompiled both the latest apt and openssh packages for it, and
-> they are now available with a complete "os, updates & freshrpms" apt
+> they are now available with a complete os, updates & freshrpms apt
 > repository at apt.freshrpms.net, for those who might be interested.
 
 Oh, neat.

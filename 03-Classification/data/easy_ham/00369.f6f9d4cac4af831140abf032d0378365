@@ -17,9 +17,9 @@ Received: from mithral.com (watcher.mithral.com [204.153.244.1]) by
     xent.com (Postfix) with SMTP id BF835294099 for <fork@xent.com>;
     Sun,  1 Sep 2002 16:57:08 -0700 (PDT)
 Received: (qmail 2826 invoked by uid 1111); 1 Sep 2002 23:59:24 -0000
-From: "Adam L. Beberg" <beberg@mithral.com>
+From: Adam L. Beberg <beberg@mithral.com>
 To: Bill Stoddard <bill@wstoddard.com>
-Cc: "Fork@Xent.Com" <fork@spamassassin.taint.org>
+Cc: Fork@Xent.Com <fork@spamassassin.taint.org>
 Subject: RE: Gasp!
 In-Reply-To: <JHEPKCEMGPKFFDHHDDKDIEKAFDAA.bill@wstoddard.com>
 Message-Id: <Pine.LNX.4.33.0209011641450.2749-100000@watcher.mithral.com>
@@ -42,9 +42,9 @@ Date: Sun, 1 Sep 2002 16:59:24 -0700 (PDT)
 On Sun, 1 Sep 2002, Bill Stoddard wrote:
 
 > >
-> > "Red Hat Linux Advanced Server provides many high end features such as:
+> > Red Hat Linux Advanced Server provides many high end features such as:
 > > Support for Asynchronous I/O. Now read I/O no longer needs to stall your
-> > application while waiting for completion."
+> > application while waiting for completion.
 >
 > Can you provide a reference?  I could find it myself but I'm too lazy.
 
@@ -70,12 +70,12 @@ definately blow the doors off the UNIX one, but then they had select to
 point at in it's suckiness and anything would have been an improvement. UNIX
 is just now looking at it's I/O model and adapting to a multiprocess
 multithreaded world so it's gonna be years yet before a posix API comes out
-of it. Bottom line is the "do stuff when something happens" model turned out
-to be right, and the UNIX "look for something to do and keep looking till
-you find it no matter how many times you have to look" is not really working
+of it. Bottom line is the do stuff when something happens model turned out
+to be right, and the UNIX look for something to do and keep looking till
+you find it no matter how many times you have to look is not really working
 so great anymore.
 
-- Adam L. "Duncan" Beberg
+- Adam L. Duncan Beberg
   http://www.mithral.com/~beberg/
   beberg@mithral.com
 

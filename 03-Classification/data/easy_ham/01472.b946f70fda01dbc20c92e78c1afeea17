@@ -21,8 +21,8 @@ Received: from [209.176.10.157] (helo=linux.eopenex.com) by
 Received: from www.mp-i.com (printer.net-nation.com [209.176.10.8]) by
     linux.eopenex.com (8.11.6/8.11.6) with ESMTP id g8DIXhU28824 for
     <spamassassin-talk@lists.sourceforge.net>; Fri, 13 Sep 2002 14:33:47 -0400
-From: "vernon" <vernon@b2unow.com>
-To: "spamassassin-talk" <spamassassin-talk@example.sourceforge.net>
+From: vernon <vernon@b2unow.com>
+To: spamassassin-talk <spamassassin-talk@example.sourceforge.net>
 Reply-To: vernon@comp-wiz.com
 Message-Id: <20020913183343.M49078@b2unow.com>
 In-Reply-To: <20020913151635.M21128@b2unow.com>

@@ -11,14 +11,14 @@ Received: from sbapp3 ([202.106.127.199]) by dogma.slashnull.org
     (8.11.6/8.11.6) with ESMTP id g8FEeQC19107 for <webmaster@efi.ie>;
     Sun, 15 Sep 2002 15:40:27 +0100
 Message-Id: <200209151440.g8FEeQC19107@dogma.slashnull.org>
-From: "peterson@easyadpost.com" <peterson@easyadpost.com>
+From: peterson@easyadpost.com <peterson@easyadpost.com>
 Subject: http://www.efi.ie/
 To: webmaster@efi.ie
 Content-Type: multipart/alternative;
-    boundary="=_NextPart_2rfkindysadvnqw3nerasdf";
+    boundary==_NextPart_2rfkindysadvnqw3nerasdf;
 MIME-Version: 1.0
-Sender: "peterson@easyadpost.com" <peterson@easyadpost.com>
-Reply-To: "peterson@easyadpost.com" <peterson@easyadpost.com>
+Sender: peterson@easyadpost.com <peterson@easyadpost.com>
+Reply-To: peterson@easyadpost.com <peterson@easyadpost.com>
 Date: Sun, 15 Sep 2002 23:46:00 +0800
 X-Priority: 3
 X-Library: Indy 8.0.25

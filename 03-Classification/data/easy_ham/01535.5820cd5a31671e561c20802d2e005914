@@ -28,13 +28,13 @@ Received: by spamassassin.taint.org (Postfix, from userid 500) id 18C6916F03;
     Mon,  7 Oct 2002 20:18:20 +0100 (IST)
 Received: from spamassassin.taint.org (localhost [127.0.0.1]) by spamassassin.taint.org (Postfix)
     with ESMTP id 152DCF7B1; Mon,  7 Oct 2002 20:18:20 +0100 (IST)
-To: "Kenneth Nerhood" <knerhood@wrallp.com>
+To: Kenneth Nerhood <knerhood@wrallp.com>
 Cc: spamassassin-talk@example.sourceforge.net
 Subject: Re: [SAtalk] Re: AWL bug in 2.42?
 In-Reply-To: Message from
-    "Kenneth Nerhood"
+    Kenneth Nerhood
     <knerhood@wrallp.com> of
-    "Mon, 07 Oct 2002 14:54:11 EDT."
+    Mon, 07 Oct 2002 14:54:11 EDT.
     <sda1a029.029@mail.wrallp.com>
 From: yyyy@spamassassin.taint.org (Justin Mason)
 X-GPG-Key-Fingerprint: 0A48 2D8B 0B52 A87D 0E8A  6ADD 4137 1B50 6E58 EF0A
@@ -74,10 +74,10 @@ Kenneth Nerhood said:
 > score.  I'm using spamc/d.
 
 That's exactly what is intended; the idea is that legit senders who
-habitually score just > 5, will eventually get out of "AWL hell" after
+habitually score just > 5, will eventually get out of AWL hell after
 6-10 messages.
 
-Note that running a single spam through "spamassassin -a -t" *will*
+Note that running a single spam through spamassassin -a -t *will*
 eventually whitelist the spammer.  but that's why the man page tells you
 not to do it ;)
 

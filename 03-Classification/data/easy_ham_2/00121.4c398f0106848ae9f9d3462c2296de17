@@ -22,7 +22,7 @@ X-Authentication-Warning: lugh.tuatha.org: Host [212.2.162.33] claimed to
     be weasel
 Received: from [159.134.228.13] (helo=there) by weasel with smtp (Exim
     3.33 #2) id 17YOzl-0005M5-00; Sat, 27 Jul 2002 11:40:22 +0100
-Content-Type: text/plain; charset="iso-8859-15"
+Content-Type: text/plain; charset=iso-8859-15
 From: Robert Synnott <r.synnott@oceanfree.net>
 To: Liam Bedford <lbedford@netnoteinc.com>, ilug@linux.ie
 Subject: Re: [ILUG] [OT] Oceanfree Dial-up Number
@@ -53,7 +53,7 @@ On Friday 26 July 2002 12:37, Liam Bedford wrote:
 > >
 > > I am trying to find the Oceanfree ISDN dialup number for Dublin.
 > > http://iiu.taint.org/ appears to be down, or at least I can't get to it,
-> > and I don't want to pay oceanfree ¤10 per second for tech support :-).
+> > and I don't want to pay oceanfree 10 per second for tech support :-).
 >
 > 01-2434321
 > username: oceanfree

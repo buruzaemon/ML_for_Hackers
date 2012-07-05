@@ -17,7 +17,7 @@ Received: from mithral.com (watcher.mithral.com [204.153.244.1]) by
     xent.com (Postfix) with SMTP id CED692941CF for <fork@xent.com>;
     Tue,  3 Sep 2002 19:22:11 -0700 (PDT)
 Received: (qmail 13312 invoked by uid 1111); 4 Sep 2002 02:24:24 -0000
-From: "Adam L. Beberg" <beberg@mithral.com>
+From: Adam L. Beberg <beberg@mithral.com>
 To: Kragen Sitaker <kragen@pobox.com>
 Cc: <fork@spamassassin.taint.org>
 Subject: Re: asynchronous I/O (was Re: Gasp!)
@@ -63,8 +63,8 @@ On Tue, 3 Sep 2002, Kragen Sitaker wrote:
 > way around. So now Linux will support this mechanism too.
 >
 > It probably doesn't need saying for anyone who's read Beberg saying
-> things like "Memory management is a non-issue for anyone that has any
-> idea at all how the hardware functions," but he's totally off-base.
+> things like Memory management is a non-issue for anyone that has any
+> idea at all how the hardware functions, but he's totally off-base.
 > People should know by now not to take anything he says seriously, but
 > apparently some don't, so I'll rebut.
 >
@@ -105,14 +105,14 @@ On Tue, 3 Sep 2002, Kragen Sitaker wrote:
 > Unix has been multiprocess since 1969, and most Unix implementations
 > have supported multithreading for a decade or more.
 >
-> > Bottom line is the "do stuff when something happens" model turned
-> > out to be right, and the UNIX "look for something to do and keep
-> > looking till you find it no matter how many times you have to look"
+> > Bottom line is the do stuff when something happens model turned
+> > out to be right, and the UNIX look for something to do and keep
+> > looking till you find it no matter how many times you have to look
 > > is not really working so great anymore.
 >
 > Linux's aio_* routines can notify the process of their completion with
-> a "signal", a feature missing in Microsoft Windows; a "signal" causes
-> the immediate execution of a "signal handler" in a process.  By
+> a signal, a feature missing in Microsoft Windows; a signal causes
+> the immediate execution of a signal handler in a process.  By
 > contrast, the Microsoft Windows mechanisms to do similar things (such
 > as completion ports) do not deliver a notification until the process
 > polls them.
@@ -131,7 +131,7 @@ On Tue, 3 Sep 2002, Kragen Sitaker wrote:
 > http://www.xent.com/pipermail/fork/2002-August/013974.html
 >
 
-- Adam L. "Duncan" Beberg
+- Adam L. Duncan Beberg
   http://www.mithral.com/~beberg/
   beberg@mithral.com
 

@@ -21,7 +21,7 @@ Received: from 159-98.nyc.dsl.access.net (159-98.nyc.dsl.access.net
     <fork@xent.com>; Thu, 22 Aug 2002 19:25:38 -0400 (EDT)
 From: Lucas Gonze <lgonze@panix.com>
 X-X-Sender: lgonze@localhost.localdomain
-Cc: "Fork@Xent.Com" <fork@spamassassin.taint.org>
+Cc: Fork@Xent.Com <fork@spamassassin.taint.org>
 Subject: Re: The case for spam
 In-Reply-To: <3D6556DC.5070408@permafrost.net>
 Message-Id: <Pine.LNX.4.44.0208221910560.17440-100000@localhost.localdomain>

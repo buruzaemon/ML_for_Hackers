@@ -51,17 +51,17 @@ http://ie.suberic.net/css/style.css:
 
 http://ie.suberic.net/css/style-windows.css:
     body {
-	background-image : url("http://ie.suberic.net/images/use.linux.gif");
+	background-image : url(http://ie.suberic.net/images/use.linux.gif);
 	background-repeat: repeat;
     }
 
 then i include the css in an html page like so:
-    <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+    <!DOCTYPE HTML PUBLIC -//W3C//DTD HTML 3.2 Final//EN>
     <html>
     <head>
-    <link rel="stylesheet" href="/css/style.css">
+    <link rel=stylesheet href=/css/style.css>
     <title>blah</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-15">
+    <meta http-equiv=Content-Type content=text/html; charset=iso-8859-15>
     </head>
 
 now i use mod_rewrite to rewrite requests for /css/style.css to
@@ -69,13 +69,13 @@ now i use mod_rewrite to rewrite requests for /css/style.css to
 in httpd.conf:
 
     RewriteEngine   on
-    #RewriteLog     "/tmp/foo.log"  # use this for debugging
+    #RewriteLog     /tmp/foo.log  # use this for debugging
     #RewriteLogLevel        3
     RewriteCond     %{HTTP_USER_AGENT}      Windows
     RewriteRule     ^/css/style\.css$       /css/style-windows.css
 
 oh, and of course images/use.linux.gif is an animated gif that is
-transparent for 55 seconds and then displays "use linux!" in a large
+transparent for 55 seconds and then displays use linux! in a large
 blue font for 5 seconds.  :)
 
 and the way to create animated gifs is to put each frame in a layer in

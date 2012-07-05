@@ -26,8 +26,8 @@ Received: from nebukadnezar.msquadrat.de ([62.226.214.36]) by
 Received: from otherland (otherland.msquadrat.de [10.10.10.10]) by
     nebukadnezar.msquadrat.de (Postfix on SuSE Linux 7.3 (i386)) with ESMTP id
     357113FC; Wed, 24 Jul 2002 01:39:46 +0200 (CEST)
-Content-Type: text/plain; charset="iso-8859-1"
-From: "Malte S. Stretz" <msquadrat.nospamplease@gmx.net>
+Content-Type: text/plain; charset=iso-8859-1
+From: Malte S. Stretz <msquadrat.nospamplease@gmx.net>
 To: SpamAssassin Talk ML <spamassassin-talk@example.sourceforge.net>
 User-Agent: KMail/1.4.2
 References: <3D3DDEE7.2A07C357@cnc.bc.ca> <20020723231313.GB14564@kluge.net>
@@ -61,11 +61,11 @@ On Wednesday 24 July 2002 01:13 CET Theo Van Dinter wrote:
 > > I should not upgrad to the 2.40 at this time?
 >
 > Unless you feel like doing some development, the answer is: it's not
-> released and is considered "use at your own risk".   :)
+> released and is considered use at your own risk.   :)
 
 And maybe because there isn't an official 2.40 yet. It's 2.40-cvs and 
-changes from day to day. Or, to cite the page [1]: "these are built nightly 
-from CVS. They may be unstable!". One and a half good reason :o)
+changes from day to day. Or, to cite the page [1]: these are built nightly 
+from CVS. They may be unstable!. One and a half good reason :o)
 
 Malte
 

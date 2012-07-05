@@ -20,7 +20,7 @@ Subject: Re: [SAdev] testing with less rules
 References: <20020913211335.564DD16F03@spamassassin.taint.org>
 From: Daniel Quinlan <quinlan@pathname.com>
 Date: 14 Sep 2002 14:41:34 -0700
-In-Reply-To: yyyy@spamassassin.taint.org's message of "Fri, 13 Sep 2002 22:13:30 +0100"
+In-Reply-To: yyyy@spamassassin.taint.org's message of Fri, 13 Sep 2002 22:13:30 +0100
 Message-Id: <yf2k7los0z5.fsf@proton.pathname.com>
 X-Mailer: Gnus v5.7/Emacs 20.7
 
@@ -34,7 +34,7 @@ jm@jmason.org (Justin Mason) writes:
 >>>   SPAM_PHRASE_05_08
 
 > I was thinking of just removing those particular rules, but keeping the
-> other entries in the range, since they're proving too "noisy" to be
+> other entries in the range, since they're proving too noisy to be
 > effective.  But I'd be willing to keep those ones in, all the same.  What
 > do you think?  Matt/Craig, thoughts?
 

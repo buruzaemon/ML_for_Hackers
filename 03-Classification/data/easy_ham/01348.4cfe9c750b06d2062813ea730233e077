@@ -25,7 +25,7 @@ Received: from dragonball.ucr.edu ([138.23.89.42]) (SquirrelMail
     28 Aug 2002 11:29:27 -0700 (PDT)
 Message-Id: <36033.138.23.89.42.1030559367.squirrel@library.ucr.edu>
 Subject: Re: [SAtalk] Too funny
-From: "Tanniel Simonian" <simonian@library.ucr.edu>
+From: Tanniel Simonian <simonian@library.ucr.edu>
 To: <spamassassin-talk@example.sourceforge.net>
 In-Reply-To: <5.1.0.14.0.20020828133216.00b48160@192.168.50.2>
 References: <000801c24ea1$8a8023f0$af672e04@winxp>
@@ -76,7 +76,7 @@ Matt Kettler said:
 >
 > Strangely, no I wasn't aware that Christmas was 5 months away. Here in
 > the  US Christmas is a bit less than 4 months away. Where exactly is
-> the  "international month line" anyway? I've never seen the -74400
+> the  international month line anyway? I've never seen the -74400
 > timezone  before, but I bet it qualifies as INVALID_DATE_TZ_ABSURD :)
 >
 >

@@ -21,8 +21,8 @@ Received: from nebukadnezar.msquadrat.de ([62.226.214.7]) by
 Received: from otherland (otherland.msquadrat.de [10.10.10.10]) by
     nebukadnezar.msquadrat.de (Postfix on SuSE Linux 7.3 (i386)) with ESMTP id
     E8034413E; Mon, 22 Jul 2002 09:28:07 +0200 (CEST)
-Content-Type: text/plain; charset="iso-8859-1"
-From: "Malte S. Stretz" <msquadrat.nospamplease@gmx.net>
+Content-Type: text/plain; charset=iso-8859-1
+From: Malte S. Stretz <msquadrat.nospamplease@gmx.net>
 To: SpamAssassin Talk ML <spamassassin-talk@example.sourceforge.net>
 Subject: Re: [SAtalk] http://www.spamassassin.org
 Date: Mon, 22 Jul 2002 09:30:41 +0200

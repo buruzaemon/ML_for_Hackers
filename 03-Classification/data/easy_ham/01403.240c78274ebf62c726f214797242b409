@@ -21,7 +21,7 @@ Received: from eclectic.kluge.net ([66.92.69.221]) by
 Received: (from felicity@localhost) by eclectic.kluge.net (8.11.6/8.11.6)
     id g7NJA2g29392; Fri, 23 Aug 2002 15:10:02 -0400
 From: Theo Van Dinter <felicity@kluge.net>
-To: "Rose, Bobby" <brose@med.wayne.edu>
+To: Rose, Bobby <brose@med.wayne.edu>
 Cc: Julian Bond <julian_bond@voidstar.com>,
 	razor-users@lists.sourceforge.net
 Subject: Re: [Razor-users] Razor with sendmail
@@ -29,8 +29,8 @@ Message-Id: <20020823191002.GK12303@kluge.net>
 References: <D79A56AD131896448D0860DEE07CBE1F3BABEC@med-core07.med.wayne.edu>
 MIME-Version: 1.0
 Content-Type: multipart/signed; micalg=pgp-sha1;
-    protocol="application/pgp-signature";
-    boundary="hdW7zL/qDS6RXdAL"
+    protocol=application/pgp-signature;
+    boundary=hdW7zL/qDS6RXdAL
 Content-Disposition: inline
 In-Reply-To: <D79A56AD131896448D0860DEE07CBE1F3BABEC@med-core07.med.wayne.edu>
 User-Agent: Mutt/1.4i
@@ -79,9 +79,9 @@ then it's not built-in. :)
 
 --=20
 Randomly Generated Tagline:
-"M: Can anyone tell us the lesson that has been learned here?
+M: Can anyone tell us the lesson that has been learned here?
   S: Yes Master, not a single one of us could defeat you.
-  M: You gain wisdom child ... "            - The Frantics
+  M: You gain wisdom child ...             - The Frantics
 
 --hdW7zL/qDS6RXdAL
 Content-Type: application/pgp-signature

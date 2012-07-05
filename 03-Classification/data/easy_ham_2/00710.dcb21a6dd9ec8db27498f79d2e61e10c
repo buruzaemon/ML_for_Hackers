@@ -24,7 +24,7 @@ Received: from localhost (eugen@localhost) by hydrogen.leitl.org
     +0200
 X-Authentication-Warning: hydrogen.leitl.org: eugen owned process doing -bs
 From: Eugen Leitl <eugen@leitl.org>
-To: "Joseph S. Barrera III" <joe@barrera.org>
+To: Joseph S. Barrera III <joe@barrera.org>
 Cc: Lucas Gonze <lgonze@panix.com>, FoRK <fork@spamassassin.taint.org>
 Subject: Re: spam maps
 In-Reply-To: <3D3D8D09.1040107@barrera.org>

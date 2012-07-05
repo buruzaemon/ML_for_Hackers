@@ -25,11 +25,11 @@ Received: from pc537.as1.galway1.eircom.net (HELO ciaran) (159.134.146.25)
     by mail05.svc.cra.dublin.eircom.net (qp 16061) with SMTP; 19 Aug 2002
     10:17:08 -0000
 Message-Id: <006701c2476a$64297820$ac0305c0@ciaran>
-From: "Ciaran Mac Lochlainn" <ciaran17@eircom.net>
-To: "Linux Socials" <social@linux.ie>
+From: Ciaran Mac Lochlainn <ciaran17@eircom.net>
+To: Linux Socials <social@linux.ie>
 Date: Mon, 19 Aug 2002 11:22:58 +0100
 MIME-Version: 1.0
-Content-Type: text/plain; charset="utf-8"
+Content-Type: text/plain; charset=utf-8
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal
@@ -45,8 +45,8 @@ X-Beenthere: social@linux.ie
 
 Interesting take...
 
-"But the more I think about it, the more you I realize that having
-governments specify software licensing policies is a bad idea."
+But the more I think about it, the more you I realize that having
+governments specify software licensing policies is a bad idea.
 
 http://www.oreillynet.com/pub/wlg/1840
 

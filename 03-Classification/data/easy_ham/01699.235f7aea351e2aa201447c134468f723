@@ -9,13 +9,13 @@ References: <15737.31513.555967.915801@12-248-11-90.client.attbi.com>
 Message-ID: <15737.37379.699338.64767@12-248-11-90.client.attbi.com>
 
 
-    >> ... choose something with a different prefix than "X-Spam-" so that
+    >> ... choose something with a different prefix than X-Spam- so that
     >> people don't confuse it with SpamAssassin ...
 
     Neale> How about X-Spambayes-Disposition (or X-Hammie-Disposition if
     Neale> there'll be other classifier front-ends)?
 
-I kinda like "hammie".  Your front end was there first, so I suspect it will
+I kinda like hammie.  Your front end was there first, so I suspect it will
 rule the front end roost.
 
 S

@@ -19,12 +19,12 @@ Received: from cats.ucsc.edu (cats-mx1.ucsc.edu [128.114.129.36]) by
 Received: from Tycho (dhcp-63-177.cse.ucsc.edu [128.114.63.177]) by
     cats.ucsc.edu (8.10.1/8.10.1) with SMTP id g6O1CK823619; Tue,
     23 Jul 2002 18:12:20 -0700 (PDT)
-From: "Jim Whitehead" <ejw@cse.ucsc.edu>
-To: "Owen Byrne" <owen@permafrost.net>, <FoRK@xent.com>
+From: Jim Whitehead <ejw@cse.ucsc.edu>
+To: Owen Byrne <owen@permafrost.net>, <FoRK@xent.com>
 Subject: RE: [NYT] Real Source
 Message-Id: <AMEPKEBLDJJCCDEJHAMIEENJFCAA.ejw@cse.ucsc.edu>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal
@@ -62,7 +62,7 @@ http://mpeg4ip.sourceforge.net/index.php
 MPEG4IP: Open Source, Open Standards, Open Streaming
 
 MPEG4IP provides an end-to-end system to explore MPEG-4 multimedia. The
-package includes many existing open source packages and the "glue" to
+package includes many existing open source packages and the glue to
 integrate them together. This is a tool for streaming video and audio that
 is standards-oriented and free from proprietary protocols and extensions.
 

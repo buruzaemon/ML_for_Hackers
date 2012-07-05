@@ -36,16 +36,16 @@ In-Reply-To: <20020903192326.C9DA533986@LINPDC.eclipsys.qc.ca>
 References: <20020829204345.91D1833986@LINPDC.eclipsys.qc.ca>
     <15733.3398.363187.572002@cerise.nosuchdomain.co.uk>
     <20020903192326.C9DA533986@LINPDC.eclipsys.qc.ca>
-X-Mailer: VM 6.94 under 21.4 (patch 9) "Informed Management (RC2)" XEmacs
+X-Mailer: VM 6.94 under 21.4 (patch 9) Informed Management (RC2) XEmacs
     Lucid
 
 
 Yannick Gingras wrote:
 
-> > What do you mean by "CD-Key or the like" (I presume that "of" was a
-> > typo)? And what do you mean by "unbreakable"?
+> > What do you mean by CD-Key or the like (I presume that of was a
+> > typo)? And what do you mean by unbreakable?
 > 
-> "of" was a typo
+> of was a typo
 > 
 > Unbreakable would mean here that no one, even previously authorised entity, 
 > could use the system without paying the periodic subscription fee.
@@ -60,7 +60,7 @@ Yannick Gingras wrote:
 > Nothing is fixed yet, we are looking at the way a software can be protected 
 > from unauthorized utilisation.  
 > 
-> Is the use of "trusted hardware" really worth it ?
+> Is the use of trusted hardware really worth it ?
 
 Answering that requires fairly complete knowledge of the business
 model. But, in all probability: no, it isn't usually worth it. So, it

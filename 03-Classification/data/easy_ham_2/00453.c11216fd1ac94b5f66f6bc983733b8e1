@@ -23,7 +23,7 @@ Received: from barge.dsg.cs.tcd.ie (barge.dsg.cs.tcd.ie [134.226.36.68])
 Received: (from david@localhost) by barge.dsg.cs.tcd.ie (8.11.2/8.11.2) id
     g7JBUiA02765 for ilug@linux.ie; Mon, 19 Aug 2002 12:30:44 +0100
 Date: Mon, 19 Aug 2002 12:30:44 +0100
-From: "David O'Callaghan" <ocalladw@tcd.ie>
+From: David O'Callaghan <ocalladw@tcd.ie>
 To: ilug@linux.ie
 Subject: Re: [ILUG] staroffice 6.0 installation freezes under RH7.3
 Message-Id: <20020819123044.B2013@barge.tcd.ie>

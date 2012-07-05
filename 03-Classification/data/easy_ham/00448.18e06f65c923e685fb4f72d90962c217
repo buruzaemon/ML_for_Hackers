@@ -42,12 +42,12 @@ Adam Beberg writes:
 > > ago, and Solaris has had the particular aio_* calls we are discussing
 > > for many years.
 > 
-> select() "scaling" is a joke at best, and I know you know that. poll() is
+> select() scaling is a joke at best, and I know you know that. poll() is
 > only a bit better.
 
 Not only do I know that, the post to which you were responding
-explained that, with somewhat more detail than "a joke".  As you
-should know, but evidently don't, poll() isn't even "a bit better" ---
+explained that, with somewhat more detail than a joke.  As you
+should know, but evidently don't, poll() isn't even a bit better ---
 in fact, it's about an order of magnitude worse --- for dense file
 descriptor sets, which is the normal case.  (Except on operating
 systems where select() isn't a system call but a library routine that
@@ -83,7 +83,7 @@ to tell me you were trying to make a different point, because I don't
 care --- is that you had no clue what you were talking about; Unix
 hasn't been without this feature, and in fact has had it since you
 were in elementary school, and operating systems without it don't
-"totally suck for nontrivial apps".
+totally suck for nontrivial apps.
 
 For what it's worth, glibc has actually implemented the aio_* calls
 for a while, just in a way that doesn't scale to large numbers of

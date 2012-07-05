@@ -53,12 +53,12 @@ On Thu, 2002-08-01 at 11:51, Matthias Saou wrote:
 
 > Sorry, this hasn't got much to do with rpm packages directly ;-)
 > 
-> My "builds" page is getting bigger and bigger, and quite messy as
+> My builds page is getting bigger and bigger, and quite messy as
 > directories are listed in no particular order :
 > http://freshrpms.net/builds/
 > 
 > What I'd need is to have last modification date of the directory displayed
-> next to the directory name (sort of like "mplayer - Thu Aug 1 2002"), and
+> next to the directory name (sort of like mplayer - Thu Aug 1 2002), and
 > the list ordered to have the most recent entries at the top.
 
 Take a look at

@@ -47,7 +47,7 @@ List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
 List-Archive: <http://xent.com/pipermail/fork/>
 Date: 28 Aug 2002 15:06:39 -0400
 
->>>>> "R" == Robert Harley <harley@argote.ch> writes:
+>>>>> R == Robert Harley <harley@argote.ch> writes:
 
     R> GLM wrote:
     >> And a Java program, due to the extensive class libraries, will
@@ -107,13 +107,13 @@ social infrastructure for either happening during my professional
 lifetime.
 
     R> Why do so many people outside of Sun's marketing department
-    R> consider Java to be "Write Once, Debug Everywhere" ?
+    R> consider Java to be Write Once, Debug Everywhere ?
 
-A collegue at Cognos (Henk?) called C "the nearly-portable assembler"
+A collegue at Cognos (Henk?) called C the nearly-portable assembler
 
 -- 
 Gary Lawrence Murphy <garym@teledyn.com> TeleDynamics Communications Inc
  Business Advantage through Community Software : http://www.teledyn.com
-"Computers are useless.  They can only give you answers."(Pablo Picasso)
+Computers are useless.  They can only give you answers.(Pablo Picasso)
 
 

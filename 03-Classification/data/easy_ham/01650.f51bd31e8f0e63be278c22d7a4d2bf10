@@ -3,7 +3,7 @@ Delivery-Date: Fri Sep  6 16:06:26 2002
 From: guido@python.org (Guido van Rossum)
 Date: Fri, 06 Sep 2002 11:06:26 -0400
 Subject: [Spambayes] Deployment
-In-Reply-To: Your message of "Fri, 06 Sep 2002 10:01:51 CDT."
+In-Reply-To: Your message of Fri, 06 Sep 2002 10:01:51 CDT.
              <15736.50015.881231.510395@12-248-11-90.client.attbi.com> 
 References: <200209061431.g86EVM114413@pcp02138704pcs.reston01.va.comcast.net>
 	<15736.50015.881231.510395@12-248-11-90.client.attbi.com> 
@@ -26,9 +26,9 @@ Message-ID: <200209061506.g86F6Qo14777@pcp02138704pcs.reston01.va.comcast.net>
 >     * ^X-Spam-Status: Yes
 >     $SPAM
 > 
-> Which just says, "Run spamassassin -P reinjecting its output into the
+> Which just says, Run spamassassin -P reinjecting its output into the
 > processing stream.  If the resulting mail has a header which begins
-> "X-Spam-Status: Yes", toss it into the folder indicated by the variable
+> X-Spam-Status: Yes, toss it into the folder indicated by the variable
 > $SPAM.
 > 
 > SpamAssassin also adds other headers as well, which give you more detail

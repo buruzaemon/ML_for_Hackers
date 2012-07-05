@@ -38,7 +38,7 @@ Received: from phobos (localhost [127.0.0.1]) by
 To: exmh-users@spamassassin.taint.org
 Subject: Re: integrating a couple spamassassin actions into the More... menu
 In-Reply-To: Message from Harlan Feinstein <harlan@feinsteins.net> of
-    "Tue, 06 Aug 2002 09:29:06 EDT."
+    Tue, 06 Aug 2002 09:29:06 EDT.
     <20020806132911.580676F972@washington.bellatlantic.net>
 From: yyyy@spamassassin.taint.org (Justin Mason)
 X-GPG-Key-Fingerprint: 0A48 2D8B 0B52 A87D 0E8A  6ADD 4137 1B50 6E58 EF0A

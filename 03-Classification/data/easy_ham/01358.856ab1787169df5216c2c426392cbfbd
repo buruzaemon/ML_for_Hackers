@@ -29,8 +29,8 @@ Mail-Followup-To: SpamAssassin-devel@example.sourceforge.net
 References: <20020828184218.399CE43F99@phobos.labs.netnoteinc.com>
 MIME-Version: 1.0
 Content-Type: multipart/signed; micalg=pgp-sha1;
-    protocol="application/pgp-signature";
-    boundary="k3qmt+ucFURmlhDS"
+    protocol=application/pgp-signature;
+    boundary=k3qmt+ucFURmlhDS
 Content-Disposition: inline
 In-Reply-To: <20020828184218.399CE43F99@phobos.labs.netnoteinc.com>
 User-Agent: Mutt/1.3.28i

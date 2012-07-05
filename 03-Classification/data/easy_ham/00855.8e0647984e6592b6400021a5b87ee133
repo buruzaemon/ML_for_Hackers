@@ -23,9 +23,9 @@ MIME-Version: 1.0
 X-Sender: rahettinga@pop.earthlink.net
 Message-Id: <p05111a10b9c0b4fbbb2d@[66.149.49.6]>
 To: Digital Bearer Settlement List <dbs@philodox.com>, fork@spamassassin.taint.org
-From: "R. A. Hettinga" <rah@shipwright.com>
+From: R. A. Hettinga <rah@shipwright.com>
 Subject: Re: Optical analog computing?
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Sender: fork-admin@xent.com
 Errors-To: fork-admin@xent.com
 X-Beenthere: fork@spamassassin.taint.org
@@ -45,19 +45,19 @@ Date: Wed, 2 Oct 2002 10:37:02 -0400
 
 
 Date: Wed, 02 Oct 2002 01:30:24 -0400
-From: "John S. Denker" <jsd@monmouth.com>
+From: John S. Denker <jsd@monmouth.com>
 Subject: Re: Optical analog computing?
 Sender: jsd@no.domain.spam
-To: "R. A. Hettinga" <rah@shipwright.com>
+To: R. A. Hettinga <rah@shipwright.com>
 Cc: Digital Bearer Settlement List <dbs@philodox.com>,
  cryptography@wasabisystems.com
 
-"R. A. Hettinga" wrote:
+R. A. Hettinga wrote:
 ...
-> "the first computer to crack enigma was optical"
-> "the first synthetic-aperture-radar processor was optical"
-> "but all these early successes were classified -- 100 to 200 projects,
-> and I probably know of less than half."
+> the first computer to crack enigma was optical
+> the first synthetic-aperture-radar processor was optical
+> but all these early successes were classified -- 100 to 200 projects,
+> and I probably know of less than half.
 >
 > --> Do these claims compute?! is this really a secret history, or does
 > this mean holography, of am I just completely out of the loop?1
@@ -97,10 +97,10 @@ Some things that are hard with wires are easy with
 light-waves.  But most things that are easy with wires
 are hard with light-waves.
 
-> Here's a commercialized effort from israel: a "space integrating
-> vector-matric multiplier"  [ A ] B = [ C ]
+> Here's a commercialized effort from israel: a space integrating
+> vector-matric multiplier  [ A ] B = [ C ]
 > laser-> 512-gate modulator -> spread over 2D
-> "256 Teraflop equivalent" for one multiply per nanosecond.
+> 256 Teraflop equivalent for one multiply per nanosecond.
 
 People were doing smaller versions of that in
 the 1980s.
@@ -109,7 +109,7 @@ the 1980s.
 > (for 12 watts!) doing continuous FFTs.  Launched in 1998 on a 2-year
 > mission. Submillimeter wave observatory.
 
-Not "FFTs".  FTs.  Fourier Transforms.  All you need for
+Not FFTs.  FTs.  Fourier Transforms.  All you need for
 taking a D=2 Fourier Transform is a lens.  It's undergrad
 physics-lab stuff.  I get 6,000 hits from:
   http://www.google.com/search?q=fourier-optics
@@ -133,8 +133,8 @@ interactions.
 R. A. Hettinga <mailto: rah@ibuc.com>
 The Internet Bearer Underwriting Corporation <http://www.ibuc.com/>
 44 Farquhar Street, Boston, MA 02131 USA
-"... however it may deserve respect for its usefulness and antiquity,
+... however it may deserve respect for its usefulness and antiquity,
 [predicting the end of the world] has not been found agreeable to
-experience." -- Edward Gibbon, 'Decline and Fall of the Roman Empire'
+experience. -- Edward Gibbon, 'Decline and Fall of the Roman Empire'
 
 

@@ -21,7 +21,7 @@ Received: from gina ([200.67.156.243]) by apk01fe2.mail1.triara.com with
     18:20:25 -0500
 From: Quality Training de =?ISO-8859-1?Q?M=E9xico?= <villahermosa@rebackee.com>
 Subject: [MLB-WIRELESS] CONTRALORIA Y GERENCIA ADMINISTRATIVA
-To: "Lista de destinatarios oculta" <villahermosa@rebackee.com>
+To: Lista de destinatarios oculta <villahermosa@rebackee.com>
 MIME-Version: 1.0
 Reply-To: villahermosa@rebackee.com
 Date: Thu, 18 Jul 2002 18:16:04 -0500
@@ -30,21 +30,21 @@ X-Library: Indy 8.0.22
 Message-Id: <20020718232025.OPGB1025.apk01fe2@gina>
 Sender: owner-melbwireless@wireless.org.au
 Precedence: bulk
-Content-Type: multipart/alternative; boundary="=_NextPart_2rfkindysadvnqw3nerasdf";
+Content-Type: multipart/alternative; boundary==_NextPart_2rfkindysadvnqw3nerasdf;
 
 This is a multi-part message in MIME format
 
 --=_NextPart_2rfkindysadvnqw3nerasdf
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: quoted-printable
 
 http://www.rebackee.com/cursos2/contraloria.htm
 
 --=_NextPart_2rfkindysadvnqw3nerasdf
-Content-Type: text/html; charset="iso-8859-1"
+Content-Type: text/html; charset=iso-8859-1
 Content-Transfer-Encoding: quoted-printable
-Content-Base: "http://www.rebackee.com/cursos2/"
-Content-Location: "http://www.rebackee.com/cursos2/"
+Content-Base: http://www.rebackee.com/cursos2/
+Content-Location: http://www.rebackee.com/cursos2/
 
 <html>
 <head><BASE HREF=3D=22http://www.rebackee.com/cursos2/=22>
@@ -157,6 +157,6 @@ Content-Location: "http://www.rebackee.com/cursos2/"
 --=_NextPart_2rfkindysadvnqw3nerasdf--
 
 To unsubscribe: send mail to majordomo@wireless.org.au
-with "unsubscribe melbwireless" in the body of the message
+with unsubscribe melbwireless in the body of the message
 
 

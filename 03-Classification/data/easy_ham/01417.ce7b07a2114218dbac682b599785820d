@@ -26,18 +26,18 @@ Okay, I believe you.
 I did that.  It's still really slow when you have thousands of messages.
 
 > In each of the last two loops, the total # of ham and total # of spam in the
-> "learned" set is invariant across loop trips, and you *could* break into the
+> learned set is invariant across loop trips, and you *could* break into the
 > abstraction to exploit that:  the only probabilities that actually change
 > across those loop trips are those associated with the words in msg.  Then
 > the runtime for each trip would be proportional to the # of words in the msg
 > rather than the number of words in the database.
 
-I hadn't tried that.  I figured it was better to find out if "all but
-one" testing had any appreciable value.  It looks like it doesn't so
+I hadn't tried that.  I figured it was better to find out if all but
+one testing had any appreciable value.  It looks like it doesn't so
 I'll forget about it.
 
 > Another area for potentially fruitful study:  it's clear that the
-> highest-value indicators usually appear "early" in msgs, and for spam
+> highest-value indicators usually appear early in msgs, and for spam
 > there's an actual reason for that:  advertising has to strive to get your
 > attention early.  So, for example, if we only bothered to tokenize the first
 > 90% of a msg, would results get worse?

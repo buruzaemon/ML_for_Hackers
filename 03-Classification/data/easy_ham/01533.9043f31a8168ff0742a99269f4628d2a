@@ -11,7 +11,7 @@ Cc: yyyy@spamassassin.taint.org (Justin Mason),
 	spamassassin list <spamassassin-talk@lists.sourceforge.net>
 Subject: Re: [SAtalk] razor2 auth? 
 In-Reply-To: Message from Randy Bush <randy@psg.com> 
-   of "Sat, 05 Oct 2002 09:16:29 PDT." <E17xrbR-000DpF-00@rip.psg.com> 
+   of Sat, 05 Oct 2002 09:16:29 PDT. <E17xrbR-000DpF-00@rip.psg.com> 
 From: yyyy@spamassassin.taint.org (Justin Mason)
 X-GPG-Key-Fingerprint: 0A48 2D8B 0B52 A87D 0E8A  6ADD 4137 1B50 6E58 EF0A
 X-Habeas-Swe-1: winter into spring
@@ -41,11 +41,11 @@ Randy Bush said:
 > > 
 > > using spamd?  try the -H switch. 
 > 
-> no, pipinng the message to "spamassassin -r" from within my mail
+> no, pipinng the message to spamassassin -r from within my mail
 > user agent, VM under Emacs.
 
-oops, sorry -- didn't notice the "report" bit.  Yes, you need to register
-for Razor2 -- "razor-register" or "razor-admin -register" if I recall
+oops, sorry -- didn't notice the report bit.  Yes, you need to register
+for Razor2 -- razor-register or razor-admin -register if I recall
 correctly.
 
 --j.

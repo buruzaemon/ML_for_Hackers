@@ -31,7 +31,7 @@ Received: from sri.com ([128.18.28.107]) by newmail.sri.com (Netscape
     Messaging Server 4.15) with ESMTP id H1ZO6L00.H5K; Thu, 5 Sep 2002
     16:35:09 -0700
 Message-Id: <3D77EACB.7040600@sri.com>
-From: "Michael Duff" <michael.duff@sri.com>
+From: Michael Duff <michael.duff@sri.com>
 User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.1)
     Gecko/20020826
 X-Accept-Language: en-us, en
@@ -58,13 +58,13 @@ List-Archive: <http://www.geocrawler.com/redir-sf.php3?list=razor-users>
 X-Original-Date: Thu, 05 Sep 2002 16:37:47 -0700
 Date: Thu, 05 Sep 2002 16:37:47 -0700
 
-This is due to insufficient write privileges to the "razor-agent.log" 
-file. A quick work-around is to do a "chmod go+rx" on that file (of 
+This is due to insufficient write privileges to the razor-agent.log 
+file. A quick work-around is to do a chmod go+rx on that file (of 
 course, it's better to restrict the access as much as possible).
 
 In Agent.pm, when the Razor2::Logger object is created, if it doesn't 
 have write permission to the log file it does not succeed. Then, later 
-in the code when the log object is used, it fails with the "unblessed" 
+in the code when the log object is used, it fails with the unblessed 
 error.
 
 Hope this helps,
@@ -82,7 +82,7 @@ David Rees wrote:
 >With a freshly installed SpamAssassin 2.41 and Razor 2.14 I'm seeing these
 >messages spit out from spamd:
 >
->razor2 check skipped: No such file or directory Can't call method "log" on
+>razor2 check skipped: No such file or directory Can't call method log on
 >unblessed reference at /usr/lib/perl5/site_perl/5.6.0/Razor2/Client/Agent.pm
 >line 211, <STDIN> line 75.
 >

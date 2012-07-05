@@ -23,7 +23,7 @@ Received: from localhost (sendmail-bs@127.0.0.1) by localhost with SMTP;
     14 Aug 2002 21:47:02 -0000
 From: Patrick <patrick@stealthgeeks.net>
 To: Vipul Ved Prakash <mail@vipul.net>
-Cc: "Craig R . Hughes" <craig@deersoft.com>,
+Cc: Craig R . Hughes <craig@deersoft.com>,
 	<razor-users@lists.sourceforge.net>
 Subject: Re: [Razor-users] Re: What's wrong with the Razor servers now?
 In-Reply-To: <20020812203326.A1211@rover.vipul.net>

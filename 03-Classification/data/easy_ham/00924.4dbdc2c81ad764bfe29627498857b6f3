@@ -53,7 +53,7 @@ Suppose I created a rule that was in this form:
 
 body RULE_NAME /text to delete/d
 
-Would the "/d" delete this text from the body and mask it from the rest of the 
+Would the /d delete this text from the body and mask it from the rest of the 
 rules? If so - I'm thinking about applying it to Yahoo and SN and Juno ads so 
 that FPs are reduced.
 

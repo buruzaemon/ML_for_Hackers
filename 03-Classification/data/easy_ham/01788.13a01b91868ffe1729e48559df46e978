@@ -24,17 +24,17 @@ Message-Id: <E17q2CE-0007te-01@cpu59.osdn.com>
 use Perl Daily Newsletter
 
 In this issue:
-    * "Perl 6: Right Here, Right Now" slides ava
+    * Perl 6: Right Here, Right Now slides ava
 
 +--------------------------------------------------------------------+
-| "Perl 6: Right Here, Right Now" slides ava                         |
+| Perl 6: Right Here, Right Now slides ava                         |
 |   posted by gnat on Friday September 13, @12:01 (news)             |
 |   http://use.perl.org/article.pl?sid=02/09/13/162209               |
 +--------------------------------------------------------------------+
 
-[0]gnat writes "The wonderful Leon Brocard has released the slides from
+[0]gnat writes The wonderful Leon Brocard has released the slides from
 his lightning talk to the London perlmongers, [1]Perl 6: Right Here,
-Right Now, showing the current perl6 compiler in action."
+Right Now, showing the current perl6 compiler in action.
 
 Discuss this story at:
     http://use.perl.org/comments.pl?sid=02/09/13/162209

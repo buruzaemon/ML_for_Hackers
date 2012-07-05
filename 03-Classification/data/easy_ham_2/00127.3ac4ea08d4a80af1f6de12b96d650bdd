@@ -50,7 +50,7 @@ hyperactive archiving genes...  :)
 
 this might work better in this long run though:
 
-   set record='~/Mail/outbox-`date "+%Y-%m"`'
+   set record='~/Mail/outbox-`date +%Y-%m`'
 
 On Sat, Jul 27, 2002 at 07:08:57PM +0200, Rocco Rutte wrote:
 > Hi,
@@ -68,7 +68,7 @@ On Sat, Jul 27, 2002 at 07:08:57PM +0200, Rocco Rutte wrote:
 > 
 > What about:
 > 
->   set record='~/Mail/outbox-`date "+%m"`'
+>   set record='~/Mail/outbox-`date +%m`'
 > 
 > You could also leave it as it currently is and use the
 > <limit> function to view only mails within a specific 

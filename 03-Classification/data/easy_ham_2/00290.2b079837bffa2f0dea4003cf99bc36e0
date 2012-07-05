@@ -20,8 +20,8 @@ X-Authentication-Warning: lugh.tuatha.org: Host [213.190.156.48] claimed
 Received: by KBS01 with Internet Mail Service (5.5.2653.19) id <QK4XK2DD>;
     Thu, 8 Aug 2002 13:40:39 +0100
 Message-Id: <55DA5264CE16D41186F600D0B74D6B09247243@KBS01>
-From: "Brian O'Donoghue" <Brian.ODonoghue@kbs.ie>
-To: "'ilug@linux.ie'" <ilug@linux.ie>
+From: Brian O'Donoghue <Brian.ODonoghue@kbs.ie>
+To: 'ilug@linux.ie' <ilug@linux.ie>
 Subject: RE: [ILUG] slashdot EW Dijkstra humor
 Date: Thu, 8 Aug 2002 13:40:30 +0100
 MIME-Version: 1.0
@@ -37,7 +37,7 @@ X-Beenthere: ilug@linux.ie
 
 <snip>
 >Tracking it down showed that my
->predecessor's "add new entries to the end of its linked list" function
+>predecessor's add new entries to the end of its linked list function
 >recursively called itself with each following link until the terminating
 >one showed up. Of course it died miserably when it ran out of stack. I'm
 >sure he felt he'd done a good days work when he planted that bomb for
@@ -47,13 +47,13 @@ X-Beenthere: ilug@linux.ie
 
 One thing that really bugs me is when people say things like.
 
-"On the machies we have these days you don't have to worry about
- writing optimised code" or "don't worry about writing
- things inline, just use a function"
+On the machies we have these days you don't have to worry about
+ writing optimised code or don't worry about writing
+ things inline, just use a function
 
-"Yeah and add a procedure prolog or eight", I always counter,
+Yeah and add a procedure prolog or eight, I always counter,
 to be told
-"On the machines we have these days....."
+On the machines we have these days.....
 
 Boggle.
 

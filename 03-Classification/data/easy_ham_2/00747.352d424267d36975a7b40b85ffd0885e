@@ -33,10 +33,10 @@ Received: from medlicott.panasas.com (IDENT:welch@medlicott.panasas.com
 Message-Id: <200208010450.AAA07420@blackcomb.panasas.com>
 X-Mailer: exmh version 2.5.9 07/25/2002 with nmh-1.0.4
 To: exmh-workers@spamassassin.taint.org
-Subject: scan bug: no update after Pick's "New FTOC"
+Subject: scan bug: no update after Pick's New FTOC
 From: Brent Welch <welch@panasas.com>
 X-Url: http://www.panasas.com/
-X-Face: "HxE|?EnC9fVMV8f70H83&{fgLE.|FZ^$>@Q(yb#N,Eh~N]e&]=>
+X-Face: HxE|?EnC9fVMV8f70H83&{fgLE.|FZ^$>@Q(yb#N,Eh~N]e&]=>
     r5~UnRml1:4EglY{9B+ :'wJq$@c_C!l8@<$t,{YUr4K,QJGHSvS~U]H`<+L*x?eGzSk>XH\W:AK\j?@?c1o<k;j'Ei/UL)!*0
     ILwSR)J\bc)gjz!rrGQ2#i*f:M:ydhK}jp4dWQW?;0{,#iWrCV$4~%e/3)$1/D
 MIME-Version: 1.0
@@ -57,9 +57,9 @@ List-Unsubscribe: <https://listman.spamassassin.taint.org/mailman/listinfo/exmh-
 List-Archive: <https://listman.spamassassin.taint.org/mailman/private/exmh-workers/>
 Date: Wed, 31 Jul 2002 21:50:56 -0700
 
-If you run Pick, and then use the "New FTOC" button to show only
+If you run Pick, and then use the New FTOC button to show only
 those messages selected by pick, then the ftoc display was considered
-"invalid" in the old code.  This prevented the display from being cached,
+invalid in the old code.  This prevented the display from being cached,
 and it meant that you could get back to the full folder display by
 clicking on the folder lablel.  That doesn't work anymore.  You have
 to resort to Rescan Folder.  In fact, when you change folders you

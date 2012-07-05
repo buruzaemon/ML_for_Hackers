@@ -8,7 +8,7 @@ Message-ID: <LNBBLJKPBEHFEDALKOLCCEPKBCAB.tim.one@comcast.net>
 
 Neil trained a classifier using 3 sets with about 500 ham and spam in each.
 We're missing half his test run results due to a cmp.py bug (since fixed);
-the "before custom fiddling" figures on the 3 reported runs were:
+the before custom fiddling figures on the 3 reported runs were:
 
     false positive percentages
         0.187
@@ -22,10 +22,10 @@ the "before custom fiddling" figures on the 3 reported runs were:
         0.574
     total unique fn 43
 
-The "total unique" figures counts all 6 runs; it's just the individual-run
+The total unique figures counts all 6 runs; it's just the individual-run
 fp and fn percentages we're missing for 3 runs.
 
-Jeremy reported these "before custom fiddling" figures on 4 sets with about
+Jeremy reported these before custom fiddling figures on 4 sets with about
 600 ham and spam in each:
 
     false positive percentages

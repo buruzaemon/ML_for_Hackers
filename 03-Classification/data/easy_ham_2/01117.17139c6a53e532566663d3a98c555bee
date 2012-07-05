@@ -20,12 +20,12 @@ Received: (qmail 19500 invoked from network); 21 Aug 2002 18:30:27 -0000
 Received: from dsl.206.191.151.102.evergo.net (HELO JMHALL)
     (206.191.151.102) by mail.evergo.net with SMTP; 21 Aug 2002 18:30:27 -0000
 Reply-To: <johnhall@evergo.net>
-From: "John Hall" <johnhall@evergo.net>
+From: John Hall <johnhall@evergo.net>
 To: <fork@spamassassin.taint.org>
 Subject: RE: The Curse of India's Socialism
 Message-Id: <006b01c24940$d2aa35a0$0200a8c0@JMHALL>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="US-ASCII"
+Content-Type: text/plain; charset=US-ASCII
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal
@@ -62,7 +62,7 @@ Japan, Hong Kong, Singapore, ...
 
 > >
 > > I'm sure that if someone checked the statistics, that the number of
-> > "successful" vs. "unsuccessful" (how to define those?) Indian
+> > successful vs. unsuccessful (how to define those?) Indian
 > > immigrants in the US is statistically similar to the number of
 > > successful vs. unsuccessful Scotsmen.  I'm not going to, though.
 > >

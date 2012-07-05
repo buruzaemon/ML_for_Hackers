@@ -35,11 +35,11 @@ To: exmh-users@spamassassin.taint.org
 Subject: Re: Folder computed replcomps (and replgroupcomps
 In-Reply-To: <23937.1027287441@dimebox>
 References: <8128.1027129899@kanga.nu> <23937.1027287441@dimebox>
-Comments: In-reply-to Hal DeVore <haldevore@acm.org> message dated "Sun,
-    21 Jul 2002 16:37:21 -0500."
+Comments: In-reply-to Hal DeVore <haldevore@acm.org> message dated Sun,
+    21 Jul 2002 16:37:21 -0500.
 From: Brent Welch <welch@panasas.com>
 X-Url: http://www.panasas.com/
-X-Face: "HxE|?EnC9fVMV8f70H83&{fgLE.|FZ^$>@Q(yb#N,Eh~N]e&]=>
+X-Face: HxE|?EnC9fVMV8f70H83&{fgLE.|FZ^$>@Q(yb#N,Eh~N]e&]=>
     r5~UnRml1:4EglY{9B+ :'wJq$@c_C!l8@<$t,{YUr4K,QJGHSvS~U]H`<+L*x?eGzSk>XH\W:AK\j?@?c1o<k;j'Ei/UL)!*0
     ILwSR)J\bc)gjz!rrGQ2#i*f:M:ydhK}jp4dWQW?;0{,#iWrCV$4~%e/3)$1/D
 MIME-Version: 1.0
@@ -68,13 +68,13 @@ or update them if needed.
 >>>Hal DeVore said:
  > 
  > 
- > >>>>> On Fri, 19 Jul 2002, "J" == J C Lawrence wrote:
+ > >>>>> On Fri, 19 Jul 2002, J == J C Lawrence wrote:
  > 
  >   J> What would be great is if I could build the relevant comp
  >   J> file dynamically at runtime.
  > 
- > Sure.  Use the "folder change" hooks.  Create a proc named
- > Hook_FolderChangeSomething (where "Something" is meaningful and 
+ > Sure.  Use the folder change hooks.  Create a proc named
+ > Hook_FolderChangeSomething (where Something is meaningful and 
  > likely to be unique in the universe just in case you distribute 
  > this to others).  Put the proc in a file in your ~/.tk/exmh 
  > directory, regenerate the tclIndex, restart exmh.

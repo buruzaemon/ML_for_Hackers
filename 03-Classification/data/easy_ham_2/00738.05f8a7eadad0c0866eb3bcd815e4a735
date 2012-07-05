@@ -38,8 +38,8 @@ Received: from dimebox (localhost [127.0.0.1]) by dimebox.bmc.com
 X-Mailer: exmh version 2.5 07/13/2001 with nmh-1.0.4
 In-Reply-To: <200207262200.SAA15582@blackcomb.panasas.com>
 References: <200207262200.SAA15582@blackcomb.panasas.com>
-Comments: In-reply-to Brent Welch <welch@panasas.com> message dated "Fri,
-    26 Jul 2002 15:00:57 -0700."
+Comments: In-reply-to Brent Welch <welch@panasas.com> message dated Fri,
+    26 Jul 2002 15:00:57 -0700.
 To: Brent Welch <welch@panasas.com>
 Cc: exmh-workers@spamassassin.taint.org
 Subject: Re: cvs access working?

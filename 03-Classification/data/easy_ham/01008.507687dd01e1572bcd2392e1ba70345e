@@ -65,7 +65,7 @@ Date: Fri, 13 Sep 2002 02:03:07 +0700
   | exmh has a funky cut/paste model that is essentially all my fault.
   | The middle click sets the insert point.  If you hate that, go to the
   | Bindings... Simple Edit preferences window and de-select
-  | "Paste Sets Insert".  
+  | Paste Sets Insert.  
 
 Unfortunately, the side effect of that solution is that it is no longer
 possible to cut/paste within one sedit window, some intermediate client
@@ -76,7 +76,7 @@ That's because the click that you have to (with this option) make to set
 the insert point, also kills the selection (it ends up reverting to the
 last selection made in some other window, or something like that).
 
-So, the vast majority of people probably want that "Paste Sets Insert"
+So, the vast majority of people probably want that Paste Sets Insert
 enabled - that one you can learn to live with, the other is much more
 painful.
 

@@ -67,7 +67,7 @@ On Mon, 7 Oct 2002, Thomas Vander Stichele wrote:
 > Second, is there some way I can tell apt-get to install either ? This is 
 > done from automatic build scripts so I'd like it to proceed anyway.
 
-That's just apt's way of telling you the package is in "AllowDuplicated", 
+That's just apt's way of telling you the package is in AllowDuplicated, 
 meaning multiple versions of the package can be installed at the same 
 time. Yes the output is a bit strange.. especially when there's only one 
 version available.

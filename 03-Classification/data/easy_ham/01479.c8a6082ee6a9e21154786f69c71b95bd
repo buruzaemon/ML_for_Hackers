@@ -22,8 +22,8 @@ Received: from www.mp-i.com (linux.eopenex.com [209.176.10.8] (may be
     forged)) by linux.eopenex.com (8.11.6/8.11.6) with ESMTP id g8FJI5H17211
     for <spamassassin-talk@lists.sourceforge.net>; Sun, 15 Sep 2002 15:18:13
     -0400
-From: "Vernon Webb" <vernon@comp-wiz.com>
-To: "spamassassin-talk" <spamassassin-talk@example.sourceforge.net>
+From: Vernon Webb <vernon@comp-wiz.com>
+To: spamassassin-talk <spamassassin-talk@example.sourceforge.net>
 Reply-To: vernon@comp-wiz.com
 Message-Id: <20020915191805.M8021@comp-wiz.com>
 X-Mailer: MP-I.com Messaging OpenWebMail 1.71 20020827

@@ -86,7 +86,7 @@ On 19/08/02 07:41 -0700, Jordan Ritter wrote:
 ) # SPAM if one of the MIME parts was found in a previous SPAM?  I just
 ) # received subscribe request to a moderated ecartis list and it was
 ) # detected as SPAM because it contained an empty text/plain part and
-) # an "empty" (to iMail anyway) text/html part.  In reality there were
+) # an empty (to iMail anyway) text/html part.  In reality there were
 ) # no MIME parts to this message since the body of the email contained
 ) # instructions from ecartis along with a forwarded copy of the
 ) # subscribe request which happened to be a multipart MIME message.

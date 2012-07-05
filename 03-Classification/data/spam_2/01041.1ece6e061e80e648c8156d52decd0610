@@ -20,15 +20,15 @@ Subject: Summer Job Interviews. . . .
 To: yyyy-cv@spamassassin.taint.org
 MIME-Version: 1.0
 X-Cidl: 5625291J
-Content-Type: multipart/mixed; boundary="----ack1234"
+Content-Type: multipart/mixed; boundary=----ack1234
 
 
 
 ------ack1234
-Content-Type: multipart/alternative; boundary="----alt_border_1"
+Content-Type: multipart/alternative; boundary=----alt_border_1
 
 ------alt_border_1
-Content-Type: text/plain; charset="ISO-8859-1"
+Content-Type: text/plain; charset=ISO-8859-1
 Content-Transfer-Encoding: quoted-printable
 
 Greetings!
@@ -77,7 +77,7 @@ We recommend you try http://start.resumerabbit.com
 It's a quality service that delivers what it promises.
 
 >>From mid November to mid January, the holidays have
-a "slowing down" effect on hiring. Since the job search
+a slowing down effect on hiring. Since the job search
 process can often be several months, waiting until the
 end of summer to get started may push your new job off
 well after the new year.  Now's the optimum time to
@@ -151,18 +151,18 @@ http://www.allexecs.com/unsubscribe
  
  
 ------alt_border_1
-Content-Type: text/html; charset="ISO-8859-1"
+Content-Type: text/html; charset=ISO-8859-1
 
 <html>
 
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta http-equiv=Content-Type content=text/html; charset=windows-1252>
 <title>Allexecs.org</title>
 </head>
 
 <body>
 
-<p><font face="Courier New" size="2">Greetings!<br>
+<p><font face=Courier New size=2>Greetings!<br>
 <br>
 If you're thinking about a new job, now's the time to
 aggressively pick up your search. Many people slow
@@ -208,7 +208,7 @@ We recommend you try http://start.resumerabbit.com<br>
 It's a quality service that delivers what it promises.<br>
 <br>
 >>From mid November to mid January, the holidays have
-a "slowing down" effect on hiring. Since the job search
+a slowing down effect on hiring. Since the job search
 process can often be several months, waiting until the
 end of summer to get started may push your new job off
 well after the new year.  Now's the optimum time to
@@ -226,7 +226,7 @@ The staff of AllExecs.com have years of recruiting
 experience and may from time to time send you a review of
 career tips and tools that have helped others in their job
 search. If you'd rather not receive these reviews go to 
-<A HREF="http://www.allexecs.com/unsubscribe">http://www.allexecs.com/unsubscribe</A><br>
+<A HREF=http://www.allexecs.com/unsubscribe>http://www.allexecs.com/unsubscribe</A><br>
 ========================================================<br>
 </font></p>
 

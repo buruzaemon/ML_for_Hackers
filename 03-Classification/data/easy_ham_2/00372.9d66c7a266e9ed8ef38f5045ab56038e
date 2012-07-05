@@ -20,10 +20,10 @@ X-Authentication-Warning: lugh.tuatha.org: Host [195.218.97.197] claimed
 Received: by w2k-server.bcs.ie with Internet Mail Service (5.5.2653.19) id
     <QMRGFKJ6>; Tue, 13 Aug 2002 09:48:54 +0100
 Message-Id: <214A52C16E44D51186FB00508BB83E0F7C0D66@w2k-server.bcs.ie>
-From: "Damian O' Sullivan" <Damian.OSullivan@bcs.ie>
-To: "'Anders Holm'" <anders.holm@elivefree.net>,
-	"Damian O' Sullivan" <Damian.OSullivan@bcs.ie>,
-	"'Albert White - SUN Ireland'" <albert.white@ireland.sun.com>,
+From: Damian O' Sullivan <Damian.OSullivan@bcs.ie>
+To: 'Anders Holm' <anders.holm@elivefree.net>,
+	Damian O' Sullivan <Damian.OSullivan@bcs.ie>,
+	'Albert White - SUN Ireland' <albert.white@ireland.sun.com>,
 	ilug@linux.ie
 Subject: RE: [ILUG] Sparc Solaris (was: Dell GX260 V Redhat 7.3)
 Date: Tue, 13 Aug 2002 09:48:48 +0100

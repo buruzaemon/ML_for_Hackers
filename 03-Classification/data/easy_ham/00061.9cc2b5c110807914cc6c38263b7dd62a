@@ -24,9 +24,9 @@ Received: from dialup-209.245.228.178.dial1.dallas1.level3.net
     Fri, 30 Aug 2002 06:50:42 -0700
 Subject: Re: [scoop] Scoop MS Word .doc file into something that plucker or other Palm app can display?
 From: unlisted <unlisted@pobox.com>
-To: "Larry W. Virden" <lvirden@cas.org>
+To: Larry W. Virden <lvirden@cas.org>
 Cc: sitescooper-talk@example.sourceforge.net,
-	"Barry Dexter A. Gonzaga" <barryg@kssp.upd.edu.ph>
+	Barry Dexter A. Gonzaga <barryg@kssp.upd.edu.ph>
 In-Reply-To: <20020830002709.GA21600@elayne.kssp.upd.edu.ph>
 References: <20020829171046.AAB1816@cas.org>
     <20020830002709.GA21600@elayne.kssp.upd.edu.ph>
@@ -63,22 +63,22 @@ On Thu, 2002-08-29 at 19:27, Barry Dexter A. Gonzaga wrote:
 > postscript and png.
 
 also there's catdoc and wv for Word --> text conversions.  actually, wv
-consists of wvWare, which as the manpage says "converts word documents
-into other formats such as PS, PDF, HTML, LaTeX, DVI, ABW".  HTML would
+consists of wvWare, which as the manpage says converts word documents
+into other formats such as PS, PDF, HTML, LaTeX, DVI, ABW.  HTML would
 probably be the best format for use with Plucker/SiteScooper, depending
 on how good the DOC --> HTML conversion is.  i haven't used either in
 over a year as AbiWord or OpenOffice work well enough.  (prefer AbiWord
 for it's light-weight size, but OpenOffice has the better DOC importer.)
 
 don't know which of these are better or worse than the other, but i
-figure, "the more the merrier". ;-)
+figure, the more the merrier. ;-)
 
 > You could also try openoffice and/or abiword if you
 > have x installed.
 
 AbiWord supports exporting to PalmDoc (.pdb) which is about as
 PalmOS-friendly as you can get.  never tried/needed it, but it's listed
-there in the "Save As" dialog box.
+there in the Save As dialog box.
 
 Wine (or CrossOver Office, if you already have it) may support Word
 Viewer (free download from Microsoft), but didn't a year or so ago when

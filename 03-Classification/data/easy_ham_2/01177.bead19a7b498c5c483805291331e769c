@@ -19,13 +19,13 @@ Received: from smtp2.home.se (smtp2.home.se [195.66.35.201]) by egwn.net
 Received: from dator1 mangro@home.se [213.65.67.21] by smtp2.home.se with
     Novell NIMS $Revision:   2.88.1.1  $ on Novell NetWare; Tue,
     30 Jul 2002 22:14:57 +0200
-From: "Manfred Grobosch" <mangro@home.se>
-To: "Rpm-List" <rpm-zzzlist@freshrpms.net>
+From: Manfred Grobosch <mangro@home.se>
+To: Rpm-List <rpm-zzzlist@freshrpms.net>
 Subject: Installing RPM
 Message-Id: <FEEMLEDEFAFMCIAIMGPJGENPCCAA.mangro@home.se>
 MIME-Version: 1.0
 Content-Type: multipart/mixed;
-    boundary="----=_NextPart_000_0002_01C23817.94245ED0"
+    boundary=----=_NextPart_000_0002_01C23817.94245ED0
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal
 X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2911.0)
@@ -55,7 +55,7 @@ This is a multi-part message in MIME format.
 
 ------=_NextPart_000_0002_01C23817.94245ED0
 Content-Type: text/plain;
-	charset="iso-8859-1"
+	charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 
 I would like to install RPM itself. I have tried to get the information by
@@ -70,10 +70,10 @@ Best regards Manfred Grobosch
 
 ------=_NextPart_000_0002_01C23817.94245ED0
 Content-Type: application/ms-tnef;
-	name="winmail.dat"
+	name=winmail.dat
 Content-Transfer-Encoding: base64
 Content-Disposition: attachment;
-	filename="winmail.dat"
+	filename=winmail.dat
 
 eJ8+IhgUAQaQCAAEAAAAAAABAAEAAQeQBgAIAAAA5AQAAAAAAADoAAEIgAcAGAAAAElQTS5NaWNy
 b3NvZnQgTWFpbC5Ob3RlADEIAQ2ABAACAAAAAgACAAEGgAMADgAAANIHBwAeABYAFgAAAAIALAEB

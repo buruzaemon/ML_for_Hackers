@@ -32,24 +32,24 @@ Received: from turing-police.cc.vt.edu (localhost [127.0.0.1]) by
     g92EnPLw027736; Wed, 2 Oct 2002 10:49:25 -0400
 Message-Id: <200210021449.g92EnPLw027736@turing-police.cc.vt.edu>
 X-Mailer: exmh version 2.5 07/13/2001 with nmh-1.0.4+dev
-To: "J. W. Ballantine" <jwb@homer.att.com>
+To: J. W. Ballantine <jwb@homer.att.com>
 Cc: exmh-workers@spamassassin.taint.org
 Subject: Re: A couple of nits...
 In-Reply-To: Your message of
-    "Wed, 02 Oct 2002 09:54:04 EDT."
+    Wed, 02 Oct 2002 09:54:04 EDT.
     <200210021354.JAA13534@hera.homer.att.com>
 From: Valdis.Kletnieks@vt.edu
 X-Url: http://black-ice.cc.vt.edu/~valdis/
 X-Face-Viewer: See ftp://cs.indiana.edu/pub/faces/index.html to decode picture
-X-Face: 34C9$Ewd2zeX+\!i1BA\j{ex+$/V'JBG#;3_noWWYPa"|,I#`R"{n@w>#:{)FXyiAS7(8t(
+X-Face: 34C9$Ewd2zeX+\!i1BA\j{ex+$/V'JBG#;3_noWWYPa|,I#`R{n@w>#:{)FXyiAS7(8t(
     ^*w5O*!8O9YTe[r{e%7(yVRb|qxsRYw`7J!`AM}m_SHaj}f8eb@d^L>BrX7iO[<!v4-0bVIpaxF#-)
-    %9#a9h6JXI|T|8o6t\V?kGl]Q!1V]GtNliUtz:3},0"hkPeBuu%E,j(:\iOX-P,t7lRR#
+    %9#a9h6JXI|T|8o6t\V?kGl]Q!1V]GtNliUtz:3},0hkPeBuu%E,j(:\iOX-P,t7lRR#
 References: <200210021354.JAA13534@hera.homer.att.com>
 MIME-Version: 1.0
 Content-Type: multipart/signed;
-    boundary="==_Exmh_-1581861840P";
+    boundary===_Exmh_-1581861840P;
     micalg=pgp-sha1;
-    protocol="application/pgp-signature"
+    protocol=application/pgp-signature
 Content-Transfer-Encoding: 7bit
 X-Loop: exmh-workers@spamassassin.taint.org
 Sender: exmh-workers-admin@spamassassin.taint.org
@@ -70,7 +70,7 @@ Date: Wed, 02 Oct 2002 10:49:25 -0400
 --==_Exmh_-1581861840P
 Content-Type: text/plain; charset=us-ascii
 
-On Wed, 02 Oct 2002 09:54:04 EDT, "J. W. Ballantine" <jwb@homer.att.com>  said:
+On Wed, 02 Oct 2002 09:54:04 EDT, J. W. Ballantine <jwb@homer.att.com>  said:
 
 > First, when I try and run exmh with wish from tk8.4.0 it seems to take
 > forever to start, but with wish from tk8.a.4 it starts in a snap.

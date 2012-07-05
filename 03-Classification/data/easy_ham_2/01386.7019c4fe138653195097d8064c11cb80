@@ -28,10 +28,10 @@ Received: from balam.hughes-family.org
 Subject: Re: [SAtalk] results for giant mass-check (phew)
 Content-Type: text/plain; charset=US-ASCII; format=flowed
 MIME-Version: 1.0 (Apple Message framework v482)
-Cc: "Malte S. Stretz" <msquadrat.nospamplease@gmx.net>,
+Cc: Malte S. Stretz <msquadrat.nospamplease@gmx.net>,
 	SpamAssassin Talk ML <spamassassin-talk@lists.sourceforge.net>
 To: yyyy@spamassassin.taint.org (Justin Mason)
-From: "Craig R.Hughes" <craig@deersoft.com>
+From: Craig R.Hughes <craig@deersoft.com>
 In-Reply-To: <20020820142327.ECE3143C32@phobos.labs.netnoteinc.com>
 Message-Id: <B7973337-B468-11D6-9F04-00039396ECF2@deersoft.com>
 Content-Transfer-Encoding: 7bit
@@ -61,7 +61,7 @@ On Tuesday, August 20, 2002, at 07:23  AM, Justin Mason wrote:
 >
 > BTW, the scores are irrelevant right now (unless the test is 
 > going to have
-> a non-GA'd score).  The GA should reduce "easy" ones, and if it 
+> a non-GA'd score).  The GA should reduce easy ones, and if it 
 > doesn't,
 > after the GA run is the time to comment.  Don't pay any 
 > attention to them!

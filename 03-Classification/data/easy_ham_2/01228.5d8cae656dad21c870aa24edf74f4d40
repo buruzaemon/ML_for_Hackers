@@ -48,7 +48,7 @@ Date: Wed, 14 Aug 2002 11:42:15 +0100 (BST)
 upon a time, Chris wrote :
 > 
 > > To bring things back on topic, I was practicing my
-> "rpmbuild'n skillz"
+> rpmbuild'n skillz
 > > and made an rpm with some simple software tools to
 > drive my DVD+RW
 > > burner. No GUI frontend, but it works just fine
@@ -61,7 +61,7 @@ upon a time, Chris wrote :
 ftp://people.redhat.com/ckloiber/dvd+rw-tools-0.1.src.rpm
 > 
 > Nice! :-)
-> What about the "dvdrecord" package that's already
+> What about the dvdrecord package that's already
 > included in 7.3? It
 > doesn't do what this one does? I'm asking this
 > because I've got a friend
@@ -70,8 +70,8 @@ ftp://people.redhat.com/ckloiber/dvd+rw-tools-0.1.src.rpm
 > it's one of the newer versions with a DVD burner.
 > I'd be very interested in
 > using his drive to burn DVDs full of 2-CDs movies or
-> full of "files for
-> xmame" ;-)
+> full of files for
+> xmame ;-)
 > Also, a bootable DVD of Red Hat Linux 7.3 would be
 > great as I've still not
 > burned the CDs even once for myself since I always

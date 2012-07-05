@@ -21,15 +21,15 @@ Received: from woozle.org ([216.231.62.189] ident=postfix) by
     spambayes@python.org; Tue, 26 Nov 2002 11:19:30 -0500
 Received: by woozle.org (Postfix, from userid 5000) id A597E1A18A;
     Tue, 26 Nov 2002 08:19:23 -0800 (PST)
-To: "Mark Hammond" <mhammond@skippinet.com.au>
+To: Mark Hammond <mhammond@skippinet.com.au>
 Subject: Re: [Spambayes] Guidance re pickles versus DB for Outlook
 References: <LCEPIIGDJPKCOIHOBJEPAEIIHOAA.mhammond@skippinet.com.au>
 Organization: WoozleWorks (woozle.org)
-X-Face: "&g4:h\nuA>dfRaRmJ5c+Mqvu!,|5@dd>:BqJ,#G:mT3`i-EF{L>6oE?di}m\;
-    Wil(?AS(@9j"G@o-UR8(BU$)u.%I;*K9%4Vj.fO$W9-bjxPgl%|#{^W@e#1/jZ@,G:>&;
+X-Face: &g4:h\nuA>dfRaRmJ5c+Mqvu!,|5@dd>:BqJ,#G:mT3`i-EF{L>6oE?di}m\;
+    Wil(?AS(@9jG@o-UR8(BU$)u.%I;*K9%4Vj.fO$W9-bjxPgl%|#{^W@e#1/jZ@,G:>&;
     JzJrBqMqomx3Z#Hg.``g5v%R[+PzjYtAa&l@EtK{R<;.,gV`5$8Go1OJB=L`R(<)U$M4YK-t;
     a}oA1y([AV@r$%?AJW[:_|_*r44[Gl{3@:Ff6U9XFOJxp%lZWI-d0-1l5+6aMAOAT+Ac%q@E3t|:2;
-    lpSwi=1"gf7g{Bz+U2MI
+    lpSwi=1gf7g{Bz+U2MI
 X-Thought: Yes, you still make me nervous.  Relax.
 X-Thought-Attribution: Charlotte Costa
 X-PGP-Key-Fingerprint: A862 F105 13EF 7FAF 4F08  78B4 9168 856B 48BF F157
@@ -56,7 +56,7 @@ List-Unsubscribe: <http://mail.python.org/mailman/listinfo/spambayes>,
 Sender: spambayes-bounces@python.org
 Errors-To: spambayes-bounces@python.org
 
-So then, "Mark Hammond" <mhammond@skippinet.com.au> is all like:
+So then, Mark Hammond <mhammond@skippinet.com.au> is all like:
 
 > So, given that, ZODB is sounding attractive.  I would package it up, so a
 > few hundred extra K is probably no big deal.  The code could fall back to

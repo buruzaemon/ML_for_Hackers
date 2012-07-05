@@ -26,7 +26,7 @@ Received: from 208.236.42.2 (SquirrelMail authenticated user
     Fri, 20 Sep 2002 17:05:16 -0400 (EDT)
 Message-Id: <20930.208.236.42.2.1032555916.squirrel@sunserver.sunilactive.com>
 Subject: Re: [Razor-users] Using razor with maildrop
-From: "Sunil William Savkar" <lists.savkar@inthespace.com>
+From: Sunil William Savkar <lists.savkar@inthespace.com>
 To: <jeff.taylor@ieee.org>
 In-Reply-To: <20020919161158.GA19733@pogo.bearhouse.lan>
 References: <000e01c25fcb$f8427560$fd0010ac@sunpower>
@@ -72,12 +72,12 @@ Sunil
 > # Vipul's Razor check
 > #
 > log `/usr/bin/razor-check`
-> log "razor-check = $RETURNCODE"
+> log razor-check = $RETURNCODE
 > if ( $RETURNCODE == 0 )
 > {
->   xfilter "reformail -a'X-Razor: SPAM'"
->   log "SPAM caught by Vipul's Razor"
->   to "$FOLDERS/.SPAM/"
+>   xfilter reformail -a'X-Razor: SPAM'
+>   log SPAM caught by Vipul's Razor
+>   to $FOLDERS/.SPAM/
 > }
 >
 > I used this with Razor version 1.  I'm not sure if it was ever used with

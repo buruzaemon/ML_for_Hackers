@@ -19,11 +19,11 @@ Received: from agora.microshaft.org (agora.microshaft.org [208.201.249.5])
 Received: (from jono@localhost) by agora.microshaft.org (8.11.6/8.11.6) id
     g6VGoMT82204 for fork@xent.com; Wed, 31 Jul 2002 09:50:22 -0700 (PDT)
     (envelope-from jono)
-From: "Jon O." <jono@networkcommand.com>
+From: Jon O. <jono@networkcommand.com>
 To: fork@spamassassin.taint.org
 Subject: vkatalov@elcomsoft.com: Security warning draws DMCA threat
 Message-Id: <20020731095020.E81025@networkcommand.com>
-Reply-To: "jono@networkcommand.com" <jono@networkcommand.com>
+Reply-To: jono@networkcommand.com <jono@networkcommand.com>
 MIME-Version: 1.0
 Content-Type: text/plain; charset=us-ascii
 Content-Disposition: inline
@@ -71,8 +71,8 @@ has threatened to sue a team of researchers who publicized a
 vulnerability in the company's Tru64 Unix operating system.
 
 In a letter sent on Monday, an HP vice president warned SnoSoft, a
-loosely organized research collective, that it "could be fined up to
-$500,000 and imprisoned for up to five years" for its role in
+loosely organized research collective, that it could be fined up to
+$500,000 and imprisoned for up to five years for its role in
 publishing information on a bug that lets an intruder take over a
 Tru64 Unix system.
 
@@ -85,16 +85,16 @@ encrypted e-books.
 If HP files suit or persuades the federal government to prosecute, the
 company could set a precedent that stifles research into computer
 security flaws, a practice that frequently involves publishing code
-that demonstrates vulnerabilities. The DMCA restricts code that "is
+that demonstrates vulnerabilities. The DMCA restricts code that is
 primarily designed or produced for the purpose of circumventing
-protection" of copyrighted works.
+protection of copyrighted works.
 
 On July 19, a researcher at SnoSoft posted a note to
 SecurityFocus.com's popular Bugtraq mailing list with a hyperlink to a
 computer program letting a Tru64 user gain full administrator
-privileges. The researcher, who goes by the alias "Phased," said in
-the message: "Here is the warez, nothing special, but it does the
-job."
+privileges. The researcher, who goes by the alias Phased, said in
+the message: Here is the warez, nothing special, but it does the
+job.
 
 That public disclosure drew the ire of Kent Ferson, a vice president
 in HP's Unix systems unit, who alleged in his letter on Monday that

@@ -26,10 +26,10 @@ Received: by server3.fastmail.fm (Postfix, from userid 99) id 668E12FD84;
     Mon, 26 Aug 2002 09:13:15 -0500 (CDT)
 Content-Disposition: inline
 Content-Transfer-Encoding: 8bit
-Content-Type: text/plain; charset="ISO-8859-1"
+Content-Type: text/plain; charset=ISO-8859-1
 MIME-Version: 1.0
 X-Mailer: MIME::Lite 1.2  (F2.6; T1.001; A1.48; B2.12; Q2.03)
-From: "James Tauber" <jtauber@jtauber.com>
+From: James Tauber <jtauber@jtauber.com>
 To: johnhall@evergo.net, fork@spamassassin.taint.org
 X-Epoch: 1030371199
 X-Sasl-Enc: iWV+p6yrD5pZuD2zbyVJhA
@@ -52,12 +52,12 @@ Date: Mon, 26 Aug 2002 14:13:15 UT
 
 >>From what I read, the rest of it looked quite good so it does seem odd
 they would make the seemingly incorrect blanket statement about the
-Hebrew for "steal". One possibility is that the page is a summary of
+Hebrew for steal. One possibility is that the page is a summary of
 information gathered from a variety of sources of varying qualities.
 
 James
 
-On Sun, 25 Aug 2002 10:17:46 -0700, "John Hall" <johnhall@evergo.net>
+On Sun, 25 Aug 2002 10:17:46 -0700, John Hall <johnhall@evergo.net>
 said:
 > Remember I didn't say it was necessarily a good source, just that it
 > looked good.

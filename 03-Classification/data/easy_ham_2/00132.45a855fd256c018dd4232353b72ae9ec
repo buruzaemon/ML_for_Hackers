@@ -92,7 +92,7 @@ mod_gzip:
 	    mod_gzip_temp_dir                   /tmp
 	    mod_gzip_keep_workfiles             No
 
-	    LogFormat "%h \"%f\" %{mod_gzip_result}n %{mod_gzip_input_size}n %{mod_gzip_output_size}n %{mod_gzip_compression_ratio}npct." mod_gzip_logs
+	    LogFormat %h \%f\ %{mod_gzip_result}n %{mod_gzip_input_size}n %{mod_gzip_output_size}n %{mod_gzip_compression_ratio}npct. mod_gzip_logs
 	    CustomLog logs/compression_log mod_gzip_logs
 	</IfModule>
 
@@ -106,13 +106,13 @@ mod_gzip:
     is loaded.  a compressed line and a non-compressed line might look
     like this:
 
-	roo "/.../ssl_glossary.html" OK 15092 4726 69pct.
-	roo "/.../ssl_template.head-num-7.gif" DECLINED:EXCLUDED 0 0 0pct.
+	roo /.../ssl_glossary.html OK 15092 4726 69pct.
+	roo /.../ssl_template.head-num-7.gif DECLINED:EXCLUDED 0 0 0pct.
 
 ------------------------------------------------------------------------
 compaq smart array config:   (WARNING: YOU NEED A JVM FOR YOUR BROWSER)
 
-    i searched on google for "compaq smart array configuration linux" and
+    i searched on google for compaq smart array configuration linux and
     got a slew of hits.  one of them was a click away from this page:
 
 	http://www.compaq.com/support/files/server/us/download/14703.html

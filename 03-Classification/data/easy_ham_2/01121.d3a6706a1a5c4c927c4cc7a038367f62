@@ -36,9 +36,9 @@ List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
 List-Archive: <http://xent.com/pipermail/fork/>
 Date: Thu, 22 Aug 2002 00:24:54 -0400 (EDT)
 
-On August 7th, an entity known as "iDEFENSE" sent out an announcement,
-which is appended to this email.  Briefly, "iDEFENSE", which bills
-itself as "a global security intelligence company", is offering cash
+On August 7th, an entity known as iDEFENSE sent out an announcement,
+which is appended to this email.  Briefly, iDEFENSE, which bills
+itself as a global security intelligence company, is offering cash
 for information about security vulnerabilities in computer software
 that are not publicly known, especially if you promise not to tell
 anyone else.
@@ -47,15 +47,15 @@ If this kind of secret traffic is allowed to continue, it will pose a
 very serious threat to our computer communications infrastructure.
 
 At the moment, the dominant paradigm for computer security research
-known as "full disclosure"; people who discover security
+known as full disclosure; people who discover security
 vulnerabilities in software tell the vendor about them, and a short
 while later --- after the vendor has had a chance to fix the problem
 --- they publish the information, including code to exploit the
 vulnerability, if possible.  
 
 This method has proven far superior to the old paradigm established by
-CERT in the late 1980s, which its proponents might call "responsible
-disclosure" --- never release working exploit code, and never release
+CERT in the late 1980s, which its proponents might call responsible
+disclosure --- never release working exploit code, and never release
 any information on the vulnerability before all vendors have released
 a patch.  This procedure often left hundreds of thousands of computers
 vulnerable to known bugs for months or years while the vendors worked
@@ -64,8 +64,8 @@ wouldn't apply them because they didn't know how serious the problem
 was.
 
 The underground computer criminal community would often discover and
-exploit these same holes for months or years while the "responsible
-disclosure" process kept their victims, who had no connections in the
+exploit these same holes for months or years while the responsible
+disclosure process kept their victims, who had no connections in the
 underground, vulnerable.
 
 The problem with this is that vulnerabilities that are widely known
@@ -88,7 +88,7 @@ including some criminal elements, apparently made an offer to sell the
 secrecy of some software vulnerability information to the software
 vendor; specifically, they apparently made a private offer to
 Hewlett-Packard to keep a vulnerability in HP's Tru64 Unix secret if
-HP retained Snosoft's "consulting services".  HP considered this
+HP retained Snosoft's consulting services.  HP considered this
 extortion and responded with legal threats, and Snosoft published the
 information.
 
@@ -102,7 +102,7 @@ syndicates, although that will not be obvious to the sellers.
 
 Second, finding software vulnerabilities and keeping them secret will
 become lucrative for many more talented people.  The result will be
---- just as in the "responsible disclosure" days --- that the good
+--- just as in the responsible disclosure days --- that the good
 guys will remain vulnerable for months and years, while the majority
 of current vulnerabilities are kept secret.
 
@@ -208,7 +208,7 @@ Sunil James
 Technical Analyst
 iDEFENSE
 
-"iDEFENSE is a global security intelligence company that proactively
+iDEFENSE is a global security intelligence company that proactively
 monitors sources throughout the world -- from technical vulnerabilities and
 hacker profiling to the global spread of viruses and other malicious code.
 The iALERT security intelligence service provides decision-makers, frontline
@@ -216,7 +216,7 @@ security professionals and network administrators with timely access to
 actionable intelligence and decision support on cyber-related threats.
 iDEFENSE Labs is the research wing that verifies vulnerabilities, examines
 the behavior of exploits and other malicious code and discovers new
-software/hardware weaknesses in a controlled lab environment."
+software/hardware weaknesses in a controlled lab environment.
 
 http://xent.com/mailman/listinfo/fork
 

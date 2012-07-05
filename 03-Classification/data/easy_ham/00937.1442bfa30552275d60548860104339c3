@@ -17,7 +17,7 @@ Received: from mithral.com (watcher.mithral.com [204.153.244.1]) by
     xent.com (Postfix) with SMTP id 3F0BC294220 for <fork@xent.com>;
     Tue, 27 Aug 2002 17:20:25 -0700 (PDT)
 Received: (qmail 10891 invoked by uid 1111); 28 Aug 2002 00:22:01 -0000
-From: "Adam L. Beberg" <beberg@mithral.com>
+From: Adam L. Beberg <beberg@mithral.com>
 To: Rohit Khare <khare@alumni.caltech.edu>
 Cc: <fork@spamassassin.taint.org>
 Subject: Re: DataPower announces XML-in-silicon
@@ -63,17 +63,17 @@ Java allows them to sell 3x more CPU licenses due to the performance hit)
 > In addition to the large file sizes, security is also of paramount
 > importance in the world of XML.
 >
-> "Today's firewalls are designed to inspect HTTP traffic only," Kelly
-> said. "A SOAP packet with XML will go straight through a firewall.
-> Firewalls are blind to XML today."
+> Today's firewalls are designed to inspect HTTP traffic only, Kelly
+> said. A SOAP packet with XML will go straight through a firewall.
+> Firewalls are blind to XML today.
 
 Again, see above... they _are_ claiming to decode the crypto...
 
-> "Our XG3 execution core converts XML to machine code," said Kelly,
+> Our XG3 execution core converts XML to machine code, said Kelly,
 
 Mmmmmmmmmmm, machine code, never a good idea ;)
 
-- Adam L. "Duncan" Beberg
+- Adam L. Duncan Beberg
   http://www.mithral.com/~beberg/
   beberg@mithral.com
 

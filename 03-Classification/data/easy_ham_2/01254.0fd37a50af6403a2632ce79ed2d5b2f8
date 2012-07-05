@@ -56,17 +56,17 @@ Once upon a time, Daniel wrote :
 > version was released it would have 6.1-1.
 
 Why not... it's just that sometimes it gets a bit more confusing in the
-spec file since you have to change the "Source:" as well as "%setup" to
+spec file since you have to change the Source: as well as %setup to
 reflect the name changes. But it might also sometimes be even easier the
 way you suggest, if the entire package contains only references to the
-final version and that only the archive name has a "pr1" or "beta6" in it
+final version and that only the archive name has a pr1 or beta6 in it
 for example.
 
 Take for instance xmame : I've been packaging 0.61 pre-releases as
-"0.61-fr0.x" since the entire source has only "0.61" tags everywhere, no
+0.61-fr0.x since the entire source has only 0.61 tags everywhere, no
 preversion tags whatsoever.
 
-Still, I don't think "Epoch:" is an evil hack although it's true that it
+Still, I don't think Epoch: is an evil hack although it's true that it
 may cause problems between distributions when used. Wanting to avoid it
 when possible is a good thing indeed ;-)
 

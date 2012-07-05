@@ -20,12 +20,12 @@ Received: from [66.92.157.3] (helo=www.dudex.net) by bob.dudex.net with
     esmtp (Exim 3.35 #1) id 17lfkz-0002He-00 for rpm-list@freshrpms.net;
     Sun, 01 Sep 2002 21:11:57 -0400
 X-Originating-Ip: [207.172.11.147]
-From: "" Angles " Puglisi" <angles@aminvestments.com>
-To: "FreshRPMs List" <rpm-zzzlist@freshrpms.net>
+From:  Angles  Puglisi <angles@aminvestments.com>
+To: FreshRPMs List <rpm-zzzlist@freshrpms.net>
 Subject: package my stuff please :P
 Message-Id: <20020901.lpt.78839000@www.dudex.net>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 8bit
 Content-Disposition: inline
 X-Mailer: AngleMail for phpGroupWare (http://www.phpgroupware.org) v
@@ -62,7 +62,7 @@ So if anyone is psyched, go for it. If so, let me know so I can get the RPMs fro
 you in the future.
 
 --
-That's "angle" as in geometry.
+That's angle as in geometry.
 
 
 

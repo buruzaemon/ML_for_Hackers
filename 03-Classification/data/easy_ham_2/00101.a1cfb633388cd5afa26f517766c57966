@@ -23,13 +23,13 @@ X-Authentication-Warning: lugh.tuatha.org: Host [134.6.205.206] claimed to
 Received: by milexc01.maxtor.com with Internet Mail Service (5.5.2653.19)
     id <PC8XVJH9>; Mon, 22 Jul 2002 15:55:44 +0100
 Message-Id: <0D443C91DCE9CD40B1C795BA222A729E01885483@milexc01.maxtor.com>
-From: "Wynne, Conor" <conor_wynne@maxtor.com>
-To: "'Irish Linux Users Group'" <ilug@linux.ie>
+From: Wynne, Conor <conor_wynne@maxtor.com>
+To: 'Irish Linux Users Group' <ilug@linux.ie>
 Subject: RE: [ILUG] hard- vs. soft-links [was: How to copy some files ]
 Date: Mon, 22 Jul 2002 15:55:42 +0100
 MIME-Version: 1.0
 X-Mailer: Internet Mail Service (5.5.2653.19)
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 8bit
 X-MIME-Autoconverted: from quoted-printable to 8bit by lugh.tuatha.org id
     PAA32177
@@ -78,9 +78,9 @@ CW
  but, like the classic techniques, there is no rolling
  back of accidental overwrites.
 
- ( rolling back overwrites reminds me of the "snapshot"
+ ( rolling back overwrites reminds me of the snapshot
   facility on NetWork Appliance fileservers.  and of the
-  various "versioning" filesystems which appeared --- and
+  various versioning filesystems which appeared --- and
   then vanished? --- over the years.... )
 
  one severe(?) gotcha is some files shouldn't have any
@@ -98,8 +98,8 @@ Ireland
 9268
   For a résumé, contact me, or see my website  http://www.blf.utvinternet.ie
 
-    Stop E$$o (ExxonMobile):  «Whatever you do, don't buy Esso --- they
-     don't give a damn about global warming.»    http://www.stopesso.com
+    Stop E$$o (ExxonMobile):  Whatever you do, don't buy Esso --- they
+     don't give a damn about global warming.    http://www.stopesso.com
      Supported by Greenpeace, Friends of the Earth, and numerous others...
 
 -- 

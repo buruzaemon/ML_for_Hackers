@@ -91,13 +91,13 @@ You may address the issues outlined in this advisory in two ways:
 Changing Notification Preferences
 ---------------------------------
 To enable/disable your Errata Alert preferences globally please log in to RHN
-and navigate from "Your RHN" / "Your Account" to the "Preferences" tab.
+and navigate from Your RHN / Your Account to the Preferences tab.
 
         URL: https://rhn.spamassassin.taint.org/network/my_account/my_prefs.pxt
 
 You can also enable/disable notification on a per system basis by selecting an
-individual system from the "Systems List". From the individual system view
-click the "Details" tab.
+individual system from the Systems List. From the individual system view
+click the Details tab.
 
 
 ---------------------

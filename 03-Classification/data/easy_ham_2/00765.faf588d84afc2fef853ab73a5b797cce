@@ -19,12 +19,12 @@ Received: from pimout5-int.prodigy.net (pimout5-ext.prodigy.net
 Received: from MAX (adsl-64-171-25-185.dsl.sntc01.pacbell.net
     [64.171.25.185]) by pimout5-int.prodigy.net (8.11.0/8.11.0) with ESMTP id
     g74Ndg2361668 for <fork@xent.com>; Sun, 4 Aug 2002 19:39:42 -0400
-From: "Max Dunn" <maxdunn@siliconpublishing.com>
-To: "'FoRK'" <fork@spamassassin.taint.org>
+From: Max Dunn <maxdunn@siliconpublishing.com>
+To: 'FoRK' <fork@spamassassin.taint.org>
 Subject: RE: Cancelling earthlink
 Message-Id: <000001c23c10$2cfb3880$6f86fea9@MAX>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="US-ASCII"
+Content-Type: text/plain; charset=US-ASCII
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal

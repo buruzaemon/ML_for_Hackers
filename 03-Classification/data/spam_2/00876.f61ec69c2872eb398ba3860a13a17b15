@@ -26,11 +26,11 @@ Received: from ME ([210.83.94.193])
 	Mon, 22 Jul 2002 23:35:54 +0800
 Date: Mon, 22 Jul 2002 23:35:54 +0800
 Message-Id: <200207221535.g6MFZrG00781@52jsp.com>
-Subject: ÊÖ»ú¶ÌĞÅÏ¢°üÔÂ¿¨ºÍ¶ÌĞÅÏ¢Èº·¢Èí¼ş
+Subject: ÊÖúÌĞÅÏüÔÂÍÌĞÅÏÈÈíş
 X-Priority: 1 (Highest)
 X-Mailer: Microsoft Outlook Express 5.00.2615.200
 MIME-Version: 1.0
-Content-type: multipart/mixed; boundary="#MYBOUNDARY#"
+Content-type: multipart/mixed; boundary=#MYBOUNDARY#
 Sender: owner-cypherpunks@ssz.com
 Precedence: bulk
 Reply-To: cypherpunks@ssz.com

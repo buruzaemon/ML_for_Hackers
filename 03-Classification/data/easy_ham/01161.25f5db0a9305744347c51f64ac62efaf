@@ -39,7 +39,7 @@ Cc: exmh-workers@spamassassin.taint.org
 Subject: Re: CVS report
 In-Reply-To: Message from Chris Garrigues
     <cwg-dated-1030460376.49ef5a@DeepEddy.Com> of
-    "Thu, 22 Aug 2002 09:59:35 CDT."
+    Thu, 22 Aug 2002 09:59:35 CDT.
     <1030028377.4901.TMDA@deepeddy.vircio.com>
 MIME-Version: 1.0
 Content-Type: text/plain; charset=us-ascii
@@ -83,7 +83,7 @@ Date: Thu, 22 Aug 2002 18:55:03 +0200
 > 
 I'm afraid it didn't help. It still seems to be slower than ~1 month 
 ago. Maybe slightly faster than yeasterday. I'm (still) seeing an 
-"unseen countdown" in the log.
+unseen countdown in the log.
 
 18:51:25 Writing /home/ander/Mail/lists/l-k/.mh_sequences
 18:51:25 lists/l-k has 57 msgs in unseen

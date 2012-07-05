@@ -8,7 +8,7 @@ References: <15735.50243.135743.32180@12-248-11-90.client.attbi.com>
 Message-ID: <15736.47703.689156.538539@anthem.wooz.org>
 
 
->>>>> "TP" == Tim Peters <tim.one@comcast.net> writes:
+>>>>> TP == Tim Peters <tim.one@comcast.net> writes:
 
     >> Any thought to wrapping up your spam and ham test sets for
     >> inclusion w/ the spambayes project?

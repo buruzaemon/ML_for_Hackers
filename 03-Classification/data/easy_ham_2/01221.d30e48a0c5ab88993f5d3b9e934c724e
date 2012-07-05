@@ -105,7 +105,7 @@ eliminate
 %build
    %{__perl} Makefile.PL LOCAL_RULES_DIR=/etc/spamassassin
 INSTALLDIRS=vendor PREFIX=%{_prefix}
-   make OPTIMIZE="$RPM_OPT_FLAGS" PREFIX=%{_prefix}
+   make OPTIMIZE=$RPM_OPT_FLAGS PREFIX=%{_prefix}
 %install
    rm -rf $RPM_BUILD_ROOT
    %makeinstall PREFIX=%{buildroot}%{_prefix} \

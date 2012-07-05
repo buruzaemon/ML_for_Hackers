@@ -34,7 +34,7 @@ To: exmh-users@spamassassin.taint.org
 Cc: dag@newtech.fi
 Subject: Re: Ringing bell on other computer
 In-Reply-To: Message from Hal DeVore <haldevore@acm.org> of
-    "Mon, 07 Oct 2002 18:03:03 CDT."
+    Mon, 07 Oct 2002 18:03:03 CDT.
     <6384.1034031783@dimebox.bmc.com>
 MIME-Version: 1.0
 Content-Type: text/plain; charset=us-ascii
@@ -58,14 +58,14 @@ Date: Tue, 08 Oct 2002 09:25:13 +0300
 
 > 
 > 
-> >>>>> On Tue, 8 Oct 2002, "Dag" == Dag Nygren wrote:
+> >>>>> On Tue, 8 Oct 2002, Dag == Dag Nygren wrote:
 > 
 >   Dag> but when procmail runs it it doesn't, presumably as it
 >   Dag> doesn't have the authorization to communicate with the
 >   Dag> laptop, beeing another user?
 > 
 > I don't know anything about the KDE sound server but I'd guess 
-> your problem is the "environment" in which procmail runs.  You 
+> your problem is the environment in which procmail runs.  You 
 > don't say what procmail is running from.  In my case, for 
 > example, procmail is run from fetchmail which is run by a cron 
 > job.

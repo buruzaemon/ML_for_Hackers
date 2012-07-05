@@ -50,9 +50,9 @@ X-Url: http://www.DeepEddy.Com/~cwg
 X-Image-Url: http://www.DeepEddy.Com/~cwg/chris.gif
 MIME-Version: 1.0
 Content-Type: multipart/signed;
-    boundary="==_Exmh_1988991284P";
+    boundary===_Exmh_1988991284P;
     micalg=pgp-sha1;
-    protocol="application/pgp-signature"
+    protocol=application/pgp-signature
 Content-Transfer-Encoding: 7bit
 Message-Id: <1032792084.19602.TMDA@deepeddy.vircio.com>
 From: Chris Garrigues <cwg-exmh@DeepEddy.Com>
@@ -83,36 +83,36 @@ Content-Type: text/plain; charset=us-ascii
 > I just updated to the latest CVS - I had been running a build from June.  
 > Hitting the Flist button gives the following traceback:
 > 
-> syntax error in expression "int(17+1+(222-)*(19-17-2)/(224-))"
+> syntax error in expression int(17+1+(222-)*(19-17-2)/(224-))
 >     while executing
-> "expr int($minLine+1+($msgid-$minMsg)*($maxLine-$minLine-2)/($maxMsg-$minMs
-> g))"
->     (procedure "Ftoc_FindMsg" line 57)
+> expr int($minLine+1+($msgid-$minMsg)*($maxLine-$minLine-2)/($maxMsg-$minMs
+> g))
+>     (procedure Ftoc_FindMsg line 57)
 >     invoked from within
-> "Ftoc_FindMsg $i"
->     (procedure "Ftoc_ShowSequences" line 16)
+> Ftoc_FindMsg $i
+>     (procedure Ftoc_ShowSequences line 16)
 >     invoked from within
-> "Ftoc_ShowSequences $F"
->     (procedure "ScanFolder" line 81)
+> Ftoc_ShowSequences $F
+>     (procedure ScanFolder line 81)
 >     invoked from within
-> "ScanFolder inbox 0"
+> ScanFolder inbox 0
 >     invoked from within
-> "time [list ScanFolder $F $adjustDisplay"
->     (procedure "Scan_Folder" line 2)
+> time [list ScanFolder $F $adjustDisplay
+>     (procedure Scan_Folder line 2)
 >     invoked from within
-> "Scan_Folder $exmh(folder) $ftoc(showNew)"
->     (procedure "Inc_PresortFinish" line 7)
+> Scan_Folder $exmh(folder) $ftoc(showNew)
+>     (procedure Inc_PresortFinish line 7)
 >     invoked from within
-> "Inc_PresortFinish"
+> Inc_PresortFinish
 >     invoked from within
-> ".fops.flist invoke"
->     ("uplevel" body line 1)
+> .fops.flist invoke
+>     (uplevel body line 1)
 >     invoked from within
-> "uplevel #0 [list $w invoke]"
->     (procedure "tkButtonUp" line 7)
+> uplevel #0 [list $w invoke]
+>     (procedure tkButtonUp line 7)
 >     invoked from within
-> "tkButtonUp .fops.flist
-> "
+> tkButtonUp .fops.flist
+> 
 >     (command bound to event)
 > 
 > 

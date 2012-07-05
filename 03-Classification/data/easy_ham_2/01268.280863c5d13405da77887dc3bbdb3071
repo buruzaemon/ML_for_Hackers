@@ -59,13 +59,13 @@ Once upon a time, Brian wrote :
 > 
 > [snipped]
 > 
-> > Then why bother : The new Red Hat Linux beta "(null)" is now available
+> > Then why bother : The new Red Hat Linux beta (null) is now available
 > > and should be announced anytime now. It contains rpm 4.1-0.81.
 > > 
 > > You can grab it from here :
 > > ftp://ftp.freshrpms.net/pub/redhat/linux/beta/null/
 > 
->     What's the official "apt" line for it?  Is it just 7.4 instead of
+>     What's the official apt line for it?  Is it just 7.4 instead of
 >     7.3, or did they make this one 8.0?
 
 This is a beta, probably of 8.0 although it's numbered 7.3.94. As such,

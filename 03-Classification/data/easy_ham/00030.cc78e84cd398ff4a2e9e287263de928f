@@ -24,7 +24,7 @@ Received: (qmail 50842 messnum 34651 invoked from
 Received: from p432.as1.athlone1.eircom.net (HELO darkstar)
     (159.134.205.176) by mail02.svc.cra.dublin.eircom.net (qp 50842) with SMTP;
     22 Aug 2002 19:52:16 -0000
-Content-Type: text/plain; charset="iso-8859-15"
+Content-Type: text/plain; charset=iso-8859-15
 From: Ciaran Johnston <cj@nologic.org>
 Organization: nologic.org
 To: <ilug@linux.ie>

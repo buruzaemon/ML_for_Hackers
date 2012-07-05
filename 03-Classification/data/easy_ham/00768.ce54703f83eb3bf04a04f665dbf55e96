@@ -20,12 +20,12 @@ Received: (qmail 14157 invoked from network); 24 Sep 2002 16:03:05 -0000
 Received: from dsl.206.191.151.102.evergo.net (HELO JMHALL)
     (206.191.151.102) by mail.evergo.net with SMTP; 24 Sep 2002 16:03:05 -0000
 Reply-To: <johnhall@evergo.net>
-From: "John Hall" <johnhall@evergo.net>
-To: "FoRK" <fork@spamassassin.taint.org>
+From: John Hall <johnhall@evergo.net>
+To: FoRK <fork@spamassassin.taint.org>
 Subject: RE: liberal defnitions
 Message-Id: <004301c263e3$df487930$0200a8c0@JMHALL>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="US-ASCII"
+Content-Type: text/plain; charset=US-ASCII
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal
@@ -58,9 +58,9 @@ aren't.
 > Subject: RE: liberal defnitions
 > 
 > per john hall:
-> "The opinion that EITHER we are spending too much OR we have too much
+> The opinion that EITHER we are spending too much OR we have too much
 > regulation is pretty
-> much anathema to liberal politics."
+> much anathema to liberal politics.
 > 
 > no it's not.
 > 

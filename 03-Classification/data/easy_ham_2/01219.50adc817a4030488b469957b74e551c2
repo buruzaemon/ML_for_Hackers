@@ -78,7 +78,7 @@ gcc 3.2.
 > documentation seems somewhat poor, though, unless I've missed it.
 
 You can still use an apt package compiled on Red Hat Linux 7.3 as long as
-you install the "rpm404" package for compatibility. That's what I'm doing
+you install the rpm404 package for compatibility. That's what I'm doing
 currently on my home Rawhide system.
 
 Matthias

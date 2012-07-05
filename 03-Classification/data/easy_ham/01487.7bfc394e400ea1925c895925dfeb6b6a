@@ -32,9 +32,9 @@ On Mon, 16 Sep 2002, Justin Mason wrote:
 > 
 > > Procmail 3.21 is reliable as long as none of the recipies fails. I was 
 > > hoping to resolve the triplets.txt problem and thus avoid the procmail 
-> > "^rom" problem. 
+> > ^rom problem. 
 > 
-> I doubt it's related, actually -- the "triplets" stuff is in a totally
+> I doubt it's related, actually -- the triplets stuff is in a totally
 > unrelated area of code.
 
 The procmail bug happens when the filter program does something that 

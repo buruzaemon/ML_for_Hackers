@@ -23,7 +23,7 @@ Received: (from john@localhost) by jlooney.jinny.ie (8.11.6/8.11.6) id
 X-Authentication-Warning: jlooney.jinny.ie: john set sender to
     jlooney@jinny.ie using -f
 Date: Mon, 19 Aug 2002 10:34:18 +0100
-From: "John P. Looney" <valen@tuatha.org>
+From: John P. Looney <valen@tuatha.org>
 To: Irish LUG list <ilug@linux.ie>
 Message-Id: <20020819093418.GO26818@jinny.ie>
 Reply-To: ilug@linux.ie

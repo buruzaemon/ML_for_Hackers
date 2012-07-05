@@ -20,7 +20,7 @@ Received: from sundog.demon.co.uk ([158.152.226.183]) by
     anchor-post-31.mail.demon.net with smtp (Exim 3.35 #1) id 18GPe9-0001kx-0V;
     Mon, 25 Nov 2002 20:15:58 +0000
 From: Richie Hindle <richie@entrian.com>
-To: "Moore, Paul" <Paul.Moore@atosorigin.com>
+To: Moore, Paul <Paul.Moore@atosorigin.com>
 Subject: Re: [Spambayes] Current version
 Date: Mon, 25 Nov 2002 20:16:08 +0000
 Organization: entrian.com
@@ -69,7 +69,7 @@ integrating bsddb into Python 2.3 - it's going to make it very easy
 (especially on Windows) for someone to write code that uses anydbm, wrap it
 up with Py2exe and ship it under a commercial license, not knowing that
 they're breaking the Sleepycat license.  They've never heard of Sleepycat
-Software or even bsddb - as far as they're concerned, this "bsddb.pyd" file
+Software or even bsddb - as far as they're concerned, this bsddb.pyd file
 that Py2exe tells them they need to ship is just another part of Python,
 like _socket.pyd or select.pyd.
 

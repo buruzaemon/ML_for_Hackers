@@ -24,7 +24,7 @@ Received: from vhost.swchs.org ([216.185.203.194]) by
 Received: from WorldClient [127.0.0.1] by lerfjhax.com [127.0.0.1] with
     SMTP (MDaemon.v3.5.0.R) for <razor-users@lists.sourceforge.net>;
     Thu, 08 Aug 2002 23:18:29 -0500
-From: "Will Glynn" <delta407@delta407.homeip.net>
+From: Will Glynn <delta407@delta407.homeip.net>
 To: razor-users@example.sourceforge.net
 Subject: Re: [Razor-users] What's wrong with the Razor servers now?
 X-Mailer: WorldClient Standard 3.5.0e

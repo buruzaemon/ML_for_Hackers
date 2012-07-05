@@ -65,8 +65,8 @@ Maybe sf.net should provide automated (how much more automated can it
 get? Well, maybe automatic one-click setup and instructions for those
 who can't read manuals and a place in which to drop gpg keys) apt-rpm
 (and maybe apt-deb though debian seems to package most stuff anyway)
-repositories. If it was one big repository for "stable" releases and
-each could have their own for "development" or "testing" releases. You
+repositories. If it was one big repository for stable releases and
+each could have their own for development or testing releases. You
 handled your own repo and they did a nightly stable update for example.
 Also it should check that no-one can manage to put in a package with the
 same name as another one or otherwise sabotage the thing.

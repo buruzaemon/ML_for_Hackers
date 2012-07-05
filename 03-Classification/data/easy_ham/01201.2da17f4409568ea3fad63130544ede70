@@ -55,7 +55,7 @@ Once upon a time, Ralf wrote :
 Hmmm... I don't see any :-)
 
 My main concern is that when rebuilding the recent packages I've made for
-Psyche on Valhalla, I'd need to lower the "Release:" tag (to keep an
+Psyche on Valhalla, I'd need to lower the Release: tag (to keep an
 upgrade working), and that would f*ck up my CVS repository which is on my
 Valhalla box (well, I'm exagerating, It'll just make it more difficult for
 me) ;-)

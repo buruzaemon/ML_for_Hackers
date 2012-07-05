@@ -24,7 +24,7 @@ Received: from localhost (eugen@localhost) by hydrogen.leitl.org
     +0200
 X-Authentication-Warning: hydrogen.leitl.org: eugen owned process doing -bs
 From: Eugen Leitl <eugen@leitl.org>
-To: "Stephen D. Williams" <sdw@lig.net>
+To: Stephen D. Williams <sdw@lig.net>
 Cc: Gary Lawrence Murphy <garym@canada.com>,
 	Udhay Shankar N <udhay@pobox.com>, Adam Rifkin <adam@KnowNow.com>,
 	<FoRK@xent.com>

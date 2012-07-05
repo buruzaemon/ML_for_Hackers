@@ -22,7 +22,7 @@ Received: from unknown (HELO [192.168.1.105]) ([66.93.225.166])
     (qmail-ldap-1.03) with SMTP for <rpm-list@freshrpms.net>; 9 Oct 2002
     15:54:10 -0000
 Subject: Problems with xosd-xmms
-From: "D. Michael Basinger" <dbasinge@speakeasy.net>
+From: D. Michael Basinger <dbasinge@speakeasy.net>
 To: rpm-zzzlist@freshrpms.net
 Content-Type: text/plain
 Content-Transfer-Encoding: 7bit

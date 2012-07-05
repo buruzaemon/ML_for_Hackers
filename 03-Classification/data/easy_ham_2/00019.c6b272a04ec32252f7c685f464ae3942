@@ -24,13 +24,13 @@ Received: from unknown (HELO XENON16) (213.190.156.48) by
     mail02.svc.cra.dublin.eircom.net (qp 47513) with SMTP; 21 Aug 2002
     15:45:38 -0000
 Message-Id: <00a901c2492a$0d7daf70$e600000a@XENON16>
-From: "wintermute" <cout@eircom.net>
+From: wintermute <cout@eircom.net>
 To: <ilug@linux.ie>
 References: <A357A6B62E30D511804500B0D0AA789C0112E4EF@mail.it-tallaght.ie>
 Subject: Re: [ILUG] Formatting a windows partition from Linux
 Date: Wed, 21 Aug 2002 16:47:28 +0100
 MIME-Version: 1.0
-Content-Type: text/plain; charset="ISO-8859-15"
+Content-Type: text/plain; charset=ISO-8859-15
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal

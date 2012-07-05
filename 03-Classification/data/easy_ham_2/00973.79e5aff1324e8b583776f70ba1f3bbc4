@@ -17,7 +17,7 @@ Received: from mithral.com (watcher.mithral.com [204.153.244.1]) by
     xent.com (Postfix) with SMTP id C0232294099 for <fork@xent.com>;
     Wed,  7 Aug 2002 15:17:18 -0700 (PDT)
 Received: (qmail 7398 invoked by uid 1111); 7 Aug 2002 22:17:55 -0000
-From: "Adam L. Beberg" <beberg@mithral.com>
+From: Adam L. Beberg <beberg@mithral.com>
 To: Robert Harley <harley@argote.ch>
 Cc: <fork@spamassassin.taint.org>
 Subject: Re: Hurtage etc.
@@ -46,7 +46,7 @@ On Wed, 7 Aug 2002, Robert Harley wrote:
 Woo, faster is better... But what have you done about all those patents that
 prevent anyone from going near ECC in the first place, hmmmmmm?
 
-- Adam L. "Duncan" Beberg
+- Adam L. Duncan Beberg
   http://www.mithral.com/~beberg/
   beberg@mithral.com
 

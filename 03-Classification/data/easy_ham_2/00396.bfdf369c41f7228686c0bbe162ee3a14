@@ -22,12 +22,12 @@ Received: (qmail 5672 messnum 1194080 invoked from
 Received: from unknown (HELO win2000) (194.125.130.10) by
     relay05.indigo.ie (qp 5672) with SMTP; 13 Aug 2002 12:08:26 -0000
 Reply-To: <macarthy@iol.ie>
-From: "Justin MacCarthy" <macarthy@iol.ie>
-To: "Ilug@Linux.Ie" <ilug@linux.ie>
+From: Justin MacCarthy <macarthy@iol.ie>
+To: Ilug@Linux.Ie <ilug@linux.ie>
 Date: Tue, 13 Aug 2002 13:09:09 +0100
 Message-Id: <OFEGLPGPCHPACFLJPAILGEAIEAAA.macarthy@iol.ie>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="ISO-8859-15"
+Content-Type: text/plain; charset=ISO-8859-15
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal

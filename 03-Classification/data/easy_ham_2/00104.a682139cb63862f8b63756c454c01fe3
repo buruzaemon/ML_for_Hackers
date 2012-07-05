@@ -24,8 +24,8 @@ Received: from p102.as1.cra.dublin.eircom.net (HELO mfrenchw2k)
     (mfrench42@159.134.176.102 with login) by smtp.mail.vip.sc5.yahoo.com with
     SMTP; 20 Jul 2002 13:26:16 -0000
 Message-Id: <002d01c22ff0$81f10cb0$f264a8c0@sabeo.ie>
-From: "Matthew French" <mfrench42@yahoo.co.uk>
-To: "kevin lyda" <kevin+dated+1027549838.74d3af@linux.ie>,
+From: Matthew French <mfrench42@yahoo.co.uk>
+To: kevin lyda <kevin+dated+1027549838.74d3af@linux.ie>,
 	<ilug@linux.ie>
 References: <200207191959.g6JJxHX04486@linux.local>
     <002c01c22f67$4216c280$f264a8c0@sabeo.ie>
@@ -33,7 +33,7 @@ References: <200207191959.g6JJxHX04486@linux.local>
 Subject: Re: [ILUG] hard- vs. soft-links [was: How to copy some files ]
 Date: Sat, 20 Jul 2002 14:22:30 +0100
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal
@@ -47,7 +47,7 @@ List-Id: Irish Linux Users' Group <ilug.linux.ie>
 X-Beenthere: ilug@linux.ie
 
 Kevin wrote:
-> am i the only one who thinks this is like "friday night 80's" for ilug?
+> am i the only one who thinks this is like friday night 80's for ilug?
 > and here's an answer from 1989.  for those perceptive folks in the
 > audience you'll note that it makes no reference to a windows icons.
 <snip>

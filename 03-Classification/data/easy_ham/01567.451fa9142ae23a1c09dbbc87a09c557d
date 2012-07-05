@@ -36,8 +36,8 @@ References: <20020905160808.B2932@greenhydrant.com>
     <Pine.LNX.4.44.0209051816270.22445-100000@burgers.bubbanfriends.org>
 MIME-Version: 1.0
 Content-Type: multipart/signed; micalg=pgp-sha1;
-    protocol="application/pgp-signature";
-    boundary="Enx9fNJ0XV5HaWRu"
+    protocol=application/pgp-signature;
+    boundary=Enx9fNJ0XV5HaWRu
 Content-Disposition: inline
 In-Reply-To: <Pine.LNX.4.44.0209051816270.22445-100000@burgers.bubbanfriends.org>
 User-Agent: Mutt/1.4i
@@ -76,8 +76,8 @@ get around it in SA 2.41 on the spamassassin-talk list. :)
 
 --=20
 Randomly Generated Tagline:
-"Good judgment comes from bad experience, and a lot of that comes from
- bad judgment." - Zen Musings
+Good judgment comes from bad experience, and a lot of that comes from
+ bad judgment. - Zen Musings
 
 --Enx9fNJ0XV5HaWRu
 Content-Type: application/pgp-signature

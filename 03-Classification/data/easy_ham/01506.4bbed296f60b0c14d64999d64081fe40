@@ -16,11 +16,11 @@ Received: from puck2.rutgers.edu (sendmail@puck2.rutgers.edu
     g8QD5BP13089103; Thu, 26 Sep 2002 09:05:11 -0400 (EDT)
 Received: (from easmith@localhost) by puck2.rutgers.edu (8.11.2/8.11.2) id
     g8QD5At2678978; Thu, 26 Sep 2002 09:05:10 -0400 (EDT)
-From: "Allen Smith" <easmith@beatrice.rutgers.edu>
+From: Allen Smith <easmith@beatrice.rutgers.edu>
 Message-Id: <10209260905.ZM2657541@puck2.rutgers.edu>
 Date: Thu, 26 Sep 2002 09:05:08 -0400
 In-Reply-To: Daniel Quinlan <quinlan@pathname.com>
-    "Re: GA Development (was Re: [SAdev] [Bug 1030] NO_INVENTORY dangerous)"
+    Re: GA Development (was Re: [SAdev] [Bug 1030] NO_INVENTORY dangerous)
     (Sep 25,  7:35pm)
 References: <20020925231047.137DE9CE4C@belphegore.hughes-family.org>
     <10209251923.ZM2637799@puck2.rutgers.edu>
@@ -42,7 +42,7 @@ On Sep 25,  7:35pm, Daniel Quinlan wrote:
 > > reasonable processor time - I can justify the GA fiddling part as
 > > being part of my research, but not the mail processing...), so in
 > > order to test out my changes someone needs to send me a copy of the
-> > "tmp/scores.h" and "tmp/tests.h" that get generated prior to the GA
+> > tmp/scores.h and tmp/tests.h that get generated prior to the GA
 > > going into action.
 > 
 > Why not start with mass-check corpus results? It's much easier to get
@@ -60,7 +60,7 @@ Good point. Will report back on my results.
 -- 
 Allen Smith			http://cesario.rutgers.edu/easmith/
 September 11, 2001		A Day That Shall Live In Infamy II
-"They that can give up essential liberty to obtain a little temporary
-safety deserve neither liberty nor safety." - Benjamin Franklin
+They that can give up essential liberty to obtain a little temporary
+safety deserve neither liberty nor safety. - Benjamin Franklin
 
 

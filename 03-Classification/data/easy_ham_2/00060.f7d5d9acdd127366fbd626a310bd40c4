@@ -25,12 +25,12 @@ To: Irish Linux Users Group <ilug@linux.ie>
 Reply-To: Irish Linux Users Group <ilug@linux.ie>
 Subject: Re: [ILUG] How to copy some files
 In-Reply-To: Message from Niall O Broin <niall@linux.ie> of
-    "Fri, 19 Jul 2002 14:28:42 BST."
+    Fri, 19 Jul 2002 14:28:42 BST.
     <20020719132842.GA2506@bagend.makalumedia.com>
 X-Mailer: [nmh-1.0.4] MH.6.8, SuSE Linux 7.3
 X-Url: http://www.blf.utvinternet.ie
 MIME-Version: 1.0
-Content-Type: text/plain; charset="utf-8"
+Content-Type: text/plain; charset=utf-8
 Content-Id: <2322.1027087211.1@linux.local>
 Date: Fri, 19 Jul 2002 15:00:12 +0100
 From: Brian Foster <blf@utvinternet.ie>
@@ -59,7 +59,7 @@ X-Beenthere: ilug@linux.ie
  do your (and my) favourite, it'll be Ok:
 
   1. cpio(1) preserves hard links, i.e., if F1 and F2 are
-     hard-linked and both are "copied", then the "copies"
+     hard-linked and both are copied, then the copies
      are also hard-linked.  this is true of all `cpio's
      (and `tar' and any other decent/usable archival tool,
      by definition (IMHO)).
@@ -92,10 +92,10 @@ p.s. assuming this is a one-time operation that you won't repeat
  Innovative, very experienced, Unix and      | Brian Foster    Dublin, Ireland
  Chorus (embedded RTOS) kernel internals     | e-mail: blf@utvinternet.ie
  expert looking for a new position ...       | mobile: (+353 or 0)86 854 9268
-  For a rÃ©sumÃ©, contact me, or see my website  http://www.blf.utvinternet.ie
+  For a rÃsumÃ, contact me, or see my website  http://www.blf.utvinternet.ie
 
-    Stop E$$o (ExxonMobile):  Â«Whatever you do, don't buy Esso --- they
-     don't give a damn about global warming.Â»    http://www.stopesso.com
+    Stop E$$o (ExxonMobile):  ÂWhatever you do, don't buy Esso --- they
+     don't give a damn about global warming.Â    http://www.stopesso.com
      Supported by Greenpeace, Friends of the Earth, and numerous others...
 
 -- 

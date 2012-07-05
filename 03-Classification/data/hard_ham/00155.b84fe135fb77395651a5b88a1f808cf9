@@ -7,9 +7,9 @@ Received: from mailhost3 (nelson.techtarget.com [65.214.43.159])
 Received: from localhost.localdomain (localhost.localdomain [127.0.0.1])
 	by mailhost3 (Postfix) with ESMTP
 	id ABBAF3E3348; Thu, 25 Jul 2002 04:00:12 -0400 (EDT)
-To: "SearchNetworking" <searchNetworking@lists.techtarget.com>
-From: "SearchNetworking" <searchNetworking-ED20D7B9A49E402C@lists.techtarget.com>
-Reply-To: "SearchNetworking" <searchNetworking-ED20D7B9A49E402C@lists.techtarget.com>
+To: SearchNetworking <searchNetworking@lists.techtarget.com>
+From: SearchNetworking <searchNetworking-ED20D7B9A49E402C@lists.techtarget.com>
+Reply-To: SearchNetworking <searchNetworking-ED20D7B9A49E402C@lists.techtarget.com>
 Subject: VoIP tip: Troubleshooting voice
 Mime-Version: 1.0
 Content-type: text/plain; charset=ISO-8859-1
@@ -215,7 +215,7 @@ Unsubscribe from 'Voice Over IP Tips'
  - Click on the link to Edit email subscriptions.
  - Uncheck the box next to the newsletter you wish 
    to unsubscribe from.
- - When finished, click "Save Changes to My Profile."
+ - When finished, click Save Changes to My Profile.
 
 
 

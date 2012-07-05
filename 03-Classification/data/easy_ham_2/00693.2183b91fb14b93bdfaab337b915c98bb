@@ -39,16 +39,16 @@ Here you go, from Mr. Ballmer to Mr. Gillmor to Mr. FoRK...
 Architecture is war; love 'em or hate 'em, at least Microsoft
 understands that: as Chief SA, BillG oversees all product strategy.
 
-"There are two things a road map can be. One is just a piece of paper
+There are two things a road map can be. One is just a piece of paper
 that tells what everyone is doing and records a bunch of bottom-up
 plans. Or it can be something where we impose more broadly our vision
 from the top. We are not going to try to get everything shared. ...
 That's a path for getting everything stopped up. But at the same time we
 are trying to take the top four or five things we are trying to do in
 the Longhorn wave, Yukon wave, or the .Net wave and really have enough
-time to have some cross-cutting discussions about how we make that happen."
+time to have some cross-cutting discussions about how we make that happen.
 
-"Bill [Gates] is dedicated full-time to being chief software
+Bill [Gates] is dedicated full-time to being chief software
 architect. He also happens to be chairman of the company, but he spends
 most of his time being chief software architect. We have a body now that
 meets every month -- the SLTT [Senior Leadership Technical Team],
@@ -56,9 +56,9 @@ basically the top people involved in the product-creating strategy --
 and we present and discuss the issues. Bill is driving a process for
 each of these waves. For instance, [he will ask] what are the
 cross-cutting scenarios that I want, and then [he will] get all the
-right product groups together and bring these things in front of the SLTT."
+right product groups together and bring these things in front of the SLTT.
 
-"People talk about what it takes to be a good manager, and people talk
+People talk about what it takes to be a good manager, and people talk
 about being a good coach and getting people to like you. In a large
 organization those things are important, but at a certain level, ... the
 most important thing you can do for your people to make them better is
@@ -68,7 +68,7 @@ the technical road map and the SLTT process; it is the scenarios. From
 my perspective, it is the P&L [profit and loss] structure and the
 multiple businesses because, given how we work, giving people a
 framework that gets them to make the whole bigger than the sum of the
-parts will mean we have better offerings."
+parts will mean we have better offerings.
 
 
 
@@ -175,7 +175,7 @@ some issues we need to address among the smaller-size companies, and we will.
 
 What we are trying to do for the health of .Net and the health of the
 company and the sanity of the people who work there and the quality of
-the products we produce is to have a more orchestrated, ¸ber-road map
+the products we produce is to have a more orchestrated, ber-road map
 of where we are going.
 
 Now there are two things a road map can be. One is just a piece of paper
@@ -385,14 +385,14 @@ that makes broadband a must-have.
 > 
 > Ballmer addresses a number of key issues for customers and partners.
 > 
-> On security and trust: "There are some things I would have done
-> differently."
+> On security and trust: There are some things I would have done
+> differently.
 > 
-> On coordinating product groups: "We are working hard to make sure
-> the whole is bigger than the sum of the parts."  
+> On coordinating product groups: We are working hard to make sure
+> the whole is bigger than the sum of the parts.  
 >
-> On product licensing: "We are still going to have to get smart
-> about the full ramifications." 
+> On product licensing: We are still going to have to get smart
+> about the full ramifications. 
 
 
 ----
@@ -435,7 +435,7 @@ provided.
 Implications  
 
 The following table emphasizes how this unified approach differs from
-the "pure" (albeit hypothetical) different positions described above.
+the pure (albeit hypothetical) different positions described above.
 
 1. Resource -- POST operations explicitly have the possibility of
 modifying multiple resources.  PUT and DELETE operations are rarely

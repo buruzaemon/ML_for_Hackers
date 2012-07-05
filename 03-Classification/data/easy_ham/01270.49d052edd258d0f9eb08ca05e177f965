@@ -58,7 +58,7 @@ On Mon, 2002-10-07 at 09:56, Matthias Saou wrote:
 > > DVD works great now.
 > 
 > BTW, I think I'll kake it so that my ogle package automatically inserts
-> this "options ide-cd dma=1" to /etc/modules.conf! It currently creates the
+> this options ide-cd dma=1 to /etc/modules.conf! It currently creates the
 > /dev/dvd link to /dev/cdrom (which will work most of the time, if there's
 > only one drive) if no /dev/dvd exists.
 

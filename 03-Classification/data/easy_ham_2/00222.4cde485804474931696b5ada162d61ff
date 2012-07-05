@@ -31,7 +31,7 @@ To: ILUG main list <ilug@linux.ie>
 Message-Id: <20020802095502.E6407@bofh.irmet.ie>
 Mail-Followup-To: ILUG main list <ilug@linux.ie>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Content-Disposition: inline
 User-Agent: Mutt/1.2.5i
 Subject: [ILUG] Fwd: OpenSSH trojan?
@@ -50,7 +50,7 @@ Conor
 
 Date: Thu, 01 Aug 2002 12:26:53 +0100
 From: quentyn@fotango.com
-To: "secureshell@securityfocus.com" <secureshell@securityfocus.com>
+To: secureshell@securityfocus.com <secureshell@securityfocus.com>
 Subject: OpenSSH trojan?
 
 Posts doing the rounds ( probably loads of these posts sitting awaiting

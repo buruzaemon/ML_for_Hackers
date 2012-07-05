@@ -26,7 +26,7 @@ Cc: spamassassin-talk@example.sourceforge.net
 Subject: Re: [SAtalk] O.T. Habeus -- Why?
 References: <1030560510.17408.TMDA@omega.paradigm-omega.net>
 From: Daniel Quinlan <quinlan@pathname.com>
-In-Reply-To: Robin Lynn Frank's message of "Wed, 28 Aug 2002 11:48:12 -0700"
+In-Reply-To: Robin Lynn Frank's message of Wed, 28 Aug 2002 11:48:12 -0700
 Message-Id: <yf2sn0yk4x6.fsf@proton.pathname.com>
 X-Mailer: Gnus v5.7/Emacs 20.7
 Sender: spamassassin-talk-admin@example.sourceforge.net
@@ -63,7 +63,7 @@ Here is the bug I opened:
 RBLs have the same problem, but there is no negative RBL header rule
 with a -20 score that can be forged, so the problem is unique to Habeas.
 
-> Since I can set up spamassassin to I don't "lose" any email, what do I
+> Since I can set up spamassassin to I don't lose any email, what do I
 > gain by making it easier for spam to get through??
 
 My primary issue is the magnitude of the negative score and that it was

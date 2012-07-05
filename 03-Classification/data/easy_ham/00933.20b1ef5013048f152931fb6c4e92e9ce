@@ -22,7 +22,7 @@ X-Trace: UmFuZG9tSVZS1MQn43DX+mF8g/trLv8mynH5s/LrEHehkhaZqH3TtcK5PDdI09YGwM0XUAY
 Received: from eb-174121.od.nih.gov ([156.40.174.121]
     helo=TOSHIBA-L8QYR7M) by smtp03.mrf.mail.rcn.net with asmtp (Exim 3.35 #6)
     id 17joqW-0005wP-00 for fork@xent.com; Tue, 27 Aug 2002 18:30:00 -0400
-From: "John Evdemon" <jevdemon@acm.org>
+From: John Evdemon <jevdemon@acm.org>
 To: fork@spamassassin.taint.org
 MIME-Version: 1.0
 Subject: Re: DataPower announces XML-in-silicon

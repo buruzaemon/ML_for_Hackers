@@ -22,13 +22,13 @@ Received: from dialup-0934.dublin.iol.ie ([193.203.147.166]
     17ZqJZ-0007vh-00; Wed, 31 Jul 2002 11:02:45 +0100
 Received: from shakespear [192.168.0.2] by Proxy+; Wed, 31 Jul 2002
     11:05:44 +0100 for multiple recipients
-From: "William Harrison - Protocol" <wharrison@pro.ie>
-To: "Nick Murtagh" <nickm@go2.ie>, <webdev@linux.ie>
+From: William Harrison - Protocol <wharrison@pro.ie>
+To: Nick Murtagh <nickm@go2.ie>, <webdev@linux.ie>
 Subject: RE: [Webdev] Migrating TO W2K
 Date: Wed, 31 Jul 2002 11:05:44 +0100
 Message-Id: <NFBBKGICNJAKAMHIOPMBEEJBDMAA.wharrison@pro.ie>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal
@@ -49,10 +49,10 @@ Try PHPTriad
 
  http://download.com.com/3000-2165-6474268.html?tag=lst-0-1
 
-"PHPTriad is a complete PHP development and server environment for Windows.
+PHPTriad is a complete PHP development and server environment for Windows.
 It installs PHP, Apache, MySQL, and PHPMyAdmin, both installing and setting
 up the environment. Version 2.11 updates all components and it now includes
-Perl 5."
+Perl 5.
 
 HTH
 

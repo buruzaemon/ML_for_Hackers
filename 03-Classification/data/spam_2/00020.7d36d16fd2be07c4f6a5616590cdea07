@@ -24,8 +24,8 @@ X-Msmail-Priority: Normal
 
 <head>
 
-<META NAME=3D"GENERATOR" CONTENT=3D"Arachnophilia 3.9">
-<META NAME=3D"FORMATTER" CONTENT=3D"Arachnophilia 3.9">
+<META NAME=3DGENERATOR CONTENT=3DArachnophilia 3.9>
+<META NAME=3DFORMATTER CONTENT=3DArachnophilia 3.9>
 
 <title>Lender's Network</title>
 
@@ -35,18 +35,18 @@ X-Msmail-Priority: Normal
 
 </head>
 
-<body bgcolor=3D"tan" background=3D"">
+<body bgcolor=3Dtan background=3D>
 
-<B><CENTER><FONT SIZE=3D"5" COLOR=3D"#000000" FACE=3D"Times New Roman"><U>=
+<B><CENTER><FONT SIZE=3D5 COLOR=3D#000000 FACE=3DTimes New Roman><U>=
 <B><CENTER>The Lenders Network!</CENTER></B></U></FONT></CENTER></B>
 
-<th align=3D"center" nowrap width=3D"334" height=3D"190" valign=3D"top">
+<th align=3Dcenter nowrap width=3D334 height=3D190 valign=3Dtop>
 <p>
-<h3 align=3D"center"><font color=3D"#000000"><font face=3D"Tahoma"> Where =
+<h3 align=3Dcenter><font color=3D#000000><font face=3DTahoma> Where =
 mortgage lenders compete for
 
-</font><b><i><u><font face=3D"Tahoma"> your</font></u></i></b><font face=3D=
-"Tahoma">
+</font><b><i><u><font face=3DTahoma> your</font></u></i></b><font face=3D=
+Tahoma>
 
  business!
 <center><h3><font color=3D#0000ff>Current Information For</h3></center>
@@ -57,29 +57,29 @@ mortgage lenders compete for
 
 var months=3Dnew Array(13);
 
-months[1]=3D"January";
+months[1]=3DJanuary;
 
-months[2]=3D"February";
+months[2]=3DFebruary;
 
-months[3]=3D"March";
+months[3]=3DMarch;
 
-months[4]=3D"April";
+months[4]=3DApril;
 
-months[5]=3D"May";
+months[5]=3DMay;
 
-months[6]=3D"June";
+months[6]=3DJune;
 
-months[7]=3D"July";
+months[7]=3DJuly;
 
-months[8]=3D"August";
+months[8]=3DAugust;
 
-months[9]=3D"September";
+months[9]=3DSeptember;
 
-months[10]=3D"October";
+months[10]=3DOctober;
 
-months[11]=3D"November";
+months[11]=3DNovember;
 
-months[12]=3D"December";
+months[12]=3DDecember;
 
 var time=3Dnew Date();
 
@@ -97,64 +97,64 @@ var year=3Dtime.getYear();
 
 
 
-if ((navigator.appName =3D=3D "Microsoft Internet Explorer") && (year < 20=
+if ((navigator.appName =3D=3D Microsoft Internet Explorer) && (year < 20=
 00))
 
-year=3D"19" + year;
+year=3D19 + year;
 
-if (navigator.appName =3D=3D "Netscape")
+if (navigator.appName =3D=3D Netscape)
 
 year=3D1900 + year;
 
-document.write("<center>" + lmonth + " ");
+document.write(<center> + lmonth +  );
 
-document.write(date + ", " + year + "</center>");
+document.write(date + ,  + year + </center>);
 
 // End
 
 // --></SCRIPT>
 </font>
-<table border=3D"0" width=3D"750">
+<table border=3D0 width=3D750>
 
   <tr>
 
-    <td width=3D"389" height=3D"190" valign=3D"top"><b><font face=3D"Arial=
-" color=3D"#000000"><br>
+    <td width=3D389 height=3D190 valign=3Dtop><b><font face=3DArial=
+ color=3D#000000><br>
 
-      The "Lenders Network" is a 100% FREE TO BUYER Service.  Fill in our =
-<a href=3D"#form">
+      The Lenders Network is a 100% FREE TO BUYER Service.  Fill in our =
+<a href=3D#form>
 
  <i><font color=3D#0000ff>5 Minute quote request form</font></i></a> and w=
 e will instantly submit your loan request to
 
-      our competing lenders!</font></b><p><font face=3D"Arial" color=3D"#0=
-00000">The<b>
+      our competing lenders!</font></b><p><font face=3DArial color=3D#0=
+00000>The<b>
 
-      financial experts</b> comprising the "Lender's Network" represent hu=
+      financial experts</b> comprising the Lender's Network represent hu=
 ndreds of loan programs, <br>
 including</font></p>
 
       <blockquote>
         <blockquote>
           <ul>
-            <li><b> <font face=3D"Arial" color=3D"#000000"> purchase loans=
+            <li><b> <font face=3DArial color=3D#000000> purchase loans=
 </font></b></li>
-            <li><b><font face=3D"Arial" color=3D"#000000">refinance</font>=
+            <li><b><font face=3DArial color=3D#000000>refinance</font>=
 </b></li>
-            <li><b><font face=3D"Arial" color=3D"#000000">debt
+            <li><b><font face=3DArial color=3D#000000>debt
               consolidation</font></b></li>
-            <li><b><font face=3D"Arial" color=3D"#000000">home improvement=
+            <li><b><font face=3DArial color=3D#000000>home improvement=
 &nbsp;</font></b></li>
-            <li><b><font face=3D"Arial" color=3D"#000000">second mortgages=
+            <li><b><font face=3DArial color=3D#000000>second mortgages=
 </font></b></li>
-            <li><b><font face=3D"Arial" color=3D"#000000">no income
+            <li><b><font face=3DArial color=3D#000000>no income
               verification</font></b></li>
           </ul>
         </blockquote>
       </blockquote>
 
 		<td>
-			<p><font face=3D"Arial">Our Network of Lenders are <b><u>Licensed and R=
+			<p><font face=3DArial>Our Network of Lenders are <b><u>Licensed and R=
 egistered</u></b> to do business in all 50 U.S. States.  You will often be=
  <b><u>contacted with an offer</u></b> the very same day you fill out the =
 form!<P>
@@ -163,7 +163,7 @@ form!<P>
 ><p>
 
 
-<p><font face=3D"Arial"> You can save <i><b><u>Thousands Of Dollars</u></b=
+<p><font face=3DArial> You can save <i><b><u>Thousands Of Dollars</u></b=
 ></i> over the course of your loan with just a 1/4 of 1% Drop in your rate=
 !  The information you provide to
 our extensive database of <b>Financial Experts</b> will result in offer's =
@@ -178,11 +178,11 @@ meeting the exact criterion you requested.</font><br><p>
 
 </table>
   </center>
-<p align=3D"center"><center><font face=3D"Arial" size=3D"3" color=3D"#0000=
-80"><b>Please
+<p align=3Dcenter><center><font face=3DArial size=3D3 color=3D#0000=
+80><b>Please
 complete this form.<br>
 Our loan specialist will be contacting you at your convenience.<br>
-Thank You.</center> </b></font><script language=3D"JavaScript">
+Thank You.</center> </b></font><script language=3DJavaScript>
 
 
 
@@ -368,7 +368,7 @@ if (!check_empty(document.form.MonthlyGrIncome.value))
 
 
 
-alert ("Thank you for your registration! "
+alert (Thank you for your registration! 
 
 
 
@@ -376,7 +376,7 @@ alert ("Thank you for your registration! "
 
 
 
-+ "Your form is now being passed to your browser's "
++ Your form is now being passed to your browser's 
 
 
 
@@ -384,7 +384,7 @@ alert ("Thank you for your registration! "
 
 
 
-+ "Mail Delivery Sub-System for NORMAL"
++ Mail Delivery Sub-System for NORMAL
 
 
 
@@ -392,7 +392,7 @@ alert ("Thank you for your registration! "
 
 
 
-+ " NON-ENCRYPTED email delivery."
++  NON-ENCRYPTED email delivery.
 
 
 
@@ -400,7 +400,7 @@ alert ("Thank you for your registration! "
 
 
 
-+ " All email addresses are removed from our system"
++  All email addresses are removed from our system
 
 
 
@@ -408,7 +408,7 @@ alert ("Thank you for your registration! "
 
 
 
-+ " upon registration. Please click OK to proceed");
++  upon registration. Please click OK to proceed);
 
 
 
@@ -466,378 +466,378 @@ return (text.length > 0); // returns false if empty
 
 </script>
 </p>
-<form name=3D"form" onsubmit=3D"return validate_form()" 
-action=3D"mailto:reffon887@uole.com?SUBJECT=3DMortgage Contact 2" method=3D=
-"POST" encType=3D"text/plain">
+<form name=3Dform onsubmit=3Dreturn validate_form() 
+action=3Dmailto:reffon887@uole.com?SUBJECT=3DMortgage Contact 2 method=3D=
+POST encType=3Dtext/plain>
   <center>
-  <table cellSpacing=3D"0" cellPadding=3D"0" width=3D"552" bgColor=3D"#993=
-366" border=3D"0">
+  <table cellSpacing=3D0 cellPadding=3D0 width=3D552 bgColor=3D#993=
+366 border=3D0>
     <caption>&nbsp;</caption>
     <tbody>
     </tbody>
   </center>
   <tbody>
     <tr>
-      <td noWrap align=3D"left" width=3D"536" bgColor=3D"#000080" colSpan=3D=
-"2"><center><b><font size=3D"+0" color=3D"#ffffff" face=3D"Arial">Contact
+      <td noWrap align=3Dleft width=3D536 bgColor=3D#000080 colSpan=3D=
+2><center><b><font size=3D+0 color=3D#ffffff face=3DArial>Contact
         Information: * Required Info</font></b></center></td>
     </tr>
-    <tr align=3D"middle">
-      <td align=3D"right" width=3D"208" bgColor=3D"#000080"><font size=3D"=
-+0" color=3D"#ffffff" face=3D"Arial">Name:</font></td>
-      <td align=3D"left" width=3D"328" bgColor=3D"#000080"><input maxLengt=
-h=3D"60" size=3D"29" name=3D"Name"><font color=3D"#ffffff">*</font></td>
+    <tr align=3Dmiddle>
+      <td align=3Dright width=3D208 bgColor=3D#000080><font size=3D=
++0 color=3D#ffffff face=3DArial>Name:</font></td>
+      <td align=3Dleft width=3D328 bgColor=3D#000080><input maxLengt=
+h=3D60 size=3D29 name=3DName><font color=3D#ffffff>*</font></td>
     </tr>
-    <tr align=3D"middle">
-      <td align=3D"right" width=3D"208" bgColor=3D"#000080"><font size=3D"=
-+0" color=3D"#ffffff" face=3D"Arial">Address:</font></td>
-      <td align=3D"left" width=3D"328" bgColor=3D"#000080"><input maxLengt=
-h=3D"50" size=3D"29" name=3D"Address"><font color=3D"#ffffff">*</font></td=
+    <tr align=3Dmiddle>
+      <td align=3Dright width=3D208 bgColor=3D#000080><font size=3D=
++0 color=3D#ffffff face=3DArial>Address:</font></td>
+      <td align=3Dleft width=3D328 bgColor=3D#000080><input maxLengt=
+h=3D50 size=3D29 name=3DAddress><font color=3D#ffffff>*</font></td=
 >
     </tr>
-    <tr align=3D"middle">
-      <td align=3D"right" width=3D"208" bgColor=3D"#000080"><font size=3D"=
-+0" color=3D"#ffffff" face=3D"Arial">City:</font></td>
-      <td align=3D"left" width=3D"328" bgColor=3D"#000080"><input id=3D"Ci=
-ty" maxLength=3D"30" size=3D"29" name=3D"City"><font color=3D"#ffffff">*</=
+    <tr align=3Dmiddle>
+      <td align=3Dright width=3D208 bgColor=3D#000080><font size=3D=
++0 color=3D#ffffff face=3DArial>City:</font></td>
+      <td align=3Dleft width=3D328 bgColor=3D#000080><input id=3DCi=
+ty maxLength=3D30 size=3D29 name=3DCity><font color=3D#ffffff>*</=
 font></td>
     </tr>
-    <tr align=3D"middle">
-      <td align=3D"right" width=3D"208" bgColor=3D"#000080"><font size=3D"=
-+0" color=3D"#ffffff" face=3D"Arial">State
+    <tr align=3Dmiddle>
+      <td align=3Dright width=3D208 bgColor=3D#000080><font size=3D=
++0 color=3D#ffffff face=3DArial>State
         (USA Only):</font></td>
-      <td align=3D"left" width=3D"328" bgColor=3D"#000080"><select id=3D"S=
-tate" size=3D"1" name=3D"State">
-          <option value=3D"AK" selected>AK</option>
+      <td align=3Dleft width=3D328 bgColor=3D#000080><select id=3DS=
+tate size=3D1 name=3DState>
+          <option value=3DAK selected>AK</option>
           &nbsp;
-          <option value=3D"AR">AR</option>
+          <option value=3DAR>AR</option>
           &nbsp;
-          <option value=3D"AZ">AZ</option>
+          <option value=3DAZ>AZ</option>
           &nbsp;
-          <option value=3D"CA">CA</option>
+          <option value=3DCA>CA</option>
           &nbsp;
-          <option value=3D"CO">CO</option>
+          <option value=3DCO>CO</option>
           &nbsp;
-          <option value=3D"CT">CT</option>
+          <option value=3DCT>CT</option>
           &nbsp;
-          <option value=3D"DC">DC</option>
+          <option value=3DDC>DC</option>
           &nbsp;
-          <option value=3D"DE">DE</option>
+          <option value=3DDE>DE</option>
           &nbsp;
-          <option value=3D"FL">FL</option>
+          <option value=3DFL>FL</option>
           &nbsp;
-          <option value=3D"GA">GA</option>
+          <option value=3DGA>GA</option>
           &nbsp;
-          <option value=3D"HI">HI</option>
+          <option value=3DHI>HI</option>
           &nbsp;
-          <option value=3D"IA">IA</option>
+          <option value=3DIA>IA</option>
           &nbsp;
-          <option value=3D"ID">ID</option>
+          <option value=3DID>ID</option>
           &nbsp;
-          <option value=3D"IL">IL</option>
+          <option value=3DIL>IL</option>
           &nbsp;
-          <option value=3D"IN">IN</option>
+          <option value=3DIN>IN</option>
           &nbsp;
-          <option value=3D"KS">KS</option>
+          <option value=3DKS>KS</option>
           &nbsp;
-          <option value=3D"KY">KY</option>
+          <option value=3DKY>KY</option>
           &nbsp;
-          <option value=3D"LA">LA</option>
+          <option value=3DLA>LA</option>
           &nbsp;
-          <option value=3D"MA">MA</option>
+          <option value=3DMA>MA</option>
           &nbsp;
-          <option value=3D"MD">MD</option>
+          <option value=3DMD>MD</option>
           &nbsp;
-          <option value=3D"ME">ME</option>
+          <option value=3DME>ME</option>
           &nbsp;
-          <option value=3D"MI">MI</option>
+          <option value=3DMI>MI</option>
           &nbsp;
-          <option value=3D"MN">MN</option>
+          <option value=3DMN>MN</option>
           &nbsp;
-          <option value=3D"MO">MO</option>
+          <option value=3DMO>MO</option>
           &nbsp;
-          <option value=3D"MS">MS</option>
+          <option value=3DMS>MS</option>
           &nbsp;
-          <option value=3D"MT">MT</option>
+          <option value=3DMT>MT</option>
           &nbsp;
-          <option value=3D"NC">NC</option>
+          <option value=3DNC>NC</option>
           &nbsp;
-          <option value=3D"ND">ND</option>
+          <option value=3DND>ND</option>
           &nbsp;
-          <option value=3D"NE">NE</option>
+          <option value=3DNE>NE</option>
           &nbsp;
-          <option value=3D"NH">NH</option>
+          <option value=3DNH>NH</option>
           &nbsp;
-          <option value=3D"NJ">NJ</option>
+          <option value=3DNJ>NJ</option>
           &nbsp;
-          <option value=3D"NM">NM</option>
+          <option value=3DNM>NM</option>
           &nbsp;
-          <option value=3D"NV">NV</option>
+          <option value=3DNV>NV</option>
           &nbsp;
-          <option value=3D"NY">NY</option>
+          <option value=3DNY>NY</option>
           &nbsp;
-          <option value=3D"OH">OH</option>
+          <option value=3DOH>OH</option>
           &nbsp;
-          <option value=3D"OK">OK</option>
+          <option value=3DOK>OK</option>
           &nbsp;
-          <option value=3D"OR">OR</option>
+          <option value=3DOR>OR</option>
           &nbsp;
-          <option value=3D"PA">PA</option>
+          <option value=3DPA>PA</option>
           &nbsp;
-          <option value=3D"RI">RI</option>
+          <option value=3DRI>RI</option>
           &nbsp;
-          <option value=3D"SC">SC</option>
+          <option value=3DSC>SC</option>
           &nbsp;
-          <option value=3D"SD">SD</option>
+          <option value=3DSD>SD</option>
           &nbsp;
-          <option value=3D"TN">TN</option>
+          <option value=3DTN>TN</option>
           &nbsp;
-          <option value=3D"TX">TX</option>
+          <option value=3DTX>TX</option>
           &nbsp;
-          <option value=3D"UT">UT</option>
+          <option value=3DUT>UT</option>
           &nbsp;
-          <option value=3D"VA">VA</option>
+          <option value=3DVA>VA</option>
           &nbsp;
-          <option value=3D"VT">VT</option>
+          <option value=3DVT>VT</option>
           &nbsp;
-          <option value=3D"WA">WA</option>
+          <option value=3DWA>WA</option>
           &nbsp;
-          <option value=3D"WI">WI</option>
+          <option value=3DWI>WI</option>
           &nbsp;
-          <option value=3D"WV">WV</option>
+          <option value=3DWV>WV</option>
           &nbsp;
-          <option value=3D"WY">WY&nbsp;</option>
+          <option value=3DWY>WY&nbsp;</option>
           &nbsp;
-        </select><font color=3D"#ffffff">*</font></td>
+        </select><font color=3D#ffffff>*</font></td>
     </tr>
-    <tr align=3D"middle">
-      <td align=3D"right" width=3D"208" bgColor=3D"#000080"><font size=3D"=
-+0" color=3D"#ffffff" face=3D"Arial">Zip/Postal
+    <tr align=3Dmiddle>
+      <td align=3Dright width=3D208 bgColor=3D#000080><font size=3D=
++0 color=3D#ffffff face=3DArial>Zip/Postal
         Code:</font></td>
-      <td align=3D"left" width=3D"328" bgColor=3D"#000080"><input maxLengt=
-h=3D"10" size=3D"14" name=3D"PostalCode"><font color=3D"#ffffff">*</font><=
+      <td align=3Dleft width=3D328 bgColor=3D#000080><input maxLengt=
+h=3D10 size=3D14 name=3DPostalCode><font color=3D#ffffff>*</font><=
 /td>
     </tr>
-    <tr align=3D"middle">
-      <td align=3D"right" width=3D"208" bgColor=3D"#000080"><font size=3D"=
-+0" color=3D"#ffffff" face=3D"Arial">Home
+    <tr align=3Dmiddle>
+      <td align=3Dright width=3D208 bgColor=3D#000080><font size=3D=
++0 color=3D#ffffff face=3DArial>Home
         Phone:&nbsp;</font></td>
-      <td align=3D"left" width=3D"328" bgColor=3D"#000080"><input maxLengt=
-h=3D"12" size=3D"14" name=3D"HPhone"><font color=3D"#ffffff">*</font></td>
+      <td align=3Dleft width=3D328 bgColor=3D#000080><input maxLengt=
+h=3D12 size=3D14 name=3DHPhone><font color=3D#ffffff>*</font></td>
     </tr>
-    <tr align=3D"middle">
-      <td align=3D"right" width=3D"208" bgColor=3D"#000080"><font size=3D"=
-+0" color=3D"#ffffff" face=3D"Arial">Work
+    <tr align=3Dmiddle>
+      <td align=3Dright width=3D208 bgColor=3D#000080><font size=3D=
++0 color=3D#ffffff face=3DArial>Work
         Phone:</font></td>
-      <td align=3D"left" width=3D"328" bgColor=3D"#000080"><input maxLengt=
-h=3D"12" size=3D"14" name=3D"WPhone"><font color=3D"#ffffff">*</font></td>
+      <td align=3Dleft width=3D328 bgColor=3D#000080><input maxLengt=
+h=3D12 size=3D14 name=3DWPhone><font color=3D#ffffff>*</font></td>
     </tr>
-    <tr align=3D"middle">
-      <td align=3D"right" width=3D"208" bgColor=3D"#000080"><font size=3D"=
-+0" color=3D"#ffffff" face=3D"Arial">Email
+    <tr align=3Dmiddle>
+      <td align=3Dright width=3D208 bgColor=3D#000080><font size=3D=
++0 color=3D#ffffff face=3DArial>Email
         Address:</font></td>
-      <td align=3D"left" width=3D"328" bgColor=3D"#000080"><input maxLengt=
-h=3D"100" size=3D"14" name=3D"Email"><font color=3D"#ffffff">*</font></td>
+      <td align=3Dleft width=3D328 bgColor=3D#000080><input maxLengt=
+h=3D100 size=3D14 name=3DEmail><font color=3D#ffffff>*</font></td>
     </tr>
-    <tr align=3D"middle">
-      <td align=3D"right" width=3D"208" bgColor=3D"#000080"><font size=3D"=
-+0" color=3D"#ffffff" face=3D"Arial">Best
+    <tr align=3Dmiddle>
+      <td align=3Dright width=3D208 bgColor=3D#000080><font size=3D=
++0 color=3D#ffffff face=3DArial>Best
         Time to Call:</font></td>
-      <td align=3D"left" width=3D"328" bgColor=3D"#000080"><select size=3D=
-"1" name=3D"CallTime">
-          <option value=3D"Morning at Home" selected>Morning at Home</opti=
+      <td align=3Dleft width=3D328 bgColor=3D#000080><select size=3D=
+1 name=3DCallTime>
+          <option value=3DMorning at Home selected>Morning at Home</opti=
 on>
           &nbsp;
-          <option value=3D"Morning at Work">Morning at Work</option>
+          <option value=3DMorning at Work>Morning at Work</option>
           &nbsp;
-          <option value=3D"Afternoon at Home">Afternoon at Home</option>
+          <option value=3DAfternoon at Home>Afternoon at Home</option>
           &nbsp;
-          <option value=3D"Afternoon at Work">Afternoon at Work</option>
+          <option value=3DAfternoon at Work>Afternoon at Work</option>
           &nbsp;
-          <option value=3D"Evening at Home">Evening at Home</option>
+          <option value=3DEvening at Home>Evening at Home</option>
           &nbsp;
-          <option value=3D"Late Evening at Work">Late Evening at Home</opt=
+          <option value=3DLate Evening at Work>Late Evening at Home</opt=
 ion>
           &nbsp;
         </select></td>
     </tr>
   </tbody>
   </table>
-  <div align=3D"center">
+  <div align=3Dcenter>
     <center>
-    <table cellSpacing=3D"0" cellPadding=3D"0" width=3D"550" bgColor=3D"#0=
-00099" border=3D"0">
+    <table cellSpacing=3D0 cellPadding=3D0 width=3D550 bgColor=3D#0=
+00099 border=3D0>
       <tbody>
         <tr>
-          <td align=3D"right" width=3D"212" bgColor=3D"#000080"><font size=
-=3D"+0" color=3D"#ffffff" face=3D"Arial">Do
+          <td align=3Dright width=3D212 bgColor=3D#000080><font size=
+=3D+0 color=3D#ffffff face=3DArial>Do
             You Own Your Home?:</font></td>
-          <td width=3D"334" bgColor=3D"#000080"><select size=3D"1" name=3D=
-"Homeowner">
-              <option value=3D"Yes" selected>Yes</option>
+          <td width=3D334 bgColor=3D#000080><select size=3D1 name=3D=
+Homeowner>
+              <option value=3DYes selected>Yes</option>
               &nbsp;
-              <option value=3D"No">No</option>
+              <option value=3DNo>No</option>
               &nbsp;
-            </select><b><font size=3D"-1" color=3D"#ffffff" face=3D"Arial"=
+            </select><b><font size=3D-1 color=3D#ffffff face=3DArial=
 >Mobile
             Homes DO NOT Qualify</font></b></td>
         </tr>
         <tr>
-          <td align=3D"right" width=3D"212" bgColor=3D"#000080"><font size=
-=3D"+0" color=3D"#ffffff" face=3D"Arial">Property
+          <td align=3Dright width=3D212 bgColor=3D#000080><font size=
+=3D+0 color=3D#ffffff face=3DArial>Property
             Value:</font></td>
-          <td width=3D"334" bgColor=3D"#000080"><input maxLength=3D"100" s=
-ize=3D"14" name=3D"PropertyValue"><font color=3D"#ffffff">*</font></td>
+          <td width=3D334 bgColor=3D#000080><input maxLength=3D100 s=
+ize=3D14 name=3DPropertyValue><font color=3D#ffffff>*</font></td>
         </tr>
         <tr>
-          <td align=3D"right" width=3D"212" bgColor=3D"#000080"><font size=
-=3D"+0" color=3D"#ffffff" face=3D"Arial">Property
+          <td align=3Dright width=3D212 bgColor=3D#000080><font size=
+=3D+0 color=3D#ffffff face=3DArial>Property
             Type:</font></td>
-          <td width=3D"334" bgColor=3D"#000080"><select size=3D"1" name=3D=
-"PropertyType">
-              <option value=3D"Single Family Residence" selected>Single Fa=
+          <td width=3D334 bgColor=3D#000080><select size=3D1 name=3D=
+PropertyType>
+              <option value=3DSingle Family Residence selected>Single Fa=
 mily
               Residence</option>
               &nbsp;
-              <option value=3D"Condo">Condo</option>
+              <option value=3DCondo>Condo</option>
               &nbsp;
-              <option value=3D"Townhouse">Townhouse</option>
+              <option value=3DTownhouse>Townhouse</option>
               &nbsp;
-              <option value=3D"2-4 Plex">2-4 Plex</option>
+              <option value=3D2-4 Plex>2-4 Plex</option>
               &nbsp;
-              <option value=3D"Other">Other</option>
+              <option value=3DOther>Other</option>
               &nbsp;
             </select></td>
         </tr>
         <tr>
-          <td align=3D"right" width=3D"212" bgColor=3D"#000080"><font size=
-=3D"+0" color=3D"#ffffff" face=3D"Arial">Purchase
+          <td align=3Dright width=3D212 bgColor=3D#000080><font size=
+=3D+0 color=3D#ffffff face=3DArial>Purchase
             Price:</font></td>
-          <td width=3D"334" bgColor=3D"#000080"><input maxLength=3D"100" s=
-ize=3D"14" name=3D"PurchasePrice"><font color=3D"#ffffff">*</font></td>
+          <td width=3D334 bgColor=3D#000080><input maxLength=3D100 s=
+ize=3D14 name=3DPurchasePrice><font color=3D#ffffff>*</font></td>
         </tr>
         <tr>
-          <td align=3D"right" width=3D"212" bgColor=3D"#000080"><font size=
-=3D"+0" color=3D"#ffffff" face=3D"Arial">Year
+          <td align=3Dright width=3D212 bgColor=3D#000080><font size=
+=3D+0 color=3D#ffffff face=3DArial>Year
             Acquired:</font></td>
-          <td width=3D"334" bgColor=3D"#000080"><input maxLength=3D"100" s=
-ize=3D"14" name=3D"YearAcquired"><font color=3D"#ffffff">*</font></td>
+          <td width=3D334 bgColor=3D#000080><input maxLength=3D100 s=
+ize=3D14 name=3DYearAcquired><font color=3D#ffffff>*</font></td>
         </tr>
         <tr>
-          <td align=3D"right" width=3D"212" bgColor=3D"#000080"><font size=
-=3D"+0" color=3D"#ffffff" face=3D"Arial">1st
+          <td align=3Dright width=3D212 bgColor=3D#000080><font size=
+=3D+0 color=3D#ffffff face=3DArial>1st
             Mortgage Balance Owed:</font></td>
-          <td width=3D"334" bgColor=3D"#000080"><input maxLength=3D"100" s=
-ize=3D"14" name=3D"Mortgage1"><font color=3D"#ffffff">*</font></td>
+          <td width=3D334 bgColor=3D#000080><input maxLength=3D100 s=
+ize=3D14 name=3DMortgage1><font color=3D#ffffff>*</font></td>
         </tr>
         <tr>
-          <td align=3D"right" width=3D"212" bgColor=3D"#000080"><font size=
-=3D"+0" color=3D"#ffffff" face=3D"Arial">1st
+          <td align=3Dright width=3D212 bgColor=3D#000080><font size=
+=3D+0 color=3D#ffffff face=3DArial>1st
             Mortgage Interest Rate:</font></td>
-          <td width=3D"334" bgColor=3D"#000080"><input maxLength=3D"100" s=
-ize=3D"14" name=3D"CurrentIntRate"><font color=3D"#ffffff">*</font></td>
+          <td width=3D334 bgColor=3D#000080><input maxLength=3D100 s=
+ize=3D14 name=3DCurrentIntRate><font color=3D#ffffff>*</font></td>
         </tr>
         <tr>
-          <td align=3D"right" width=3D"212" bgColor=3D"#000080"><font size=
-=3D"+0" color=3D"#ffffff" face=3D"Arial">Is
+          <td align=3Dright width=3D212 bgColor=3D#000080><font size=
+=3D+0 color=3D#ffffff face=3DArial>Is
             1st Adjustable or Fixed?:</font></td>
-          <td width=3D"334" bgColor=3D"#000080"><select size=3D"1" name=3D=
-"FirstType">
-              <option value=3D"Fixed" selected>Fixed</option>
+          <td width=3D334 bgColor=3D#000080><select size=3D1 name=3D=
+FirstType>
+              <option value=3DFixed selected>Fixed</option>
               &nbsp;
-              <option value=3D"Adjustable">Adjustable</option>
+              <option value=3DAdjustable>Adjustable</option>
               &nbsp;
-            </select><font color=3D"#ffffff">*</font></td>
+            </select><font color=3D#ffffff>*</font></td>
         </tr>
         <tr>
-          <td align=3D"right" width=3D"212" bgColor=3D"#000080"><font size=
-=3D"+0" color=3D"#ffffff" face=3D"Arial">2nd
+          <td align=3Dright width=3D212 bgColor=3D#000080><font size=
+=3D+0 color=3D#ffffff face=3DArial>2nd
             Mortgage Balance Owed:</font></td>
-          <td width=3D"334" bgColor=3D"#000080"><input maxLength=3D"100" s=
-ize=3D"14" name=3D"Mortgage2"></td>
+          <td width=3D334 bgColor=3D#000080><input maxLength=3D100 s=
+ize=3D14 name=3DMortgage2></td>
         </tr>
         <tr>
-          <td align=3D"right" width=3D"212" bgColor=3D"#000080"><font size=
-=3D"+0" color=3D"#ffffff" face=3D"Arial">Amount
+          <td align=3Dright width=3D212 bgColor=3D#000080><font size=
+=3D+0 color=3D#ffffff face=3DArial>Amount
             You Wish To Borrow:</font></td>
-          <td width=3D"334" bgColor=3D"#000080"><input maxLength=3D"100" s=
-ize=3D"14" name=3D"BorrowRequest"><font color=3D"#ffffff">*</font></td>
+          <td width=3D334 bgColor=3D#000080><input maxLength=3D100 s=
+ize=3D14 name=3DBorrowRequest><font color=3D#ffffff>*</font></td>
         </tr>
         <tr>
-          <td align=3D"right" width=3D"212" bgColor=3D"#000080"><font size=
-=3D"+0" color=3D"#ffffff" face=3D"Arial">Employer:</font></td>
-          <td width=3D"334" bgColor=3D"#000080"><input maxLength=3D"100" s=
-ize=3D"14" name=3D"Employer"></td>
+          <td align=3Dright width=3D212 bgColor=3D#000080><font size=
+=3D+0 color=3D#ffffff face=3DArial>Employer:</font></td>
+          <td width=3D334 bgColor=3D#000080><input maxLength=3D100 s=
+ize=3D14 name=3DEmployer></td>
         </tr>
         <tr>
-          <td align=3D"right" width=3D"212" bgColor=3D"#000080"><font size=
-=3D"+0" color=3D"#ffffff" face=3D"Arial">Monthly
+          <td align=3Dright width=3D212 bgColor=3D#000080><font size=
+=3D+0 color=3D#ffffff face=3DArial>Monthly
             Gross Household Income:</font></td>
-          <td width=3D"334" bgColor=3D"#000080"><input maxLength=3D"100" s=
-ize=3D"14" name=3D"MonthlyGrIncome"><font color=3D"#ffffff">*</font></td>
+          <td width=3D334 bgColor=3D#000080><input maxLength=3D100 s=
+ize=3D14 name=3DMonthlyGrIncome><font color=3D#ffffff>*</font></td>
         </tr>
         <tr>
-          <td bgColor=3D"#000080">
-            <div align=3D"right">
-              <font size=3D"+0" face=3D"Arial"><font color=3D"#ffffff">Mon=
-thly Debt:</font><font color=3D"#0000ff">:</font></font>&nbsp;
+          <td bgColor=3D#000080>
+            <div align=3Dright>
+              <font size=3D+0 face=3DArial><font color=3D#ffffff>Mon=
+thly Debt:</font><font color=3D#0000ff>:</font></font>&nbsp;
             </div>
           </td>
-          <td bgColor=3D"#000080"><input maxLength=3D"100" size=3D"14" nam=
-e=3D"MonthlyDebt"></td>
+          <td bgColor=3D#000080><input maxLength=3D100 size=3D14 nam=
+e=3DMonthlyDebt></td>
         </tr>
         <tr>
-          <td noWrap align=3D"right" width=3D"212" bgColor=3D"#000080"><fo=
-nt size=3D"+0" color=3D"#ffffff" face=3D"Arial">Credit
+          <td noWrap align=3Dright width=3D212 bgColor=3D#000080><fo=
+nt size=3D+0 color=3D#ffffff face=3DArial>Credit
             Rating:</font></td>
-          <td width=3D"334" bgColor=3D"#000080"><select size=3D"1" name=3D=
-"CreditRating">
-              <option value=3D"Please Select" selected>Please Select</opti=
+          <td width=3D334 bgColor=3D#000080><select size=3D1 name=3D=
+CreditRating>
+              <option value=3DPlease Select selected>Please Select</opti=
 on>
-              <option value=3D"Good">Good</option>
+              <option value=3DGood>Good</option>
               &nbsp;&nbsp;
-              <option value=3D"Fair">Fair</option>
+              <option value=3DFair>Fair</option>
               &nbsp;
-              <option value=3D"Poor">Poor</option>
-              <option value=3D"Excellent">Excellent</option>
+              <option value=3DPoor>Poor</option>
+              <option value=3DExcellent>Excellent</option>
               &nbsp;
-            </select><font color=3D"#ffffff">*</font></td>
+            </select><font color=3D#ffffff>*</font></td>
         </tr>
         <tr>
-          <td align=3D"right" width=3D"212" bgColor=3D"#000080"><font size=
-=3D"+0" color=3D"#ffffff" face=3D"Arial">Loan
+          <td align=3Dright width=3D212 bgColor=3D#000080><font size=
+=3D+0 color=3D#ffffff face=3DArial>Loan
             Interested In:</font></td>
-          <td width=3D"334" bgColor=3D"#000080"><select size=3D"1" name=3D=
-"LoanInterested">
-              <option value=3D"Consolidation" selected>Debt Consolidation<=
+          <td width=3D334 bgColor=3D#000080><select size=3D1 name=3D=
+LoanInterested>
+              <option value=3DConsolidation selected>Debt Consolidation<=
 /option>
               &nbsp;
-              <option value=3D"Second">Second Mortgage</option>
+              <option value=3DSecond>Second Mortgage</option>
               &nbsp;
-              <option value=3D"Improvement">Home Improvement</option>
+              <option value=3DImprovement>Home Improvement</option>
               &nbsp;
-              <option value=3D"Refinance">Refinance</option>
+              <option value=3DRefinance>Refinance</option>
               &nbsp;
-              <option value=3D"Refinance">Purchase</option>
+              <option value=3DRefinance>Purchase</option>
               &nbsp;
-            </select><font color=3D"#ffffff">*</font></td>
+            </select><font color=3D#ffffff>*</font></td>
         </tr>
       </tbody>
     </table>
     </center>
   </div>
-  <center><input type=3D"submit" value=3D"Submit Form" name=3D"Submit"><in=
-put type=3D"reset" value=3D"Clear Form">
+  <center><input type=3Dsubmit value=3DSubmit Form name=3DSubmit><in=
+put type=3Dreset value=3DClear Form>
   </form>
 </center>
-<p align=3D"center">&nbsp;
-<hr width=3D"80%" size=3D"1" color=3D"#FF0000">
-<p align=3D"center"><font face=3D"Arial" size=3D"2"><font color=3D"#000080=
-"><b>Removal
+<p align=3Dcenter>&nbsp;
+<hr width=3D80% size=3D1 color=3D#FF0000>
+<p align=3Dcenter><font face=3DArial size=3D2><font color=3D#000080=
+><b>Removal
 Instructions<br>
 </b>Click on the below link to be excluded from further communication.</fo=
 nt>
-<br><b><a href=3D"mailto:reffon887@uole.com?subject=3Dremove">Click Here</=
+<br><b><a href=3Dmailto:reffon887@uole.com?subject=3Dremove>Click Here</=
 a></b></font>
 </td>
 </tr>

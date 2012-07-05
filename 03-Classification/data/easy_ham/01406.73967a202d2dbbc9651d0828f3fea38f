@@ -29,8 +29,8 @@ References: <E17iJlB-0005yT-00@usw-sf-list2.sourceforge.net>
     <01aa01c24ae2$2a5baa70$f2812d40@landshark>
 MIME-Version: 1.0
 Content-Type: multipart/signed; micalg=pgp-sha1;
-    protocol="application/pgp-signature";
-    boundary="o99acAvKqrTZeiCU"
+    protocol=application/pgp-signature;
+    boundary=o99acAvKqrTZeiCU
 Content-Disposition: inline
 In-Reply-To: <01aa01c24ae2$2a5baa70$f2812d40@landshark>
 User-Agent: Mutt/1.4i
@@ -65,7 +65,7 @@ On Fri, Aug 23, 2002 at 04:17:55PM -0400, Sven Willenberger wrote:
 >=20
 > echo \$Z | /path/to/sendmail -bt -d0
 
-gives you the same information as "sendmail -d0.1 < /dev/null", which
+gives you the same information as sendmail -d0.1 < /dev/null, which
 doesn't include milter information.  (actually the -d0 part gives you the
 info, the $Z gives you sendmail version out of the test mode (-bt)... so
 it's slightly different, but not really.)

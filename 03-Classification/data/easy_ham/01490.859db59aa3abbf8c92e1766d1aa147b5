@@ -11,7 +11,7 @@ Cc: yyyy@spamassassin.taint.org (Justin Mason),
 	SpamAssassin-devel@lists.sourceforge.net
 Subject: Re: [SAdev] phew! 
 In-Reply-To: Message from Matt Kettler <mkettler_sa@comcast.net> 
-   of "Wed, 18 Sep 2002 02:04:29 EDT." <5.1.1.6.0.20020918014722.00a99b20@mail.comcast.net> 
+   of Wed, 18 Sep 2002 02:04:29 EDT. <5.1.1.6.0.20020918014722.00a99b20@mail.comcast.net> 
 From: yyyy@spamassassin.taint.org (Justin Mason)
 X-GPG-Key-Fingerprint: 0A48 2D8B 0B52 A87D 0E8A  6ADD 4137 1B50 6E58 EF0A
 X-Habeas-Swe-1: winter into spring
@@ -43,10 +43,10 @@ As Dan said -- it's a hard corpus, made harder without the spamtrap data.
 Also -- and this is an important point -- those measurements can't be
 directly compared, because I changed the methodology.  In 2.40 the scores
 were evolved on the entire corpus, then evaluated using that corpus; ie.
-there was no "blind" testing, and the scores could overfit and still
+there was no blind testing, and the scores could overfit and still
 provide good statistics.
 
-In 2.42, they're evaluated "blind", on a totally unseen set of messages,
+In 2.42, they're evaluated blind, on a totally unseen set of messages,
 so those figures would be a lot more accurate for real-world use.
 
 --j.

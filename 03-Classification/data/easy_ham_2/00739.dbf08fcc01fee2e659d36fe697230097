@@ -39,7 +39,7 @@ To: exmh-workers@spamassassin.taint.org
 Subject: cvs access working?
 From: Brent Welch <welch@panasas.com>
 X-Url: http://www.panasas.com/
-X-Face: "HxE|?EnC9fVMV8f70H83&{fgLE.|FZ^$>@Q(yb#N,Eh~N]e&]=>
+X-Face: HxE|?EnC9fVMV8f70H83&{fgLE.|FZ^$>@Q(yb#N,Eh~N]e&]=>
     r5~UnRml1:4EglY{9B+ :'wJq$@c_C!l8@<$t,{YUr4K,QJGHSvS~U]H`<+L*x?eGzSk>XH\W:AK\j?@?c1o<k;j'Ei/UL)!*0
     ILwSR)J\bc)gjz!rrGQ2#i*f:M:ydhK}jp4dWQW?;0{,#iWrCV$4~%e/3)$1/D
 MIME-Version: 1.0
@@ -61,9 +61,9 @@ List-Archive: <https://listman.spamassassin.taint.org/mailman/private/exmh-worke
 Date: Fri, 26 Jul 2002 15:00:57 -0700
 
 Can anyone access the CVS server for exmh?
-The last thing I was able to do was try a "cvs commit", but
-I got an "up-to-date check failed" for a couple files,
-exmh.CHANGES and lib/msg.tcl, I think, so I then tried "cvs update".
+The last thing I was able to do was try a cvs commit, but
+I got an up-to-date check failed for a couple files,
+exmh.CHANGES and lib/msg.tcl, I think, so I then tried cvs update.
 I get a password prompt, and then it just hangs.
 
 cat CVS/Root

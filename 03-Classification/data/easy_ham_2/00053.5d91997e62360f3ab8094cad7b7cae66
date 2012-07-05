@@ -29,7 +29,7 @@ Received: from unknown(10.0.0.13) by gw.educ.irlgov.ie via smap (V2.0) id
     xma002668; Fri, 9 Aug 02 13:27:22 +0100
 Content-Class: urn:content-classes:message
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Date: Fri, 9 Aug 2002 12:08:24 +0100
 X-Mimeole: Produced By Microsoft Exchange V6.0.5762.3
 Message-Id: <9C498074D5419A44B05349F5BF2C26301CFA74@sdubtalex01.education.gov.ie>
@@ -37,7 +37,7 @@ X-MS-Has-Attach:
 X-MS-Tnef-Correlator: 
 Thread-Topic: Doom for Linux
 Thread-Index: AcI/lRHWr1xxxPlzQAm4xeZ4WWnaqA==
-From: "Ryan, Shane" <Shane_Ryan@education.gov.ie>
+From: Ryan, Shane <Shane_Ryan@education.gov.ie>
 To: <social@linux.ie>
 Content-Transfer-Encoding: 8bit
 X-MIME-Autoconverted: from quoted-printable to 8bit by lugh.tuatha.org id

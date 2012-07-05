@@ -62,7 +62,7 @@ piteous whinings. I inherited the dos part of it and worked mostly on
 creating the other end of it. Near the end of the project we gave it
 extensive long burnin tests, sadly overnight tests would always crash
 out for some obscure reason.  Tracking it down showed that my
-predecessor's "add new entries to the end of its linked list" function
+predecessor's add new entries to the end of its linked list function
 recursively called itself with each following link until the terminating
 one showed up. Of course it died miserably when it ran out of stack. I'm
 sure he felt he'd done a good days work when he planted that bomb for

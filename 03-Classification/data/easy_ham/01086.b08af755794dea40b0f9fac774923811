@@ -50,7 +50,7 @@ Date: Mon, 4 Feb 2002 16:53:14 +0100
 Once upon a time, Peter wrote :
 
 > I started wondering how does apt react when it finds a newer kernel in
-> the bunch of "to be updated" files?
+> the bunch of to be updated files?
 
 It skips it. See the /etc/apt/apt.conf file for this.
 
@@ -59,7 +59,7 @@ It skips it. See the /etc/apt/apt.conf file for this.
 
 I've done a dist-upgrade from 7.2 to a quite broken rawhide release... it
 was a mess, still, it went much faster and smoother than if I had done it
-"manually" with rpm -U or -F. I think that updates between stable releases
+manually with rpm -U or -F. I think that updates between stable releases
 should still be done with the installer since IIRC, sometimes a few
 twitches are done by anaconda to migrate configurations to new formats. It
 should work though... I still prefer backuping config files and

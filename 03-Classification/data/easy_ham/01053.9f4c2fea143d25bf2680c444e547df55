@@ -30,7 +30,7 @@ References: <20020904190059.87681.qmail@web20808.mail.yahoo.com>
 In-Reply-To: <20020904190059.87681.qmail@web20808.mail.yahoo.com>
 MIME-Version: 1.0
 Content-Type: Multipart/Mixed;
-    boundary="------------Boundary-00=_OYOXHTVA0T2X8R5S233Y"
+    boundary=------------Boundary-00=_OYOXHTVA0T2X8R5S233Y
 Message-Id: <200209042356.48124.nick@permflux.org>
 X-Mailscanner: Found to be clean, Found to be clean
 Sender: rpm-zzzlist-admin@freshrpms.net
@@ -53,7 +53,7 @@ Date: Wed, 4 Sep 2002 23:56:48 +0200
 
 --------------Boundary-00=_OYOXHTVA0T2X8R5S233Y
 Content-Type: text/plain;
-  charset="iso-8859-1"
+  charset=iso-8859-1
 Content-Transfer-Encoding: quoted-printable
 
 Hi,
@@ -95,10 +95,10 @@ On Wednesday 04 September 2002 21:00, Doug Stewart wrote:
 
 --------------Boundary-00=_OYOXHTVA0T2X8R5S233Y
 Content-Type: text/plain;
-  charset="iso-8859-1";
-  name="fluxbox.spec"
+  charset=iso-8859-1;
+  name=fluxbox.spec
 Content-Transfer-Encoding: 7bit
-Content-Disposition: attachment; filename="fluxbox.spec"
+Content-Disposition: attachment; filename=fluxbox.spec
 
 Summary: Blackbox derived window manager
 Name: fluxbox

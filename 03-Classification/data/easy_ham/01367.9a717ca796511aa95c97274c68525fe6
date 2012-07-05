@@ -21,7 +21,7 @@ Received: from two.fidnet.com ([216.229.64.72] helo=mail.fidnet.com) by
 Received: (qmail 31757 invoked from network); 28 Aug 2002 22:35:43 -0000
 Received: from cable-modem-mo-145-11.rolla.fidnet.com (HELO gabriels)
     (64.251.145.11) by two.fidnet.com with SMTP; 28 Aug 2002 22:35:43 -0000
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 From: Jon Gabrielson <jon.g@directfreight.com>
 To: spamassassin-talk@example.sourceforge.net
 User-Agent: KMail/1.4.3

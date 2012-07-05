@@ -10,7 +10,7 @@ Received: from mail pickup service by insiq5.insuranceiq.com with
 Subject: The Future of Continuing Education
 To: <yyyy@spamassassin.taint.org>
 Date: Fri, 7 Jun 2002 18:18:23 -0400
-From: "IQ - CEU" <ceu@insurancemail.net>
+From: IQ - CEU <ceu@insurancemail.net>
 Message-Id: <14460101c20e71$3c955c70$7101a8c0@insuranceiq.com>
 MIME-Version: 1.0
 X-Mimeole: Produced By Microsoft MimeOLE V5.50.4522.1200
@@ -19,19 +19,19 @@ X-Mailer: Microsoft CDO for Windows 2000
 Content-Class: urn:content-classes:message
 X-Originalarrivaltime: 07 Jun 2002 22:18:23.0234 (UTC) FILETIME=[3CB45620:01C20E71]
 X-Keywords: 
-Content-Type: multipart/alternative; boundary="----=_NextPart_000_128E33_01C20E3D.F1BEC340"
+Content-Type: multipart/alternative; boundary=----=_NextPart_000_128E33_01C20E3D.F1BEC340
 
 This is a multi-part message in MIME format.
 
 ------=_NextPart_000_128E33_01C20E3D.F1BEC340
 Content-Type: text/plain;
-	charset="Windows-1252"
+	charset=Windows-1252
 Content-Transfer-Encoding: 7bit
 
  
 <http://www.ceu.com/interactive_catalogue.asp?category=Insurance+CE&code
 =CEDONE> 	 
-Select your state then press "GO" to view CE courses available
+Select your state then press GO to view CE courses available
 (AOL users click here
 <http://www.ceu.com/interactive_catalogue.asp?category=Insurance%2BCE&co
 de=CEDONE> ) 	
@@ -48,41 +48,41 @@ Legal Notice <http://www.insiq.com/legal.htm>
 
 ------=_NextPart_000_128E33_01C20E3D.F1BEC340
 Content-Type: text/html;
-	charset="iso-8859-1"
+	charset=iso-8859-1
 Content-Transfer-Encoding: quoted-printable
 
 <HTML>
 <HEAD>
 <title>The Future of Continuing Education</title>
-<META content=3D"text/html; charset=3Diso-8859-1" =
+<META content=3Dtext/html; charset=3Diso-8859-1 =
 http-equiv=3DContent-Type>
 </HEAD>
-<BODY bgColor=3D"#C2D3E5">
-<TABLE align=3D"center" width=3D"517">
+<BODY bgColor=3D#C2D3E5>
+<TABLE align=3Dcenter width=3D517>
   <TR>=20
     <TD ><A =
-href=3D"http://www.ceu.com/interactive_catalogue.asp?category=3DInsurance=
-+CE&amp;code=3DCEDONE">=20
-      <IMG border=3D"0" height=3D"377" =
-src=3D"http://iiq.us/images/ceu/ad21.jpg" width=3D"516"></A></TD>
+href=3Dhttp://www.ceu.com/interactive_catalogue.asp?category=3DInsurance=
++CE&amp;code=3DCEDONE>=20
+      <IMG border=3D0 height=3D377 =
+src=3Dhttp://iiq.us/images/ceu/ad21.jpg width=3D516></A></TD>
   </TR>
   <TR>=20
-    <TD align=3D"center" height=3D"47" vAlign=3D"bottom">=20
-      <B><FONT color=3D#ff0000 face=3D"Verdana, Arial, Helvetica, =
-sans-serif" size=3D"1">=20
-      Select your state then press "GO" to view CE courses available<BR>
+    <TD align=3Dcenter height=3D47 vAlign=3Dbottom>=20
+      <B><FONT color=3D#ff0000 face=3DVerdana, Arial, Helvetica, =
+sans-serif size=3D1>=20
+      Select your state then press GO to view CE courses available<BR>
       (AOL users <A =
-href=3D"http://www.ceu.com/interactive_catalogue.asp?category=3DInsurance=
-%2BCE&amp;code=3DCEDONE">=20
+href=3Dhttp://www.ceu.com/interactive_catalogue.asp?category=3DInsurance=
+%2BCE&amp;code=3DCEDONE>=20
       click here</A>)</FONT></B>
     </TD>
   </TR>
 </TABLE>
-<FORM action=3D"http://www.ceu.com/interactive_catalogue.asp" =
-method=3D"get" name=3D"courseQuery">
-  <TABLE align=3D"center" width=3D"517">
+<FORM action=3Dhttp://www.ceu.com/interactive_catalogue.asp =
+method=3Dget name=3DcourseQuery>
+  <TABLE align=3Dcenter width=3D517>
     <TR>=20
-      <TD align=3D"right" width=3D"255">=20
+      <TD align=3Dright width=3D255>=20
         <SELECT name=3DstrState size=3D1>
           <OPTION selected value=3DAL>AL</OPTION>
           <OPTION value=3DAK>AK</OPTION>
@@ -137,30 +137,30 @@ method=3D"get" name=3D"courseQuery">
           <OPTION value=3DWY>WY</OPTION>
         </SELECT>
       </TD>
-      <TD width=3D250><INPUT height=3D"42" name=3D"GO" =
-src=3D"http://iiq.us/images/ceu/go7.jpg" type=3D"image" width=3D"42" =
-valign=3D"absmiddle">
-        <INPUT name=3D"category" type=3D"hidden" value=3D"Insurance CE">
-        <INPUT name=3D"code" type=3D"hidden" value=3D"CEDONE">
-        <IMG height=3D"1" =
-src=3D"http://www.ceu.com/htmlemail/images/pixel.gif" width=3D"1">
+      <TD width=3D250><INPUT height=3D42 name=3DGO =
+src=3Dhttp://iiq.us/images/ceu/go7.jpg type=3Dimage width=3D42 =
+valign=3Dabsmiddle>
+        <INPUT name=3Dcategory type=3Dhidden value=3DInsurance CE>
+        <INPUT name=3Dcode type=3Dhidden value=3DCEDONE>
+        <IMG height=3D1 =
+src=3Dhttp://www.ceu.com/htmlemail/images/pixel.gif width=3D1>
       </TD>
     </TR>
   </TABLE>
 </FORM>
-<table align=3D"center" width=3D"517"><tr><td><p><font face=3D"Arial, =
-Helvetica, sans-serif" size=3D"1">We don't want anyone to receive our =
+<table align=3Dcenter width=3D517><tr><td><p><font face=3DArial, =
+Helvetica, sans-serif size=3D1>We don't want anyone to receive our =
 mailings who does not=20
             wish to receive them. This is a professional communication=20
             sent to insurance professionals. To be removed from this =
 mailing=20
             list, <b>DO NOT REPLY</b> to this message. Instead, go here: =
-<a href=3D"http://www.insurancemail.net">=20
+<a href=3Dhttp://www.insurancemail.net>=20
             =
 http://www.insurancemail.net</a></font></p></td></tr></table>
 <center>
-  <font size=3D"1" face=3D"Arial, Helvetica, sans-serif"><a =
-href=3D"http://www.insiq.com/legal.htm">Legal Notice</a></font>=20
+  <font size=3D1 face=3DArial, Helvetica, sans-serif><a =
+href=3Dhttp://www.insiq.com/legal.htm>Legal Notice</a></font>=20
 </center>
 </BODY>
 </HTML>

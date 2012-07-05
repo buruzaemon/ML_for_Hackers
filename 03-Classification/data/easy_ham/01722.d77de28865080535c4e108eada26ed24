@@ -8,7 +8,7 @@ Message-ID: <LNBBLJKPBEHFEDALKOLCOEPLBCAB.tim.one@comcast.net>
 
 [Greg Ward]
 > Case of headers is definitely helpful.  SpamAssassin has a rule for it
-> -- if you have headers like "DATE" or "SUBJECT", you get a few more
+> -- if you have headers like DATE or SUBJECT, you get a few more
 > points.
 
 Across my data, all-caps DATE, SUBJECT, TO, etc indeed appear only in the

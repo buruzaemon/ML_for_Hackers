@@ -20,13 +20,13 @@ Received: from unknown (HELO smoking) ([66.92.72.101]) (envelope-sender <rOD@ars
           by mail11.speakeasy.net (qmail-ldap-1.03) with SMTP
           for <spamassassin-talk@lists.sourceforge.net>; 15 Aug 2002 13:31:22 -0000
 Message-ID: <02f901c24460$096f1820$65485c42@smoking>
-From: "rODbegbie" <rOD@arsecandle.org>
-To: "Spam Assassin" <spamassassin-talk@lists.sourceforge.net>
+From: rODbegbie <rOD@arsecandle.org>
+To: Spam Assassin <spamassassin-talk@lists.sourceforge.net>
 MIME-Version: 1.0
 Content-Type: multipart/signed;
-	protocol="application/x-pkcs7-signature";
+	protocol=application/x-pkcs7-signature;
 	micalg=SHA1;
-	boundary="----=_NextPart_000_02F4_01C2443E.80476960"
+	boundary=----=_NextPart_000_02F4_01C2443E.80476960
 X-Priority: 3
 X-MSMail-Priority: Normal
 X-Mailer: Microsoft Outlook Express 6.00.2600.0000
@@ -52,7 +52,7 @@ This is a multi-part message in MIME format.
 
 ------=_NextPart_000_02F4_01C2443E.80476960
 Content-Type: text/plain;
-	charset="iso-8859-1"
+	charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 
 Made me chuckle.
@@ -62,18 +62,18 @@ http://www.bloggerheads.com/can_weblogs/ronald_scelson.asp
 rOD.
 
 --
-"Don't frown, don't pout, don't snivel, don't cry,
- Don't cough, don't choke, don't faint, don't die."
+Don't frown, don't pout, don't snivel, don't cry,
+ Don't cough, don't choke, don't faint, don't die.
 
 >> Doing the blogging thang again at http://www.groovymother.com/ <<
 
 
 ------=_NextPart_000_02F4_01C2443E.80476960
 Content-Type: application/x-pkcs7-signature;
-	name="smime.p7s"
+	name=smime.p7s
 Content-Transfer-Encoding: base64
 Content-Disposition: attachment;
-	filename="smime.p7s"
+	filename=smime.p7s
 
 MIAGCSqGSIb3DQEHAqCAMIACAQExCzAJBgUrDgMCGgUAMIAGCSqGSIb3DQEHAQAAoIIJIjCCAnow
 ggHjoAMCAQICARcwDQYJKoZIhvcNAQEFBQAwUzELMAkGA1UEBhMCVVMxHDAaBgNVBAoTE0VxdWlm

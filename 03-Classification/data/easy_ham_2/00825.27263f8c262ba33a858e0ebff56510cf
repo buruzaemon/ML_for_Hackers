@@ -26,7 +26,7 @@ X-Authentication-Warning: hydrogen.leitl.org: eugen owned process doing -bs
 From: Eugen Leitl <eugen@leitl.org>
 To: Mike Masnick <mike@techdirt.com>
 Cc: Gordon Mohr <gojomo@usa.net>, <fork@spamassassin.taint.org>
-Subject: Re: Mossberg on 'ChoiceMail': "In my tests, it cut my spam to  zero."
+Subject: Re: Mossberg on 'ChoiceMail': In my tests, it cut my spam to  zero.
 In-Reply-To: <3.0.32.20020723231125.03bc2cf0@techdirt.com>
 Message-Id: <Pine.LNX.4.33.0207241144280.18093-100000@hydrogen.leitl.org>
 MIME-Version: 1.0
@@ -48,7 +48,7 @@ Date: Wed, 24 Jul 2002 11:49:30 +0200 (CEST)
 On Tue, 23 Jul 2002, Mike Masnick wrote:
 
 > Lately, a fairly large % of the spam I've been getting has been coming
-> from spam systems that forge my own address as the "from" address...
+> from spam systems that forge my own address as the from address...
 
 Include a random token with an expiration date with anything you send.  
 Valid whitelisting of From:you@here.net yet invalid random token would get 

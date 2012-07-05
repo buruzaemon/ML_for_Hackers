@@ -18,10 +18,10 @@ Received: from abn161-55.ank-avrupa-ports.kablonet.net.tr
     ([195.174.161.55] helo=yahoo.com) by usw-sf-list1.sourceforge.net with
     smtp (Exim 3.31-VA-mm2 #1 (Debian)) id 17j2ux-0006Mt-00 for
     <sitescooper-talk@lists.sourceforge.net>; Sun, 25 Aug 2002 12:19:24 -0700
-From: "BILSAG" <bilsag@yahoo.com>
+From: BILSAG <bilsag@yahoo.com>
 To: <sitescooper-talk@example.sourceforge.net>
 MIME-Version: 1.0
-Reply-To: "BILSAG" <bilsag@yahoo.com>
+Reply-To: BILSAG <bilsag@yahoo.com>
 Message-Id: <E17j2ux-0006Mt-00@usw-sf-list1.sourceforge.net>
 Subject: [scoop] CEVIRI YAZILIMLARI
 Sender: sitescooper-talk-admin@example.sourceforge.net
@@ -40,7 +40,7 @@ List-Unsubscribe: <https://example.sourceforge.net/lists/listinfo/sitescooper-ta
 List-Archive: <http://www.geocrawler.com/redir-sf.php3?list=sitescooper-talk>
 X-Original-Date: Sun, 25 Aug 2002 22:19:23 +0300
 Date: Sun, 25 Aug 2002 22:19:23 +0300
-Content-Type: text/html; charset="ISO-8859-9"
+Content-Type: text/html; charset=ISO-8859-9
 Content-Transfer-Encoding: 8bit
 
 HTML>
@@ -58,12 +58,12 @@ HTML>
 </tr>
 </table>
 <P align=center><FONT  color=white size =7 ><STRONG>
-<TABLE cellSpacing=1 cellPadding=1 width="501" border=5 style="WIDTH: 501px; HEIGHT: 907px">
+<TABLE cellSpacing=1 cellPadding=1 width=501 border=5 style=WIDTH: 501px; HEIGHT: 907px>
   <TBODY>
   
   <TR>
-    <TD><IMG alt="" 
-      src="http://www.bilsag.com/web1.jpg"></TD>
+    <TD><IMG alt= 
+      src=http://www.bilsag.com/web1.jpg></TD>
     <TD bgcolor=red><FONT size=4
       
       color=white><EM><STRONG>ÝNTERNETTE KENDÝNÝZÝ DAHA ÝYÝ HÝSSEDECEKSÝNÝZ.
@@ -73,8 +73,8 @@ HTML>
   <TD bgcolor=palegoldenrod><FONT size=7 
       color=darkblue><EM><STRONG>$ 39+KDV</STRONG></EM> </FONT></TD></TR>
   <TR>
-    <TD  ><IMG alt="" 
-      src="http://www.bilsag.com/cev1.jpg"></TD>
+    <TD  ><IMG alt= 
+      src=http://www.bilsag.com/cev1.jpg></TD>
     <TD bgcolor=red><FONT size=4
       
       color=white><STRONG><EM> ÝNGÝLÝZCE'DEN TÜRKÇE'YE BÝLGÝSAYAR DESTEKLÝ
@@ -91,13 +91,13 @@ HTML>
       color=white><STRONG><EM>$ 
   89+KDV</EM></STRONG> 
 </FONT></TD></TR></TBODY></TABLE></STRONG></FONT></P>
-      <P align=center><STRONG><a href="http://www.bilsag.com/index.html"><FONT color=darkcyan size=2>Ayrýntýlý Bilgi 
+      <P align=center><STRONG><a href=http://www.bilsag.com/index.html><FONT color=darkcyan size=2>Ayrýntýlý Bilgi 
       Ýçin&nbsp; </FONT></STRONG><STRONG><FONT 
       color=darkcyan size=2>  týklayýn</FONT></A></STRONG> 
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </P>
       <P align=center>
      
-      &nbsp;<A href="http://www.bilsag.com/siparis.htm"><IMG alt="" src="http://www.bilsag.com/sipbuton.gif" border=0
+      &nbsp;<A href=http://www.bilsag.com/siparis.htm><IMG alt= src=http://www.bilsag.com/sipbuton.gif border=0
       ></A> </P>
       <P align=center><FONT color=#ff0000><STRONG>BÝLSAG Ltd.</STRONG></FONT></P>
       <P align=center><FONT size=2><FONT color=#ff0000><STRONG>AHMET MÝTHAT 
@@ -105,7 +105,7 @@ HTML>
       <P align=center><FONT size=2><FONT color=#ff0000><STRONG><FONT 
       size=+0>Tlf: 0312. 439 2850/ Fax: 0312. 439 9347</FONT> 
       </STRONG></FONT></FONT></P>
-      <P align=center><A href="mailto:bilsag@msn.com"><FONT color=#ff0000 
+      <P align=center><A href=mailto:bilsag@msn.com><FONT color=#ff0000 
       size=3><STRONG>bilsag@msn.com</STRONG></FONT></A></P>
       
   
@@ -116,23 +116,23 @@ HTML>
       </TD></TR></TABLE>
 <P></P>
     
-<form action="http://www.bilsag.com/iptal1.asp" method="post">
+<form action=http://www.bilsag.com/iptal1.asp method=post>
 <center>
-<TABLE WIDTH="540" CELLSPACING=1 CELLPADDING=1 BORDER=0 bgcolor="#dddddd">
+<TABLE WIDTH=540 CELLSPACING=1 CELLPADDING=1 BORDER=0 bgcolor=#dddddd>
 <TR>
-<TD BGCOLOR="#eeeeee" align="middle"><FONT FACE="Verdana, Arial" SIZE="-1" COLOR="#000000">
+<TD BGCOLOR=#eeeeee align=middle><FONT FACE=Verdana, Arial SIZE=-1 COLOR=#000000>
 <strong>E-posta adres listemizden</strong> çýkmak için<strong>ÇIKAR</strong> tuþuna basýnýz
 </FONT>
 </TD></TR>
 <TR>
-<TD BGCOLOR="#eeeeee" align="middle">
-<INPUT NAME="e" VALUE="sitescooper-talk@lists.sourceforge.net" SIZE=25 
+<TD BGCOLOR=#eeeeee align=middle>
+<INPUT NAME=e VALUE=sitescooper-talk@lists.sourceforge.net SIZE=25 
      ></FONT>                   
-<INPUT TYPE="submit" VALUE="Çýkar">
+<INPUT TYPE=submit VALUE=Çýkar>
 </TD></TR>
 <TR>
-<TD BGCOLOR="#ffffff" align=right>
-<FONT FACE="arial" SIZE="1" COLOR="#000000">Bu elektronik posta: sitescooper-talk@example.sourceforge.net e gönderilmiþtir</FONT>
+<TD BGCOLOR=#ffffff align=right>
+<FONT FACE=arial SIZE=1 COLOR=#000000>Bu elektronik posta: sitescooper-talk@example.sourceforge.net e gönderilmiþtir</FONT>
       
 
 

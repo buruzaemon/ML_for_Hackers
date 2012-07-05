@@ -110,8 +110,8 @@ whether his innovative DTV product will be legal in the market until
 he has gone to the expense of building it and taking it around to
 the Hollywood studios for review.
 
-Consumers and industry alike have benefitted greatly from the "Open
-Source" or "Free Software" movement, in which technologies are
+Consumers and industry alike have benefitted greatly from the Open
+Source or Free Software movement, in which technologies are
 distributed in a form that encourages end-user modification. From
 server-software like the web-wide success-story apache, to operating
 systems like GNU/Linux, to consumer applications like the Mozilla
@@ -121,7 +121,7 @@ Free Software DTV applications -- such as the DScaler de-interlacer
 and the GNU Radio software-defined radio program -- as these
 applications are built to be modified by end-users, something that
 is banned under the BPDG proposal. The tamper-resistance component
-of the BPDG's "Robustness Requirements" will create and entire class
+of the BPDG's Robustness Requirements will create and entire class
 of illegal software applications, abridging the traditional First
 Amendment freedom enjoyed by software authors who create expressive
 speech in code form under one of several Free Software/Open Source
@@ -130,7 +130,7 @@ licenses.
 The BPDG nominally set out to create an objective standard, a bright
 line that technologists could hew to in order to avoid liability
 when deploying their products. However, the end product of the BPDG
-was a "standard" that contained no objective criteria for legal
+was a standard that contained no objective criteria for legal
 technology; rather, the standard required that new technologies be
 approved by MPAA member companies. Not uncoincidentally, the only
 technologies that were approved by the MPAA -- and hence the only
@@ -190,7 +190,7 @@ studio executives.
 
 EFF welcomes the FCC's oversight of the Broadcast Flag issue. The
 BPDG proceedings took place behind a shroud of secrecy, in a
-looking-glass "public process" where only those participants the
+looking-glass public process where only those participants the
 organizers wanted to hear from were made privy to its existence,
 where the co-chairs invented rules and processes on the fly to suit
 the needs of the entertainment interests and the technology
@@ -242,23 +242,23 @@ occasions sent e-mail critical of Intel's employment practices to
 between 8,000 and 35,000 Intel employees. Intel demanded that Hamidi
 stop, but he refused. Intel obtained an injunction barring Hamidi
 from e-mailing Intel employees at their Intel e-mail addresses,
-based on the common-law tort of "trespass to chattels." ("Chattel"
+based on the common-law tort of trespass to chattels. (Chattel
 is a legal term that refers to personal property, as opposed to
 property in land.)
 
 EFF's amicus brief argues three main points.
 
-(1) Intel did not qualify for relief under "trespass to chattels"
+(1) Intel did not qualify for relief under trespass to chattels
 because Intel's e-mail servers were not themselves harmed by
 Hamidi's e-mails. If Intel was harmed, it was because the content of
 Hamidi's e-mails affected Intel employees, not because sending the
 e-mails affected the functioning of Intel's servers.
 
-(2) By focusing on unwanted "contact" with the chattel and ignoring
-the harm requirement, the court of appeal turned "trespass to
-chattels" into a doctrine that threatens common Internet activity
+(2) By focusing on unwanted contact with the chattel and ignoring
+the harm requirement, the court of appeal turned trespass to
+chattels into a doctrine that threatens common Internet activity
 like search engines and linking. For example, if a website posted a
-"no trespassing" sign, any "contact" by a search engine could be
+no trespassing sign, any contact by a search engine could be
 considered a trespass even if it caused no harm.
 
 (3) The court of appeal wrongly held that the injunction did not
@@ -327,23 +327,23 @@ Electronic Frontier Foundation Media Advisory
 For Immediate Release: Thursday, August 9, 2002
 
 San Francisco - The Electronic Frontier Foundation (EFF) is pleased
-to announce that former MIT doctoral student Andrew "Bunnie" Huang
+to announce that former MIT doctoral student Andrew Bunnie Huang
 will present a paper explaining a security flaw in the Microsoft
 Xbox (TM) videogame system.
 
-Huang will present his paper, "Keeping Secrets in Hardware: the
-Microsoft X-BOX Case Study," at 5:25 p.m. PDT on August 13, 2002, at
+Huang will present his paper, Keeping Secrets in Hardware: the
+Microsoft X-BOX Case Study, at 5:25 p.m. PDT on August 13, 2002, at
 the 2002 Workshop on Cryptographic Hardware and Embedded Systems
 (CHES 2002) in Redwood City, California (Aug. 13-15, 2002).
 
 The Xbox security system is intended to allow people to play only
-videogames authorized by Microsoft. Huang's paper "shows how a
-person could defeat that system with a small hardware investment,"
-said MIT Professor Hal Abelson, one of Huang's advisors. "More
+videogames authorized by Microsoft. Huang's paper shows how a
+person could defeat that system with a small hardware investment,
+said MIT Professor Hal Abelson, one of Huang's advisors. More
 importantly, the paper relates the security vulnerability to a
 general design flaw shared by other high-profile security systems
 such as the government's Clipper Chip and the movie industry's
-Contents Scrambling System (CSS) for DVD players."
+Contents Scrambling System (CSS) for DVD players.
 
 Huang contacted EFF in March after his advisors told him that his
 preliminary findings raised potentially significant legal questions.
@@ -357,10 +357,10 @@ Microsoft told Huang and Abelson that while it might prefer that the
 paper not be published, it would be inappropriate to ask MIT to
 withhold the paper.
 
-"Microsoft deserves praise for making no attempt to control
-publication," said Abelson. "Their response shows that they value
+Microsoft deserves praise for making no attempt to control
+publication, said Abelson. Their response shows that they value
 academic freedom, and that they appreciate the critical role of
-unfettered research and publication in advancing technology."
+unfettered research and publication in advancing technology.
 
 Other companies have reacted otherwise, using the DMCA to threaten
 researchers. The Recording Industry Association of America last year
@@ -373,12 +373,12 @@ stifle research or impede the flow of information that would improve
 computer security.
 
 Huang said that while he is glad he can openly present his paper,
-"The DMCA clearly had a chilling effect on my work. I was afraid to
+The DMCA clearly had a chilling effect on my work. I was afraid to
 submit my research for peer review until after the EFF's efforts to
-clear potential legal restraints."
+clear potential legal restraints.
 
-"Researchers should be analyzing security, not worrying about
-getting sued," said EFF Senior Staff Attorney Lee Tien.
+Researchers should be analyzing security, not worrying about
+getting sued, said EFF Senior Staff Attorney Lee Tien.
 
 Links:
 
@@ -390,7 +390,7 @@ ftp://publications.ai.mit.edu/ai-publications/2002/AIM-2002-008.pdf
 
 For the CHES program: http://islab.oregonstate.edu/ches/program.html
 
-EFF "Unintended Consequences: Three Years Under the DMCA" report:
+EFF Unintended Consequences: Three Years Under the DMCA report:
 http://www.eff.org/IP/DMCA/20020503_dmca_consequences.pdf
 
 RIAA sues Professor Edward Felten over SDMI:
@@ -407,7 +407,7 @@ http://www.wired.com/news/technology/0,1282,54297,00.html
 
 EFF thanks The Dark Tangent and other organizers of the DEF CON X
 convention for their generous donation of exhibition space at DEF
-CON (http://www.defcon.org/). DEF CON is an "underground" computer
+CON (http://www.defcon.org/). DEF CON is an underground computer
 security conference held each summer in Las Vegas.
 
 Links: 
@@ -457,8 +457,8 @@ Baen Books will bind a CD-ROM into the October 2002 hardcover
 edition of *War of Honor,* the latest volume in David Weber's epic
 Honor Harrington space-opera. The CD will contain at least 22
 complete novels, all in open formats like html and RTF, with the
-fair-use-friendly admonishment "This disk and its contents may be
-copied and shared but NOT sold." Included on the disk are the entire
+fair-use-friendly admonishment This disk and its contents may be
+copied and shared but NOT sold. Included on the disk are the entire
 Honor Harrington series to date, as well as other titles from the
 Baen line, including Keith Laumer's *Retief!* and Larry Niven and
 Jerry Pournelle's *Fallen Angels*.
@@ -581,6 +581,6 @@ http://www.eff.org/pub/EFF/Newsletters/EFFector/current. html
 You received this message because qqqqqqqqqqs-eff@spamassassin.taint.org is a member of 
 the mailing list originating from alerts@action.eff.org. To unsubscribe from 
 all mailing lists originating from alerts@action.eff.org, send an email to 
-alerts@action.eff.org with "Remove" as the only text in the subject line.
+alerts@action.eff.org with Remove as the only text in the subject line.
 
 

@@ -52,12 +52,12 @@ Date: Fri, 30 Aug 2002 17:03:06 +1000
 On 14:22 29 Aug 2002, Matthias Saou <matthias@egwn.net> wrote:
 | Once upon a time, Axel wrote :
 | > I am now relaxed again ;), and pass this info on. Probably Matthias Saou
-| > himself is "dude", and some package has hardwired a path in his build
+| > himself is dude, and some package has hardwired a path in his build
 | > directory. It would be nice to find out which and fix it, but I am using
 | > too many of the freshrpm suite to narrow it down.
 | 
-| Indeed, my usual login is "dude" (and has been since long before "The Big
-| Lebowsky" came out ;-)), and it seems the some programs wrongly hard code
+| Indeed, my usual login is dude (and has been since long before The Big
+| Lebowsky came out ;-)), and it seems the some programs wrongly hard code
 | my home directory when being compiled :-(
 | For instance :
 | 
@@ -71,7 +71,7 @@ On 14:22 29 Aug 2002, Matthias Saou <matthias@egwn.net> wrote:
 | have some time.
 
 This is a standard trap for people building things from source. It's
-generally wise to have a special "build" environment to avoid these
+generally wise to have a special build environment to avoid these
 hassles. Most likely you have some library loading path in your env. An
 strace of the app will show it:
 

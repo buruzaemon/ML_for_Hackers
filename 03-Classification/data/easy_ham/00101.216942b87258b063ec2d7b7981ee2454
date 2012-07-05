@@ -22,7 +22,7 @@ Content-Type: text/plain; charset=US-ASCII; format=flowed
 MIME-Version: 1.0 (Apple Message framework v482)
 Cc: Justin Mason <zzzz@spamassassin.taint.org>
 To: dcc@calcite.rhyolite.com
-From: "Craig R.Hughes" <craig@deersoft.com>
+From: Craig R.Hughes <craig@deersoft.com>
 In-Reply-To: <200209021702.g82H271q025288@calcite.rhyolite.com>
 Message-Id: <0B1C586E-BE99-11D6-B0C6-00039396ECF2@deersoft.com>
 Content-Transfer-Encoding: 7bit
@@ -55,7 +55,7 @@ On Monday, September 2, 2002, at 10:02  AM, Vernon Schryver wrote:
 >>     # cdcc 'add dcc.rhyolite.com'
 >>     # cdcc 'info'
 >
-> That's ok, except that the 'new map' and "add dcc.rhyolite.com'
+> That's ok, except that the 'new map' and add dcc.rhyolite.com'
 > are respectively unnecessary and wrong.  The map file that comes
 > with the source points to localhost and dcc.dcc-servers.net.  Those
 > two shipped entries usually do the right thing if there is a local

@@ -19,13 +19,13 @@ Received: from bob.dudex.net (dsl092-157-004.wdc1.dsl.speakeasy.net
 Received: from [66.92.157.3] (helo=www.dudex.net) by bob.dudex.net with
     esmtp (Exim 3.35 #1) id 17jtS9-0005Zs-00; Tue, 27 Aug 2002 23:25:09 -0400
 X-Originating-Ip: [66.44.42.51]
-From: "" Angles " Puglisi" <angles@aminvestments.com>
+From:  Angles  Puglisi <angles@aminvestments.com>
 To: valhalla-list@spamassassin.taint.org,
-	"=?iso-8859-1?Q?RPM=2DList?=" <rpm-list@freshrpms.net>
+	=?iso-8859-1?Q?RPM=2DList?= <rpm-list@freshrpms.net>
 Subject: Re: ALSA (almost) made easy
 Message-Id: <20020827.HLj.85891900@www.dudex.net>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 8bit
 Content-Disposition: inline
 X-Mailer: AngleMail for phpGroupWare (http://www.phpgroupware.org) v
@@ -77,7 +77,7 @@ I've scripted the alsa-xmms cvs build, so it's easy to spin another one if these
 rpms do not work on (null).
 
 --
-That's "angle" as in geometry.
+That's angle as in geometry.
 
 
 

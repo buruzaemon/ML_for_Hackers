@@ -68,17 +68,17 @@ In article <E17v8Mw-0004eS-00@pmenage-dt.ensim.com> you write:
 >>problem with any other windows, though. Just the exmhunseen window.
 >>
 >
->How about enabling the "Show unseen message count in folder cache"
+>How about enabling the Show unseen message count in folder cache
 >option? It displays the number of unseen messages next to each folder name
 >(if greater than 0), so you don't really need the unseen window unless
->you're using more sequences than just "unseen".
+>you're using more sequences than just unseen.
 >
 >Paul
 >
 	As Hal noted, I like to have the unseen window visible in all
 virtual desktops, even if the main window is minimized. However, I looked
-through ALL the preferences menus, and didn't see anything resembling "Show
-unseen message count in folder cache". Where is that? And in what version?
+through ALL the preferences menus, and didn't see anything resembling Show
+unseen message count in folder cache. Where is that? And in what version?
 (I'm running v2.4 - 06/23/2000 - Creaky, I know.)
 
 	I went into twm with no virtual desktops, and it came up just fine.

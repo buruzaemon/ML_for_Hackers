@@ -23,7 +23,7 @@ Received: from docaoimh.tradesignals.com (docaoimh.tradesignals.com
 Received: from localhost (localhost [[UNIX: localhost]]) by
     docaoimh.tradesignals.com (8.11.6/8.11.6) id g79Dt9i07708; Fri,
     9 Aug 2002 14:55:09 +0100
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 From: Donncha O Caoimh <donncha.ocaoimh@tradesignals.com>
 To: kevin lyda <kevin+dated+1029331309.11b939@ie.suberic.net>,
 	irish linux users group <ilug@linux.ie>
@@ -44,8 +44,8 @@ Precedence: bulk
 List-Id: Irish Linux Users' Group <ilug.linux.ie>
 X-Beenthere: ilug@linux.ie
 
-I get a different effect. I open new links in a tab, and they "open in the 
-background" or the current page still remains selected. Unfortunately the 
+I get a different effect. I open new links in a tab, and they open in the 
+background or the current page still remains selected. Unfortunately the 
 other tab gets the focus. 
 The same happens with pages (re)loading in other tabs -> the current tab loses 
 the keyboard focus which can be very annoying when filling in forms or even 

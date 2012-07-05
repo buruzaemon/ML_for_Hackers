@@ -16,7 +16,7 @@ From: Reservation Desk <ReservationDesk@permissionpass.com>
 To: yyyy@netnoteinc.com
 Subject: Congrats!  Here are your 2 Free Airline Tickets
 X-Keywords: 
-Content-Type: multipart/alternative; boundary="##########"
+Content-Type: multipart/alternative; boundary=##########
 
 --##########
 
@@ -103,29 +103,29 @@ Content-Disposition: inline
 
 <table>
 <tr>
-<td><font face="arial" size="1"><u>See below for your Exit Information.</U></FONT></TD>
+<td><font face=arial size=1><u>See below for your Exit Information.</U></FONT></TD>
 </TR></TD>
-<tr><td><img src="http://results.reliatrack.com/active.php?xactive=9900027056&yactive=http://results.reliatrack.com/active.gif" height="1" width="1"></td></tr>
+<tr><td><img src=http://results.reliatrack.com/active.php?xactive=9900027056&yactive=http://results.reliatrack.com/active.gif height=1 width=1></td></tr>
 </TABLE>
 
 <html> 
 <head> 
 <title>2 FREE Airline Tickets!</title> 
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
+<meta http-equiv=Content-Type content=text/html; charset=iso-8859-1> 
 </head> 
 
-<body bgcolor="#FFFFFF" text="#000000"> 
-<table width="193" border="0" cellspacing="0" cellpadding="0"> 
+<body bgcolor=#FFFFFF text=#000000> 
+<table width=193 border=0 cellspacing=0 cellpadding=0> 
 
 <tr> 
-<td><a href="http://results.reliatrack.com/select.php?pos=9900027056&active=1783816"><img src="http://www.save4less.com/creative/s4l_2agraph/s4l1.gif" width="243" height="201" border="0"></a><a href="http://results.reliatrack.com/select.php?pos=9900027056&active=1783816"><img src="http://www.save4less.com/creative/s4l_2agraph/s4l2.gif" width="169" height="201" border="0"></a><a href="http://results.reliatrack.com/select.php?pos=9900027056&active=1783816"><img src="http://www.save4less.com/creative/s4l_2agraph/s4l3.gif" width="236" height="201" border="0"></a></td> 
+<td><a href=http://results.reliatrack.com/select.php?pos=9900027056&active=1783816><img src=http://www.save4less.com/creative/s4l_2agraph/s4l1.gif width=243 height=201 border=0></a><a href=http://results.reliatrack.com/select.php?pos=9900027056&active=1783816><img src=http://www.save4less.com/creative/s4l_2agraph/s4l2.gif width=169 height=201 border=0></a><a href=http://results.reliatrack.com/select.php?pos=9900027056&active=1783816><img src=http://www.save4less.com/creative/s4l_2agraph/s4l3.gif width=236 height=201 border=0></a></td> 
 </tr> 
 <tr> 
-<td><a href="http://results.reliatrack.com/select.php?pos=9900027056&active=1783816"><img src="http://www.save4less.com/creative/s4l_2agraph/s4l4.gif" width="243" height="154" border="0"></a><a href="http://results.reliatrack.com/select.php?pos=9900027056&active=1783816"><img src="http://www.save4less.com/creative/s4l_2agraph/s4l5.gif" width="169" height="154" border="0"></a><a href="http://results.reliatrack.com/select.php?pos=9900027056&active=1783816"><img src="http://www.save4less.com/creative/s4l_2agraph/s4l6.gif" width="236" height="154" border="0"></a></td> 
+<td><a href=http://results.reliatrack.com/select.php?pos=9900027056&active=1783816><img src=http://www.save4less.com/creative/s4l_2agraph/s4l4.gif width=243 height=154 border=0></a><a href=http://results.reliatrack.com/select.php?pos=9900027056&active=1783816><img src=http://www.save4less.com/creative/s4l_2agraph/s4l5.gif width=169 height=154 border=0></a><a href=http://results.reliatrack.com/select.php?pos=9900027056&active=1783816><img src=http://www.save4less.com/creative/s4l_2agraph/s4l6.gif width=236 height=154 border=0></a></td> 
 </tr> 
 <tr> 
 <td> 
-<div align="left"><font size="4" face="Arial, Helvetica, sans-serif"><b><a href="http://results.reliatrack.com/select.php?pos=9900027056&active=1783816"><img src="http://www.save4less.com/creative/s4l_2agraph/animation.gif" width="648" height="85" border="0"></a></b></font></div> 
+<div align=left><font size=4 face=Arial, Helvetica, sans-serif><b><a href=http://results.reliatrack.com/select.php?pos=9900027056&active=1783816><img src=http://www.save4less.com/creative/s4l_2agraph/animation.gif width=648 height=85 border=0></a></b></font></div> 
 </td> 
 </tr> 
 </table> 
@@ -134,8 +134,8 @@ Content-Disposition: inline
 </html><!--06qfV--><table>
 <tr>
 <!--9900027056/6-->
-<td><font color="black" face="arial" size="1">
-Your email address has been submitted to The PermissionPass Network for mailing by one of our merchant clients, or included as part of an assets purchase.  You may permanently remove yourself by clicking <a href="http://www.permissionpass.com/optout.php?email=jm@netnoteinc.com&pos=9900027056">HERE</a>.  Thank you.
+<td><font color=black face=arial size=1>
+Your email address has been submitted to The PermissionPass Network for mailing by one of our merchant clients, or included as part of an assets purchase.  You may permanently remove yourself by clicking <a href=http://www.permissionpass.com/optout.php?email=jm@netnoteinc.com&pos=9900027056>HERE</a>.  Thank you.
 </FONT></TD>
 </TR>
 </TABLE>

@@ -67,15 +67,15 @@ Date: Mon, 09 Sep 2002 14:11:17 -0700
 > mh tools, though.
 > I suggest doing the following from a shell prompt:
 > 
->  sh -c 'for f in "`folders -recurse -fast`" ; do sortm +"$f" ; done'
+>  sh -c 'for f in `folders -recurse -fast` ; do sortm +$f ; done'
 > 
-> (The command "sortm" will sort a particular folder, and
-> "folders -recurse -fast" prints out a list of all of your folders.)
+> (The command sortm will sort a particular folder, and
+> folders -recurse -fast prints out a list of all of your folders.)
 > 
 > 
 Thanks Tom and Jacob. The above works, but without the double quotes: i.e. 
 
-sh -c 'for f in `folders -recurse -fast` ; do sortm +"$f" ; done'
+sh -c 'for f in `folders -recurse -fast` ; do sortm +$f ; done'
 
 I'd attach this command to the sorting menu if I knew any tcl...
 

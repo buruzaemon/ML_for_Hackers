@@ -19,11 +19,11 @@ Received: from theshadows.darktech.org (cs66692-46.satx.rr.com
 Received: (from govind@localhost) by theshadows.darktech.org
     (8.11.6/8.11.6) id g161dF519684; Tue, 5 Feb 2002 19:39:15 -0600
 Subject: apt-get http fails
-From: "Govind S. Salinas" <govind@theshadows.darktech.org>
+From: Govind S. Salinas <govind@theshadows.darktech.org>
 To: rpm-zzzlist@freshrpms.net
 Content-Type: multipart/signed; micalg=pgp-sha1;
-    protocol="application/pgp-signature";
-    boundary="=-eAUUkMeF/tAqB1Bi49Ip"
+    protocol=application/pgp-signature;
+    boundary==-eAUUkMeF/tAqB1Bi49Ip
 X-Mailer: Evolution/1.0.2
 Message-Id: <1012959555.17032.17.camel@theshadows.darktech.org>
 MIME-Version: 1.0

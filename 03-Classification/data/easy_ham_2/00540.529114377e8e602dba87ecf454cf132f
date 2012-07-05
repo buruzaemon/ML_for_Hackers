@@ -24,7 +24,7 @@ Received: from unknown (HELO RAGING) ([66.92.72.213]) (envelope-sender
     <rOD@arsecandle.org>) by mail16.speakeasy.net (qmail-ldap-1.03) with SMTP
     for <razor-users@lists.sourceforge.net>; 24 Jul 2002 16:42:40 -0000
 Message-Id: <00f101c23331$1bdda5c0$b554a8c0@RAGING>
-From: "rODbegbie" <rOD@arsecandle.org>
+From: rODbegbie <rOD@arsecandle.org>
 To: <razor-users@example.sourceforge.net>
 References: <20020711084825.W60740-100000@rockstar.stealthgeeks.net>
     <20020723211828.Y98572-100000@rockstar.stealthgeeks.net>
@@ -32,7 +32,7 @@ References: <20020711084825.W60740-100000@rockstar.stealthgeeks.net>
 Subject: Re: [Razor-users] Authentication Error
 Organization: Arsecandle Industries, Inc.
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal
@@ -62,16 +62,16 @@ rODbegbie wrote:
 Apologies to all.  In re-reading, that sentence sounds a lot harsher than I
 intended.
 
-As the old maxim goes, "Never ascribe to malice that which can be equally
-explained by incompetence".
+As the old maxim goes, Never ascribe to malice that which can be equally
+explained by incompetence.
 
 I'll shut up now.
 
 rOD.
 
 --
-"Fast!  Fast!  Faster!  Bring the beef, you bastard,"
-cries Paula Abdul, "and don't forget the pasta!"
+Fast!  Fast!  Faster!  Bring the beef, you bastard,
+cries Paula Abdul, and don't forget the pasta!
 
 >> Doing the blogging thang again at http://www.groovymother.com/ <<
 

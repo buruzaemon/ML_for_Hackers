@@ -70,11 +70,11 @@ On Wed, 2002-07-24 at 14:05, Julian Missig wrote:
 > > I'm uising Havoc Pennington's Gnomehide and it rocks. I installed it before I
 > > knew about apt, but one of the previous emails had an apt repository that
 > > claimed to have gnomehide. Just remember there is one kew file that makes the
-> > difference between Gnome1 and Gnome2 being used. I *think* it is "gnome-core"
-> > vs. "gnome-session" but I can not remember.
+> > difference between Gnome1 and Gnome2 being used. I *think* it is gnome-core
+> > vs. gnome-session but I can not remember.
 > > 
 > > Note that that those same files are probably in the Limbo beta, except
-> > updated. There has not been a major change to "gnomehide" in a while, I
+> > updated. There has not been a major change to gnomehide in a while, I
 > > suspect Havoc's work went into Limbo then.
 > 
 > Right, gnomehide is only updated when it's been a while since the last

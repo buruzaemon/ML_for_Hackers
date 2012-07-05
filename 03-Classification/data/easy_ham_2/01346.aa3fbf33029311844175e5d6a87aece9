@@ -51,9 +51,9 @@ we might as well check it in now.  It's about time to check in
 http://bugzilla.spamassassin.org/show_bug.cgi?id=546
 
 This change will *remove* support for delivery to a local mailbox (ie the
-default mode of operation when "spamassassin" is run).
+default mode of operation when spamassassin is run).
 
-In addition, the "From " line will no longer be added to mails as a
+In addition, the From  line will no longer be added to mails as a
 result.
 
 --j.

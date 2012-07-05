@@ -25,14 +25,14 @@ Received: from homediet (dogpound.dyndns.org [64.45.134.154]) by
     mail-gw.dmv.com (8.11.6/8.11.6) with SMTP id g713Q8e80425; Wed,
     31 Jul 2002 23:26:08 -0400 (EDT) (envelope-from sven@dmv.com)
 Message-Id: <00e701c23909$ee063bb0$0201a8c0@homediet>
-From: "Sven" <sven@dmv.com>
+From: Sven <sven@dmv.com>
 To: <mail@vipul.net>
 Cc: <razor-users@example.sourceforge.net>
 References: <00df01c238fc$f04ac060$0201a8c0@homediet>
     <20020731193146.B17700@rover.vipul.net>
 Subject: Re: [Razor-users] Smrazor, Milter, and Max connections
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal
@@ -56,8 +56,8 @@ Date: Wed, 31 Jul 2002 23:17:07 -0400
 
 
 ----- Original Message -----
-From: "Vipul Ved Prakash" <mail@vipul.net>
-To: "Sven" <sven@dmv.com>
+From: Vipul Ved Prakash <mail@vipul.net>
+To: Sven <sven@dmv.com>
 Cc: <razor-users@example.sourceforge.net>
 Sent: Wednesday, July 31, 2002 10:31 PM
 Subject: Re: [Razor-users] Smrazor, Milter, and Max connections
@@ -74,8 +74,8 @@ have
 timeouts
 > > occuring (I set the milter timeout per message to 15 seconds) often in
 huge
-> > lumps and the occasional "Could not get valid info from Discovery
-Servers")
+> > lumps and the occasional Could not get valid info from Discovery
+Servers)
 > > ?????
 >
 > 15 seconds is more than enough timeout... There's no request/minute limit,

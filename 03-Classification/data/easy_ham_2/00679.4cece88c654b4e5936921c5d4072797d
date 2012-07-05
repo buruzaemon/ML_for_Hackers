@@ -34,7 +34,7 @@ In this issue:
 |   http://use.perl.org/article.pl?sid=02/07/18/1430255              |
 +--------------------------------------------------------------------+
 
-[0]Richard Foley writes "Share your 'pe[a]rls of wisdom' with the Perl
+[0]Richard Foley writes Share your 'pe[a]rls of wisdom' with the Perl
 community: attendees from all around the world, gurus and geeks alike,
 will converge on Munich for [0]YAPC::Europe Sept. 18-20 to listen to the
 talks and tutorials presented at this gathering of minds. This year's
@@ -42,7 +42,7 @@ theme is 'The Science of Perl', which means that we would really like to
 hear about suggestions for talks, projects, experiences which involve
 both perl and science. This should not be regarded as a restriction, more
 as a 'nice to have' :-) Proposals may be submitted between January 1st
-2002 and July 30th 2002."
+2002 and July 30th 2002.
 
 Discuss this story at:
     http://use.perl.org/comments.pl?sid=02/07/18/1430255
@@ -57,7 +57,7 @@ Links:
 |   http://use.perl.org/article.pl?sid=02/07/19/038259               |
 +--------------------------------------------------------------------+
 
-[0]jhi writes "After more than two long years of hard work, the
+[0]jhi writes After more than two long years of hard work, the
 perl5-porters is proud to announce Perl 5.8.0. The most important new
 features are enhanced Unicode and threads support, and the new I/O
 subsystem called PerlIO, but there are lots of new goodies, not to
@@ -76,7 +76,7 @@ use, but of course any CPAN mirror will do once they catch up.
 
 Share and Enjoy!
 
--- Jarkko Hietaniemi, on behalf of the Perl5 Porters"
+-- Jarkko Hietaniemi, on behalf of the Perl5 Porters
 
 Discuss this story at:
     http://use.perl.org/comments.pl?sid=02/07/19/038259

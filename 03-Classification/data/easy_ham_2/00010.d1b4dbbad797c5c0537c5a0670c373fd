@@ -40,11 +40,11 @@ Subject: Re: New Sequences Window
 In-Reply-To: <8176.1029916867@munnari.OZ.AU>
 References: <200208210251.g7L2pqKb001805@turing-police.cc.vt.edu>
     <1029882468.3116.TMDA@deepeddy.vircio.com> <8176.1029916867@munnari.OZ.AU>
-Comments: In-reply-to Robert Elz <kre@munnari.OZ.AU> message dated "Wed,
-    21 Aug 2002 15:01:07 +0700."
+Comments: In-reply-to Robert Elz <kre@munnari.OZ.AU> message dated Wed,
+    21 Aug 2002 15:01:07 +0700.
 From: Brent Welch <welch@panasas.com>
 X-Url: http://www.panasas.com/
-X-Face: "HxE|?EnC9fVMV8f70H83&{fgLE.|FZ^$>@Q(yb#N,Eh~N]e&]=>
+X-Face: HxE|?EnC9fVMV8f70H83&{fgLE.|FZ^$>@Q(yb#N,Eh~N]e&]=>
     r5~UnRml1:4EglY{9B+ :'wJq$@c_C!l8@<$t,{YUr4K,QJGHSvS~U]H`<+L*x?eGzSk>XH\W:AK\j?@?c1o<k;j'Ei/UL)!*0
     ILwSR)J\bc)gjz!rrGQ2#i*f:M:ydhK}jp4dWQW?;0{,#iWrCV$4~%e/3)$1/D
 MIME-Version: 1.0
@@ -69,9 +69,9 @@ Date: Wed, 21 Aug 2002 13:35:27 -0700
 >>>Robert Elz said:
 
  > I kind of doubt that any pre built-in sequence name is going to be
- > very general.   Even "unseen" can be changed (fortunately that one
+ > very general.   Even unseen can be changed (fortunately that one
  > is easy to find in the MH profile - though whether exmh does that,
- > os just uses "unseen" I haven't bothered to find out).
+ > os just uses unseen I haven't bothered to find out).
 
 exmh uses the profile setting - it appears as mhProfile(unseen-sequence)
 in the code.

@@ -30,7 +30,7 @@ To: Theo Van Dinter <felicity@kluge.net>
 From: Justin Shore <listuser@neo.pittstate.edu>
 Subject: Re: [Razor-users] Stripping the SpamAssassin report
 Cc: razor-users@example.sourceforge.net
-Content-Type: text/plain; charset="us-ascii" ; format="flowed"
+Content-Type: text/plain; charset=us-ascii ; format=flowed
 Sender: razor-users-admin@example.sourceforge.net
 Errors-To: razor-users-admin@example.sourceforge.net
 X-Beenthere: razor-users@example.sourceforge.net
@@ -53,7 +53,7 @@ At 1:52 PM -0400 8/13/02, Theo Van Dinter wrote:
 >>  from my spam mailbox before I run the mailbox through razor-report,
 >>  correct?  Does anyone know of an easy way to do this?
 >
->use "spamassassin -r".  It'll take a message, strip the SA bits, and
+>use spamassassin -r.  It'll take a message, strip the SA bits, and
 >report to razor, all in one shot. :)
 
 Ah...  You learn something new every day!  This would make things 

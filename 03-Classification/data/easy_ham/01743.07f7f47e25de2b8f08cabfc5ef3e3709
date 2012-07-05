@@ -14,22 +14,22 @@ I can start harvesting all incoming email at a moment's notice.  For the
 record, here's how it all works:
 
   * exim4.conf works almost exactly the same as before if the file
-    /etc/exim/harvest does not exist.  That is, any "junk mail
-    condition" that can be detected by Exim ACLs (access control lists)
+    /etc/exim/harvest does not exist.  That is, any junk mail
+    condition that can be detected by Exim ACLs (access control lists)
     is handled entirely in exim4.conf: the message is rejected before it
     ever gets to local_scan.py.  This covers such diverse cases as
-    "message from known spammer" (reject after every RCPT TO command),
-    "no message-id header", and "8-bit chars in subject" (both rejected
+    message from known spammer (reject after every RCPT TO command),
+    no message-id header, and 8-bit chars in subject (both rejected
     after the message headers/body are read).
 
     The main things I have changed in the absence of /etc/exim/harvest
     are:
-      - don't check for 8-bit chars in "From" header -- the vast
+      - don't check for 8-bit chars in From header -- the vast
         majority of hits for this test were bounces from some
         Asian ISP; the remaining hits should be handled by SpamAssassin
       - do header sender verification (ie. ensure that there's a
-        verifiable email address in at least one of "From", "Reply-to",
-        and "Sender") as late as possible, because it requires DNS
+        verifiable email address in at least one of From, Reply-to,
+        and Sender) as late as possible, because it requires DNS
         lookups which can be slow (and can also make messages that
         should have been rejected merely be deferred, if those DNS
         lookups timeout)
@@ -54,16 +54,16 @@ record, here's how it all works:
     executables, and a run through SpamAssassin.)  The logic is
     basically this:
       if virus:
-          folder = "virus"
+          folder = virus
       else:
           run through SpamAssassin
           if score >= 10.0:
-              folder = "rejected-spam"
+              folder = rejected-spam
           elif score >= 5.0:
-              folder = "caught-spam"
+              folder = caught-spam
 
     Finally, local_scan.py writes the message to the designated folder.
-    By far the biggest folder will be "accepted" -- the server handles
+    By far the biggest folder will be accepted -- the server handles
     2000-5000 incoming messages per day, of which maybe 100-500 are junk
     mail.  (Oops, just realized I haven't written the code that actually
     saves the message -- d'ohh!  Also haven't written anything to

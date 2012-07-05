@@ -27,7 +27,7 @@ Received: (qmail 76245 messnum 353213 invoked from
 Received: from kearney.eircom.net (HELO webmail.eircom.net)
     (159.134.237.77) by mail05.svc.cra.dublin.eircom.net (qp 76245) with SMTP;
     8 Aug 2002 10:32:24 -0000
-From: "wintermute" <cout@eircom.net>
+From: wintermute <cout@eircom.net>
 To: ilug@linux.ie
 Subject: Re: [ILUG] slashdot EW Dijkstra humor
 Date: Thu, 8 Aug 2002 11:27:59 +0100
@@ -54,7 +54,7 @@ X-Beenthere: ilug@linux.ie
 >        Re:GOTO Heaven
 >        I'll bet he gets there by the shortest path.
 > 
-> Referring to his "Goto considered harmful" etc.
+> Referring to his Goto considered harmful etc.
 > 
 > Sad to see these people go. 3 others I've
 > noticed lately were: Richard Stevens, Jim Ellis

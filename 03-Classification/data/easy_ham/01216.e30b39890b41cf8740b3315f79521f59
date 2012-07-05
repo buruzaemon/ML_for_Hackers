@@ -25,7 +25,7 @@ Subject: alsa-driver.spec tweak for homemade kernels
 To: rpm-zzzlist@freshrpms.net
 Message-Id: <3D9AA650.2000909@eecs.berkeley.edu>
 MIME-Version: 1.0
-Content-Type: multipart/mixed; boundary="Boundary_(ID_KtnWPrcWHTTzQa7OHxPjiA)"
+Content-Type: multipart/mixed; boundary=Boundary_(ID_KtnWPrcWHTTzQa7OHxPjiA)
 X-Accept-Language: en-us, en
 User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.1) Gecko/20020827
 X-Mailscanner: Found to be clean, Found to be clean
@@ -63,14 +63,14 @@ The diff is attached below.  The first part of the diff contains a
 conditional that checks to see if the expected RPM is installed.  If it 
 is, %{karch} is set as before and a new %{krpm} flag is set to 1.  If 
 the expected RPM is not installed, then %{karch} is instead set using 
-"uname -p", while %{krpm} is left undefined.
+uname -p, while %{krpm} is left undefined.
 
 The second part of the diff is simpler.  We only require that 
 kernel-source be installed if the kernel itself came from an RPM.  (If 
 the kernel was hand-built, the presumably the user knows enough to have 
 retained the sources in the expected place.)
 
-Again, I realize that I'm operating "off warrantee" by not using a Red 
+Again, I realize that I'm operating off warrantee by not using a Red 
 Hat kernel RPM.  Matthias, if you think this tweak is reasonable and not 
 too ugly, I'd love to see you pick it up.  If not, well at least this 
 message will sit in the archives and may help other folks in the future.

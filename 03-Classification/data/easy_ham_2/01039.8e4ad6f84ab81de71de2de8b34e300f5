@@ -21,7 +21,7 @@ Received: by crank.slack.net (Postfix, from userid 596) id 02EE23ED63;
 Received: from localhost (localhost [127.0.0.1]) by crank.slack.net
     (Postfix) with ESMTP id 018AC3EC00; Thu, 15 Aug 2002 23:08:19 -0400 (EDT)
 From: Tom <tomwhore@slack.net>
-To: "Adam L. Beberg" <beberg@mithral.com>
+To: Adam L. Beberg <beberg@mithral.com>
 Cc: fork@spamassassin.taint.org
 Subject: Re: Food bits
 In-Reply-To: <Pine.LNX.4.33.0208151936280.15634-100000@watcher.mithral.com>

@@ -20,12 +20,12 @@ Received: from [66.92.157.3] (helo=www.dudex.net) by bob.dudex.net with
     esmtp (Exim 3.35 #1) id 17wWja-0003FF-00 for rpm-list@freshrpms.net;
     Tue, 01 Oct 2002 19:47:22 -0400
 X-Originating-Ip: [66.92.157.2]
-From: "" Angles " Puglisi" <angles@aminvestments.com>
+From:  Angles  Puglisi <angles@aminvestments.com>
 To: rpm-zzzlist@freshrpms.net
 Subject: Re: use new apt to do null to RH8 upgrade?
 Message-Id: <20021001.558.00260600@www.dudex.net>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 8bit
 Content-Disposition: inline
 X-Mailer: AngleMail for phpGroupWare (http://www.phpgroupware.org) v
@@ -72,7 +72,7 @@ used CDs make inexpensive backup copy on the shelf. I do not want to re-rip all
 this crap again.
 
 --
-That's "angle" as in geometry.
+That's angle as in geometry.
 
 
 

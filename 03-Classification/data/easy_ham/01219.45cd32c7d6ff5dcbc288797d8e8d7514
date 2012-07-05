@@ -60,7 +60,7 @@ Oh well.  Fair enough.
 
 Ugh, way too much manual labor.  :-)
 
-What I've done instead is to create a tiny little "kernel.spec" that
+What I've done instead is to create a tiny little kernel.spec that
 installs no files but claims to produce a kernel package having version
 number `uname -r` for architecture `uname -p`.  It also claims to
 provide kernel-sources at the same version.  That is enough to make

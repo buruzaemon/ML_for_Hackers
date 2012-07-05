@@ -24,7 +24,7 @@ Received: from localhost (eugen@localhost) by hydrogen.leitl.org
     +0200
 X-Authentication-Warning: hydrogen.leitl.org: eugen owned process doing -bs
 From: Eugen Leitl <eugen@leitl.org>
-To: "R. A. Hettinga" <rah@shipwright.com>
+To: R. A. Hettinga <rah@shipwright.com>
 Cc: Digital Bearer Settlement List <dbs@philodox.com>,
 	<dcsb@ai.mit.edu>, <fork@xent.com>
 Subject: Re: Buy? (was Re: It's back? Triple-digit Dow gains at 2PM...)

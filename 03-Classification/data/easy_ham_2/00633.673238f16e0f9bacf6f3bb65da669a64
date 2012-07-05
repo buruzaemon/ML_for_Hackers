@@ -25,7 +25,7 @@ MIME-Version: 1.0
 Message-Id: <p04310114b97eea718672@[198.248.208.11]>
 To: razor-users@example.sourceforge.net
 From: Justin Shore <listuser@neo.pittstate.edu>
-Content-Type: text/plain; charset="us-ascii" ; format="flowed"
+Content-Type: text/plain; charset=us-ascii ; format=flowed
 Subject: [Razor-users] Stripping the SpamAssassin report
 Sender: razor-users-admin@example.sourceforge.net
 Errors-To: razor-users-admin@example.sourceforge.net

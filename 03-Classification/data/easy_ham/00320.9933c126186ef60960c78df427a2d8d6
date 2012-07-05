@@ -18,16 +18,16 @@ Received: from plato.einstein (unknown [65.170.226.173]) by xent.com
     20 Aug 2002 23:34:52 -0700 (PDT)
 Received: from RSHAVELL ([63.101.39.6]) by plato.einstein with Microsoft
     SMTPSVC(5.0.2195.3779); Tue, 20 Aug 2002 23:36:30 -0700
-From: "Rob Shavell" <rob@mobiusvc.com>
-To: "'Eugen Leitl'" <eugen@leitl.org>,
-	"'Mike Masnick'" <mike@techdirt.com>,
-	"'Joseph S. Barrera III'" <joe@barrera.org>,
-	"'Ian Andrew Bell'" <fork@ianbell.com>
+From: Rob Shavell <rob@mobiusvc.com>
+To: 'Eugen Leitl' <eugen@leitl.org>,
+	'Mike Masnick' <mike@techdirt.com>,
+	'Joseph S. Barrera III' <joe@barrera.org>,
+	'Ian Andrew Bell' <fork@ianbell.com>
 Cc: <fork@spamassassin.taint.org>
 Subject: RE: sprint delivers the next big thing??
 Message-Id: <00dc01c248dd$0c740ea0$6765010a@einstein>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal
@@ -93,7 +93,7 @@ ps:  it is relatively amusing that one 'low resolution' complaint dropped
 just after Joe watched a CARTOON on his television..
 
 You're right. Or at least, I don't. I saw an advert for it on TV last
-night (can't miss Futurama :-) and I thought, "boy, that's dumb."
+night (can't miss Futurama :-) and I thought, boy, that's dumb.
 If I wanted to share pictures with someone, I'd email them to them,
 where they could see them on a 1024x or 1600x display, instead of
 
@@ -114,7 +114,7 @@ On Sun, 18 Aug 2002, Rob Shavell wrote:
 > seems to give much of a damn that right now that 2 persons can take photos
 > and share them instantly across space.  this is one of the biggest - and
 
-The word "trivial" comes to mind.
+The word trivial comes to mind.
 
 > last - fundamental changes in human communications.  will be as big as the
 > browser.

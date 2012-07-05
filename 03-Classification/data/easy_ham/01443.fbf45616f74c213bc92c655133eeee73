@@ -28,7 +28,7 @@ Received: from localhost (localhost [127.0.0.1]) by
     burgers.bubbanfriends.org (Postfix) with ESMTP id E6805C026A6;
     Thu,  5 Sep 2002 07:33:15 -0500 (EST)
 From: Mike Burger <mburger@bubbanfriends.org>
-To: "Malte S. Stretz" <msquadrat.nospamplease@gmx.net>
+To: Malte S. Stretz <msquadrat.nospamplease@gmx.net>
 Cc: spamassassin-talk@example.sourceforge.net
 Subject: Re: [SAtalk] PerMsgStatus.pm error?
 In-Reply-To: <200209051318.24194@malte.stretz.eu.org>
@@ -52,8 +52,8 @@ List-Archive: <http://www.geocrawler.com/redir-sf.php3?list=spamassassin-talk>
 X-Original-Date: Thu, 5 Sep 2002 07:33:15 -0500 (EST)
 Date: Thu, 5 Sep 2002 07:33:15 -0500 (EST)
 
-It's possible...I performed the update via "rpm -U"...which, of course, 
-created all the new rulesets as "xx_rulename.cf.rpmnew"  Crud.  I'll have 
+It's possible...I performed the update via rpm -U...which, of course, 
+created all the new rulesets as xx_rulename.cf.rpmnew  Crud.  I'll have 
 to start moving things around.
 
 On Thu, 5 Sep 2002, Malte S. Stretz wrote:
@@ -68,9 +68,9 @@ On Thu, 5 Sep 2002, Malte S. Stretz wrote:
 > >
 > > Sep  4 21:01:59 burgers spamd[17579]: Failed to run CTYPE_JUST_HTML
 > > SpamAssassin test, skipping: ^I(Can't locate object method
-> > "check_for_content_type_just_html" via package
-> > "Mail::SpamAssassin::PerMsgStatus" (perhaps you forgot to load
-> > "Mail::SpamAssassin::PerMsgStatus"?) at
+> > check_for_content_type_just_html via package
+> > Mail::SpamAssassin::PerMsgStatus (perhaps you forgot to load
+> > Mail::SpamAssassin::PerMsgStatus?) at
 > > /usr/lib/perl5/site_perl/5.6.1/Mail/SpamAssassin/PerMsgStatus.pm line
 > > 1814, <STDIN> line 21. )
 > >

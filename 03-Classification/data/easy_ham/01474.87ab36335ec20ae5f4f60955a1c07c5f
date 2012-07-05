@@ -31,8 +31,8 @@ Message-Id: <20020913191031.GH5897@kluge.net>
 References: <20020912204727.99269.qmail@web20001.mail.yahoo.com>
 MIME-Version: 1.0
 Content-Type: multipart/signed; micalg=pgp-sha1;
-    protocol="application/pgp-signature";
-    boundary="Hlh2aiwFLCZwGcpw"
+    protocol=application/pgp-signature;
+    boundary=Hlh2aiwFLCZwGcpw
 Content-Disposition: inline
 In-Reply-To: <20020912204727.99269.qmail@web20001.mail.yahoo.com>
 User-Agent: Mutt/1.4i

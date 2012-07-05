@@ -32,8 +32,8 @@ Subject: Re: [Razor-users] What's wrong with the Razor servers now?
 Content-Type: text/plain; charset=US-ASCII; format=flowed
 MIME-Version: 1.0 (Apple Message framework v482)
 Cc: <razor-users@example.sourceforge.net>
-To: "Gregory Sloop" <gregs@sloop.net>
-From: "Craig R.Hughes" <craig@deersoft.com>
+To: Gregory Sloop <gregs@sloop.net>
+From: Craig R.Hughes <craig@deersoft.com>
 In-Reply-To: <002a01c23ef5$74dc75f0$1601730a@and1900a>
 Message-Id: <7C91C63D-AB0E-11D6-BCF2-00039396ECF2@deersoft.com>
 Content-Transfer-Encoding: 7bit
@@ -69,7 +69,7 @@ that long-promised server code to be published), but now that
 it's been turned on, and the more info that's coming out about 
 it, the more concerned I'm becoming that it's extremely easy to 
 game; that the initial amount of work to set up a gaming agent 
-is low, and that once it's set up, it can be "fire and forget" 
+is low, and that once it's set up, it can be fire and forget 
 in terms of continuing to operate in a way that's not easy to 
 distinguish from real user behavior.
 
@@ -81,7 +81,7 @@ Another concern I have with the way the system might be working
 is that it might not actually require very many gamers at all to 
 utterly undermine the whole system.  There are a certain number 
 of possible universes where the trust system is very sensitive 
-to liars, or misclassifiers of "gray" mail, or both.  It's not 
+to liars, or misclassifiers of gray mail, or both.  It's not 
 clear yet whether this universe is one of those or not.
 
 > That means that we might have a system that is less than 100% 
@@ -117,7 +117,7 @@ adjusting over time to gaming strategies.
 
 SA definitely has a non-zero FP rate, and always will have.  I 
 would argue that any system will have a non-zero FP rate, 
-including the "no filter" filter -- humans make mistakes too 
+including the no filter filter -- humans make mistakes too 
 sometimes!  As spammer strategies evolve over time though, I'm 
 fairly sure that SA will be able to adjust and compensate.  If 
 spammers figure out how to easily pollute the SpamNet trust 
@@ -140,10 +140,10 @@ all honest voters agree on what constitutes spam
 > better than somthing that works perfectly, but will never be 
 > implimented
 > because of it's cost. (The rub is that everyone defines 
-> "reasonably well" in
+> reasonably well in
 > dramatically different ways - *grin* as evidenced my the masses 
 > that think
-> Microsoft's stuff works "resaonably well" _bah_ - [but it does 
+> Microsoft's stuff works resaonably well _bah_ - [but it does 
 > keep me fully
 > employed 'sigh']
 

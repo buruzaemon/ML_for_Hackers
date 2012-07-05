@@ -91,7 +91,7 @@ diff -b -w -u -d -r1.1 -r1.1.4.1
 +  echo Checking $f: ; ./mass-phrase-freq $f >> nonspam.local
 +done
  
- echo "
+ echo 
  
 
 

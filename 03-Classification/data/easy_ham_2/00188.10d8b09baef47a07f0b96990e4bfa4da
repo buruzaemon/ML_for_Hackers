@@ -43,7 +43,7 @@ References: <5FE418B3F962D411BED40000E818B33C9C8E65@HASSLE>
 Organization: Analog Devices
 X-Mailer: Sylpheed version 0.7.8claws (GTK+ 1.2.7; )
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: 7bit
 Sender: ilug-admin@linux.ie
 Errors-To: ilug-admin@linux.ie
@@ -53,7 +53,7 @@ List-Id: Irish Linux Users' Group <ilug.linux.ie>
 X-Beenthere: ilug@linux.ie
 
 
-"fdisk /mbr" will not destroy the OS, it will simply restore the windows
+fdisk /mbr will not destroy the OS, it will simply restore the windows
 mbr as it was.  Running fdisk and deleting a partition would however
 destroy the OS (bu even then only if you format the disc afterwards).
 
@@ -72,7 +72,7 @@ Paul Askins <:)
 Email:  Paul Askins <paul.askins@adbvdesign.analog.com>
 
 Behind every great man, there is a woman -- urging him on.
-		-- Harry Mudd, "I, Mudd", stardate 4513.3
+		-- Harry Mudd, I, Mudd, stardate 4513.3
 
 -- 
 Irish Linux Users' Group: ilug@linux.ie

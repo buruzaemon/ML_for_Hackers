@@ -36,8 +36,8 @@ Received: from dimebox.bmc.com (localhost [127.0.0.1]) by dimebox.bmc.com
 X-Mailer: exmh version 2.5 07/13/2001 with nmh-1.0.4
 In-Reply-To: <20020930185727.5ACA84A3@gray.impulse.net>
 References: <20020930185727.5ACA84A3@gray.impulse.net>
-Comments: In-reply-to Ted Cabeen <secabeen@pobox.com> message dated "Mon,
-    30 Sep 2002 11:57:27 -0700."
+Comments: In-reply-to Ted Cabeen <secabeen@pobox.com> message dated Mon,
+    30 Sep 2002 11:57:27 -0700.
 To: exmh-workers@spamassassin.taint.org
 Subject: Re: Working My_Mark2CurSeen
 MIME-Version: 1.0
@@ -63,7 +63,7 @@ Date: Mon, 30 Sep 2002 14:53:33 -0500
 
 
 
->>>>> On Mon, 30 Sep 2002, "Ted" == Ted Cabeen wrote:
+>>>>> On Mon, 30 Sep 2002, Ted == Ted Cabeen wrote:
 
   Ted> Here's the code for everybody and the list archives in
   Ted> case anyone wants it in the future.

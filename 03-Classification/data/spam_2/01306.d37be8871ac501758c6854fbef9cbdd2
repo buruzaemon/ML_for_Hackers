@@ -18,7 +18,7 @@ From: Ki.Fung.Advertising.Co.Ltd@dogma.slashnull.org
 To: ELECTRONIC@dogma.slashnull.org
 Subject: Brand New Premium Promotion
 MIME-Version: 1.0
-Content-Type: multipart/mixed; boundary="----=_NextPart_hzG8dMSOY9olT2Ty"
+Content-Type: multipart/mixed; boundary=----=_NextPart_hzG8dMSOY9olT2Ty
 X-Mailer: xLihQRz3QwM5E2FMVKYP7zl1QN
 X-Priority: 3
 X-Msmail-Priority: Normal
@@ -27,7 +27,7 @@ This is a multi-part message in MIME format.
 
 ------=_NextPart_hzG8dMSOY9olT2Ty
 Content-Type: multipart/alternative;
-	boundary="----=_NextPart_hzG8dMSOY9olT2TyAA"
+	boundary=----=_NextPart_hzG8dMSOY9olT2TyAA
 
 
 ------=_NextPart_hzG8dMSOY9olT2TyAA
@@ -40,10 +40,10 @@ Content-Transfer-Encoding: quoted-printable
 
 ------=_NextPart_hzG8dMSOY9olT2Ty
 Content-Type: application/octet-stream;
-	name="C:\WINDOWS\Desktop\Brand New Premium.htm"
+	name=C:\WINDOWS\Desktop\Brand New Premium.htm
 Content-Transfer-Encoding: base64
 Content-Disposition: attachment;
-	filename="Brand New Premium.htm"
+	filename=Brand New Premium.htm
 
 PE1FVEEgSFRUUC1FUVVJVj0iQ29udGVudC1UeXBlIiBDT05URU5UPSJ0ZXh0L2h0bWw7Y2hhcnNl
 dD1pc28tODg1OS0xIj4NCjwhRE9DVFlQRSBIVE1MIFBVQkxJQyAiLS8vVzNDLy9EVEQgSFRNTCA0

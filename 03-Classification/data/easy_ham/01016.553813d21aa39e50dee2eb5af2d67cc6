@@ -36,8 +36,8 @@ In-Reply-To: <26040.1031911795@munnari.OZ.AU>
 References: <23204.1031891193@dimebox>
     <200209130231.g8D2VO021580@hobbit.linuxworks.com.au.nospam>
     <26040.1031911795@munnari.OZ.AU>
-Comments: In-reply-to Robert Elz <kre@munnari.OZ.AU> message dated "Fri,
-    13 Sep 2002 17:09:55 +0700."
+Comments: In-reply-to Robert Elz <kre@munnari.OZ.AU> message dated Fri,
+    13 Sep 2002 17:09:55 +0700.
 To: exmh-users@spamassassin.taint.org
 Subject: Re: Linking message [was: Re: Patch to complete a change...]
 MIME-Version: 1.0
@@ -64,7 +64,7 @@ Date: Fri, 13 Sep 2002 09:18:41 -0500
 
 
 
->>>>> On Fri, 13 Sep 2002, "Robert" == Robert Elz wrote:
+>>>>> On Fri, 13 Sep 2002, Robert == Robert Elz wrote:
 
   Robert> That (the way I have it configured, and it sounds as if
   Robert> the way Tony does too) just does a move (rather than
@@ -72,9 +72,9 @@ Date: Fri, 13 Sep 2002 09:18:41 -0500
 
 Ah.  I had forgotten that was settable.  
 
-Preferences, Folder Display, "Action when Target Button
-clicked..." set to "Select only" will change it.  I seem to
-recall that the button that is used as "Target button" is
+Preferences, Folder Display, Action when Target Button
+clicked... set to Select only will change it.  I seem to
+recall that the button that is used as Target button is
 configurable but I haven't had enough caffeine to recall where
 that is.
 

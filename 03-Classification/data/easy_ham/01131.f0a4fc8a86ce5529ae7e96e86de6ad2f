@@ -50,9 +50,9 @@ X-Url: http://www.DeepEddy.Com/~cwg
 X-Image-Url: http://www.DeepEddy.Com/~cwg/chris.gif
 MIME-Version: 1.0
 Content-Type: multipart/signed;
-    boundary="==_Exmh_-1590407866P";
+    boundary===_Exmh_-1590407866P;
     micalg=pgp-sha1;
-    protocol="application/pgp-signature"
+    protocol=application/pgp-signature
 Content-Transfer-Encoding: 7bit
 Message-Id: <1032819600.20949.TMDA@deepeddy.vircio.com>
 From: Chris Garrigues <cwg-exmh@DeepEddy.Com>
@@ -84,7 +84,7 @@ Content-Type: text/plain; charset=us-ascii
 > 
 > I'm home now, and this copy of exmh is pretty bad -  I'm running from
 > CVS on Sunday night - the only change since then was the one you made
-> this morning for "bulletproofing in MhReadSeqs".
+> this morning for bulletproofing in MhReadSeqs.
 > 
 > I run exmh, and I can visably see it count up the number of unseen
 > messages as it looks through the folders - I have about 3000 unseen
@@ -105,29 +105,29 @@ behavior, the old lines are still in app-defaults-color, but commented out.
 
 > If I click on a message, I get the following traceback:
 > 
-> invalid command name "Mh_MarkSeen"
+> invalid command name Mh_MarkSeen
 >     while executing
-> "Mh_MarkSeen $exmh(folder) $msgid"
->     (procedure "Hook_MsgShow_update_unseen" line 5)
+> Mh_MarkSeen $exmh(folder) $msgid
+>     (procedure Hook_MsgShow_update_unseen line 5)
 >     invoked from within
-> "$cmd $mhProfile(path)/$exmh(folder)/$msgid mimeHdr"
->     (procedure "MsgShow" line 23)
+> $cmd $mhProfile(path)/$exmh(folder)/$msgid mimeHdr
+>     (procedure MsgShow line 23)
 >     invoked from within
-> "MsgShow $msgid"
->     (procedure "MsgChange" line 18)
+> MsgShow $msgid
+>     (procedure MsgChange line 18)
 >     invoked from within
-> "MsgChange 66 show"
+> MsgChange 66 show
 >     invoked from within
-> "time [list MsgChange $msgid $show"
->     (procedure "Msg_Change" line 3)
+> time [list MsgChange $msgid $show
+>     (procedure Msg_Change line 3)
 >     invoked from within
-> "Msg_Change $msgNum $show"
->     (procedure "Msg_Pick" line 8)
+> Msg_Change $msgNum $show
+>     (procedure Msg_Pick line 8)
 >     invoked from within
-> "Msg_Pick $lineno show"
->     (procedure "FtocRangeEnd" line 12)
+> Msg_Pick $lineno show
+>     (procedure FtocRangeEnd line 12)
 >     invoked from within
-> "FtocRangeEnd [lindex [split [.ftoc.t index current] .] 0] 0"
+> FtocRangeEnd [lindex [split [.ftoc.t index current] .] 0] 0
 >     (command bound to event)
 
 This is because of your Hook_MsgShow_update_unseen which is calling a function 

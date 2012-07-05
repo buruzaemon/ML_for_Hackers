@@ -73,7 +73,7 @@ diff -b -w -u -d -r1.3 -r1.3.2.1
 +* < 256000
  | spamassassin
  
- # Move it to the "caughtspam" mbox if it was tagged as spam
+ # Move it to the caughtspam mbox if it was tagged as spam
 
 
 

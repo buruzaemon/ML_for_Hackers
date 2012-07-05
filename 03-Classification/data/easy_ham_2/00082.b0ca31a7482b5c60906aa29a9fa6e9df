@@ -49,7 +49,7 @@ Howdy all,
 I have a friend with the problem outlined below, suggestions anyone?
 
 
-"I have a dell inspirion 2650 laptop, with a P4 1.6GHz proc., an Nvidia Geforce II graphics card (8Mb) and am trying  to 
+I have a dell inspirion 2650 laptop, with a P4 1.6GHz proc., an Nvidia Geforce II graphics card (8Mb) and am trying  to 
 install redhat 7.3 .
 The installation goes nicely until the Xwindows setup. My graphics card IS detected but not the monitor. I have  
 randomly chosen various LCD laptop display monitors but none seem to work, problem is that when i test a  particular 
@@ -57,7 +57,7 @@ monitor the screen doesn't default back to the nice clear picture  i have become
 flashy so it is impossible to test another monitor type. rebooting allows me to run in text mode  where i try to configure X 
 again with Xconfigurator but i run into the same problem again.
 
-Very annoying..."
+Very annoying...
 
 Ta very, 
 

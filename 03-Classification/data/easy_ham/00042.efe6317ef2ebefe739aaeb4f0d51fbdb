@@ -22,7 +22,7 @@ X-Trace: UmFuZG9tSVZFFzJmsb6CFx8j2lnFk529F6pHVq8zxRebZ/rkY9nOITB+/+3fN03H5gv+GHx
 Received: from eb-174121.od.nih.gov ([156.40.174.121]
     helo=TOSHIBA-L8QYR7M) by smtp03.mrf.mail.rcn.net with asmtp (Exim 3.35 #6)
     id 17i3Uv-0007Lj-00 for fork@xent.com; Thu, 22 Aug 2002 21:44:25 -0400
-From: "John Evdemon" <jevdemon@acm.org>
+From: John Evdemon <jevdemon@acm.org>
 To: fork@spamassassin.taint.org
 MIME-Version: 1.0
 Subject: Re: Entrepreneurs
@@ -51,7 +51,7 @@ On 23 Aug 2002 at 2:57, Robert Harley wrote:
 
 > It's an amusing anecdote, I don't know if it's true or not,
 > but certainly nothing here supports the authoritative
-> sounding conclusion "Status: False".
+> sounding conclusion Status: False.
 
 I actually thought it was pretty funny and quite accurate.  Who cares if the spinmeisters are denying it?
 http://xent.com/mailman/listinfo/fork

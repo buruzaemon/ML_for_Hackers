@@ -54,7 +54,7 @@ Date: Mon, 7 Oct 2002 18:36:29 +0200
 Once upon a time, Ville wrote :
 
 > > BTW, I think I'll kake it so that my ogle package automatically inserts
-> > this "options ide-cd dma=1" to /etc/modules.conf! It currently creates
+> > this options ide-cd dma=1 to /etc/modules.conf! It currently creates
 > > the/dev/dvd link to /dev/cdrom (which will work most of the time, if
 > > there's only one drive) if no /dev/dvd exists.
 > 
@@ -62,7 +62,7 @@ Once upon a time, Ville wrote :
 > Outputting a message in %post and providing a README of some kind would
 > be better, as well as perhaps adding a note in %description.
 
-Why "Eek"? :-)
+Why Eek? :-)
 If no /dev/dvd exists, it'll create it.
 If /dev/dvd exists, it won't touch it.
 If someone installs ogle (a DVD player), I'm assuming the hardware is

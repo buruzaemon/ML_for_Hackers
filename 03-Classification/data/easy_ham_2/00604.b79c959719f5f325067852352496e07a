@@ -24,12 +24,12 @@ Received: from longbow.wesolveit.com.au ([210.10.109.227]) by
 Received: (qmail 1166 invoked from network); 8 Aug 2002 23:57:07 -0000
 Received: from unknown (HELO adamwin98se) (192.168.2.114) by 0 with SMTP;
     8 Aug 2002 23:57:07 -0000
-From: "Adam Goryachev" <mailinglists@websitemanagers.com.au>
+From: Adam Goryachev <mailinglists@websitemanagers.com.au>
 To: <razor-users@example.sourceforge.net>
 Subject: RE: [Razor-users] What's wrong with the Razor servers now?
 Message-Id: <NDBBJPAGKLCMDEIEKOPBAEFOIHAA.mailinglists@websitemanagers.com.au>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal
@@ -66,7 +66,7 @@ Date: Fri, 9 Aug 2002 10:05:29 +1000
 Great, that is very nice of you.
 
 > Now I get some opt-in mail which looks to me like
-> spam.  I hit "this is spam".  My trust rating plummets --
+> spam.  I hit this is spam.  My trust rating plummets --
 
 Good! Your opinion of what is spam is unreliable, and therefore, I don't
 *want* to trust you. IMHO, that is exactly the case that the trust system is
@@ -100,8 +100,8 @@ time to do that, so even I can't comment on Razor at all.....
 
 Vipul & co, I think it would be great if there was more transparency in the
 whole server process, ie, if you know there is a problem, then tell all of
-us, this will avoid all the stupid "Oh, it isn't working again, and it took
-me 324 days to work it out" etc...
+us, this will avoid all the stupid Oh, it isn't working again, and it took
+me 324 days to work it out etc...
 
 Just my $1 worth...
 

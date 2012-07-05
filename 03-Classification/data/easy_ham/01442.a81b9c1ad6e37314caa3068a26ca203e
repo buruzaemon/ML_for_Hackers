@@ -69,7 +69,7 @@ Already the PLD guys are distributing 3 rpms:
 
   - spamassassin
 
-          the "spamassassin" and "spamd" scripts,
+          the spamassassin and spamd scripts,
           spamd rc-file etc.
 
   - spamassassin-tools

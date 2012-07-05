@@ -67,7 +67,7 @@ On 04 Oct 2002 22:25:31 -0400, QuaffA Pint <quaffapint@clippersoft.net> wrote:
 > 
 > What am I missing here?
 
-    "apt-get install xine".  It'll find all these.  Oh, and I'm told that Redhat 8.0 will also suggest things like this for ya. (Not apt, but the actual package names you need)
+    apt-get install xine.  It'll find all these.  Oh, and I'm told that Redhat 8.0 will also suggest things like this for ya. (Not apt, but the actual package names you need)
 
 ------------------------------------------------------------------------
 Brian Fahrländer              Linux Zealot, Conservative, and Technomad

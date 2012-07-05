@@ -27,13 +27,13 @@ Received: from xeljreilly (xeljreilly.talbot.xelector.com [172.18.80.234])
     by xelwx002.xelector.com with SMTP (Microsoft Exchange Internet Mail
     Service Version 5.5.2653.13) id 39X75HBN; Mon, 22 Jul 2002 15:19:01 +0100
 Message-Id: <000701c2318a$993a2e10$ea5012ac@xelector.com>
-From: "John Reilly" <jr@inconspicuous.org>
-To: "Paul O'Neil" <poneil@dbiassociates.net>, <ilug@linux.ie>
+From: John Reilly <jr@inconspicuous.org>
+To: Paul O'Neil <poneil@dbiassociates.net>, <ilug@linux.ie>
 References: <NIEFJJMMNPJNOPIDJBFBOEEECDAA.poneil@dbiassociates.net>
 Subject: Re: [ILUG] nmap results
 Date: Mon, 22 Jul 2002 15:18:06 +0100
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal
@@ -60,7 +60,7 @@ Stop worrying about it :)
 Cheers,
 jr
 ----- Original Message -----
-From: "Paul O'Neil" <poneil@dbiassociates.net>
+From: Paul O'Neil <poneil@dbiassociates.net>
 To: <ilug@linux.ie>
 Sent: Monday, July 22, 2002 1:50 PM
 Subject: [ILUG] nmap results

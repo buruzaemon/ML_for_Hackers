@@ -19,11 +19,11 @@ Received: from byron.heanet.ie (byron.heanet.ie [193.1.219.90]) by
 Received: from dialpool-210-214-173-49.maa.sify.net ([210.214.173.49]
     helo=indiatimes.com) by byron.heanet.ie with smtp (Exim 4.05) id
     17sqea-00048d-00 for ilug@linux.ie; Sat, 21 Sep 2002 21:15:01 +0100
-From: "vivek" <responsevivek@indiatimes.com>
+From: vivek <responsevivek@indiatimes.com>
 To: <ilug@linux.ie>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="ISO-8859-1"
-Reply-To: "vivek" <responsevivek@indiatimes.com>
+Content-Type: text/plain; charset=ISO-8859-1
+Reply-To: vivek <responsevivek@indiatimes.com>
 Message-Id: <E17sqea-00048d-00@byron.heanet.ie>
 Subject: [ILUG] $4,000/Month with your PC ! NO SPAM ! PLEASE READ !
 Sender: ilug-admin@linux.ie

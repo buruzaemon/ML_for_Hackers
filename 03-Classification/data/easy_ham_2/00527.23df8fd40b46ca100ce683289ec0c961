@@ -77,7 +77,7 @@ tweak the system? Thanks :)
  
 <snip>
 
-> ) > I immediately revoked it, using the mutt command "|" and "razor-revoke",
+> ) > I immediately revoked it, using the mutt command | and razor-revoke,
 > ) > but it appears to still be in razor. Hashes are as follows:
 > ) > 
 > ) > 1 part N/A e1: Zh19_7n6GRBFk6lyr8PYJcIWGJ8A

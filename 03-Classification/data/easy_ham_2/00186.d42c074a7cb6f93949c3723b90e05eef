@@ -29,7 +29,7 @@ Mail-Followup-To: irish linux users group <ilug@linux.ie>
 References: <20020726182224.GA6308@dangerousideas.com>
     <20020727165855.GG12078@vipersoft.co.uk>
     <mutt-users-3d42d3a9-19504@klaus.daprodeges.dyndns.org>
-    <"from s1118644"@mail.inf.tu-dresden.de>
+    <from s1118644@mail.inf.tu-dresden.de>
     <20020727191542.A19057@ie.suberic.net>
 MIME-Version: 1.0
 Content-Type: text/plain; charset=us-ascii
@@ -54,7 +54,7 @@ On Sat, 27 Jul 2002, kevin lyda wrote:
 > 
 > this might work better in this long run though:
 > 
->    set record='~/Mail/outbox-`date "+%Y-%m"`'
+>    set record='~/Mail/outbox-`date +%Y-%m`'
 
 A nice followon of this for the obsessive archiver is:
 
@@ -63,12 +63,12 @@ Procmail:
 	<snip>
 	:0:
 	* ^Subject.*\[ILUG\]
-	:ilug-`date "+%m-%Y"`
+	:ilug-`date +%m-%Y`
 	<snip>
 
 and Mutt:
 .muttrc:
-	mailboxes =ilug-`date "+%m-%Y"` 
+	mailboxes =ilug-`date +%m-%Y` 
 
 does mean threads get broken at the start of the month though :(
 

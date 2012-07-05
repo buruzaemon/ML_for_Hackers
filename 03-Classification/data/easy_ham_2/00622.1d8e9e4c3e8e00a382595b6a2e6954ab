@@ -98,7 +98,7 @@ On 11/08/02 07:39 -0500, Mike Burger wrote:
 ) 
 ) razor-check -d < mail/caughtspam
 ) 
-) And look for the "mail id # is known spam" before I can eliminate it.
+) And look for the mail id # is known spam before I can eliminate it.
 ) 
 ) The last 4 messages I checked, I had to do the same thing.
 ) 

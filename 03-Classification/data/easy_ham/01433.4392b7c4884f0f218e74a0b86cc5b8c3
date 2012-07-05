@@ -28,14 +28,14 @@ Received: by spamassassin.taint.org (Postfix, from userid 500) id 0A09E16F1D;
     Wed,  4 Sep 2002 16:17:55 +0100 (IST)
 Received: from spamassassin.taint.org (localhost [127.0.0.1]) by spamassassin.taint.org (Postfix)
     with ESMTP id 06B5AF7B7; Wed,  4 Sep 2002 16:17:55 +0100 (IST)
-To: "zeek" <zeek@sparklehouse.com>
-Cc: "SA" <spamassassin-talk@example.sourceforge.net>,
+To: zeek <zeek@sparklehouse.com>
+Cc: SA <spamassassin-talk@example.sourceforge.net>,
 	craig@hughes-family.org
 Subject: Re: [SAtalk] BUG: spamd --allowed-ips=[127.0.0.1 must be first]
 In-Reply-To: Message from
-    "zeek"
+    zeek
     <zeek@sparklehouse.com> of
-    "Tue, 03 Sep 2002 18:41:49 EDT."
+    Tue, 03 Sep 2002 18:41:49 EDT.
     <FMEDICOOPIIAHELGINPCCEFACGAA.zeek@sparklehouse.com>
 From: yyyy@spamassassin.taint.org (Justin Mason)
 X-GPG-Key-Fingerprint: 0A48 2D8B 0B52 A87D 0E8A  6ADD 4137 1B50 6E58 EF0A
@@ -66,26 +66,26 @@ X-Original-Date: Wed, 04 Sep 2002 16:17:50 +0100
 Date: Wed, 04 Sep 2002 16:17:50 +0100
 
 
-"zeek" said:
+zeek said:
 
 > This was thoroughly confusing, but by playing musical chairs with the spamd
 > args I smashed a bug:
 > 
 > OK:
 > spamd --debug --daemonize --auto-whitelist --username=nobody --allowed-ips=1
-> 27.0.0.1"
+> 27.0.0.1
 > OK:
 > spamd --debug --daemonize --auto-whitelist --username=nobody --allowed-ips=1
-> 27.0.0.1, 192.168.1.1"
+> 27.0.0.1, 192.168.1.1
 > NOT OK:
 > spamd --debug --daemonize --auto-whitelist --username=nobody --allowed-ips=1
-> 92.168.1.1, 127.0.0.1"
+> 92.168.1.1, 127.0.0.1
 
 fwiw, I can't reproduce this with
 
-  spamd --debug --auto-whitelist --allowed-ips="127.0.0.1"
-  spamd --debug --auto-whitelist --allowed-ips="127.0.0.1, 192.168.1.1"
-  spamd --debug --auto-whitelist --allowed-ips="192.168.1.1, 127.0.0.1"
+  spamd --debug --auto-whitelist --allowed-ips=127.0.0.1
+  spamd --debug --auto-whitelist --allowed-ips=127.0.0.1, 192.168.1.1
+  spamd --debug --auto-whitelist --allowed-ips=192.168.1.1, 127.0.0.1
 
 which I presume is what you meant (except for the missing args
 of course).  They all seem to work OK.

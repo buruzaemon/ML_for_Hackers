@@ -18,12 +18,12 @@ Received: from ematic.com (ematic-ecdc-191-64.digisle.net
     g11HZE324211 for <rpm-list@freshrpms.net>; Fri, 1 Feb 2002 18:35:18 +0100
 Received: from bfrench ([65.213.202.212]) by ematic.com ; Fri,
     01 Feb 2002 12:35:20 -0500
-From: "Brian French" <bfrench@ematic.com>
-To: "Rpm-List at freshrpms" <rpm-zzzlist@freshrpms.net>
+From: Brian French <bfrench@ematic.com>
+To: Rpm-List at freshrpms <rpm-zzzlist@freshrpms.net>
 Subject: Prob. w/ install/uninstall
 Message-Id: <KMENLMHDMGGFAAEMCCNKOEFDCCAA.bfrench@ematic.com>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal

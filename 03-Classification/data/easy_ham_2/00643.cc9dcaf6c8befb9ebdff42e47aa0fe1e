@@ -18,12 +18,12 @@ Received: by phobos.labs.netnoteinc.com (Postfix, from userid 500)
 Received: from phobos (localhost [127.0.0.1])
 	by phobos.labs.netnoteinc.com (Postfix) with ESMTP
 	id 96E25341E8; Thu, 15 Aug 2002 10:52:18 +0100 (IST)
-To: "Craig R.Hughes" <craig@deersoft.com>
+To: Craig R.Hughes <craig@deersoft.com>
 Cc: mail@vipul.net, Justin Mason <yyyy@netnoteinc.com>,
 	razor-users@lists.sourceforge.net
 Subject: Re: [Razor-users] dot-tk registrations hitting Razor 
-In-Reply-To: Message from "Craig R.Hughes" <craig@deersoft.com> 
-   of "Wed, 14 Aug 2002 22:57:17 PDT." <DADE4F77-B013-11D6-BF02-00039396ECF2@deersoft.com> 
+In-Reply-To: Message from Craig R.Hughes <craig@deersoft.com> 
+   of Wed, 14 Aug 2002 22:57:17 PDT. <DADE4F77-B013-11D6-BF02-00039396ECF2@deersoft.com> 
 From: yyyy@spamassassin.taint.org (Justin Mason)
 X-GPG-Key-Fingerprint: 0A48 2D8B 0B52 A87D 0E8A  6ADD 4137 1B50 6E58 EF0A
 Date: Thu, 15 Aug 2002 10:52:13 +0100
@@ -31,7 +31,7 @@ Sender: yyyy@webnote.net
 Message-Id: <20020815095218.9D3F044134@phobos.labs.netnoteinc.com>
 
 
-"Craig R.Hughes" said:
+Craig R.Hughes said:
 
 > Hmm, tricky because we've got Razor1 and Razor2 rolled into one 
 > rule.  Probably should break them out as separate rules anyway 

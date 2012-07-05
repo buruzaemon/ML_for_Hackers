@@ -25,15 +25,15 @@ Delivered-To: mailing list focus-virus@securityfocus.com
 Delivered-To: moderator for focus-virus@securityfocus.com
 Received: (qmail 13368 invoked from network); 6 Aug 2002 16:02:43 -0000
 Reply-To: <kruse@railroad.dk>
-From: "Peter Kruse" <kruse@railroad.dk>
-To: "'Thor Larholm'" <Thor@jubii.dk>, <nick@virus-l.demon.co.uk>,
+From: Peter Kruse <kruse@railroad.dk>
+To: 'Thor Larholm' <Thor@jubii.dk>, <nick@virus-l.demon.co.uk>,
 	<FOCUS-VIRUS@securityfocus.com>
 Subject: SV: More content filtering woes
 Date: Tue, 6 Aug 2002 18:11:54 +0200
 Organization: Railroad.dk
 Message-Id: <000a01c23d63$fbd0d8a0$65fda8c0@teliahomebase>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="US-ASCII"
+Content-Type: text/plain; charset=US-ASCII
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal
@@ -77,7 +77,7 @@ Member of AVIEN and FIRST
 > positives that antivirus software constantly yaps one about 
 > each time one sends some demonstratory POC to a mailinglist 
 > only to have several witless antivirus vendors add ones POC 
-> to their virus library, yielding tons of "Quarantined" 
+> to their virus library, yielding tons of Quarantined 
 > replies on a daily basis without any added level of security 
 > to the enduser whatsoever since any reallife exploitation 
 > would yield a completely different signature, thus defeating 

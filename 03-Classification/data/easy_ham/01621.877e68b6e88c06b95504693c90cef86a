@@ -35,7 +35,7 @@ X-Accept-Language: en-us, en
 MIME-Version: 1.0
 To: scottm@crystal.ncc.cc.nm.us
 Cc: Ben Mord <bmord@icon-nicholson.com>,
-	"Webappsec Securityfocus.Com" <webappsec@securityfocus.com>,
+	Webappsec Securityfocus.Com <webappsec@securityfocus.com>,
 	SECPROG Securityfocus <SECPROG@securityfocus.com>
 Subject: Re: FW: use of base image / delta image for automated recovery
     from attacks
@@ -48,7 +48,7 @@ Scott MacKenzie wrote:
 
 >There is a software package that is used (or was up through w2k) 
 >on MicroSloth for this purpose. Ghost, or some such. One essentially 
->"takes a picture" of the machine's proper config, and then upon 
+>takes a picture of the machine's proper config, and then upon 
 >schedule or demand replaces the machine's current config with the 
 >proper picture. It essentially over-writes the entire disk drive. 
 >Especially good for student access machines at libraries, etc.

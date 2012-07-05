@@ -52,7 +52,7 @@ Date: Mon, 4 Feb 2002 16:58:53 +0200
 
 On Mon, Feb 04, 2002 at 05:04:08PM +0200, Peter Peltonen wrote:
 > I started wondering how does apt react when it finds a newer kernel in the 
-> bunch of "to be updated" files?
+> bunch of to be updated files?
 
 Look at /etc/apt/apt.conf. I think ^kernel$ matches the kernel packages
 (apart from those matched by the rest, smp, enterprise).
@@ -69,7 +69,7 @@ Should. Haven't tried with dist-upgrade but I have put 7.2 netboot
 mirror (ie, 7.2) into sources.list and run install step-by-step for IIRC
 everything. Worked ok. I think there'll be a few .rpmnew files worth
 checking such as, especially, passwd and group.
-I think there was a group change. "lock" ?
+I think there was a group change. lock ?
 
 -- 
 It feels great to wake up and not know what day it is, doesn't it?

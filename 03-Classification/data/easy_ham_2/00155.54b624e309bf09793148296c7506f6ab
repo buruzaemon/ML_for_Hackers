@@ -60,7 +60,7 @@ blatant plug...], it forwards to me. When I hit reply, the From: line in
 the email will contain coolapps@linuxcare.com instead of my main address
 bneely@linuxcare.com. My .muttrc file accomplishes this with two lines:
 
-set alternates = "kbeditor@linuxcare.com|coolapps@linuxcare.com"
+set alternates = kbeditor@linuxcare.com|coolapps@linuxcare.com
 set reverse_name
 
 **************************************************************************

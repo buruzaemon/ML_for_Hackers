@@ -32,14 +32,14 @@ In this issue:
 |   http://use.perl.org/article.pl?sid=02/09/17/189201               |
 +--------------------------------------------------------------------+
 
-[0]brian_d_foy writes "A long time ago Don Marti started the OS
+[0]brian_d_foy writes A long time ago Don Marti started the OS
 Sucks-Rules-O-Meter, and Jon Orwant wrote his own Sucks-Rules-O-Meter for
 computer languages. Recently Dan Brian improved on that with a little bit
 of natural language processing. Now [1]The Perl Review makes pretty
 pictures of it all. Based on searches of AltaVista and Google, we found
 that not a lot of people think PHP or Lisp sucks, a lot think C++ and
 Java suck, and they put Perl is somewhere in the middle. Does Perl suck
-more than it use to suck, or has PHP just shot way ahead?"
+more than it use to suck, or has PHP just shot way ahead?
 
 Discuss this story at:
     http://use.perl.org/comments.pl?sid=02/09/17/189201

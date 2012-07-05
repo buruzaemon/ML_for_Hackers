@@ -28,7 +28,7 @@ From: Udhay Shankar N <udhay@pobox.com>
 Subject: storage bits
 In-Reply-To: <200012281832.MAA00992@server1.KnowNow.com>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"; format=flowed
+Content-Type: text/plain; charset=iso-8859-1; format=flowed
 Sender: fork-admin@xent.com
 Errors-To: fork-admin@xent.com
 X-Beenthere: fork@spamassassin.taint.org
@@ -49,7 +49,7 @@ X-MIME-Autoconverted: from quoted-printable to 8bit by dogma.slashnull.org
 At 12:32 PM 12/28/00 -0600, Adam Rifkin wrote:
 
 >I repeat, IBM 76.8Gb ultra dma/100 hard drive at Fry's for $375...
->"home of fast, friendly courteous service! (R)"
+>home of fast, friendly courteous service! (R)
 >
 >I kid you not.  That's a half a cent a Megabyte for storage.
 >Not El Cheapo storage but top of the line storage.
@@ -58,7 +58,7 @@ less than two years later, we have 320 GB for the same price:
 
 http://www.shareholder.com/maxtor/news/20020909-89588.cfm
 
-Maxtor Driving Capacity-Centric Enterprise Apps With "Super-Sized" ATA Drives
+Maxtor Driving Capacity-Centric Enterprise Apps With Super-Sized ATA Drives
 
 Maxtor Continues its Leadership in the Market it Pioneered with a New 
 Category of High-Density ATA Drives
@@ -74,7 +74,7 @@ huge capacities up to 320 GB for corporate archiving and media recording;
 and unique manufacturing and quality for 24/7 operations with mean time to 
 failure (MTTF) rates exceeding one million hours.
 
-The MaXLine family is designed to bring hard disk drives into "near-line" 
+The MaXLine family is designed to bring hard disk drives into near-line 
 archive applications. By adding a layer of MaXLine drives to archive 
 architectures, companies can instantly recover time-critical data including 
 executive e-mail, transaction data and accounting data that may need to be 
@@ -91,16 +91,16 @@ For system OEMs and white box builders, MaXLine offers high-density,
 easy-to-integrate storage for use in entry-level and mid-size server 
 environments.
 
-"The demand for instant recall of archived data is expanding as companies 
+The demand for instant recall of archived data is expanding as companies 
 are meeting their obligations to quickly access executive e-mails, 
-financial documents and transaction records," said Mike Dooley, senior 
-director of marketing for the Desktop Products Group at Maxtor. "Users may 
+financial documents and transaction records, said Mike Dooley, senior 
+director of marketing for the Desktop Products Group at Maxtor. Users may 
 not need to access information in these applications on a daily basis, but 
 when they do need access, it must be instant. Recent advances in ATA 
 technology and our manufacturing processes allow us to build upon our 
 legacy of experience and provide our customers with a family of premium ATA 
 hard drives that can be integrated into a variety of systems for these 
-enterprise applications."
+enterprise applications.
 
 The MaXLine family includes the 5400-RPM MaXLine II, designed for 
 capacities up to 320 GB and the 7200-RPM MaXLine Plus II, designed for 
@@ -126,12 +126,12 @@ The interface's reduced pin count allows for simpler cabling which in turn
 allows better airflow within a system and further benefits the user with 
 increased design flexibility and hot plug capability.
 
-"Maxtor's MaXLine family of drives provide a solution for storing data that 
-has previously been too expensive to keep on disk," said Dave Reinsel, 
-analyst at IDC. "The ATA drives offer a great value, low cost per GB and 
+Maxtor's MaXLine family of drives provide a solution for storing data that 
+has previously been too expensive to keep on disk, said Dave Reinsel, 
+analyst at IDC. The ATA drives offer a great value, low cost per GB and 
 when integrated into storage systems and file servers offer a compelling 
 cost-effective alternative to tape libraries and optical drives, which have 
-been the traditional solutions used for near-line applications."
+been the traditional solutions used for near-line applications.
 
 Availability
 Limited qualification units of the parallel ATA versions of Maxtor MaXLine 
@@ -168,7 +168,7 @@ significant uncertainty of market acceptance of new products.  These and
 other risk factors are contained in documents that the company files with 
 the SEC, including the Form 10-K for fiscal 2001 and its recent 10-Qs.
 
-Copyright © 2001, Maxtor Corporation ®. Privacy Policy.
+Copyright  2001, Maxtor Corporation . Privacy Policy.
 
 
 

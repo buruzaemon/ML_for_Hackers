@@ -61,7 +61,7 @@ On Wed, Jul 31, 2002 at 09:44:08PM -0400, Sven wrote:
 > core as well.  Does anyone know of a limit in terms of number of
 > messages/minute that can be theoretically processed? I have noticed timeouts
 > occuring (I set the milter timeout per message to 15 seconds) often in huge
-> lumps and the occasional "Could not get valid info from Discovery Servers")
+> lumps and the occasional Could not get valid info from Discovery Servers)
 > ?????
 
 15 seconds is more than enough timeout... There's no request/minute limit,
@@ -72,8 +72,8 @@ your config?
 
 -- 
 
-Vipul Ved Prakash          |   "The future is here, it's just not 
-Software Design Artist     |    widely distributed."
+Vipul Ved Prakash          |   The future is here, it's just not 
+Software Design Artist     |    widely distributed.
 http://vipul.net/          |              -- William Gibson
 
 

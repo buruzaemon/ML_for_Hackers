@@ -11,10 +11,10 @@ Received: from yahoo.com ([61.50.141.181]) by dogma.slashnull.org
     (8.11.6/8.11.6) with ESMTP id g7NGfZZ32185 for <zzzz@jmason.org>;
     Fri, 23 Aug 2002 17:41:36 +0100
 Message-Id: <200208231641.g7NGfZZ32185@dogma.slashnull.org>
-From: "zqcx" <z_q_c_x@yahoo.com>
+From: zqcx <z_q_c_x@yahoo.com>
 Subject: enter Chinese market
 To: zzzz@spamassassin.taint.org
-Content-Type: text/plain;charset="GB2312"
+Content-Type: text/plain;charset=GB2312
 Reply-To: z_q_c_x@yahoo.com
 Date: Sat, 24 Aug 2002 00:40:58 +0800
 X-Priority: 3

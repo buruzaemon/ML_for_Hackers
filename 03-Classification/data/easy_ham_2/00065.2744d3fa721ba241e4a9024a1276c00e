@@ -25,14 +25,14 @@ To: Irish Linux Users Group <ilug@linux.ie>
 Reply-To: Irish Linux Users Group <ilug@linux.ie>
 Subject: Re: [ILUG] How to copy some files
 In-Reply-To: Message from
-    "Matthew French"
+    Matthew French
     <mfrench42@yahoo.co.uk> of
-    "Fri, 19 Jul 2002 15:22:26 BST."
+    Fri, 19 Jul 2002 15:22:26 BST.
     <003301c22f2f$b722ba30$3864a8c0@sabeo.ie>
 X-Mailer: [nmh-1.0.4] MH.6.8, SuSE Linux 7.3
 X-Url: http://www.blf.utvinternet.ie
 MIME-Version: 1.0
-Content-Type: text/plain; charset="utf-8"
+Content-Type: text/plain; charset=utf-8
 Content-Id: <2978.1027091749.1@linux.local>
 Date: Fri, 19 Jul 2002 16:15:49 +0100
 From: Brian Foster <blf@utvinternet.ie>
@@ -47,7 +47,7 @@ List-Id: Irish Linux Users' Group <ilug.linux.ie>
 X-Beenthere: ilug@linux.ie
 
   | Date: Fri, 19 Jul 2002 15:22:26 +0100
-  | From: "Matthew French" <mfrench42@yahoo.co.uk>
+  | From: Matthew French <mfrench42@yahoo.co.uk>
   | 
   | Niall asked:
   |  > I have about 60G of data which I need to copy from one disk to
@@ -83,10 +83,10 @@ X-Beenthere: ilug@linux.ie
  the source `tar' is creating an archive, which is being
  written down the pipe (to be consumed by the sink `tar').
  that is why storage is not an issue per se here, as the
- full archive is not "saved" --- if it were, you'd need
+ full archive is not saved --- if it were, you'd need
  at least 2x60Gb, or over 120Gb!   (the extra is `tar's
  overhead, which is minimal but does add up, esp. when
- a "large" blocking factor is used.)
+ a large blocking factor is used.)
 
 cheers!
 	-blf-
@@ -94,10 +94,10 @@ cheers!
  Innovative, very experienced, Unix and      | Brian Foster    Dublin, Ireland
  Chorus (embedded RTOS) kernel internals     | e-mail: blf@utvinternet.ie
  expert looking for a new position ...       | mobile: (+353 or 0)86 854 9268
-  For a rÃ©sumÃ©, contact me, or see my website  http://www.blf.utvinternet.ie
+  For a rÃsumÃ, contact me, or see my website  http://www.blf.utvinternet.ie
 
-    Stop E$$o (ExxonMobile):  Â«Whatever you do, don't buy Esso --- they
-     don't give a damn about global warming.Â»    http://www.stopesso.com
+    Stop E$$o (ExxonMobile):  ÂWhatever you do, don't buy Esso --- they
+     don't give a damn about global warming.Â    http://www.stopesso.com
      Supported by Greenpeace, Friends of the Earth, and numerous others...
 
 -- 

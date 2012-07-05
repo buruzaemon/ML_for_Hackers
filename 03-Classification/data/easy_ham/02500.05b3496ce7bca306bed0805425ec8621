@@ -19,11 +19,11 @@ Received: from mahler.ucd.ie (mahler.ucd.ie [137.43.12.63]) by
 Received: from gavin by mahler.ucd.ie with local (Exim 3.36 #1 (Debian))
     id 18JY74-0005x2-00 for <ILUG@linux.ie>; Wed, 04 Dec 2002 11:54:46 +0000
 From: Gavin McCullagh <ilug_gmc@fiachra.ucd.ie>
-To: "'ILUG@linux.ie'" <ILUG@linux.ie>
+To: 'ILUG@linux.ie' <ILUG@linux.ie>
 Subject: Re: [ILUG] Linux Install
 Message-Id: <20021204115445.GC22559@fiachra.ucd.ie>
 Reply-To: Irish Linux Users Group <ilug@linux.ie>
-Mail-Followup-To: "'ILUG@linux.ie'" <ILUG@linux.ie>
+Mail-Followup-To: 'ILUG@linux.ie' <ILUG@linux.ie>
 References: <3C0F11345BD5D611BD8D00902733977E12C077@exchcl.epa.ie>
 MIME-Version: 1.0
 Content-Type: text/plain; charset=us-ascii

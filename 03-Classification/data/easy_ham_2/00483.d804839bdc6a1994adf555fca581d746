@@ -25,7 +25,7 @@ Received: by skynet.csn.ul.ie (Postfix, from userid 2214) id 2EFD0E7D4;
 Received: from localhost (localhost [127.0.0.1]) by skynet.csn.ul.ie
     (Postfix) with ESMTP id 2DACF7243; Wed, 21 Aug 2002 12:54:16 +0100 (IST)
 Date: Wed, 21 Aug 2002 12:54:15 +0100 (IST)
-From: "Cathal A. Ferris" <pio@csn.ul.ie>
+From: Cathal A. Ferris <pio@csn.ul.ie>
 X-X-Sender: pio@skynet
 To: Kiall Mac Innes <kialllists@redpie.com>
 Cc: ilug@linux.ie

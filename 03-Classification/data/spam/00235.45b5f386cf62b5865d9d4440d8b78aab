@@ -21,13 +21,13 @@ Received: from relay.dub-t3-1.nwcgroup.com
 Received: from localhst2711.com (host-66-133-58-215.verestar.net
     [66.133.58.215]) by relay.dub-t3-1.nwcgroup.com (Postfix) with SMTP id
     707AE70041 for <ilug@linux.ie>; Fri,  6 Sep 2002 10:28:08 +0100 (IST)
-From: "George Osawa" <babalola3@post.com>
+From: George Osawa <babalola3@post.com>
 Reply-To: babalola3@post.com
 To: ilug@linux.ie
 Date: Fri, 6 Sep 2002 10:28:15 +0100
 X-Mailer: Microsoft Outlook Express 5.00.2919.6900DM
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Message-Id: <20020906092808.707AE70041@relay.dub-t3-1.nwcgroup.com>
 Content-Transfer-Encoding: 8bit
 X-MIME-Autoconverted: from quoted-printable to 8bit by lugh.tuatha.org id

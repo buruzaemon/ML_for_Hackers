@@ -10,7 +10,7 @@ Message-ID: <200209100929.g8A9TJV27347@localhost.localdomain>
 >>> Tim Peters wrote
 > We've not only reduced the f-p and f-n rates in my test runs, we've also
 > made the score distributions substantially sharper.  This is bad news for
-> Greg, because the non-existent "middle ground" is becoming even less
+> Greg, because the non-existent middle ground is becoming even less
 > existent <wink>:
 
 Well, I've finally got around to pulling down the SF code. Starting

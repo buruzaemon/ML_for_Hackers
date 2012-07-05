@@ -23,9 +23,9 @@ Received: (qmail 478 invoked from network); 28 Aug 2002 18:53:06 -0000
 Received: from localhost (HELO RAGING) (rod@127.0.0.1) by localhost with
     SMTP; 28 Aug 2002 18:53:06 -0000
 Message-Id: <008c01c24ec4$83eab9b0$b554a8c0@RAGING>
-From: "rODbegbie" <rOD@arsecandle.org>
+From: rODbegbie <rOD@arsecandle.org>
 To: <SpamAssassin-devel@example.sourceforge.net>,
-	"Justin Mason" <jm@jmason.org>
+	Justin Mason <jm@jmason.org>
 References: <20020828184218.399CE43F99@phobos.labs.netnoteinc.com>
 Subject: Re: [SAdev] 2.40: ready for release? *NO*
 Organization: Arsecandle Industries, Inc.
@@ -40,9 +40,9 @@ X-Habeas-Swe-8: Message (HCM) and not spam. Please report use of this
 X-Habeas-Swe-9: mark in spam to <http://www.habeas.com/report>.
 MIME-Version: 1.0
 Content-Type: multipart/signed;
-    boundary="----=_NextPart_000_0088_01C24EA2.FC21D7A0";
+    boundary=----=_NextPart_000_0088_01C24EA2.FC21D7A0;
     micalg=SHA1;
-    protocol="application/x-pkcs7-signature"
+    protocol=application/x-pkcs7-signature
 X-Priority: 1
 X-Msmail-Priority: High
 X-Mailer: Microsoft Outlook Express 6.00.2800.1050
@@ -67,7 +67,7 @@ This is a multi-part message in MIME format.
 
 ------=_NextPart_000_0088_01C24EA2.FC21D7A0
 Content-Type: text/plain;
-	charset="Windows-1252"
+	charset=Windows-1252
 Content-Transfer-Encoding: 7bit
 
 Justin Mason wrote:
@@ -86,8 +86,8 @@ directory.
 Example error:
 
 Failed to run FROM_AND_TO_SAME_5 SpamAssassin test, skipping:
-        (Can't locate object method "check_for_from_to_same" via package
-"Mail::SpamAssassin::PerMsgStatus" at
+        (Can't locate object method check_for_from_to_same via package
+Mail::SpamAssassin::PerMsgStatus at
 /usr/local/lib/perl5/site_perl/5.8.0/Mail/SpamAssassin/PerMsgStatus.pm line
 1701.
 )
@@ -97,18 +97,18 @@ Anyone else seeing this?
 rOD.
 
 --
-"If you're dumb, surround yourself with smart people;
+If you're dumb, surround yourself with smart people;
  and if you're smart, surround yourself with smart people
- who disagree with you."
+ who disagree with you.
 
 Doing the blogging thang again at http://www.groovymother.com/ <<
 
 ------=_NextPart_000_0088_01C24EA2.FC21D7A0
 Content-Type: application/x-pkcs7-signature;
-	name="smime.p7s"
+	name=smime.p7s
 Content-Transfer-Encoding: base64
 Content-Disposition: attachment;
-	filename="smime.p7s"
+	filename=smime.p7s
 
 MIAGCSqGSIb3DQEHAqCAMIACAQExCzAJBgUrDgMCGgUAMIAGCSqGSIb3DQEHAQAAoIIJIjCCAnow
 ggHjoAMCAQICARcwDQYJKoZIhvcNAQEFBQAwUzELMAkGA1UEBhMCVVMxHDAaBgNVBAoTE0VxdWlm

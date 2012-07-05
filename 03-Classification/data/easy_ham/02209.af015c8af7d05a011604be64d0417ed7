@@ -20,15 +20,15 @@ Content-Type: text/plain; encoding=utf-8
 URL: http://boingboing.net/#85515860
 Date: Not supplied
 
-Rob "Pringles Can" Flickenger and others at the O'Reilly OS X con have tracked 
+Rob Pringles Can Flickenger and others at the O'Reilly OS X con have tracked 
 down the cause of the annoying flakiness in the wireless network here -- every 
-20 or 30 seconds, you start getting "connection refused" messages from your 
+20 or 30 seconds, you start getting connection refused messages from your 
 browser and other net-utilities. 
 
 It turns out that running the great network-spy app Etherpeg[1] (or other 
-"promiscuous" network sniffers) and the built-in firewall in OS X at the same 
+promiscuous network sniffers) and the built-in firewall in OS X at the same 
 time causes your computer to begin intercepting every packet sent out on your 
-segment of the wireless network and respond to it with a "rejected" message. 
+segment of the wireless network and respond to it with a rejected message. 
 
 So today, Rob (and everyone else who knows about this) is going to run around 
 and tell people running Etherpeg to _turn off the firewall_ (and vice-versa). 

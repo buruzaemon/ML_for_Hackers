@@ -22,9 +22,9 @@ Received: (qmail 8169 invoked from network); 25 Jul 2002 13:59:21 -0000
 Received: from unknown (HELO belvoir) (208.7.1.202) by 208.7.1.205 with
     SMTP; 25 Jul 2002 13:59:21 -0000
 Message-Id: <001301c233e4$b75d4ba0$7c640f0a@mfc.corp.mckee.com>
-From: "Fox" <lds0062@cdc.net>
+From: Fox <lds0062@cdc.net>
 To: <razor-users@example.sourceforge.net>,
-	"Christopher VanOosterhout" <chris@torresen.com>
+	Christopher VanOosterhout <chris@torresen.com>
 References: <00f101c23331$1bdda5c0$b554a8c0@RAGING>
     <20020711084825.W60740-100000@rockstar.stealthgeeks.net>
     <00d301c2332f$1ca59b90$b554a8c0@RAGING>
@@ -32,7 +32,7 @@ References: <00f101c23331$1bdda5c0$b554a8c0@RAGING>
     <5.1.0.14.2.20020725075101.04b43a20@mail.torresen.com>
 Subject: Re: [Razor-users] unsubscribe
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal
@@ -57,7 +57,7 @@ Date: Thu, 25 Jul 2002 10:08:13 -0400
 ignore
 
 ----- Original Message -----
-From: "Christopher VanOosterhout" <chris@torresen.com>
+From: Christopher VanOosterhout <chris@torresen.com>
 To: <razor-users@example.sourceforge.net>
 Sent: Thursday, July 25, 2002 7:51 AM
 Subject: [Razor-users] unsubscribe
@@ -76,9 +76,9 @@ Subject: [Razor-users] unsubscribe
 than I
 > > > intended.
 > > >
-> > > As the old maxim goes, "Never ascribe to malice that which can be
+> > > As the old maxim goes, Never ascribe to malice that which can be
 equally
-> > > explained by incompetence".
+> > > explained by incompetence.
 > >
 > >Oh Yeah that sounds a WHOLE lot better... (chuckle).
 > >

@@ -13,18 +13,18 @@ Received: from smtp.easydns.com (smtp.easydns.com [205.210.42.30])
 Received: from totalise.co.uk (dial-80-47-1-95.access.uk.tiscali.com [80.47.1.95])
 	by smtp.easydns.com (Postfix) with SMTP id C19032BC85
 	for <jm@netnoteinc.com>; Tue,  6 Aug 2002 13:13:25 -0400 (EDT)
-From: "keith" <apec-tech@totalise.co.uk>
+From: keith <apec-tech@totalise.co.uk>
 To: <yyyy@netnoteinc.com>
 Subject: YOUR POWER SUPPLY IS KILLING YOUR ELECTRICAL EQUIPMENT
-Sender: "keith" <apec-tech@totalise.co.uk>
+Sender: keith <apec-tech@totalise.co.uk>
 Mime-Version: 1.0
-Content-Type: text/plain; charset="ISO-8859-1"
+Content-Type: text/plain; charset=ISO-8859-1
 Date: Tue, 6 Aug 2002 18:15:25 +0100
-Reply-To: "keith" <apec-tech@totalise.co.uk>
+Reply-To: keith <apec-tech@totalise.co.uk>
 Message-Id: <20020806171325.C19032BC85@smtp.easydns.com>
 Content-Transfer-Encoding: 8bit
 
-Did you know that………???
+Did you know that???
 
 Fact:	Every electrical system suffers from power surges?
 
@@ -51,7 +51,7 @@ arrestors.
 Even more importantly no sudden, dramatic system failure caused by
 	lightning, surges and spikes.
 
-Now you know…………!!
+Now you know!!
 
 Don't let your power supply kill your business!
 

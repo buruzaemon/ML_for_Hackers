@@ -36,11 +36,11 @@ Cc: exmh-workers@spamassassin.taint.org
 Subject: Re: Minor whoops with glimpse support
 In-Reply-To: <200207190410.g6J4AhxR006560@turing-police.cc.vt.edu>
 References: <200207190410.g6J4AhxR006560@turing-police.cc.vt.edu>
-Comments: In-reply-to Valdis.Kletnieks@vt.edu message dated "Fri, 19 Jul
-    2002 00:10:43 -0400."
+Comments: In-reply-to Valdis.Kletnieks@vt.edu message dated Fri, 19 Jul
+    2002 00:10:43 -0400.
 From: Brent Welch <welch@panasas.com>
 X-Url: http://www.panasas.com/
-X-Face: "HxE|?EnC9fVMV8f70H83&{fgLE.|FZ^$>@Q(yb#N,Eh~N]e&]=>r5~UnRml1:4EglY{9B+
+X-Face: HxE|?EnC9fVMV8f70H83&{fgLE.|FZ^$>@Q(yb#N,Eh~N]e&]=>r5~UnRml1:4EglY{9B+
     :'wJq$@c_C!l8@<$t,{YUr4K,QJGHSvS~U]H`<+L*x?eGzSk>XH\W:AK\j?@?c1o<k;j'Ei/UL)!*0
     ILwSR)J\bc)gjz!rrGQ2#i*f:M:ydhK}jp4dWQW?;0{,#iWrCV$4~%e/3)$1/D
 X-Loop: exmh-workers@spamassassin.taint.org
@@ -59,20 +59,20 @@ List-Unsubscribe: <https://listman.spamassassin.taint.org/mailman/listinfo/exmh-
 List-Archive: <https://listman.spamassassin.taint.org/mailman/private/exmh-workers/>
 Date: Fri, 19 Jul 2002 10:20:46 -0700
 
-There are some cases like this with "incomplete ftoc".  These are surely old
+There are some cases like this with incomplete ftoc.  These are surely old
 bugs that appeared after I added the ability to only scan the tail of the ftoc
 if for some reason the scan module decides it cannot easily merge the newly
 scanned (scan unseen) into the tail of the cached scan listing.  Hmm - I poked
 around a bit. glimpse.tcl uses Msg_Change, which has code in it to try and
 deal with showing a message that isn't in the ftoc:
-        Exmh_Status "Cannot find msg $msgid - Rescan?"
+        Exmh_Status Cannot find msg $msgid - Rescan?
 Is that message hiding in your log?  Perhaps there should be a return from
 Msg_Change that glimpse.tcl can use to decide what to do next.
 
 >>>Valdis.Kletnieks@vt.edu said:
  > Scenario:
  > 
- > Inbox has a "dirty" ftoc, only the last 100 entries (3500-last or so).
+ > Inbox has a dirty ftoc, only the last 100 entries (3500-last or so).
  > 
  > Go to search... glimpse.   Glimpse finds a hit in inbox/3448 (which
  > isn't

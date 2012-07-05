@@ -28,7 +28,7 @@ Message-Id: <5.1.0.14.2.20020815104909.00a82e30@pop6.attglobal.net>
 MIME-Version: 1.0
 X-Mailer: QUALCOMM Windows Eudora Version 5.1
 Content-Type: multipart/alternative;
-    boundary="=====================_4805122==_.ALT"
+    boundary======================_4805122==_.ALT
 Sender: fork-admin@xent.com
 Errors-To: fork-admin@xent.com
 X-Beenthere: fork@spamassassin.taint.org
@@ -44,7 +44,7 @@ List-Archive: <http://xent.com/pipermail/fork/>
 Date: Thu, 15 Aug 2002 10:50:13 -0700
 
 --=====================_4805122==_.ALT
-Content-Type: text/plain; charset="us-ascii"; format=flowed
+Content-Type: text/plain; charset=us-ascii; format=flowed
 
 Well, all the transhumanists should be very interested in this one:
 <http://www.newscientist.com/news/news.jsp?id=ns99992677>
@@ -55,8 +55,8 @@ Well, all the transhumanists should be very interested in this one:
 >Testis tissue from goats and pigs has been grafted onto the backs of mice 
 >and shown to produce normal sperm, capable of fertilising eggs.
 >It is the first time testis tissue from such distant species has produced 
->mature sperm when grafted in mice. "It might work for primates or even 
->humans," claims Ina Dobrinski of the University of Pennsylvania, one of 
+>mature sperm when grafted in mice. It might work for primates or even 
+>humans, claims Ina Dobrinski of the University of Pennsylvania, one of 
 >the co-authors of the study.
 >If so, the technique could be used to preserve the reproductive potential 
 >of male cancer patients about to undergo therapies that would destroy 
@@ -70,13 +70,13 @@ Well, all the transhumanists should be very interested in this one:
 >The mouse grafting technique also has an advantage over another option for 
 >preserving fertility - testicular transplants. These involve re-implanting 
 >preserved germ cells into the testes after cancer remission.
->But the grafting approach "would eliminate any possibility of passing 
->cancer cells back to the patient," says reproductive biologist Michael 
+>But the grafting approach would eliminate any possibility of passing 
+>cancer cells back to the patient, says reproductive biologist Michael 
 >Griswold from Washington State University.
 >However, it is possible that the grafting procedure could introduce 
 >mouse-derived infectious particles into human embryos, making some 
->scientists wary of the idea. "I would very much hesitate to say that it's 
->something we should be doing," says reproductive biologist Roger Gosden of 
+>scientists wary of the idea. I would very much hesitate to say that it's 
+>something we should be doing, says reproductive biologist Roger Gosden of 
 >the East Virginia Medical School.
 >
 >Castrated mice
@@ -93,8 +93,8 @@ Well, all the transhumanists should be very interested in this one:
 >Gosden has tried transplanting human testes tissue into mice, but was not 
 >successful. However, Dobrinski believes the technique could soon be used 
 >to preserve the germ lines of endangered species, including rare animals 
->that usually die in captivity before reaching sexual maturity. "We think 
->that's a very real application," she says.
+>that usually die in captivity before reaching sexual maturity. We think 
+>that's a very real application, she says.
 >She adds that mice with human testis tissue grafts would also be useful to 
 >scientists who want to test the effects of toxic substances and new 
 >contraceptives on human sperm production.
@@ -105,11 +105,11 @@ Well, all the transhumanists should be very interested in this one:
 
 
 --=====================_4805122==_.ALT
-Content-Type: text/html; charset="us-ascii"
+Content-Type: text/html; charset=us-ascii
 
 <html>
 Well, all the transhumanists should be very interested in this one:<br>
-&lt;<a href="http://www.newscientist.com/news/news.jsp?id=ns99992677" eudora="autourl">http://www.newscientist.com/news/news.jsp?id=ns99992677</a>&gt;<br><br>
+&lt;<a href=http://www.newscientist.com/news/news.jsp?id=ns99992677 eudora=autourl>http://www.newscientist.com/news/news.jsp?id=ns99992677</a>&gt;<br><br>
 <blockquote type=cite class=cite cite>Cross-species testes transplant
 successful </blockquote><br>
 <blockquote type=cite class=cite cite>19:00 14 August 02 NewScientist.com

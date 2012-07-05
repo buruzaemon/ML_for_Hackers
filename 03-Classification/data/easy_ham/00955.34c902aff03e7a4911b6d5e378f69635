@@ -41,11 +41,11 @@ References: <1030372078.11075.TMDA@deepeddy.vircio.com>
     <1030118301.3993.TMDA@deepeddy.vircio.com>
     <16323.1030043119@munnari.OZ.AU> <6853.1030345218@munnari.OZ.AU>
     <12683.1030438738@munnari.OZ.AU>
-Comments: In-reply-to Robert Elz <kre@munnari.OZ.AU> message dated "Tue,
-    27 Aug 2002 15:58:58 +0700."
+Comments: In-reply-to Robert Elz <kre@munnari.OZ.AU> message dated Tue,
+    27 Aug 2002 15:58:58 +0700.
 From: Brent Welch <welch@panasas.com>
 X-Url: http://www.panasas.com/
-X-Face: "HxE|?EnC9fVMV8f70H83&{fgLE.|FZ^$>@Q(yb#N,Eh~N]e&]=>
+X-Face: HxE|?EnC9fVMV8f70H83&{fgLE.|FZ^$>@Q(yb#N,Eh~N]e&]=>
     r5~UnRml1:4EglY{9B+ :'wJq$@c_C!l8@<$t,{YUr4K,QJGHSvS~U]H`<+L*x?eGzSk>XH\W:AK\j?@?c1o<k;j'Ei/UL)!*0
     ILwSR)J\bc)gjz!rrGQ2#i*f:M:ydhK}jp4dWQW?;0{,#iWrCV$4~%e/3)$1/D
 MIME-Version: 1.0
@@ -72,7 +72,7 @@ MsgChange - noshow
 
 at the Tcl prompt in the Log window.  I suspect that the sequence
 parser, which understands things like 5-22 to mean messages 5 through 22
-is confused when asked to add/remove message "-" from a sequence.
+is confused when asked to add/remove message - from a sequence.
 
 If we are allowed to assume 8.2 or higher, which we can't really, then
 we could add

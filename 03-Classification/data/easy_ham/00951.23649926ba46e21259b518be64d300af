@@ -38,7 +38,7 @@ To: Valdis.Kletnieks@vt.edu
 Cc: exmh-workers@spamassassin.taint.org
 Subject: Re: Exmh && speed
 In-Reply-To: Message from Valdis.Kletnieks@vt.edu of
-    "Mon, 26 Aug 2002 14:22:46 EDT."
+    Mon, 26 Aug 2002 14:22:46 EDT.
     <200208261822.g7QIMk7P005756@turing-police.cc.vt.edu>
 MIME-Version: 1.0
 Content-Type: text/plain; charset=us-ascii
@@ -67,8 +67,8 @@ Valdis.Kletnieks@vt.edu said:
 > 
 > 2.5-release: 350-450 msec
 > latest cvs: 1000-12000 msec
-> I'm not seeing a hit on 'next'. A quick "just pound on 'next' and
-> watch the wall clock" test shows me able to go through 20 messages in
+> I'm not seeing a hit on 'next'. A quick just pound on 'next' and
+> watch the wall clock test shows me able to go through 20 messages in
 > under 5 seconds, so it's well under 250ms per switch, but I'm seeing a
 > really piggy CPU spike (100% for a few seconds) in the 'flist' code.
 > Of course, it seems to be related to number-of-folders:

@@ -21,11 +21,11 @@ Received: from china1mail.com ([218.6.9.34])
 	by einstein.ssz.com (8.8.8/8.8.8) with SMTP id OAA12363
 	for <cypherpunks@einstein.ssz.com>; Sun, 21 Jul 2002 14:50:39 -0500
 Message-Id: <200207211950.OAA12363@einstein.ssz.com>
-From: "Manager" <Emaildata@china1mail.com>
+From: Manager <Emaildata@china1mail.com>
 To: <cypherpunks@einstein.ssz.com>
 Subject: * Promote Your E-Business
 Mime-Version: 1.0
-Content-Type: text/html; charset="ISO-8859-1"
+Content-Type: text/html; charset=ISO-8859-1
 Date: Mon, 22 Jul 2002 03:40:34 +0800
 Content-Transfer-Encoding: 8bit
 Sender: owner-cypherpunks@einstein.ssz.com
@@ -40,15 +40,15 @@ X-Acceptable-Languages: English, Russian, German, French, Spanish
 <html>
 
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
-<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
-<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv=Content-Type content=text/html; charset=gb2312>
+<meta name=GENERATOR content=Microsoft FrontPage 4.0>
+<meta name=ProgId content=FrontPage.Editor.Document>
 <title>New Page 1</title>
 </head>
 
-<frameset rows="1,*">
-  <frame name="header" scrolling="no" target="main" noresize marginwidth="1" marginheight="1">
-  <frame name="main" src="http://www.como-verder.com/download/sending.htm" scrolling="auto">
+<frameset rows=1,*>
+  <frame name=header scrolling=no target=main noresize marginwidth=1 marginheight=1>
+  <frame name=main src=http://www.como-verder.com/download/sending.htm scrolling=auto>
   <noframes>
   <body>
   <p>This page uses frames, but your browser doesn't support them.</p>

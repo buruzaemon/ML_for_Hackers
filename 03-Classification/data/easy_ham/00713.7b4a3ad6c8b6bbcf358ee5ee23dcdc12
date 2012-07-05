@@ -84,7 +84,7 @@ As part of an ongoing NASA/UAH joint project, Dr. John Christy of UAH and Dr. Ro
 
 The accuracy and reliability of temperature data gathered by the satellites since January 1979 has been confirmed by comparing the satellite data to independent temperature data. A recent study (1) found a 97 percent agreement between the MSU data and temperatures measured by thermometers suspended beneath weather balloons released by meteorologists for weather observations.
 
-Once the monthly temperature data is collected from the satellites and processed, it is placed in a "public" computer file for immediate access by atmospheric scientists in the U.S. and abroad. It has become the basis for a number of major studies in global climate change, and is cited in reports from the Intergovernmental Panel on Climate Change.
+Once the monthly temperature data is collected from the satellites and processed, it is placed in a public computer file for immediate access by atmospheric scientists in the U.S. and abroad. It has become the basis for a number of major studies in global climate change, and is cited in reports from the Intergovernmental Panel on Climate Change.
 
 
 
@@ -92,7 +92,7 @@ GATHERING THE DATA
 
 While traditional thermometers measure the temperature at a specific point in the air, a microwave sounding unit on a satellite takes readings that are average temperatures in a huge volume of the atmosphere. Each of the more than 30,000 readings per day per satellite is an average temperature for more than 75,000 cubic kilometers of air.
 
-The MSU makes a direct measurement of the temperature by looking at microwaves emitted by oxygen molecules in the atmosphere. The intensity of the microwave emissions - their "brightness" - varies according to temperature.
+The MSU makes a direct measurement of the temperature by looking at microwaves emitted by oxygen molecules in the atmosphere. The intensity of the microwave emissions - their brightness - varies according to temperature.
 
 Christy and Spencer developed a method to take the data from several satellites and produce a unified temperature dataset.
 
@@ -100,25 +100,25 @@ Christy and Spencer developed a method to take the data from several satellites 
 
 VERIFYING THE ACCURACY OF MSU MEASUREMENTS
 
-A recent comparison (1) of temperature readings from two major climate monitoring systems - microwave sounding units on satellites and thermometers suspended below helium balloons - found a "remarkable" level of agreement between the two.
+A recent comparison (1) of temperature readings from two major climate monitoring systems - microwave sounding units on satellites and thermometers suspended below helium balloons - found a remarkable level of agreement between the two.
 
-To verify the accuracy of temperature data collected by microwave sounding units, Christy compared temperature readings recorded by "radiosonde" thermometers to temperatures reported by the satellites as they orbited over the balloon launch sites.
+To verify the accuracy of temperature data collected by microwave sounding units, Christy compared temperature readings recorded by radiosonde thermometers to temperatures reported by the satellites as they orbited over the balloon launch sites.
 
-He found a 97 percent correlation over the 16-year period of the study. The overall composite temperature trends at those sites agreed to within 0.03 degrees Celsius (about 0.054° Fahrenheit) per decade. The same results were found when considering only stations in the polar or arctic regions.
+He found a 97 percent correlation over the 16-year period of the study. The overall composite temperature trends at those sites agreed to within 0.03 degrees Celsius (about 0.054 Fahrenheit) per decade. The same results were found when considering only stations in the polar or arctic regions.
 
-"The idea was to determine the reliability of the satellite data by comparing it to an established independent measurement," Christy said. "If satellite data are reliable when the satellites are over the radiosonde sites, that means you should be able to trust them everywhere else."
+The idea was to determine the reliability of the satellite data by comparing it to an established independent measurement, Christy said. If satellite data are reliable when the satellites are over the radiosonde sites, that means you should be able to trust them everywhere else.
 
-The 99 radiosondes reported an aggregate warming trend of 0.155 degrees Celsius (about 0.28° Fahrenheit) per decade since 1979. Over those 99 spots on the globe, the satellites also recorded a warming trend: 0.128 degrees Celsius (about 0.23° Fahrenheit) per decade.
+The 99 radiosondes reported an aggregate warming trend of 0.155 degrees Celsius (about 0.28 Fahrenheit) per decade since 1979. Over those 99 spots on the globe, the satellites also recorded a warming trend: 0.128 degrees Celsius (about 0.23 Fahrenheit) per decade.
 
 Globally, however, the satellite data show a cooling trend of 0.03 degrees Celsius per decade since the first NOAA TIROS-N satellites went into service.
 
-"These 99 radiosonde launch sites are just not distributed evenly around the planet," Christy said. "They are not representative of the total globe."
+These 99 radiosonde launch sites are just not distributed evenly around the planet, Christy said. They are not representative of the total globe.
 
 Radiosonde balloons are released from stations around the world, usually at noon and midnight Greenwich standard time. As each balloon climbs from the surface to the stratosphere, the temperature is measured and relayed to the ground by radio.
 
 While there are more than 1,000 radiosonde launch sites globally, the data from many sites either are not readily available or are not consistently collected. Christy used data from 99 sites at which there has been long-term systematic and reliable data collection. These 99 radiosonde launch sites are in a box bounded by Iceland, Trinidad, Truk Island and Alaska.
 
-In an earlier study, an upper air temperature record compiled by NOAA from 63 daily weather balloon sites around the world indicated a 17-year climate trend of -0.05° C per decade, which was in exact agreement with the satellite data at that time, Christy said.
+In an earlier study, an upper air temperature record compiled by NOAA from 63 daily weather balloon sites around the world indicated a 17-year climate trend of -0.05 C per decade, which was in exact agreement with the satellite data at that time, Christy said.
 
 
 
@@ -134,11 +134,11 @@ Most of these thermometers, which are usually in small shelters about five feet 
 
 The ground-based network is extensive in North America, Europe, Russia, China and Japan. It is less comprehensive in Africa, South America, Australia and across much of Southern Asia.
 
-Temperatures on the surface and vertically through the atmosphere are gathered daily by thermometers carried aloft by helium balloons. "Radiosonde" balloons are released from stations around the world, usually at noon and midnight Greenwich standard time.
+Temperatures on the surface and vertically through the atmosphere are gathered daily by thermometers carried aloft by helium balloons. Radiosonde balloons are released from stations around the world, usually at noon and midnight Greenwich standard time.
 
 While balloon release sites are scattered throughout the world, they are concentrated in industrial nations. There are more than 1,000 radiosonde launch sites globally. If they were evenly distributed around the world, that would equal approximately one for every 195,000 square miles of the Earth's surface.
 
-Water temperatures, which are used to derive estimates of atmospheric temperatures, come from thermometers on piers and buoys, and aboard "ships of opportunity." The ships record the temperature of water drawn in to cool their engines. The water temperature data from these instruments is also not global in its coverage, tending instead to be concentrated in heavily-travelled shipping lanes, and in harbors.
+Water temperatures, which are used to derive estimates of atmospheric temperatures, come from thermometers on piers and buoys, and aboard ships of opportunity. The ships record the temperature of water drawn in to cool their engines. The water temperature data from these instruments is also not global in its coverage, tending instead to be concentrated in heavily-travelled shipping lanes, and in harbors.
 
 In the past 12 years, a new system of approximately 100 deep ocean buoys has been established, gathering both atmospheric and water temperature data.
 
@@ -158,7 +158,7 @@ To check the final product, comparisons were made over a 16-year period with bal
 
 INSTRUMENT ACCURACY; GROUND-BASED THERMOMETERS
 
-Of great concern to scientists is the lack of consistency in the way readings are taken and in the thermometer surroundings. Since most thermometers for which long-term records exist are in towns and cities, the effects of population growth and the construction of nearby roads, parking lots, runways and buildings may cause the temperature to rise a little due of urbanization. This temperature change may be an artifact of a local "asphalt effect" rather than a long-term widespread climate change.
+Of great concern to scientists is the lack of consistency in the way readings are taken and in the thermometer surroundings. Since most thermometers for which long-term records exist are in towns and cities, the effects of population growth and the construction of nearby roads, parking lots, runways and buildings may cause the temperature to rise a little due of urbanization. This temperature change may be an artifact of a local asphalt effect rather than a long-term widespread climate change.
 
 
 
@@ -174,7 +174,7 @@ Only in places where there are many overlapping observations can there be any co
 
 THE SCIENTISTS
 
-In 1996, Spencer and Christy received the American Meteorological Society's Special Award. They were honored "for developing a global, precise record of the Earth's temperature from operational polar-orbiting satellites, fundamentally advancing our ability to monitor climate."
+In 1996, Spencer and Christy received the American Meteorological Society's Special Award. They were honored for developing a global, precise record of the Earth's temperature from operational polar-orbiting satellites, fundamentally advancing our ability to monitor climate.
 
 AMS Special Awards are given to individuals or organizations not appropriately recognized by more specifically-defined awards, and who have made important contributions to the science or practice of meteorology or to the society.
 
@@ -190,7 +190,7 @@ He was an instructor of mathematics at Parkland College in Champaign, IL, 1983-8
 
 He also served as pastor of the Grace Baptist Church in Vermillion, S.D., 1978-82, and as science master at Baptist High School, Nyeri, Kenya, 1973-75. He has published more than 20 refereed scientific papers.
 
-Christy serves on the NOAA National Scientific Review Panel for the National Climatic Data Center, and on NOAA's Pathfinder Review Panel. He was an "invited key contributor" to the 1995 Intergovernmental Panel on Climate Change's scientific assessment of climate change, and served as a contributor to the 1992 and 1994 IPCC reports.
+Christy serves on the NOAA National Scientific Review Panel for the National Climatic Data Center, and on NOAA's Pathfinder Review Panel. He was an invited key contributor to the 1995 Intergovernmental Panel on Climate Change's scientific assessment of climate change, and served as a contributor to the 1992 and 1994 IPCC reports.
 
 
 
@@ -204,17 +204,17 @@ He is the U.S. team leader for the Multichannel Microwave Imaging Radiometer Tea
 
 BIBLIOGRAPHY
 
-(1) J.R. Christy, 1995, "Climatic Change," Vol. 31, pp. 455-474.
+(1) J.R. Christy, 1995, Climatic Change, Vol. 31, pp. 455-474.
 
-(2) J.R. Christy, R.W. Spencer and R.T. McNider, 1995, "Journal of Climate,"
+(2) J.R. Christy, R.W. Spencer and R.T. McNider, 1995, Journal of Climate,
 
 Vol. 8, pp. 888-896.
 
-R.W. Spencer, J.R. Christy and N.C. Grody, 1990, "Journal of Climate," Vol. 3,
+R.W. Spencer, J.R. Christy and N.C. Grody, 1990, Journal of Climate, Vol. 3,
 
 pp. 111-1128.
 
-R.W. Spencer and J.R. Christy, 1992, "Journal of Climate," Vol. 5, pp. 858-
+R.W. Spencer and J.R. Christy, 1992, Journal of Climate, Vol. 5, pp. 858-
 
 SEE ALSO
 http://science.nasa.gov/newhome/headlines/essd5feb97_1.htm
@@ -226,6 +226,6 @@ http://www.atmos.uah.edu/atmos/christy.html
 -- 
 Gary Lawrence Murphy - garym@teledyn.com - TeleDynamics Communications
  - blog: http://www.auracom.com/~teledyn - biz: http://teledyn.com/ -
-  "Computers are useless. They can only give you answers." (Picasso)
+  Computers are useless. They can only give you answers. (Picasso)
 
 

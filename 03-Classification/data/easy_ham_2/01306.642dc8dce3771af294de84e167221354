@@ -21,15 +21,15 @@ Received: from [65.107.69.216] (helo=dman.ddts.net) by
 Received: from dman by dman.ddts.net (Exim 4.05 #8 (Debian)) protocol:
     local id 17X9jH-0002AR-00 for <spamassassin-talk@lists.sourceforge.net> ;
     Tue, 23 Jul 2002 19:10:11 -0500
-From: "Derrick 'dman' Hudson" <dman@dman.ddts.net>
+From: Derrick 'dman' Hudson <dman@dman.ddts.net>
 To: spamassassin-talk@example.sourceforge.net
 Message-Id: <20020724001011.GA8257@dman.ddts.net>
 Mail-Followup-To: spamassassin-talk@example.sourceforge.net
 References: <3D3D6A2D.8020601@iws-irms.com>
 MIME-Version: 1.0
 Content-Type: multipart/signed; micalg=pgp-sha1;
-    protocol="application/pgp-signature";
-    boundary="1yeeQ81UyVL57Vl7"
+    protocol=application/pgp-signature;
+    boundary=1yeeQ81UyVL57Vl7
 Content-Disposition: inline
 In-Reply-To: <3D3D6A2D.8020601@iws-irms.com>
 User-Agent: Mutt/1.4i

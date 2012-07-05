@@ -60,7 +60,7 @@ On Tue, 13 Aug 2002, Theo Van Dinter wrote:
 > > from my spam mailbox before I run the mailbox through razor-report, 
 > > correct?  Does anyone know of an easy way to do this?
 > 
-> use "spamassassin -r".  It'll take a message, strip the SA bits, and
+> use spamassassin -r.  It'll take a message, strip the SA bits, and
 > report to razor, all in one shot. :)
 
 As long as you're not using razor2, that is, right?

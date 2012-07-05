@@ -31,7 +31,7 @@ X-Exp32-Serialno: 00002719
 Subject: RE: [ILUG] Re: removing lilo
 Message-Id: <3D354125@webmail.ucc.ie>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="ISO-8859-1"
+Content-Type: text/plain; charset=ISO-8859-1
 Content-Transfer-Encoding: 7bit
 X-Mailer: WebMail (Hydra) SMTP v3.61.08
 Sender: ilug-admin@linux.ie
@@ -42,11 +42,11 @@ List-Id: Irish Linux Users' Group <ilug.linux.ie>
 X-Beenthere: ilug@linux.ie
 
 >===== Original Message From deedsmis@aculink.net, ilug@linux.ie =====
->"Hunt, Bryan" stated the following:
+>Hunt, Bryan stated the following:
 >>
 >> choose the repair option when installing windows nt/2000/whatever
 >
->What is the "repair option"?
+>What is the repair option?
 >
 If u choose Setup NT from the installation CD it will reboot your system
 and give the option of repairing an existing installation when it reboots.

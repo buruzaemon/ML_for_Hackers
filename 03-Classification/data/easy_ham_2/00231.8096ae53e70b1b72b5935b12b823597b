@@ -32,7 +32,7 @@ X-Mailer: Mozilla 4.78 [en] (X11; U; Linux 2.2.20-9.2mdk i586)
 X-Accept-Language: en
 MIME-Version: 1.0
 To: Ciaran Mac Lochlainn <ciaran17@eircom.net>
-Cc: "ILUG (Request)" <ilug@linux.ie>
+Cc: ILUG (Request) <ilug@linux.ie>
 References: <5FE418B3F962D411BED40000E818B33C9C8E65@HASSLE>
     <3D4814D0.6A61E6E5@cdm01.deedsmiscentral.net>
     <20020731173414.4123f075.lbedford@lbedford.org>
@@ -71,12 +71,12 @@ Ciaran Mac Lochlainn stated the following:
 > 
 > fdisk /mbr is a DOS command - if you are in Linux you will be running
 > Linux fdisk, which doesn't have the /mbr option.  The Linux equivalent
-> of "fdisk /mbr" is "lilo -u /dev/hda" (unless John Reilly was making
+> of fdisk /mbr is lilo -u /dev/hda (unless John Reilly was making
 > that up yesterday - I haven't tried it!)
 
 Thanks!
 
-In the past I tried "lilo -u /dev/hda" and it wouldn't work -- an
+In the past I tried lilo -u /dev/hda and it wouldn't work -- an
 original copy of the MBR must be in /boot directory for it to work. 
 Which is exactly what I didn't have.  The installation of Linux
 Mandrake didn't afford me that luxury.

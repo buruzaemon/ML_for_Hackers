@@ -27,7 +27,7 @@ Mail-Followup-To: Gary Peck <gbpeck@sbcglobal.net>,
 References: <3D9AA650.2000909@eecs.berkeley.edu>
     <20021002100919.2e3168a8.matthias@rpmforge.net>
 MIME-Version: 1.0
-Content-Type: multipart/mixed; boundary="RnlQjJ0d97Da+TV1"
+Content-Type: multipart/mixed; boundary=RnlQjJ0d97Da+TV1
 Content-Disposition: inline
 In-Reply-To: <20021002100919.2e3168a8.matthias@rpmforge.net>
 User-Agent: Mutt/1.4i
@@ -64,7 +64,7 @@ alsa-kernel, and similar packages, will only build for the currently
 running kernel.
 
 So I've attached a patch to specify an alternate kernel by setting the
-"TARGET_KERNEL" environment variable before running rpmbuild. You
+TARGET_KERNEL environment variable before running rpmbuild. You
 still need to have the rpm for the specified kernel installed, but at
 least it doesn't have to be currently running. It's kinda hackish, so
 if someone has a better way to do this, let me know.
@@ -73,7 +73,7 @@ gary
 
 --RnlQjJ0d97Da+TV1
 Content-Type: text/plain; charset=us-ascii
-Content-Disposition: inline; filename="alsa-driver-spec.patch"
+Content-Disposition: inline; filename=alsa-driver-spec.patch
 
 --- alsa-driver.spec.orig	2002-10-02 12:25:26.000000000 -0700
 +++ alsa-driver.spec	2002-10-01 21:23:19.000000000 -0700

@@ -24,7 +24,7 @@ Received: from unknown (HELO dulce.mic.dundee.ac.uk) (134.36.34.9) by
 Received: by dulce with Internet Mail Service (5.5.2653.19) id <RV17ZGM4>;
     Wed, 28 Aug 2002 13:44:11 +0100
 Message-Id: <31C6D68FA597D411B04D00E02965883BD239FB@mailhost>
-To: "'zzzzteana@yahoogroups.com'" <zzzzteana@yahoogroups.com>
+To: 'zzzzteana@yahoogroups.com' <zzzzteana@yahoogroups.com>
 X-Mailer: Internet Mail Service (5.5.2653.19)
 From: Andy <andy@r2-dvd.org>
 X-Yahoo-Profile: acobley
@@ -47,8 +47,8 @@ translation device will be an essential part of their equipment.
 Scientists at Carnegie Mellon University have developed a prototype of a
 speech translator that was road-tested by US Army chaplains in Croatia. 
 
-"This project shows how a relatively simple speech-to-speech translation
-system can be rapidly and successfully constructed using today's tools,"
+This project shows how a relatively simple speech-to-speech translation
+system can be rapidly and successfully constructed using today's tools,
 said the team from Carnegie Mellon University in a research paper published
 recently. 
 
@@ -57,17 +57,17 @@ itself in peace-keeping roles where communication is key.
 
 Speaking in tongues 
 
-"In the Balkans, the Army is not just supposed to conquer somebody," Robert
+In the Balkans, the Army is not just supposed to conquer somebody, Robert
 Frederking of Carnegie Mellon University told the BBC programme Go Digital. 
 
  
 Translators could be essential for US soldiers
  
-"In a peacekeeping situation, you have two guys trying to beat each other up
+In a peacekeeping situation, you have two guys trying to beat each other up
 and you are holding them apart. 
 
-"You can't just shot one of them, you have to figure what is going on and
-talk to them," he said. 
+You can't just shot one of them, you have to figure what is going on and
+talk to them, he said. 
 
 The portable translator was developed with a year, using commercially
 available laptops. 
@@ -75,8 +75,8 @@ available laptops.
 The Army did not want to field-test the device in a battlefield situation.
 So instead the translator was tested by US Army chaplains in Croatia. 
 
-"The chaplains very often end up having to talk to foreign nationals and
-typically don't have any translation support," explained Mr Frederking. 
+The chaplains very often end up having to talk to foreign nationals and
+typically don't have any translation support, explained Mr Frederking. 
 
 Slow system 
 
@@ -87,7 +87,7 @@ The system works by having a speech recogniser that picks up the words in
 Croatian, turns the speech into text. The written words are then translated
 into English and read out by a speech synthesizer. 
 
-"It went reasonably well half the time," said Mr Frederking, though it was
+It went reasonably well half the time, said Mr Frederking, though it was
 slow in translating phrases. 
 
 The research team admit that the system is not ready to be deployed in the

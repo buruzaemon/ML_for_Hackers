@@ -5,7 +5,7 @@ Received: from abv-sfo-acmta2.cnet.com (abv-sfo1-acmta2.cnet.com [206.16.1.161])
 Received: from abv-sfo1-ac-agent3 (206.16.0.225) by abv-sfo-acmta2.cnet.com (PowerMTA(TM) v1.5); Sat, 13 Jul 2002 03:57:29 -0700 (envelope-from <Online#3.19986.0c-1vJugZkmTgmCK9RR.1.b@newsletter.online.com>)
 Message-ID: <7047636.1026546922375.JavaMail.root@abv-sfo1-ac-agent3>
 Date: Sat, 13 Jul 2002 00:55:22 -0700 (PDT)
-From: "CNET News.com Daily Dispatch" <Online#3.19986.0c-1vJugZkmTgmCK9RR.1@newsletter.online.com>
+From: CNET News.com Daily Dispatch <Online#3.19986.0c-1vJugZkmTgmCK9RR.1@newsletter.online.com>
 To: qqqqqqqqqq-cnet-newsletters@spamassassin.taint.org
 Subject: THE WEEK IN REVIEW: Quit copying
 Mime-Version: 1.0
@@ -18,24 +18,24 @@ X-Mailer-Version: 2.8.4-2
 <head>
         <title>THE WEEK IN REVIEW: Quit copying</title>
 </head>
-<body bgcolor=3D"#e5e5e5">
+<body bgcolor=3D#e5e5e5>
 <center>
-<a name=3D"top"></a>
+<a name=3Dtop></a>
 <!-- Logo and ad banner -->
-<table cellpadding=3D0 cellspacing=3D0 border=3D0 width=3D612 bgcolor=3D"#f=
-fffff">
+<table cellpadding=3D0 cellspacing=3D0 border=3D0 width=3D612 bgcolor=3D#f=
+fffff>
 =09<tr valign=3Dtop>
-    <td width=3D442 colspan=3D4 bgcolor=3D"#e5e5e5">
-        <img src=3D"http://home.cnet.com/i/ne/ds/dhed.gif" alt=3D"" width=
-=3D"442" height=3D"63" border=3D"0"><br>
+    <td width=3D442 colspan=3D4 bgcolor=3D#e5e5e5>
+        <img src=3Dhttp://home.cnet.com/i/ne/ds/dhed.gif alt=3D width=
+=3D442 height=3D63 border=3D0><br>
     </td>
     <td width=3D160 rowspan=3D2>
 <!-- Towerboard -->
-=09<iframe src=3D"http://www.zdnet.com/include/ads/ifc/RGROUP=3D2560" scrol=
-ling=3D"no" frameborder=3D"0" hspace=3D"0" vspace=3D"0" height=3D"600" widt=
-h=3D"160" marginheight=3D"0" marginwidth=3D"0">
-<script language=3D"JavaScript" src=3D"http://www.zdnet.com/include/ads/js/=
-RGROUP=3D2560">
+=09<iframe src=3Dhttp://www.zdnet.com/include/ads/ifc/RGROUP=3D2560 scrol=
+ling=3Dno frameborder=3D0 hspace=3D0 vspace=3D0 height=3D600 widt=
+h=3D160 marginheight=3D0 marginwidth=3D0>
+<script language=3DJavaScript src=3Dhttp://www.zdnet.com/include/ads/js/=
+RGROUP=3D2560>
 </script>
 </iframe>
 <!-- /Towerboard -->
@@ -44,40 +44,40 @@ RGROUP=3D2560">
 =09<TABLE border=3D0 cellPadding=3D2 cellSpacing=3D0 width=3D150>
 =09<TR>
 =09<TD>
-=09<form method=3D"GET" action=3D"http://www.search.com/redirect/">
-=09                <img src=3D"/b.gif" width=3D1 height=3D4><font face=3D"a=
-rial, helvetica" size=3D"-1"><br>&nbsp;<b>Search</b></font><br>
-=09                &nbsp;<input type=3D"text" name=3D"q" size=3D"15" value=
-=3D""><br>
-=09                &nbsp;<select name=3D"target">
-=09                <option value=3D"http://news.search.com/search?tag=3Dex.=
-ne.newsletter.srch.ne" selected>News.com
-=09                <option value=3D"http://cnet.search.com/search?tag=3Dex.=
-ne.newsletter.srch.cnet">All CNET&nbsp;&nbsp;&nbsp;&nbsp;
-=09                <option value=3D"http://www.search.com/search?tag=3Dex.n=
-e.newsletter.srch.web">The Web
-                </select>&nbsp;<input type=3D"submit" value=3D"Go!" name=3D=
-"submit"></td></form>
+=09<form method=3DGET action=3Dhttp://www.search.com/redirect/>
+=09                <img src=3D/b.gif width=3D1 height=3D4><font face=3Da=
+rial, helvetica size=3D-1><br>&nbsp;<b>Search</b></font><br>
+=09                &nbsp;<input type=3Dtext name=3Dq size=3D15 value=
+=3D><br>
+=09                &nbsp;<select name=3Dtarget>
+=09                <option value=3Dhttp://news.search.com/search?tag=3Dex.=
+ne.newsletter.srch.ne selected>News.com
+=09                <option value=3Dhttp://cnet.search.com/search?tag=3Dex.=
+ne.newsletter.srch.cnet>All CNET&nbsp;&nbsp;&nbsp;&nbsp;
+=09                <option value=3Dhttp://www.search.com/search?tag=3Dex.n=
+e.newsletter.srch.web>The Web
+                </select>&nbsp;<input type=3Dsubmit value=3DGo! name=3D=
+submit></td></form>
     </tr></table>
     <!-- /search form -->
     <p>
 
 <!-- Vertical Brick -->
-<IMG alt=3D"Also from CNET" height=3D20 src=3D"http://home.cnet.com/Ads/Med=
-ia/Images/RHC_ALSOfromCNETnet.gif" width=3D150 NOSEND=3D"1"><BR>
+<IMG alt=3DAlso from CNET height=3D20 src=3Dhttp://home.cnet.com/Ads/Med=
+ia/Images/RHC_ALSOfromCNETnet.gif width=3D150 NOSEND=3D1><BR>
 <TABLE border=3D0 cellPadding=3D2 cellSpacing=3D0 width=3D150><TBODY><TR vA=
 lign=3Dtop>
-<TD><FONT face=3D"arial, helvetica" size=3D-1><B>
-<a href=3D"http://clickthru.online.com/Click?q=3D21-UPROIjdDDuloG_xoQqYoj1c=
-TQ4cR" >Live tech help NOW!</a><p>
-<a href=3D"http://clickthru.online.com/Click?q=3D36-wg7-IiI4fXBCf2TMxvH3Qai=
-nXQRR" >April's tech award</a><p>
-<a href=3D"http://clickthru.online.com/Click?q=3D4b-k_l7IBUPLWMY3RTP9VA35c5=
-4JMlR" >1 million open jobs</a><p>
-<a href=3D"http://clickthru.online.com/Click?q=3D60-oqItIsEAxThXnkBLN8S_eSg=
-FWV4R" >News.com: Top CIOs</a> <p>
-<a href=3D"http://clickthru.online.com/Click?q=3D76-vJf7InBPTWFEqU91okYP2r7=
-0U6iR" >ZDNet: PeopleSoft</a>
+<TD><FONT face=3Darial, helvetica size=3D-1><B>
+<a href=3Dhttp://clickthru.online.com/Click?q=3D21-UPROIjdDDuloG_xoQqYoj1c=
+TQ4cR >Live tech help NOW!</a><p>
+<a href=3Dhttp://clickthru.online.com/Click?q=3D36-wg7-IiI4fXBCf2TMxvH3Qai=
+nXQRR >April's tech award</a><p>
+<a href=3Dhttp://clickthru.online.com/Click?q=3D4b-k_l7IBUPLWMY3RTP9VA35c5=
+4JMlR >1 million open jobs</a><p>
+<a href=3Dhttp://clickthru.online.com/Click?q=3D60-oqItIsEAxThXnkBLN8S_eSg=
+FWV4R >News.com: Top CIOs</a> <p>
+<a href=3Dhttp://clickthru.online.com/Click?q=3D76-vJf7InBPTWFEqU91okYP2r7=
+0U6iR >ZDNet: PeopleSoft</a>
 </B></FONT></TD>
 </TR></TBODY></TABLE></P>
 <!-- End Vertical Brick-->
@@ -89,37 +89,37 @@ FWV4R" >News.com: Top CIOs</a> <p>
 =09</td>
 =09<td width=3D9 rowspan=3D2>
 =09=09<table width=3D9 cellpadding=3D0 cellspacing=3D0 border=3D0>
-=09=09=09<tr><td bgcolor=3D"#e5e5e5"><img src=3D"http://home.cnet.com/b.gif=
-" width=3D"9" height=3D"50" border=3D"0"><br></td></tr>
-=09=09=09<tr><td bgcolor=3D"#000000"><img src=3D"http://home.cnet.com/b.gif=
-" width=3D"9" height=3D"1" border=3D"0"><br></td></tr>
-=09=09=09<tr><td bgcolor=3D"#ffcc00"><img src=3D"http://home.cnet.com/b.gif=
-" width=3D"9" height=3D"10" border=3D"0"><br></td></tr>
-=09=09=09<tr><td bgcolor=3D"#000000"><img src=3D"http://home.cnet.com/b.gif=
-" width=3D"9" height=3D"1" border=3D"0"><br></td></tr>
+=09=09=09<tr><td bgcolor=3D#e5e5e5><img src=3Dhttp://home.cnet.com/b.gif=
+ width=3D9 height=3D50 border=3D0><br></td></tr>
+=09=09=09<tr><td bgcolor=3D#000000><img src=3Dhttp://home.cnet.com/b.gif=
+ width=3D9 height=3D1 border=3D0><br></td></tr>
+=09=09=09<tr><td bgcolor=3D#ffcc00><img src=3Dhttp://home.cnet.com/b.gif=
+ width=3D9 height=3D10 border=3D0><br></td></tr>
+=09=09=09<tr><td bgcolor=3D#000000><img src=3Dhttp://home.cnet.com/b.gif=
+ width=3D9 height=3D1 border=3D0><br></td></tr>
 =09=09</table>
 =09</td>
-=09<td width=3D1 bgcolor=3D"#000000" rowspan=3D2><img src=3D"http://home.cn=
-et.com/i/ne/ds/bkg.gif" width=3D"1" height=3D"50" border=3D"0"></td>
+=09<td width=3D1 bgcolor=3D#000000 rowspan=3D2><img src=3Dhttp://home.cn=
+et.com/i/ne/ds/bkg.gif width=3D1 height=3D50 border=3D0></td>
 =09</tr>
 <!-- Logo and ad banner -->
 <!-- In the News / Special Reports -->
 <tr valign=3Dtop>
-=09<td width=3D1 bgcolor=3D"#000000"><img src=3D"http://home.cnet.com/b.gif=
-" width=3D"1" height=3D"1" border=3D"0"></td>
-=09<td width=3D10 bgcolor=3D"#ffcc00"><img src=3D"http://home.cnet.com/b.gi=
-f" width=3D"10" height=3D"1" border=3D"0"><br></td>
-=09<td width=3D1 bgcolor=3D"#000000"><img src=3D"http://home.cnet.com/b.gif=
-" width=3D"1" height=3D"1" border=3D"0"></td>
-=09<td width=3D430 bgcolor=3D"#ffffff">
+=09<td width=3D1 bgcolor=3D#000000><img src=3Dhttp://home.cnet.com/b.gif=
+ width=3D1 height=3D1 border=3D0></td>
+=09<td width=3D10 bgcolor=3D#ffcc00><img src=3Dhttp://home.cnet.com/b.gi=
+f width=3D10 height=3D1 border=3D0><br></td>
+=09<td width=3D1 bgcolor=3D#000000><img src=3Dhttp://home.cnet.com/b.gif=
+ width=3D1 height=3D1 border=3D0></td>
+=09<td width=3D430 bgcolor=3D#ffffff>
 <!-- START COPY FOR THE GUTS -->
 
 <table cellpadding=3D10 cellspacing=3D0 border=3D0>
-<tr><td><font face=3D"Arial, Helvetica" size=3D"-1">
+<tr><td><font face=3DArial, Helvetica size=3D-1>
 <b>CNET | NEWS.COM WEEK IN REVIEW</b><br>
 The Entire Tech Week in a Single Email<br>
 Saturday, July 13, 2002<p>
-<b>If you've ever taped a "Seinfeld" episode or traded music online, Uncle =
+<b>If you've ever taped a Seinfeld episode or traded music online, Uncle =
 Sam may want you--to stop.</b>
 
 <p>
@@ -127,27 +127,27 @@ Sam may want you--to stop.</b>
 Draft legislation that is winding its way through Congress would sharply li=
 mit Americans' rights relating to copying music, taping TV shows and transf=
 erring files through the Internet. The first part of their proposal, which =
-would <a href=3D"http://clickthru.online.com/Click?q=3D8b-SBGBQY0y2oGDikAEY=
-IEElDh4B1FR" >limit backup copies</a>, has drawn objections from academics =
+would <a href=3Dhttp://clickthru.online.com/Click?q=3D8b-SBGBQY0y2oGDikAEY=
+IEElDh4B1FR >limit backup copies</a>, has drawn objections from academics =
 and nonprofit groups that have reviewed it.
 
 <p>
 
 Under current copyright law, Americans who record a TV program or radio seg=
-ment generally may "sell or otherwise dispose of" that analog recording or =
+ment generally may sell or otherwise dispose of that analog recording or =
 digital file as they wish.
 
 <p>
 
 The proposed bill would end that exemption, handing copyright owners substa=
 ntial new control over the distribution of their works by curtailing a cons=
-umer's right to copy material under a doctrine known as "fair use."
+umer's right to copy material under a doctrine known as fair use.
 
 <p>
 
 Another salvo in the copyright battle was delivered when a federal judge sa=
-id that record labels and film studios could <a href=3D"http://clickthru.on=
-line.com/Click?q=3Da0-11h8QQBqNNjxwbcUByjw2PB1s79R" >expand an ongoing copy=
+id that record labels and film studios could <a href=3Dhttp://clickthru.on=
+line.com/Click?q=3Da0-11h8QQBqNNjxwbcUByjw2PB1s79R >expand an ongoing copy=
 right lawsuit</a> to include Sharman Networks, which distributes the popula=
 r Kazaa software.
 
@@ -169,10 +169,10 @@ at Sharman could be added to the lawsuit.
 
 <p>
 
-<b><font color=3D"#CC0000">Shoring up U.S. security </font></b><br>
+<b><font color=3D#CC0000>Shoring up U.S. security </font></b><br>
 
-Computer security is becoming <a href=3D"http://clickthru.online.com/Click?=
-q=3Db5-50FcQ7U79NyMUQi1PHq15ZNEEZuR" >increasingly critical</a> to Presiden=
+Computer security is becoming <a href=3Dhttp://clickthru.online.com/Click?=
+q=3Db5-50FcQ7U79NyMUQi1PHq15ZNEEZuR >increasingly critical</a> to Presiden=
 t Bush's proposal for a homeland defense department. When Bush formally pro=
 posed the department last month, he never mentioned the Internet or so-call=
 ed cybersecurity.
@@ -195,17 +195,17 @@ andards and Technology to the Federal Computer Incident Response Center.
 
 <p>
 
-Additionally, the proposed department is likely to get its own <a href=3D"h=
-ttp://clickthru.online.com/Click?q=3Dca-iciuQUgF71gRVXMcl8jfOfRHHUsR" >priv=
+Additionally, the proposed department is likely to get its own <a href=3Dh=
+ttp://clickthru.online.com/Click?q=3Dca-iciuQUgF71gRVXMcl8jfOfRHHUsR >priv=
 acy czar</a>. A draft of the legislation seen by CNET News.com states that =
 the Secretary of Homeland Security must appoint a privacy officer to ensure=
- that new technologies "sustain and do not erode" privacy protections and t=
+ that new technologies sustain and do not erode privacy protections and t=
 o verify that the agency's massive databases operate within federal guideli=
 nes.
 
 <p>
 
-<b><font color=3D"#CC0000">Who's running your computer? </font></b><br>
+<b><font color=3D#CC0000>Who's running your computer? </font></b><br>
 
 
 
@@ -216,8 +216,8 @@ n now with their computers.
 
 
 
-Apple Computer OS X users could let hackers <a href=3D"http://clickthru.onl=
-ine.com/Click?q=3Ddf-1kJhQLEFh2TGWRjfbQq-Kh1XhaZR" >piggyback malicious cod=
+Apple Computer OS X users could let hackers <a href=3Dhttp://clickthru.onl=
+ine.com/Click?q=3Ddf-1kJhQLEFh2TGWRjfbQq-Kh1XhaZR >piggyback malicious cod=
 e</a> on downloads from the company's SoftwareUpdate service.  According to=
  the BugTraq mailing list, a hacker named Russell Harding has posted full i=
 nstructions for how to fool Apple's SoftwareUpdate feature to allow a hacke=
@@ -234,8 +234,8 @@ system. So far, there are no patches available for this problem.
 <p>
 
 Users of Microsoft's Internet Explorer, Outlook and Outlook Express applica=
-tions <a href=3D"http://clickthru.online.com/Click?q=3Df5-lTbRQgwxlE6ooZY6D=
-mLwgkaZmRuR" >may be vulnerable</a> to a recently discovered software flaw =
+tions <a href=3Dhttp://clickthru.online.com/Click?q=3Df5-lTbRQgwxlE6ooZY6D=
+mLwgkaZmRuR >may be vulnerable</a> to a recently discovered software flaw =
 that could leave their system open to malicious code carried on Web pages o=
 r in e-mails. A security researcher and partner at risk-assessment company =
 PivX Solutions warned that HTML objects embedded in Web pages and e-mail co=
@@ -245,8 +245,8 @@ read their documents and execute programs on their computer.
 <p>
 
 Still another problem is plaguing Outlook: A popular plug-in that lets user=
-s encrypt and digitally sign messages has <a href=3D"http://clickthru.onlin=
-e.com/Click?q=3D0a-ZnKCIrrs-4R73PWBwhq6GOxuYzsR" >inadvertently weakened</a=
+s encrypt and digitally sign messages has <a href=3Dhttp://clickthru.onlin=
+e.com/Click?q=3D0a-ZnKCIrrs-4R73PWBwhq6GOxuYzsR >inadvertently weakened</a=
 > security and left the mail program open to attack. Security company eEye =
 Digital Security issued a warning late Wednesday to users of Network Associ=
 ates' Pretty Good Privacy (PGP) plug-in for Outlook, saying that a vulnerab=
@@ -255,12 +255,12 @@ tim's computer.
 
 <p>
 
-<b><font color=3D"#CC0000">Wi-Fi everywhere, but not everyone</font></b><br=
+<b><font color=3D#CC0000>Wi-Fi everywhere, but not everyone</font></b><br=
 >
 
 One of the first cameras that can shuttle photos and videos using the Wi-Fi=
- wireless networking technology has made its <a href=3D"http://clickthru.on=
-line.com/Click?q=3D1f-rvwqI58wtiBX5xU1xmYgHobjqmZR" >debut</a>. IQinVision =
+ wireless networking technology has made its <a href=3Dhttp://clickthru.on=
+line.com/Click?q=3D1f-rvwqI58wtiBX5xU1xmYgHobjqmZR >debut</a>. IQinVision =
 plans to sell the camera to companies such as security firms that need to p=
 ut video cameras in places where wires can't go, or as a way to quickly ins=
 tall a temporary security system.
@@ -275,8 +275,8 @@ a maker wants to add a popular new technology like Wi-Fi.
 
 <p>
 
-Wi-Fi is also <a href=3D"http://clickthru.online.com/Click?q=3D34-pJpSIcd8l=
-d53rX23_tvVyn4IcgdR" >invading handheld devices</a>. Wireless equipment mak=
+Wi-Fi is also <a href=3Dhttp://clickthru.online.com/Click?q=3D34-pJpSIcd8l=
+d53rX23_tvVyn4IcgdR >invading handheld devices</a>. Wireless equipment mak=
 er Intersil is working with SyChip to incorporate 802.11b wireless networki=
 ng technology into a Secure Digital (SD) card for handheld devices. The car=
 d, which should be available to manufacturers for testing in the fourth qua=
@@ -294,15 +294,15 @@ pabilities, and they are some of the most expensive on the market. With the=
 <p>
 
 Not everyone is pleased with the explosion in popularity of wireless networ=
-king. Broadband providers are <a href=3D"http://clickthru.online.com/Click?=
-q=3D49-ZM4cIEpSm4ht0v3VX4RVXFO5JSrR" >cracking down</a> on some customers, =
+king. Broadband providers are <a href=3Dhttp://clickthru.online.com/Click?=
+q=3D49-ZM4cIEpSm4ht0v3VX4RVXFO5JSrR >cracking down</a> on some customers, =
 threatening to cut service to those who set up the inexpensive wireless sys=
 tems and allow others to freely tap into their Internet access.
 
 <p>
 
-After being introduced just a couple of years ago, so-called Wi-Fi "hot spo=
-ts" that tap into cable or digital subscriber lines (DSL) are now in at lea=
+After being introduced just a couple of years ago, so-called Wi-Fi hot spo=
+ts that tap into cable or digital subscriber lines (DSL) are now in at lea=
 st 15 million homes and offices. The problem is that one paying subscriber =
 can set up a local network that allows several other people to access the N=
 et, for fun or for profit.
@@ -311,7 +311,7 @@ et, for fun or for profit.
 
 <p>
 
-<b><font color=3D"#CC0000">News.com special focus: China</font></b><br>
+<b><font color=3D#CC0000>News.com special focus: China</font></b><br>
 
 
 
@@ -319,35 +319,35 @@ As China's society changes and its education system matures, the country is=
  becoming a major consumer and producer of computer products. And as the gl=
 obal recession leaves few fertile opportunities elsewhere, China has emerge=
 d as a primary target for foreign business. A News.com three-part <a href=
-=3D"http://clickthru.online.com/Click?q=3D5e-ssGdIn0656nzdldhsnStcVTQzciR" =
+=3Dhttp://clickthru.online.com/Click?q=3D5e-ssGdIn0656nzdldhsnStcVTQzciR =
 >special report</a> examines the various reasons that this may eventually b=
 e known as China's high-tech century.
 
 <p>
 
-<b><font color=3D"#CC0000">Also of note</font></b><br>
+<b><font color=3D#CC0000>Also of note</font></b><br>
 
-Apple Computer plans to serve up a new iMac model with a <a href=3D"http://=
-clickthru.online.com/Click?q=3D73-__ZeIBBtE5lt9n5T8UEE0WNrUZlR" >larger fla=
+Apple Computer plans to serve up a new iMac model with a <a href=3Dhttp://=
+clickthru.online.com/Click?q=3D73-__ZeIBBtE5lt9n5T8UEE0WNrUZlR >larger fla=
 t-panel display</a> during next week's Macworld Expo trade show...Microsoft=
- joined the growing customer relationship management market by <a href=3D"h=
-ttp://clickthru.online.com/Click?q=3D88-ec5PQQKxb5BfSXL-rU358atSBb9R" >prev=
+ joined the growing customer relationship management market by <a href=3Dh=
+ttp://clickthru.online.com/Click?q=3D88-ec5PQQKxb5BfSXL-rU358atSBb9R >prev=
 iewing</a> its first CRM product...America Online has quietly been <a href=
-=3D"http://clickthru.online.com/Click?q=3D9d-kkCWQv0uet9ImRZuKLvd75wKZzuR" =
+=3Dhttp://clickthru.online.com/Click?q=3D9d-kkCWQv0uet9ImRZuKLvd75wKZzuR =
 >testing an update</a> to its popular AOL Instant Messenger, using graphics=
  to create personal looks reminiscent of Yahoo's chat features...Federal re=
-gulators <a href=3D"http://clickthru.online.com/Click?q=3Db2-M4pwQX0aTFffIO=
-zjM2cmpxUCPusR" >deactivated</a> hundreds of thousands of credit cards belo=
+gulators <a href=3Dhttp://clickthru.online.com/Click?q=3Db2-M4pwQX0aTFffIO=
+zjM2cmpxUCPusR >deactivated</a> hundreds of thousands of credit cards belo=
 nging to former customers of NextCard...IBM's hard drive business, which th=
-e company is selling to Hitachi, <a href=3D"http://clickthru.online.com/Cli=
-ck?q=3Dc7-KG43QLPWuryspnzNWtUoF24wxeZR" >lost $515 million</a> in the five =
-most recent quarters...Yahoo <a href=3D"http://clickthru.online.com/Click?q=
-=3Ddd-tpm0QzWdTbMgl7xGZP85eXsJh-uR" >reported its first profit</a> in six q=
+e company is selling to Hitachi, <a href=3Dhttp://clickthru.online.com/Cli=
+ck?q=3Dc7-KG43QLPWuryspnzNWtUoF24wxeZR >lost $515 million</a> in the five =
+most recent quarters...Yahoo <a href=3Dhttp://clickthru.online.com/Click?q=
+=3Ddd-tpm0QzWdTbMgl7xGZP85eXsJh-uR >reported its first profit</a> in six q=
 uarters but found it difficult to assuage analysts' concerns about its core=
  advertising business.
 <p>
-<i>Want more? Check out all this week's <a href=3D"http://clickthru.online.=
-com/Click?q=3Df2-OZVTQUwWqrj3gfv0pvVdi5Z7edsR" >News.com headlines</a>.</i>
+<i>Want more? Check out all this week's <a href=3Dhttp://clickthru.online.=
+com/Click?q=3Df2-OZVTQUwWqrj3gfv0pvVdi5Z7edsR >News.com headlines</a>.</i>
 
         </td>
 </tr>
@@ -357,103 +357,103 @@ com/Click?q=3Df2-OZVTQUwWqrj3gfv0pvVdi5Z7edsR" >News.com headlines</a>.</i>
 </table>
 
 <!-- ### footer ### -->
-<table width=3D"612" bgcolor=3D"#000000" cellpadding=3D"0" cellspacing=3D"0=
-" border=3D"0">
-<tr><td width=3D"1"><img src=3D"http://www.cnet.com/b.gif" width=3D"1" heig=
-ht=3D"1"></td>
-<td width=3D"10" bgcolor=3D"#ffcc00"><img src=3D"http://www.cnet.com/b.gif"=
- width=3D"10" height=3D"1"></td>
-<td width=3D"1"><img src=3D"http://www.cnet.com/b.gif" width=3D"1" height=
-=3D"1"></td>
-<td width=3D"599" bgcolor=3D"#cccccc"><img src=3D"http://www.cnet.com/b.gif=
-" width=3D"1" height=3D"1"></td>
-<td width=3D"1"><img src=3D"http://www.cnet.com/b.gif" width=3D"1" height=
-=3D"1"></td></tr>
+<table width=3D612 bgcolor=3D#000000 cellpadding=3D0 cellspacing=3D0=
+ border=3D0>
+<tr><td width=3D1><img src=3Dhttp://www.cnet.com/b.gif width=3D1 heig=
+ht=3D1></td>
+<td width=3D10 bgcolor=3D#ffcc00><img src=3Dhttp://www.cnet.com/b.gif=
+ width=3D10 height=3D1></td>
+<td width=3D1><img src=3Dhttp://www.cnet.com/b.gif width=3D1 height=
+=3D1></td>
+<td width=3D599 bgcolor=3D#cccccc><img src=3Dhttp://www.cnet.com/b.gif=
+ width=3D1 height=3D1></td>
+<td width=3D1><img src=3Dhttp://www.cnet.com/b.gif width=3D1 height=
+=3D1></td></tr>
 </table>
-<table width=3D"612" bgcolor=3D"#eeeeee" cellpadding=3D"0" cellspacing=3D"0=
-" border=3D"0">
-<tr><td width=3D"1" bgcolor=3D"#000000"><img src=3D"http://www.cnet.com/b.g=
-if" width=3D"1" height=3D"1"></td>
-<td width=3D"10" bgcolor=3D"#ffcc00"><img src=3D"http://www.cnet.com/b.gif"=
- width=3D"10" height=3D"1"></td>
-<td width=3D"1" bgcolor=3D"#000000"><img src=3D"http://www.cnet.com/b.gif" =
-width=3D"1" height=3D"1"></td>
-<td width=3D"12"><img src=3D"http://www.cnet.com/b.gif" width=3D"12" height=
-=3D"1"></td>
-<td width=3D"575"><img src=3D"http://www.cnet.com/b.gif" width=3D"1" height=
-=3D"10"><br>
-<a href=3D"http://clickthru.online.com/Click?q=3D07-HqCzI5rqvU6guLoiqzUbrvL=
-kiDZR" >
-<img src=3D"http://a.r.tv.com/cnet.1d/i/nl/ft.gif" width=3D"375" height=3D"=
-18" border=3D"0" alt=3D"Sign up for more free newsletters from CNET!"></a><=
+<table width=3D612 bgcolor=3D#eeeeee cellpadding=3D0 cellspacing=3D0=
+ border=3D0>
+<tr><td width=3D1 bgcolor=3D#000000><img src=3Dhttp://www.cnet.com/b.g=
+if width=3D1 height=3D1></td>
+<td width=3D10 bgcolor=3D#ffcc00><img src=3Dhttp://www.cnet.com/b.gif=
+ width=3D10 height=3D1></td>
+<td width=3D1 bgcolor=3D#000000><img src=3Dhttp://www.cnet.com/b.gif =
+width=3D1 height=3D1></td>
+<td width=3D12><img src=3Dhttp://www.cnet.com/b.gif width=3D12 height=
+=3D1></td>
+<td width=3D575><img src=3Dhttp://www.cnet.com/b.gif width=3D1 height=
+=3D10><br>
+<a href=3Dhttp://clickthru.online.com/Click?q=3D07-HqCzI5rqvU6guLoiqzUbrvL=
+kiDZR >
+<img src=3Dhttp://a.r.tv.com/cnet.1d/i/nl/ft.gif width=3D375 height=3D=
+18 border=3D0 alt=3DSign up for more free newsletters from CNET!></a><=
 br>
 
 <!-- subscription management -->
 
-<font face=3D"ms sans serif, geneva" size=3D"-2">
+<font face=3Dms sans serif, geneva size=3D-2>
 The e-mail address for your subscription is&nbsp;qqqqqqqqqq-cnet-newsletter=
 s@spamassassin.taint.org<br>
 <A NOTRACK HREF=3D'http://clickthru.online.com/Click?q=3D1d-6KwjzDQ7qgKHjK2=
 7_2JXCf-zCfymu9RR'>Unsubscribe</A>&nbsp;|&nbsp;<a href=3D'http://nl.com.com=
 /servlet/url_login?email=3Dqqqqqqqqqq-cnet-newsletters@spamassassin.taint.org&brand=3Dc=
-net'>Manage My Subscriptions</a>&nbsp;|&nbsp;<a href=3D"http://clickthru.on=
-line.com/Click?q=3D32-Gx5IIrQ6QBm39dHDFWVhZSgRXBsR" >FAQ</A>&nbsp;|&nbsp;<a=
- href=3D"http://clickthru.online.com/Click?q=3D47-ADmxIIZHloD9THBOiJGu_NEsn=
-EPR" >Advertise</A><p>Please send any questions, comments, or concerns to&n=
-bsp;<a href=3D"mailto:dispatchfeedback@news.com">dispatchfeedback@news.com<=
+net'>Manage My Subscriptions</a>&nbsp;|&nbsp;<a href=3Dhttp://clickthru.on=
+line.com/Click?q=3D32-Gx5IIrQ6QBm39dHDFWVhZSgRXBsR >FAQ</A>&nbsp;|&nbsp;<a=
+ href=3Dhttp://clickthru.online.com/Click?q=3D47-ADmxIIZHloD9THBOiJGu_NEsn=
+EPR >Advertise</A><p>Please send any questions, comments, or concerns to&n=
+bsp;<a href=3Dmailto:dispatchfeedback@news.com>dispatchfeedback@news.com<=
 /A>.<br></font>
 <!-- /subscription management-->
 
-</font><img src=3D"http://www.zdnet.com/b.gif" width=3D"1" height=3D"8"></t=
+</font><img src=3Dhttp://www.zdnet.com/b.gif width=3D1 height=3D8></t=
 d>
-<td width=3D"12"><img src=3D"http://www.cnet.com/b.gif" width=3D"12" height=
-=3D"1"></td>
-<td width=3D"1" bgcolor=3D"#000000"><img src=3D"http://www.cnet.com/b.gif" =
-width=3D"1" height=3D"1"></td></tr>
+<td width=3D12><img src=3Dhttp://www.cnet.com/b.gif width=3D12 height=
+=3D1></td>
+<td width=3D1 bgcolor=3D#000000><img src=3Dhttp://www.cnet.com/b.gif =
+width=3D1 height=3D1></td></tr>
 </table>
-<table width=3D"612" bgcolor=3D"#000000" cellpadding=3D"0" cellspacing=3D"0=
-" border=3D"0">
-<tr><td width=3D"1"><img src=3D"http://www.cnet.com/b.gif" width=3D"1" heig=
-ht=3D"1"></td>
-<td width=3D"10" bgcolor=3D"#ffcc00"><img src=3D"http://www.cnet.com/b.gif"=
- width=3D"10" height=3D"1"></td>
-<td width=3D"601"><img src=3D"http://www.cnet.com/b.gif" width=3D"1" height=
-=3D"1"></td></tr>
+<table width=3D612 bgcolor=3D#000000 cellpadding=3D0 cellspacing=3D0=
+ border=3D0>
+<tr><td width=3D1><img src=3Dhttp://www.cnet.com/b.gif width=3D1 heig=
+ht=3D1></td>
+<td width=3D10 bgcolor=3D#ffcc00><img src=3Dhttp://www.cnet.com/b.gif=
+ width=3D10 height=3D1></td>
+<td width=3D601><img src=3Dhttp://www.cnet.com/b.gif width=3D1 height=
+=3D1></td></tr>
 </table>
-<table width=3D"612" bgcolor=3D"#ffcc00" cellpadding=3D"0" cellspacing=3D"0=
-" border=3D"0">
-<tr><td width=3D"1" bgcolor=3D"#000000"><img src=3D"http://www.cnet.com/b.g=
-if" width=3D"1" height=3D"1"></td>
-<td width=3D"10"><img src=3D"http://www.cnet.com/b.gif" width=3D"10" height=
-=3D"1"></td>
-<td width=3D"37"><a href=3D"http://clickthru.online.com/Click?q=3D5c-BnjPIZ=
-nP6PmQ5LX53xlZk0f-IonR" ><img src=3D"http://www.cnet.com/i/dp/smrb.gif" wid=
-th=3D"37" height=3D"37" border=3D"0"></a></td>
-<td width=3D"563" nowrap><font face=3D"arial, helvetica" size=3D"-1">
-<a href=3D"http://clickthru.online.com/Click?q=3D71-GwdUIEZcoNnxzRkqwuBXvl3=
-NU2rR" ><font color=3D"#000000">Price comparisons</font></a> |
-<a href=3D"http://clickthru.online.com/Click?q=3D86-8fH1QCJoJ4zepdxSjaeTldf=
-VpfRR" ><font color=3D"#000000">Product reviews</font></a> |
-<a href=3D"http://clickthru.online.com/Click?q=3D9b-7-TFQSIo_Af0zL40dAVJ9PZ=
-AKTFR" ><font color=3D"#000000">Tech news</font></a> |
-<a href=3D"http://clickthru.online.com/Click?q=3Db0-NZmfQQJrcJiYf_hdxQMKtNX=
-8PQ9R" ><font color=3D"#000000">Downloads</font></a> |
-<a href=3D"http://clickthru.online.com/Click?q=3Dc5-8BcDQzOaAxlWTJtzSROUJEy=
-mxquR" ><font color=3D"#000000">All CNET services</font></a>
+<table width=3D612 bgcolor=3D#ffcc00 cellpadding=3D0 cellspacing=3D0=
+ border=3D0>
+<tr><td width=3D1 bgcolor=3D#000000><img src=3Dhttp://www.cnet.com/b.g=
+if width=3D1 height=3D1></td>
+<td width=3D10><img src=3Dhttp://www.cnet.com/b.gif width=3D10 height=
+=3D1></td>
+<td width=3D37><a href=3Dhttp://clickthru.online.com/Click?q=3D5c-BnjPIZ=
+nP6PmQ5LX53xlZk0f-IonR ><img src=3Dhttp://www.cnet.com/i/dp/smrb.gif wid=
+th=3D37 height=3D37 border=3D0></a></td>
+<td width=3D563 nowrap><font face=3Darial, helvetica size=3D-1>
+<a href=3Dhttp://clickthru.online.com/Click?q=3D71-GwdUIEZcoNnxzRkqwuBXvl3=
+NU2rR ><font color=3D#000000>Price comparisons</font></a> |
+<a href=3Dhttp://clickthru.online.com/Click?q=3D86-8fH1QCJoJ4zepdxSjaeTldf=
+VpfRR ><font color=3D#000000>Product reviews</font></a> |
+<a href=3Dhttp://clickthru.online.com/Click?q=3D9b-7-TFQSIo_Af0zL40dAVJ9PZ=
+AKTFR ><font color=3D#000000>Tech news</font></a> |
+<a href=3Dhttp://clickthru.online.com/Click?q=3Db0-NZmfQQJrcJiYf_hdxQMKtNX=
+8PQ9R ><font color=3D#000000>Downloads</font></a> |
+<a href=3Dhttp://clickthru.online.com/Click?q=3Dc5-8BcDQzOaAxlWTJtzSROUJEy=
+mxquR ><font color=3D#000000>All CNET services</font></a>
 </font></td>
-<td width=3D"1" bgcolor=3D"#000000"><img src=3D"http://www.cnet.com/b.gif" =
-width=3D"1" height=3D"1"></td></tr>
+<td width=3D1 bgcolor=3D#000000><img src=3Dhttp://www.cnet.com/b.gif =
+width=3D1 height=3D1></td></tr>
 </table>
-<table width=3D"612" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
-<tr><td bgcolor=3D"#000000"><img src=3D"http://www.cnet.com/b.gif" width=3D=
-"1" height=3D"1"></td></tr>
-<tr><td height=3D"25"><font face=3D"ms sans serif, geneva" size=3D"-2"><tab=
+<table width=3D612 cellpadding=3D0 cellspacing=3D0 border=3D0>
+<tr><td bgcolor=3D#000000><img src=3Dhttp://www.cnet.com/b.gif width=3D=
+1 height=3D1></td></tr>
+<tr><td height=3D25><font face=3Dms sans serif, geneva size=3D-2><tab=
 le width=3D100% border=3D0 cellspacing=3D2 cellpadding=3D1> <tr valign=3Dbo=
 ttom> <td width=3D75% height=3D31> <p></font> <br><b><font face=3DArial, He=
 lvetica, sans-serif size=3D2>    Copyright 2002 CNET Networks, Inc. All rig=
 hts reserved.    </font></b> </p></td><td height=3D31 valign=3Dtop> <div al=
-ign=3Dright> <img src=3D"http://gserv-cnet.zdnet.com/clear/outbound.gif?APP=
-ID=3D2&EMID=3D25136487&NL=3De433&ISSUE=3D2002-07-13" height=3D1 width=3D1> =
+ign=3Dright> <img src=3Dhttp://gserv-cnet.zdnet.com/clear/outbound.gif?APP=
+ID=3D2&EMID=3D25136487&NL=3De433&ISSUE=3D2002-07-13 height=3D1 width=3D1> =
    </div></td></tr><tr>  <td colspan=3D2><font face=3DArial, Helvetica, san=
 s-serif size=3D2>    </font></td></tr></table>
 </td></tr>
@@ -461,6 +461,6 @@ s-serif size=3D2>    </font></td></tr></table>
 <!-- ### /footer ### -->
 </body>
 </html>
-<IMG HEIGHT=3D1 WIDTH=3D1 SRC=3D"http://clickthru.online.com/Click?q=3Ddb-r=
-m79-SEMb1OOsBS3B1CAspzXVsRR">
+<IMG HEIGHT=3D1 WIDTH=3D1 SRC=3Dhttp://clickthru.online.com/Click?q=3Ddb-r=
+m79-SEMb1OOsBS3B1CAspzXVsRR>
 

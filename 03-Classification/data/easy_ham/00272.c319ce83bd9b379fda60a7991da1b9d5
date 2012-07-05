@@ -18,7 +18,7 @@ Received: from linuxmafia.com (linuxmafia.COM [198.144.195.186]) by
     Tue,  8 Oct 2002 20:03:42 +0100 (IST)
 Received: from rick by linuxmafia.com with local (Exim 3.36 #1 (Debian))
     id 17yzgl-0001zv-00 for <ilug@linux.ie>; Tue, 08 Oct 2002 12:06:39 -0700
-To: "'ILUG'" <ilug@linux.ie>
+To: 'ILUG' <ilug@linux.ie>
 Subject: Re: [ILUG] Modem question
 Message-Id: <20021008190633.GV11235@linuxmafia.com>
 References: <A3C83F41488BD61195C3000802252FC135BCF1@dubim07742.ie.ml.com>
@@ -50,7 +50,7 @@ Quoting Breathnach, Proinnsias (Dublin) (breatpro@exchange.ie.ml.com):
 > Is there any reliable way to calculate your connection speed if you don't
 > trust what the modem reports?
 
-Do a wget of a file of known length, in a script that runs "date" before
+Do a wget of a file of known length, in a script that runs date before
 and after (or equivalent).
 
 Be aware that speed between you and your upstream link is one thing;
@@ -70,7 +70,7 @@ for interactive sessions, e.g., ssh remote logins, where each keystroke
 is echoed from remote.)
 
 -- 
-Cheers,                    "Send a policeman, and have it arrested."
+Cheers,                    Send a policeman, and have it arrested.
 Rick Moen                     -- Otto von Bismarck, when asked what he 
 rick@linuxmafia.com               would do if the British Army landed.
 -- 

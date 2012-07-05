@@ -47,13 +47,13 @@ Here's how I envision this working.  Everybody gets four new mailboxes:
   trained-eggs
   trained-spam
 
-You copy all your spam and eggs* into the "train-" boxes as you get it.
+You copy all your spam and eggs* into the train- boxes as you get it.
 How frequently you do this would be up to you, but you'd get better
 results if you did it more often, and you'd be wise to always copy over
 anything which was misclassified.  Then, every night, the spam fairy
 swoops down and reads through your folders, learning about what sorts of
 things you think are eggs and what sorts of things are spam.  After she's
-done, she moves your mail into the "trained-" folders.
+done, she moves your mail into the trained- folders.
 
 This would work for anybody using IMAP on a Unix box, or folks who read
 their mail right off the server.  I've spoken with some fellows at work
@@ -61,15 +61,15 @@ about Exchange and they seem to beleive that Exchange exports
 appropriate functionality to implement a spam fairy as well.
 
 Advanced users could stay ahead of the game by reprogramming their mail
-client to bind the key "S" to "move to train-spam" and "H" to "move to
-train-eggs".  Eventually, if enough people used this sort of thing, it'd
-start showing up in mail clients.  That's the "delete as spam" button
+client to bind the key S to move to train-spam and H to move to
+train-eggs.  Eventually, if enough people used this sort of thing, it'd
+start showing up in mail clients.  That's the delete as spam button
 Paul Graham was talking about.
 
-* The Hormel company might not think well of using the word "ham" as the
-  opposite of "spam", and they've been amazingly cool about the use of
+* The Hormel company might not think well of using the word ham as the
+  opposite of spam, and they've been amazingly cool about the use of
   their product name for things thus far.  So I propose we start calling
   non-spam something more innocuous (and more Monty Pythonic) such as
-  "eggs".
+  eggs.
 
 Neale

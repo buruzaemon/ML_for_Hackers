@@ -19,12 +19,12 @@ Received: from cats.ucsc.edu (cats-mx2.ucsc.edu [128.114.129.35]) by
 Received: from Tycho (dhcp-55-196.cse.ucsc.edu [128.114.55.196]) by
     cats.ucsc.edu (8.10.1/8.10.1) with SMTP id g8RJZwT25586; Fri,
     27 Sep 2002 12:35:59 -0700 (PDT)
-From: "Jim Whitehead" <ejw@cse.ucsc.edu>
-To: "Robert Harley" <harley@argote.ch>, <fork@spamassassin.taint.org>
+From: Jim Whitehead <ejw@cse.ucsc.edu>
+To: Robert Harley <harley@argote.ch>, <fork@spamassassin.taint.org>
 Subject: RE: The Big Jump
 Message-Id: <AMEPKEBLDJJCCDEJHAMICEHEFIAA.ejw@cse.ucsc.edu>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 8bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal
@@ -73,8 +73,8 @@ come.Meeting in all in May, 2003.
 > R
 >
 > ObQuote:
->   "Vederò, si averò si grossi li coglioni, come ha il re di Franza."
->   ("Let's see if I've got as much balls as the King of France!")
+>   Vederò, si averò si grossi li coglioni, come ha il re di Franza.
+>   (Let's see if I've got as much balls as the King of France!)
 >   - Pope Julius II, 2 January 1511
 
 

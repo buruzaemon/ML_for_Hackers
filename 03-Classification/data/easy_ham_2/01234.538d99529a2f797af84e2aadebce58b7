@@ -56,7 +56,7 @@ On Wed, Aug 14, 2002 at 10:59:22AM -0400, Thomas J. Baker wrote:
 
 I've been using the gstreamer repository with Rawhide Gnome 2 for the
 last month or so with no problems. Even the new rhythmbox works (if
-you can call taking 5 minutes to load my mp3 directory "working").
+you can call taking 5 minutes to load my mp3 directory working).
 
 It might be something with Ximian's Gnome 2 snaps. AFAIK, they're 
 pretty much straight out of CVS and hence a lot more experimental than 

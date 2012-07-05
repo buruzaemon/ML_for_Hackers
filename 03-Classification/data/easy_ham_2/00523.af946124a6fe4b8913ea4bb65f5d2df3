@@ -28,7 +28,7 @@ From: Lee Hosty <hostyle@csn.ul.ie>
 Subject: Re: [Webdev] PHP/MySQL Virtual Hosting Recommendations?
 In-Reply-To: <200208211844.TAA16226@lugh.tuatha.org>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"; format=flowed
+Content-Type: text/plain; charset=us-ascii; format=flowed
 Sender: webdev-admin@linux.ie
 Errors-To: webdev-admin@linux.ie
 X-Mailman-Version: 1.1
@@ -61,7 +61,7 @@ You'll be lucky to get telnet anywhere, SSH should do though.
 
 Try www.hosting365.ie - they haven't let me down yet.
 
-You could try iewebs.com aswell, though I don't know if they do "just hosting".
+You could try iewebs.com aswell, though I don't know if they do just hosting.
 
 
 Lee Hosty -x- hostyle AT csn.ul.ie -x- +353 (0)86 8768780

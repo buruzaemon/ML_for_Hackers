@@ -49,9 +49,9 @@ X-Url: http://www.DeepEddy.Com/~cwg
 X-Image-Url: http://www.DeepEddy.Com/~cwg/chris.gif
 MIME-Version: 1.0
 Content-Type: multipart/signed;
-    boundary="==_Exmh_1737280444P";
+    boundary===_Exmh_1737280444P;
     micalg=pgp-sha1;
-    protocol="application/pgp-signature"
+    protocol=application/pgp-signature
 Content-Transfer-Encoding: 7bit
 Message-Id: <1027528456.30806.TMDA@deepeddy.vircio.com>
 From: Chris Garrigues <cwg-exmh@DeepEddy.Com>
@@ -87,7 +87,7 @@ the folder from flist:
 
 11:17:40 ****************
 11:17:40 Changing to Housekeeping/Monitor ...
-11:17:40 Scan_CacheUpdate error {bad text index ".0"}
+11:17:40 Scan_CacheUpdate error {bad text index .0}
 11:17:40 Scan_CacheUpdate {952 microseconds per iteration}
 11:17:40 Exmh_CheckPoint {1409 microseconds per iteration}
 11:17:40 {loading .xmhcache}
@@ -99,7 +99,7 @@ the folder from flist:
 11:17:40 Scan_Folder {76527 microseconds per iteration}
 11:17:40 Flist_Done
 11:17:40 4 unread msgs in 3 folders
-11:17:40 Scan_CacheUpdate error {bad text index ".0"}
+11:17:40 Scan_CacheUpdate error {bad text index .0}
 11:17:40 Housekeeping/Monitor
 11:17:40 Mh_SequenceUpdate Housekeeping/Monitor clear cur {} public
 11:17:40 Folder_Change Housekeeping/Monitor {162590 microseconds per iteration}
@@ -149,7 +149,7 @@ I click on commit and the message remains in my ftoc even though it's deleted.
 11:18:43 BgAction {Rmm Housekeeping/Monitor} {Mh_Rmm Housekeeping/Monitor 1}
 11:18:43 BackgroundPending {Rmm Housekeeping/Monitor}
 11:18:43 ok
-11:18:43 Scan_CacheUpdate error {bad text index ".0"}
+11:18:43 Scan_CacheUpdate error {bad text index .0}
 11:18:43 Scan_CacheUpdate {1071 microseconds per iteration}
 11:18:43 BackgroundComplete {Rmm Housekeeping/Monitor}
 11:18:43 background actions complete

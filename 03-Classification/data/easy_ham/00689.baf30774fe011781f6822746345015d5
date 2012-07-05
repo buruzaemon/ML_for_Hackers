@@ -19,12 +19,12 @@ Received: from hotmail.com (dav31.law15.hotmail.com [64.4.22.88]) by
 Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
     Sat, 21 Sep 2002 12:02:10 -0700
 X-Originating-Ip: [207.202.171.254]
-From: "Mr. FoRK" <fork_list@hotmail.com>
+From: Mr. FoRK <fork_list@hotmail.com>
 To: <fork@spamassassin.taint.org>
 References: <000d01c2613a$5f9b35c0$0200a8c0@JMHALL>
 Subject: Re: sed /s/United States/Roman Empire/g
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal
@@ -48,7 +48,7 @@ Date: Sat, 21 Sep 2002 12:06:52 -0700
 
 
 ----- Original Message -----
-From: "John Hall" <johnhall@evergo.net>
+From: John Hall <johnhall@evergo.net>
 
 
 > Take a list of the richest countries.

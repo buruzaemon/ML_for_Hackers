@@ -46,10 +46,10 @@ X-Received: from 0017675265 (24-205-51-133.gln-res.charterpipeline.net
     [24.205.51.133]) by saturn.kagi.com (8.11.0/8.11.0) with SMTP id
     g6J49GF18257 for <chris@kagi.com>; Thu, 18 Jul 2002 21:09:16 -0700
 Message-Id: <200207190409.g6J49GF18257@saturn.kagi.com>
-From: "Jennifer" <jenniferb@doityourself.com>
+From: Jennifer <jenniferb@doityourself.com>
 To: <chris@kagi.com>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Subject: [SA] Job Update
 Sender: spamassassin-sightings-admin@example.sourceforge.net
 Errors-To: spamassassin-sightings-admin@example.sourceforge.net

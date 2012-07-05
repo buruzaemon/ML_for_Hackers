@@ -29,7 +29,7 @@ X-Mailer: Mozilla 4.79 [en] (Windows NT 5.0; U)
 X-Accept-Language: en
 MIME-Version: 1.0
 To: Theo Van Dinter <felicity@kluge.net>,
-	"spamassassin-talk@lists.sourceforge.net" <spamassassin-talk@lists.sourceforge.net>
+	spamassassin-talk@lists.sourceforge.net <spamassassin-talk@lists.sourceforge.net>
 Subject: Re: [SAtalk] Spam through - insanefunnies - clairification of X-Spam-Status fi elds?
 References: <F9102D41F595D311ACA7009027DE2C8404E11AF0@c3po.heurikon.com>
     <20020724152341.GE24673@kluge.net>
@@ -83,7 +83,7 @@ Theo Van Dinter wrote:
 > > Also, what is tagged_above=? I cannot find any information about it on the
 > > SpamAssassin site.
 > 
-> Good questions...  "tagged_above" doesn't appear anywhere in SA (at
+> Good questions...  tagged_above doesn't appear anywhere in SA (at
 > least according to `find`).  I would guess it's amavis doing some
 > hacking around.
 > 

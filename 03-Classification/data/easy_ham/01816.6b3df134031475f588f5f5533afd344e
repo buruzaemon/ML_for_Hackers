@@ -32,11 +32,11 @@ In this issue:
 |   http://use.perl.org/article.pl?sid=02/10/06/1118222              |
 +--------------------------------------------------------------------+
 
-[0]rafael writes "A security hole has been discovered in Safe.pm. When a
+[0]rafael writes A security hole has been discovered in Safe.pm. When a
 Safe compartment has already been used, there's no guarantee that it's
 safe any longer, because there's a way for code executed within the Safe
 compartment to alter its operation mask. (Thus, programs that use a Safe
-compartment only once aren't affected by this bug.)" Read below for the
+compartment only once aren't affected by this bug.) Read below for the
 fixes...
 
 This story continues at:

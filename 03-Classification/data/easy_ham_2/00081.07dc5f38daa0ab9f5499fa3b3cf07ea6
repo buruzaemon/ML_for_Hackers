@@ -26,7 +26,7 @@ Received: (from john@localhost) by jlooney.jinny.ie (8.11.6/8.11.6) id
 X-Authentication-Warning: jlooney.jinny.ie: john set sender to
     jlooney@jinny.ie using -f
 Date: Mon, 22 Jul 2002 15:53:53 +0100
-From: "John P. Looney" <valen@tuatha.org>
+From: John P. Looney <valen@tuatha.org>
 To: irish linux users group <ilug@linux.ie>
 Subject: Re: [ILUG] bind + lex + yacc...
 Message-Id: <20020722145353.GC14543@jinny.ie>
@@ -60,7 +60,7 @@ On Mon, Jul 22, 2002 at 03:48:54PM +0100, Justin MacCarthy mentioned:
  I think the person asking Kevin the question would like to have a nice
 config language like:
 
- domain: "bing.com"
+ domain: bing.com
  hosts:  www mail arse smeg twitter
  ttl:    20000
 

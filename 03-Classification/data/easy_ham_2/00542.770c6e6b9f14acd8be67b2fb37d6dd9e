@@ -23,12 +23,12 @@ Received: from shadow (hidden-user@kosh.ne.client2.attbi.com
     g6OHOAN07745 for <razor-users@lists.sourceforge.net>; Wed, 24 Jul 2002
     13:24:10 -0400
 Message-Id: <001201c23336$ec1c8da0$010aa8c0@shadow>
-From: "Alan A." <alan@naisp.net>
+From: Alan A. <alan@naisp.net>
 To: <razor-users@example.sourceforge.net>
 References: <20020724095903.W3639-100000@rockstar.stealthgeeks.net>
 Subject: Re: [Razor-users] Authentication Error
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal
@@ -83,7 +83,7 @@ Report any installation issues, bugs, errors, etc., to the V2 beta list
 be quickly
 looked at, etc.  Provide detailed description of issues, include logs if
 possible,
-as well as any "captured" spam that generated the error(s).
+as well as any captured spam that generated the error(s).
 
 
 Thank you, please drive through,

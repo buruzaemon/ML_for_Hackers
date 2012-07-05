@@ -18,12 +18,12 @@ Delivered-To: fork@spamassassin.taint.org
 Received: from 64.51.39.08 (unknown [202.98.63.126]) by xent.com (Postfix)
     with SMTP id A7B06294098 for <fork@xent.com>; Thu,  8 Aug 2002 03:50:46
     -0700 (PDT)
-From: "Ms.Huang (Sales Manager)" <motorcycle@qinghecq.com>
+From: Ms.Huang (Sales Manager) <motorcycle@qinghecq.com>
 To: fork@spamassassin.taint.org
 Reply-To: motorcycle@qinghecq.com
 Subject: China Motorcycle
 MIME-Version: 1.0
-Content-Type: multipart/mixed; boundary="f09e4063-d1b9-43d5-bd3b-7955a9315611"
+Content-Type: multipart/mixed; boundary=f09e4063-d1b9-43d5-bd3b-7955a9315611
 Message-Id: <20020808105046.A7B06294098@xent.com>
 Sender: fork-admin@xent.com
 Errors-To: fork-admin@xent.com

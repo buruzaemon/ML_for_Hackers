@@ -29,11 +29,11 @@ MIME-Version: 1.0
 Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: 7bit
 Message-Id: <15753.55633.535730.28416@onceler.kciLink.com>
-To: "spamassassin-talk" <spamassassin-talk@example.sourceforge.net>
+To: spamassassin-talk <spamassassin-talk@example.sourceforge.net>
 Subject: Re: [SAtalk] Ignore System Messages - How?
 In-Reply-To: <20020918203819.M82175@b2unow.com>
 References: <20020918203819.M82175@b2unow.com>
-X-Mailer: VM 7.07 under 21.4 (patch 8) "Honest Recruiter" XEmacs Lucid
+X-Mailer: VM 7.07 under 21.4 (patch 8) Honest Recruiter XEmacs Lucid
 Sender: spamassassin-talk-admin@example.sourceforge.net
 Errors-To: spamassassin-talk-admin@example.sourceforge.net
 X-Beenthere: spamassassin-talk@example.sourceforge.net
@@ -50,9 +50,9 @@ List-Archive: <http://sourceforge.net/mailarchives/forum.php?forum=spamassassin-
 X-Original-Date: Thu, 19 Sep 2002 10:04:01 -0400
 Date: Thu, 19 Sep 2002 10:04:01 -0400
 
->>>>> "v" == vernon  <vernon@b2unow.com> writes:
+>>>>> v == vernon  <vernon@b2unow.com> writes:
 
-v> Some of my "Security Violations" and "Unusual System Events" are being 
+v> Some of my Security Violations and Unusual System Events are being 
 v> tagged as SPAM by SpamAssassin. How do I get SA to ignore these messages?
 
 whitelists.  you *really* have to white list any message source that

@@ -16,7 +16,7 @@ Message-ID: <LNBBLJKPBEHFEDALKOLCEEHFBCAB.tim.one@comcast.net>
 > As well as the usual spam, it also has customers complaining about
 > credit card charges, it has people interested in the service and
 > asking questions about long distance rates, &c &c &c. Lots and lots
-> of "commercial" speech, in other words. Stuff that SA gets pretty
+> of commercial speech, in other words. Stuff that SA gets pretty
 > badly wrong.
 
 Can this corpus be shared?  I suppose not.
@@ -38,13 +38,13 @@ to provide better clues.
 
 That's ambiguous.  Accuracy rates or error rates, ham or spam rates?
 
-> I'm also stripping out HTML tags, except for href="" and src="" - there's
+> I'm also stripping out HTML tags, except for href= and src= - there's
 > so so much goodness in them (note that I'm only keeping the contents of
 > the attributes).
 
 Mining embedded http/https/ftp thingies cut the false negative rate in half
-in my tests (not keying off href, just scanning for anything that "looked
-like" one); that was the single biggest f-n improvement I've seen.  It
+in my tests (not keying off href, just scanning for anything that looked
+like one); that was the single biggest f-n improvement I've seen.  It
 didn't change the false positive rate.  So you know whether src added
 additional power, or did you do both at once?
 

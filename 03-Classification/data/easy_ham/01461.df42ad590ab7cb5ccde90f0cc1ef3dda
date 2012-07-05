@@ -22,7 +22,7 @@ Received: from iww.netfr.alcatel.fr (iww.netfr.alcatel.fr
     [155.132.180.114]) by smail2.alcatel.fr (ALCANET/NETFR) with ESMTP id
     g8BLqdCv027561; Wed, 11 Sep 2002 23:52:39 +0200
 Received: by iww.netfr.alcatel.fr
-    ("Mikrosoft Xchange",
+    (Mikrosoft Xchange,
     from userid 513) id CBB7C1D1B; Wed, 11 Sep 2002 23:53:41 +0200 (CEST)
 From: Stephane Lentz <Stephane.Lentz@ansf.alcatel.fr>
 To: David Raistrick <drais@wow.atlasta.net>
@@ -71,10 +71,10 @@ On Wed, Sep 11, 2002 at 01:46:19PM -0700, David Raistrick wrote:
 > 
 - Presuming your run Bash  :
 Note the directory lists 
-#  perl -e 'map { print "$_\n" } @INC'
+#  perl -e 'map { print $_\n } @INC'
 Then set up the Shell variable PERL5LIB variable (and put it in some .bashrc 
 for future use)
-# export PERL5LIB="directory1:directory2:directory3:directory4"
+# export PERL5LIB=directory1:directory2:directory3:directory4
 Then try to install the software
 
 PERL5LIB is explained perlrun(1) : do 

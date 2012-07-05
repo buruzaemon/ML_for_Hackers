@@ -27,8 +27,8 @@ Received: from otherland (otherland.msquadrat.de [10.10.10.10]) by
     nebukadnezar.msquadrat.de (Postfix on SuSE Linux 7.3 (i386)) with ESMTP id
     F3CD32E9 for <spamassassin-talk@lists.sf.net>; Sun,  8 Sep 2002 16:16:50
     +0200 (CEST)
-Content-Type: text/plain; charset="iso-8859-15"
-From: "Malte S. Stretz" <msquadrat.nospamplease@gmx.net>
+Content-Type: text/plain; charset=iso-8859-15
+From: Malte S. Stretz <msquadrat.nospamplease@gmx.net>
 To: spamassassin-talk@example.sourceforge.net
 Subject: Re: [SAtalk] Lotus Notes users?
 User-Agent: KMail/1.4.3
@@ -67,14 +67,14 @@ Date: Sun, 8 Sep 2002 16:19:34 +0200
 
 On Saturday 07 September 2002 23:22 CET Daniel Quinlan wrote:
 > Craig Hughes <craig@hughes-family.org> writes:
-> > How about configuring SA to set precendence to "low" for spam
+> > How about configuring SA to set precendence to low for spam
 > > messages, then filter on that -- no real human I've ever seen has
 > > actually set precendence to low on real mail.
 >
 > Assuming there isn't a better way for Lotus Notes users, we could
-> create a "Precedence: spam" convention.  The only two Precedence:
-> headers I've seen (aside from one or two odd messages) are "bulk" and
-> "list".  Adding a "spam" header makes sense given the convention.
+> create a Precedence: spam convention.  The only two Precedence:
+> headers I've seen (aside from one or two odd messages) are bulk and
+> list.  Adding a spam header makes sense given the convention.
 
 I'd suggest using Precedence: junk. Albeit it's no standard header does most 
 Software already recognize it. Courier eg. doesn't send auto-replies to 
@@ -82,7 +82,7 @@ mails with the Precedence bulk or junk. I think Outlook does handle these
 special, too. [1] says:
 | Autoresponses should always contain the header
 |          Precedence: junk
-| Notice the spelling of "prec-e-dence". In particular, count the number of
+| Notice the spelling of prec-e-dence. In particular, count the number of
 | n:s (and a:s and s:es, if you're totally agraphic and/or from the United
 | States). This will prevent well-tempered mail programs from generating
 | bounce messages for these. If the recipient can't be reached, the

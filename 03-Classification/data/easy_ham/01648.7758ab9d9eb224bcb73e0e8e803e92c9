@@ -4,7 +4,7 @@ From: bkc@murkworks.com (Brad Clements)
 Date: Fri, 06 Sep 2002 11:02:11 -0400
 Subject: [Spambayes] Deployment
 In-Reply-To: <200209061443.g86EhXQ14543@pcp02138704pcs.reston01.va.comcast.net>
-References: Your message of "Fri, 06 Sep 2002 10:39:48 EDT."
+References: Your message of Fri, 06 Sep 2002 10:39:48 EDT.
 	<3D788653.9143.1D8992DA@localhost> 
 Message-ID: <3D788B92.22739.1D9E0FD1@localhost>
 
@@ -22,7 +22,7 @@ How many spams-as-hams can be accepted before the f-n rate gets unacceptable?
 
 > > How about adding an IMAP server with a spam and deleted-ham
 > > folder. Most email clients can handle IMAP. Users should be able to
-> > quickly move "spam" into the spam folder.
+> > quickly move spam into the spam folder.
 > 
 > I personally don't think IMAP has a bright future, but for people who
 > do use it, that's certainly a good approach.

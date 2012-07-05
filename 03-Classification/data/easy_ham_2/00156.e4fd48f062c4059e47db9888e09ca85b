@@ -61,22 +61,22 @@ ilug folder for ilug mail, the doolin folder for doolin mail, etc.
 so i use folder-hooks to accomplish that.  as an example (i do line
 wrapping to keep it less then 80 chars long - spacing is important):
 
-folder-hook . "my_hdr From: kevin lyda <kevin@ie.suberic.net>;"\
-"my_hdr X-GPG-Fingerprint: 9C1D 16F4 11F1 6BD2 933C  048D ACC7 9840 89D0 7646;"\
-"set pgp_sign_as=0x89D07646;set signature=~/.signature;"\
-"set folder=~/Mail;set record=~/Mail/outbox;set postponed=~/Mail/postponed"
+folder-hook . my_hdr From: kevin lyda <kevin@ie.suberic.net>;\
+my_hdr X-GPG-Fingerprint: 9C1D 16F4 11F1 6BD2 933C  048D ACC7 9840 89D0 7646;\
+set pgp_sign_as=0x89D07646;set signature=~/.signature;\
+set folder=~/Mail;set record=~/Mail/outbox;set postponed=~/Mail/postponed
 folder-hook /(alphyra|Alphyra/[^.].*) \
-"my_hdr From: kevin lyda <kevin@alphyra.com>;my_hdr X-GPG-Fingerprint: "\
-"088E 2BC4 381E 990A 1E0E  1DA0 4D44 99EF 20E6 38A0;"\
-"set pgp_sign_as=0x20E638A0;set signature=~/.signature.d/itg.sig;"\
-"set folder=~/Mail/Alphyra;set record=~/Mail/Alphyra/outbox;"\
-"set postponed=~/Mail/Alphyra/postponed"
+my_hdr From: kevin lyda <kevin@alphyra.com>;my_hdr X-GPG-Fingerprint: \
+088E 2BC4 381E 990A 1E0E  1DA0 4D44 99EF 20E6 38A0;\
+set pgp_sign_as=0x20E638A0;set signature=~/.signature.d/itg.sig;\
+set folder=~/Mail/Alphyra;set record=~/Mail/Alphyra/outbox;\
+set postponed=~/Mail/Alphyra/postponed
 
 you could also do this with send hooks.  i use them to tweak gpg settings:
 
-send-hook .			"unset pgp_autoencrypt;set pgp_autosign"
+send-hook .			unset pgp_autoencrypt;set pgp_autosign
 send-hook (ilug|webdev|social)@linux.ie	\
-				"unset pgp_autosign;unset pgp_autoencrypt"
+				unset pgp_autosign;unset pgp_autoencrypt
 
 and then i have an include file with all people who have keys.
 

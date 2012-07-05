@@ -94,7 +94,7 @@ space. Hmm.
  > 
  > and now bar no longer points to foo.
 
-True. But "cat floyd > foo; rm floyd" preserves it. Much of a muchness
+True. But cat floyd > foo; rm floyd preserves it. Much of a muchness
 ...
 
  > the fs would need to maintain a table of links going the other direction.

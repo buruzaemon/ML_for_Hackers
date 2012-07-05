@@ -47,9 +47,9 @@ the soundcard (Creative SB PCI-64) gameport controller, which also seems to live
 here.  I'm not using the controller, so it doesn't show in /proc/ioports, so
 autodetect happily puts my ISA card there.
       I can get the card to work easily enough using isapnptools, banning the
-0x200 range in /etc/isapnp.gone, and then using "insmod radio-cadet io=0x210",
+0x200 range in /etc/isapnp.gone, and then using insmod radio-cadet io=0x210,
 but I'd like to get the autodetect working, so what I think I'm looking for is
-some way of adding "don't go here, don't bother me" entries into /proc/ioports.
+some way of adding don't go here, don't bother me entries into /proc/ioports.
 
 Anybody?
 

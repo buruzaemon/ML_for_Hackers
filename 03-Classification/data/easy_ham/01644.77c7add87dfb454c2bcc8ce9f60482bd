@@ -22,7 +22,7 @@ reason the less modern uncapped @Home went out of business <wink>.
 > each of the 10 sets individually and upload them somewhere.
 
 I suppose this could finish over the course of an afternoon.  Now where's
-"somewhere"?  I expect we'll eventually collect several datasets;
+somewhere?  I expect we'll eventually collect several datasets;
 SourceForge isn't a good place for it (they expect projects to distribute
 relatively small code files, and complain if even those get big).
 
@@ -36,16 +36,16 @@ What then are we training the classifier to do?  Graham's scoring scheme is
 based on an assumption that the ham-vs-spam task is *easy*, and half of that
 is due to that the ham has a lot in common.  It was an experiment to apply
 his scheme to all the comp.lang.python traffic, which is a lot broader than
-he had in mind (c.l.py has long had a generous definition of "on topic"
+he had in mind (c.l.py has long had a generous definition of on topic
 <wink>).  I don't expect good things to come of making it ever broader,
 *unless* your goal is to investigate just how broad it can be made before it
 breaks down.
 
-> The "problem" with the ham is it tends to be much more tied to one person
+> The problem with the ham is it tends to be much more tied to one person
 > (not just intimate, but unique) than the spam.
 
-Which is "a feature" from Graham's POV:  the more clues, the better this
-"smoking guns only" approach should work.
+Which is a feature from Graham's POV:  the more clues, the better this
+smoking guns only approach should work.
 
 > I save all incoming email for ten days (gzipped mbox format) before it
 rolls

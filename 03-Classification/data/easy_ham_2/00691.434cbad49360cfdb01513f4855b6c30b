@@ -39,7 +39,7 @@ Cc: exmh-workers@spamassassin.taint.org
 Subject: Re: Another bug
 In-Reply-To: Message from Chris Garrigues
     <cwg-dated-1027805573.3ce2ae@DeepEddy.Com> of
-    "Mon, 22 Jul 2002 16:32:50 CDT."
+    Mon, 22 Jul 2002 16:32:50 CDT.
     <1027373573.13274.TMDA@deepeddy.vircio.com>
 MIME-Version: 1.0
 Content-Type: text/plain; charset=us-ascii
@@ -67,7 +67,7 @@ Date: Tue, 23 Jul 2002 02:20:35 +0200
 > > > better know the line or msgid. That routine shoud just put in the '+' 
 > > > if the line/msg in question happened to be the cur msg. Thoughts?
 > > 
-> > Intuitively, that sounds right to me.  It does also call "tag remove", so 
+> > Intuitively, that sounds right to me.  It does also call tag remove, so 
 > > you'll have to make sure that gets set correctly as well.
 > > 
 > > I think any changes that make it behave more intuitively are a good thing even 

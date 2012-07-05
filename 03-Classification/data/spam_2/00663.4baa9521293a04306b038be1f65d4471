@@ -14,8 +14,8 @@ Received: from [212.69.209.41] (helo=mailgate) by post.dialups.co.uk with
     esmtp (Exim 3.36 #1) id 17GxWo-000OWR-00; Sun, 09 Jun 2002 08:54:23 +0100
 Received: from [66.64.68.245] by <nt1> (MailGate 3.4.164) with SMTP;
     Sun, 9 Jun 2002 07:53:14 +0100
-From: "Lacy Capella " <latb@aol.com>
-To: "malcolm@netnoir.com" <malcolm@netnoir.com>
+From: Lacy Capella  <latb@aol.com>
+To: malcolm@netnoir.com <malcolm@netnoir.com>
 Subject: ok?????
 Cc: malcolm@netnoir.com
 Cc: runjonah@netnoir.com
@@ -90,7 +90,7 @@ Cc: yyyy@netnoteinc.com
 Cc: yyyy7@netnoteinc.com
 Cc: brains@netnotify.com
 Cc: callback@netnotify.com
-Content-Type: text/plain; charset="us-ascii";format=flowed
+Content-Type: text/plain; charset=us-ascii;format=flowed
 Date: Sun, 9 Jun 2002 07:53:15 +0100
 Message-Id: <E17GxWo-000OWR-00@post.dialups.co.uk>
 X-Keywords: 

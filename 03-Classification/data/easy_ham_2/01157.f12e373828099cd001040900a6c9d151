@@ -20,12 +20,12 @@ Received: from [66.92.157.3] (helo=www.dudex.net) by bob.dudex.net with
     esmtp (Exim 3.35 #1) id 17XGtM-0000gs-00 for rpm-list@freshrpms.net;
     Wed, 24 Jul 2002 03:49:05 -0400
 X-Originating-Ip: [4.64.217.201]
-From: "" Angles " Puglisi" <angles@aminvestments.com>
+From:  Angles  Puglisi <angles@aminvestments.com>
 To: rpm-zzzlist@freshrpms.net
 Subject: Re: Ximian apt repos?
 Message-Id: <20020724.FRs.59646600@www.dudex.net>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 8bit
 Content-Disposition: inline
 X-Mailer: AngleMail for phpGroupWare (http://www.phpgroupware.org) v
@@ -58,15 +58,15 @@ Lance (lance_tt@bellsouth.net) wrote*:
 I'm uising Havoc Pennington's Gnomehide and it rocks. I installed it before I
 knew about apt, but one of the previous emails had an apt repository that
 claimed to have gnomehide. Just remember there is one kew file that makes the
-difference between Gnome1 and Gnome2 being used. I *think* it is "gnome-core"
-vs. "gnome-session" but I can not remember.
+difference between Gnome1 and Gnome2 being used. I *think* it is gnome-core
+vs. gnome-session but I can not remember.
 
 Note that that those same files are probably in the Limbo beta, except
-updated. There has not been a major change to "gnomehide" in a while, I
+updated. There has not been a major change to gnomehide in a while, I
 suspect Havoc's work went into Limbo then.
 
 --
-That's "angle" as in geometry.
+That's angle as in geometry.
 
 
 

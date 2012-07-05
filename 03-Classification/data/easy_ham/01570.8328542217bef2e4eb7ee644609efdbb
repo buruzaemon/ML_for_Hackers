@@ -26,8 +26,8 @@ Received: (from uucp@localhost) by lserv4.espoircompany.com
     (8.12.5/8.12.5) id g85KRP6u008914 for razor-users@lists.sourceforge.net;
     Thu, 5 Sep 2002 16:27:25 -0400
 Content-Type: multipart/alternative;
-    boundary="----=_NextPart_000_0018_01C254F9.146CF4F0"
-From: "Eugene Chiu" <eugene@chiu.bz>
+    boundary=----=_NextPart_000_0018_01C254F9.146CF4F0
+From: Eugene Chiu <eugene@chiu.bz>
 Message-Id: <001b01c2551a$9c316a30$2801250a@omers.com>
 MIME-Version: 1.0
 Received: from WS0571 (omrs [206.222.70.71]) by ns1.espoircompany.com
@@ -60,7 +60,7 @@ This is a multi-part message in MIME format.
 
 ------=_NextPart_000_0018_01C254F9.146CF4F0
 Content-Type: text/plain;
-	charset="iso-8859-1"
+	charset=iso-8859-1
 Content-Transfer-Encoding: quoted-printable
 
 Hi all,
@@ -92,14 +92,14 @@ Eugene
 
 ------=_NextPart_000_0018_01C254F9.146CF4F0
 Content-Type: text/html;
-	charset="iso-8859-1"
+	charset=iso-8859-1
 Content-Transfer-Encoding: quoted-printable
 
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!DOCTYPE HTML PUBLIC -//W3C//DTD HTML 4.0 Transitional//EN>
 <HTML><HEAD>
-<META http-equiv=3DContent-Type content=3D"text/html; =
-charset=3Diso-8859-1">
-<META content=3D"MSHTML 5.50.4807.2300" name=3DGENERATOR>
+<META http-equiv=3DContent-Type content=3Dtext/html; =
+charset=3Diso-8859-1>
+<META content=3DMSHTML 5.50.4807.2300 name=3DGENERATOR>
 <STYLE></STYLE>
 </HEAD>
 <BODY bgColor=3D#ffffff>
@@ -117,7 +117,7 @@ dependency in open while runn<BR>ing setuid at=20
 /usr/local/lib/perl5/site_perl/5.6.1/Razor2/Client/Config.pm =
 line<BR>410,=20
 &lt;GEN23&gt; line 1.<BR>From <A=20
-href=3D"mailto:info@znion.com">info@znion.com</A>&nbsp; Thu Sep&nbsp; 5 =
+href=3Dmailto:info@znion.com>info@znion.com</A>&nbsp; Thu Sep&nbsp; 5 =
 11:55:15=20
 2002<BR>&nbsp;Subject: *****SPAM***** Computer Maintenance<BR>&nbsp; =
 Folder:=20

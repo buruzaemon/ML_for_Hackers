@@ -20,7 +20,7 @@ Received: from lig.net (unknown [66.95.227.18]) by mail.lig.net (Postfix)
     with ESMTP id 9AB216A474 for <fork@xent.com>; Fri,  4 Oct 2002 16:42:35
     -0400 (EDT)
 Message-Id: <3D9DFCF5.9080008@lig.net>
-From: "Stephen D. Williams" <sdw@lig.net>
+From: Stephen D. Williams <sdw@lig.net>
 User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.1)
     Gecko/20020826
 X-Accept-Language: en-us, en

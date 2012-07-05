@@ -49,7 +49,7 @@ Cc: Robert Elz <kre@munnari.OZ.AU>,
 Subject: Re: Anolther sequence related traceback
 Reply-To: Kevin.Christian@lsil.com
 In-Reply-To: Your message of
-    "Tue, 27 Aug 2002 18:08:12 PDT."
+    Tue, 27 Aug 2002 18:08:12 PDT.
     <200208280108.VAA30178@blackcomb.panasas.com>
 References: <1030372078.11075.TMDA@deepeddy.vircio.com>
     <1030118301.3993.TMDA@deepeddy.vircio.com>
@@ -100,7 +100,7 @@ In message <200208280108.VAA30178@blackcomb.panasas.com>, Brent Welch writes:
 > 
 > at the Tcl prompt in the Log window.  I suspect that the sequence
 > parser, which understands things like 5-22 to mean messages 5 through 22
-> is confused when asked to add/remove message "-" from a sequence.
+> is confused when asked to add/remove message - from a sequence.
 > 
 > If we are allowed to assume 8.2 or higher, which we can't really, then
 > we could add

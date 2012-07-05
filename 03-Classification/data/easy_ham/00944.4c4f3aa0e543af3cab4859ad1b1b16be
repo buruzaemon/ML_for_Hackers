@@ -50,9 +50,9 @@ X-Url: http://www.DeepEddy.Com/~cwg
 X-Image-Url: http://www.DeepEddy.Com/~cwg/chris.gif
 MIME-Version: 1.0
 Content-Type: multipart/signed;
-    boundary="==_Exmh_-695163552P";
+    boundary===_Exmh_-695163552P;
     micalg=pgp-sha1;
-    protocol="application/pgp-signature"
+    protocol=application/pgp-signature
 Content-Transfer-Encoding: 7bit
 Message-Id: <1030372078.11075.TMDA@deepeddy.vircio.com>
 From: Chris Garrigues <cwg-exmh@DeepEddy.Com>
@@ -85,7 +85,7 @@ Content-Type: text/plain; charset=us-ascii
 >     Message-ID:  <1030118301.3993.TMDA@deepeddy.vircio.com>
 > 
 >   | Interesting...I don't think this was my bug.
->   | It appears that Msg_Change was asked to change to message "-".
+>   | It appears that Msg_Change was asked to change to message -.
 > 
 > Something like that is quite possible, but perviously typing nonsense
 > in didn't cause tracebacks, and now it does, and the traceback came
@@ -93,7 +93,7 @@ Content-Type: text/plain; charset=us-ascii
 > 
 > Perviously this would have just caused red messages in the status
 > line complaining about my lousy typing.   That's probably what it
-> should keep on doing (the "red" part isn't important obviously..)
+> should keep on doing (the red part isn't important obviously..)
 
 Tell me what keystroke made it happen so I can reproduce it and I'll see what 
 I can do about it (or if I can't, I'll hand it off to Brent).

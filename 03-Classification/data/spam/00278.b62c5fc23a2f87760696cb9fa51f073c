@@ -22,13 +22,13 @@ Received: from 66-178-46-19.reverse.newskies.net ([66.178.46.19]:4943
     helo=ab97c2221.com) by panoramix.vasoftware.com with smtp (Exim
     4.05-VA-mm1 #1 (Debian)) id 17p6ti-0008GI-00 for
     <Spamassassin-talk@lists.sourceforge.net>; Wed, 11 Sep 2002 05:47:11 -0700
-From: "CAPT. JOHN OKELE" <johnokele@truthmail.com>
+From: CAPT. JOHN OKELE <johnokele@truthmail.com>
 Reply-To: johnokele@truthmail.com
 To: Spamassassin-talk@example.sourceforge.net
 X-Mailer: Microsoft Outlook Express 5.00.2919.6900 DM
 MIME-Version: 1.0
 Message-Id: <E17p6ti-0008GI-00@panoramix.vasoftware.com>
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Subject: [SAtalk] **urgent assistance**
 Sender: spamassassin-talk-admin@example.sourceforge.net
 Errors-To: spamassassin-talk-admin@example.sourceforge.net

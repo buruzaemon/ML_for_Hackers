@@ -27,11 +27,11 @@ Received: by zei02exm02.cork.cig.mot.com with Internet Mail Service
     (5.5.2654.52) id <M82N0FTN>; Wed, 28 Aug 2002 09:29:20 +0100
 Message-Id: <496E31A690F7D311B93C0008C789494C07F08AC1@zei02exm01.cork.cig.mot.com>
 From: Aherne Peter-pahern02 <peter.aherne@motorola.com>
-To: "'ilug@linux.ie'" <ilug@linux.ie>
+To: 'ilug@linux.ie' <ilug@linux.ie>
 Date: Wed, 28 Aug 2002 09:29:19 +0100
 MIME-Version: 1.0
 X-Mailer: Internet Mail Service (5.5.2654.52)
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Subject: [ILUG] [OT] Dell machine giving me hassle.
 Sender: ilug-admin@linux.ie
 Errors-To: ilug-admin@linux.ie

@@ -23,7 +23,7 @@ Received: (from root@localhost) by free.transpect.com (8.9.3/8.9.3/Debian
     Thu, 3 Oct 2002 12:33:19 -0400
 From: Whit Blauvelt <whit@transpect.com>
 To: razor-users@example.sourceforge.net
-Subject: Re: [Razor-users] "No razor servers available at this time"
+Subject: Re: [Razor-users] No razor servers available at this time
 Message-Id: <20021003123319.A1149@free.transpect.com>
 References: <20020925125713.A1093@free.transpect.com>
 MIME-Version: 1.0
@@ -60,7 +60,7 @@ messages? One way or the other I'd rather not see them.
 Whit 
 
 On Wed, Sep 25, 2002 at 12:57:13PM -0400, Whit Blauvelt wrote:
-> I'm getting "no servers available" about half the time in the last few days.
+> I'm getting no servers available about half the time in the last few days.
 > This is with Razor 2. Is there something I need adjust in the installation
 > here, or are the servers just down/overloaded?
 > 

@@ -23,7 +23,7 @@ Received: from moon.campus.luth.se (tony@moon.campus.luth.se
     [130.240.202.158]) by moon.campus.luth.se (8.12.3/8.12.3) with ESMTP id
     g7QGocMg098330; Mon, 26 Aug 2002 18:50:38 +0200 (CEST) (envelope-from
     tony@svanstrom.com)
-From: "Tony L. Svanstrom" <tony@svanstrom.com>
+From: Tony L. Svanstrom <tony@svanstrom.com>
 X-X-Sender: tony@moon.campus.luth.se
 To: bugzilla-daemon@hughes-family.org
 Cc: spamassassin-devel@example.sourceforge.net
@@ -56,10 +56,10 @@ On Mon, 26 Aug 2002 the voices made bugzilla-daemon@hughes-family.org write:
 > Just because it's documented doesn't mean it's a good thing.
 >
 > I work for an ISP.  We provide SpamAssassin to our customers.  I got email
-> today from a support tech saying that "spamassassin -t" reports that a
+> today from a support tech saying that spamassassin -t reports that a
 > message is probably spam even when it's not, and why is this, and can we
 > change it?  I thought about why it is, and the only answer I could come up
-> with was, "it was easier for the programmer that way".  That's an answer, I
+> with was, it was easier for the programmer that way.  That's an answer, I
 > guess, but her point was that this is going to generate support calls, and
 > support calls cost us time and money.
 

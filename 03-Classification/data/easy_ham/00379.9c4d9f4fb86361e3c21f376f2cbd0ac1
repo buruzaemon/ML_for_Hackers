@@ -20,14 +20,14 @@ Received: (qmail 23019 invoked from network); 2 Sep 2002 16:32:40 -0000
 Received: from nat.ebuilt.com (HELO thedudebvi1wob) (209.216.46.200) by
     mojo-jojo.ebuilt.net with SMTP; 2 Sep 2002 16:32:40 -0000
 Reply-To: <rbfar@ebuilt.com>
-From: "Reza B'Far (eBuilt)" <rbfar@ebuilt.com>
-To: "Adam L. Beberg" <beberg@mithral.com>,
-	"Mr. FoRK" <fork_list@hotmail.com>
+From: Reza B'Far (eBuilt) <rbfar@ebuilt.com>
+To: Adam L. Beberg <beberg@mithral.com>,
+	Mr. FoRK <fork_list@hotmail.com>
 Cc: <fork@spamassassin.taint.org>
 Subject: RE: Java is for kiddies
 Message-Id: <NCBBJMBPOKEEKDAILFNGOEBKFEAA.rbfar@ebuilt.com>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal
@@ -78,7 +78,7 @@ Yea, and that on top of the 100x of all the parsing engines over just
 bigendian'ing it and passing the data (5x+++) in the raw. Then it REALLY
 matters.
 
-- Adam L. "Duncan" Beberg
+- Adam L. Duncan Beberg
   http://www.mithral.com/~beberg/
   beberg@mithral.com
 

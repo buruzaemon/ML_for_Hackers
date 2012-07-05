@@ -21,7 +21,7 @@ Received: from unknown (HELO mfrenchw2k) (mfrench42@62.254.163.42 with
     login) by smtp.mail.vip.sc5.yahoo.com with SMTP; 13 Aug 2002 09:11:26
     -0000
 Message-Id: <004701c242a8$e34983a0$3864a8c0@sabeo.ie>
-From: "Matthew French" <mfrench42@yahoo.co.uk>
+From: Matthew French <mfrench42@yahoo.co.uk>
 To: <ilug@linux.ie>
 References: <20020812204603.GK25331@linuxmafia.com>
     <20020812234021.17803.qmail@web13901.mail.yahoo.com>
@@ -29,7 +29,7 @@ References: <20020812204603.GK25331@linuxmafia.com>
 Subject: Re: [ILUG] SUSE 8 disks? (thread changed slightly)
 Date: Tue, 13 Aug 2002 10:07:43 +0100
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal
@@ -47,8 +47,8 @@ Kate P Looney wrote:
 > people to their OS, they added all sorts of functionality that was not
 > availible to other OSes to make themselves different from the competition
 
-I think the words you are looking for are "competitive advantage" or
-"differentiation".
+I think the words you are looking for are competitive advantage or
+differentiation.
 
 Since most Linux vendors are businesses, they need to make money to
 survive[1]. To make money they need to sell products. To ensure they sell
@@ -65,7 +65,7 @@ the same.
 
 While I may have to look in /var/named on Red Hat, and /etc/bind on Debian,
 the binaries are basically the same, as are the man pages. In most cases,
-doing a "man named" will reveal the compiled location of the config files.
+doing a man named will reveal the compiled location of the config files.
 So long as this is understood, it is easy enough to administer most Linux
 distributions.
 
@@ -82,12 +82,12 @@ IMHO, as always...
 
 - Matthew
 
-[1] Depending on your world view, this may be rephrased as "they need to
-make oodles of profits and screw the little man to survive." This discussion
+[1] Depending on your world view, this may be rephrased as they need to
+make oodles of profits and screw the little man to survive. This discussion
 is beyond the scope of this list. :)
 
 [2] The often overlooked problem with competition is that it weakens the
-"combatants", leaving the field open for a less powerful force to take over
+combatants, leaving the field open for a less powerful force to take over
 and entrench its position (in this case I would be referring to Microsoft).
 However, I do not believe this will effect the Linux movement as all the
 vendors are obliged to work together to a great degree, thanks to the GPL.

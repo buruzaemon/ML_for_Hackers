@@ -20,7 +20,7 @@ Received: from faisal-com.local. ([66.127.53.6]) by mta5.rcsntx.swbell.net
     (iPlanet Messaging Server 5.1 (built May  7 2001)) with ESMTP id
     <0H0T00JWNTMYWE@mta5.rcsntx.swbell.net> for fork@xent.com; Wed,
     14 Aug 2002 04:13:47 -0500 (CDT)
-From: "Faisal N. Jawdat" <faisal@faisal.com>
+From: Faisal N. Jawdat <faisal@faisal.com>
 Subject: Re: TCPA and Palladium: Content Control for the Masses
 In-Reply-To: <3D5A155A.838D33BF@RealMeasures.dyndns.org>
 To: fork@spamassassin.taint.org
@@ -49,7 +49,7 @@ Date: Wed, 14 Aug 2002 02:13:53 -0700
 > standpoint of privacy and security concerns, though these
 > are all very important concerns.  Rather, the fundamental
 > problem they present is in the political premises that they
-> hope to implement for the sake of the "content industries."
+> hope to implement for the sake of the content industries.
 
 	I've been thinking about this sort of thing
 	lately, and how the technological realization
@@ -64,7 +64,7 @@ Date: Wed, 14 Aug 2002 02:13:53 -0700
 	I'm starting to think that the content
 	creator who wants to produce for posterity
 	had better do it in such a way that the
-	content is *not* "protected", or the content
+	content is *not* protected, or the content
 	will be inaccessible to people in 15 years,
 	much less 100.
 

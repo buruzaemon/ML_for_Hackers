@@ -22,9 +22,9 @@ Received: (from wellner@localhost) by otis1-177561-dp.dhcp.fnal.gov
     (8.11.6/8.11.6) id g78Dw2u01868; Thu, 8 Aug 2002 08:58:02 -0500
 X-Authentication-Warning: otis1-177561-dp.dhcp.fnal.gov: wellner set
     sender to spamassassin@objenv.com using -f
-To: "Tony L. Svanstrom" <tony@svanstrom.com>
+To: Tony L. Svanstrom <tony@svanstrom.com>
 Cc: Justin Mason <yyyy@spamassassin.taint.org>,
-	"Craig R.Hughes" <craig@deersoft.com>,
+	Craig R.Hughes <craig@deersoft.com>,
 	Christopher Crowley <ccrowley@tulane.edu>,
 	<spamassassin-talk@lists.sourceforge.net>
 Subject: Re: [SAtalk] Is this a violation of TRADEMARK?
@@ -33,9 +33,9 @@ X-Stock-Tip: PTN
 X-Mbti: ESTJ
 From: Rich Wellner <spamassassin@objenv.com>
 In-Reply-To: <20020806183451.X54243-100000@moon.campus.luth.se>
-    ("Tony L. Svanstrom"'s
+    (Tony L. Svanstrom's
     message of
-    "Tue, 6 Aug 2002 18:39:50 +0200 (CEST)")
+    Tue, 6 Aug 2002 18:39:50 +0200 (CEST))
 Message-Id: <t2mfzxpv4eu.fsf@otis1-177561-dp.dhcp.fnal.gov>
 User-Agent: Gnus/5.090006 (Oort Gnus v0.06) XEmacs/21.1 (Cuyahoga Valley,
     i386-redhat-linux)
@@ -61,10 +61,10 @@ Content-Transfer-Encoding: 8bit
 X-MIME-Autoconverted: from quoted-printable to 8bit by dogma.slashnull.org
     id g78E2u211245
 
-"Tony L. Svanstrom" <tony@svanstrom.com> writes:
+Tony L. Svanstrom <tony@svanstrom.com> writes:
 
 > IMHO it's wrong that any company is allowed to use the name of a public
-> project commercially, while others aren't´; esp. when it's a name that tells
+> project commercially, while others aren't; esp. when it's a name that tells
 > Average Joe that that version is so much better than the free one.
 
 Dude, take that one up with Redhat, Suse, IBM or any of the other folks using

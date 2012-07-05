@@ -91,7 +91,7 @@ What you need to know for openssl is :
 0.9.6b is libcrypto.so.2 and libssl.so.2
 
 Now in all Red Hat packages I've seen so far, the only dependency is on
-those files and not on "openssl = version".
+those files and not on openssl = version.
 
 Matthias
 

@@ -24,18 +24,18 @@ MIME-Version: 1.0
 X-Mailer: kCAFZl8NGVOIpo6Wl2kf
 X-Priority: 3
 X-Msmail-Priority: Normal
-Content-Type: multipart/related; type="multipart/alternative"; boundary="----=_NextPart_9f5cBwKPXMZ2oYIR"
+Content-Type: multipart/related; type=multipart/alternative; boundary=----=_NextPart_9f5cBwKPXMZ2oYIR
 
 This is a multi-part message in MIME format.
 
 ------=_NextPart_9f5cBwKPXMZ2oYIR
 Content-Type: multipart/alternative;
-	boundary="----=_NextPart_9f5cBwKPXMZ2oYIRAA"
+	boundary=----=_NextPart_9f5cBwKPXMZ2oYIRAA
 
 
 ------=_NextPart_9f5cBwKPXMZ2oYIRAA
 Content-Type: text/html;
-	charset="big5"
+	charset=big5
 Content-Transfer-Encoding: base64
 
 PCEtLSBzYXZlZCBmcm9tIHVybD0oMDAyMilodHRwOi8vaW50ZXJuZXQuZS1tYWlsIC0tPg0KPGh0

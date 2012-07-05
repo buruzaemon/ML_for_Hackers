@@ -20,13 +20,13 @@ Received: (qmail 14002 invoked from network); 19 Aug 2002 02:43:10 -0000
 Received: from dsl.206.191.151.102.evergo.net (HELO JMHALL)
     (206.191.151.102) by mail.evergo.net with SMTP; 19 Aug 2002 02:43:10 -0000
 Reply-To: <johnhall@evergo.net>
-From: "John Hall" <johnhall@evergo.net>
+From: John Hall <johnhall@evergo.net>
 To: <fork@spamassassin.taint.org>
 Cc: <rah@shipwright.com>
 Subject: RE: Al'Qaeda's fantasy ideology: Policy Review no. 114
 Message-Id: <000c01c2472a$25b606c0$0200a8c0@JMHALL>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="US-ASCII"
+Content-Type: text/plain; charset=US-ASCII
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal
@@ -78,7 +78,7 @@ Robert
 > Cc: rah@shipwright.com
 > Subject: Re: Al'Qaeda's fantasy ideology: Policy Review no. 114
 > 
-> >See Jared Diamond's excellent "Guns, Germs, and Steel" for the story.
+> >See Jared Diamond's excellent Guns, Germs, and Steel for the story.
 > 
 > Yeah, I know the party line.  The evidence for it is extremely meagre.
 > New Worlders had two entire continents and tens of millions of people,

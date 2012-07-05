@@ -27,7 +27,7 @@ In This Issue:
 
 ----------------------------------------------------------------------
 
-From: "George J. Jahchan" <Firewalls@Tech.InteractiveNetworks.net>
+From: George J. Jahchan <Firewalls@Tech.InteractiveNetworks.net>
 Subject: Re: QOS
 Date: Thu, 25 Jul 2002 12:11:40 +0300
 
@@ -96,9 +96,9 @@ The real gain is manageability and control. A LAN host only knows about the
 state of its own connections and is oblivious to WAN conditions until its
 TCP/IP stack learns (when router queues are nearly full) that the WAN is
 congested. A PS will predict and inform the LAN hosts' TCP/IP stacks of the
-"speed limit to obey" for every connection (based on policies and network
+speed limit to obey for every connection (based on policies and network
 conditions), avoiding congestion. Control for asymmetrical TCP and UDP may
-not be as "tight" as for symmetrical TCP, but it does work.
+not be as tight as for symmetrical TCP, but it does work.
 
 Queueing is akin to deploying cops only when traffic jams occur, vs. rate
 control where cops are permanently deployed throughout town, communicating
@@ -109,16 +109,16 @@ longer to cross town with first approach than it will with the second. Do
 you agree?
 
 ----- Original Message -----
-From: "Mikael Olsson" <mikael.olsson@clavister.com>
-To: "George J. Jahchan" <Firewalls@Tech.InteractiveNetworks.net>
-Cc: "Firewalls List" <Firewalls@ISC.org>
+From: Mikael Olsson <mikael.olsson@clavister.com>
+To: George J. Jahchan <Firewalls@Tech.InteractiveNetworks.net>
+Cc: Firewalls List <Firewalls@ISC.org>
 Sent: Wednesday, July 24, 2002 4:50 pm
 Subject: Re: QOS
 
 
 
 
-"George J. Jahchan" wrote:
+George J. Jahchan wrote:
 >
 > The whole purpose of the device is to pro-actively prevent WAN
 congestion --
@@ -193,7 +193,7 @@ Storgatan 12, Box 393, SE-891 28 ÖRNSKÖLDSVIK, Sweden
 Phone: +46 (0)660 29 92 00   Mobile: +46 (0)70 26 222 05
 Fax: +46 (0)660 122 50       WWW: http://www.clavister.com
 
-"It's July. I'm on vacation. Can't you tell? :)"
+It's July. I'm on vacation. Can't you tell? :)
 --
 Firewalls mailing list - [ firewalls@isc.org ]
 To unsubscribe: http://www.isc.org/services/public/lists/firewalls.html
@@ -202,7 +202,7 @@ To unsubscribe: http://www.isc.org/services/public/lists/firewalls.html
 
 ------------------------------
 
-From: "Hiemstra, Brenno" <brenno.hiemstra@ignite.nl>
+From: Hiemstra, Brenno <brenno.hiemstra@ignite.nl>
 Subject: FW: disable some sites
 Date: Thu, 25 Jul 2002 13:44:18 +0200
 
@@ -319,7 +319,7 @@ The list addy changed ofcourse   :o)
 > >to connect to the proxy if they want to use the 
 > >internet.
 > >
-> >The proxy will only allow http, ftp, and other "approved"
+> >The proxy will only allow http, ftp, and other approved
 > >services to connect to the internet. And you can let
 > >them check to some database which websites are
 > >allowed and deny access to sites that aren't allowed
@@ -421,7 +421,7 @@ Jer
 
 ------------------------------
 
-From: "Reckhard, Tobias" <tobias.reckhard@secunet.com>
+From: Reckhard, Tobias <tobias.reckhard@secunet.com>
 Subject: RE: DNAT with iptables question
 Date: Fri, 26 Jul 2002 08:32:37 +0200
 

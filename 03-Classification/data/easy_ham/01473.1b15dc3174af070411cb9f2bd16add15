@@ -32,8 +32,8 @@ References: <20020913151635.M21128@b2unow.com>
     <20020913183343.M49078@b2unow.com>
 MIME-Version: 1.0
 Content-Type: multipart/signed; micalg=pgp-sha1;
-    protocol="application/pgp-signature";
-    boundary="Fnm8lRGFTVS/3GuM"
+    protocol=application/pgp-signature;
+    boundary=Fnm8lRGFTVS/3GuM
 Content-Disposition: inline
 In-Reply-To: <20020913183343.M49078@b2unow.com>
 User-Agent: Mutt/1.4i
@@ -76,7 +76,7 @@ That's the theory, yes.
 No, but either due to some technical glitch, or downright just wanting
 to do so, people send to the secondary.  It's a semi-usual spammer trick
 actually to bypass the main server and send directly to a secondary
-since it will either have less filtering, or be "trusted", or ...
+since it will either have less filtering, or be trusted, or ...
 
 MX records in the mail world are all explained in RFC 2821, section 5:
 
@@ -103,8 +103,8 @@ MX records in the mail world are all explained in RFC 2821, section 5:
 
 --=20
 Randomly Generated Tagline:
-"Now let's say I like sheep...  And now let's say I take the sheep to a=20
- Christmas party..."               - Bob Golub
+Now let's say I like sheep...  And now let's say I take the sheep to a=20
+ Christmas party...               - Bob Golub
 
 --Fnm8lRGFTVS/3GuM
 Content-Type: application/pgp-signature

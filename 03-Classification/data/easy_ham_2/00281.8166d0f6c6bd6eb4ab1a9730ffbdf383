@@ -59,7 +59,7 @@ kevin lyda wrote:
 > 
 > if used properly, they actually can make code more readable.  but those
 > proper occasions are quite rare really.  it's a good idea to avoid them
-> since over use of goto will create what niall calls "write-only code."
+> since over use of goto will create what niall calls write-only code.
 
 Yes a clever term usually (and deservedly) attributed to perl.
 Of course you can create write-only code in any language.

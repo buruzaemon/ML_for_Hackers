@@ -23,7 +23,7 @@ Received: from docaoimh.tradesignals.com (docaoimh.tradesignals.com
 Received: from localhost (localhost [[UNIX: localhost]]) by
     docaoimh.tradesignals.com (8.11.6/8.11.6) id g7K92qf04171; Tue,
     20 Aug 2002 10:02:52 +0100
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 From: Donncha O Caoimh <donncha.ocaoimh@tradesignals.com>
 To: Dave Wilson <dave.wilson@heanet.ie>, webdev@linux.ie
 Subject: Re: [Webdev] PHP+Javascript request
@@ -46,9 +46,9 @@ X-Beenthere: webdev@linux.ie
 
 Kate asked about this several months ago, and I posted some code and hints on 
 how to work around this problem. AFAIR, you simply refer to the form elements 
-by their names, including brackets, but put " or ' around them, ie:
+by their names, including brackets, but put  or ' around them, ie:
 
-val = "document.form.city[1]";
+val = document.form.city[1];
 
 I think that works, there's an answer to this question on http://faqts.com/ 
 where I got the original answer.

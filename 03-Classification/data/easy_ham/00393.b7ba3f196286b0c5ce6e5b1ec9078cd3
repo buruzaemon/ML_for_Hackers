@@ -79,7 +79,7 @@ Patch follows ...
 
 I have no idea why the sequences were being added after the message list
 before, not that it should make any difference to nmh (or MH).   But since
-I stopped doing that, the variable "msgs" isn't really needed any more,
+I stopped doing that, the variable msgs isn't really needed any more,
 rather than assigning $pick(msgs) to msgs, and then using $msgs the code
 could just use $pick(msgs) where $msgs is now used.   This is just a
 frill though, so I didn't change that.  

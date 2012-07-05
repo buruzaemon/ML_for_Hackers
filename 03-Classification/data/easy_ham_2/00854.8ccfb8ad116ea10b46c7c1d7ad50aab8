@@ -26,7 +26,7 @@ X-Authentication-Warning: hydrogen.leitl.org: eugen owned process doing -bs
 From: Eugen Leitl <eugen@leitl.org>
 To: Mike Masnick <mike@techdirt.com>
 Cc: forkit! <fork@spamassassin.taint.org>
-Subject: Re: Mossberg on 'ChoiceMail': "In my tests, it cut my spam to zero."
+Subject: Re: Mossberg on 'ChoiceMail': In my tests, it cut my spam to zero.
 In-Reply-To: <3.0.32.20020724100925.03a66df0@techdirt.com>
 Message-Id: <Pine.LNX.4.33.0207241919480.26688-100000@hydrogen.leitl.org>
 MIME-Version: 1.0
@@ -58,7 +58,7 @@ change anything. Besides, there are simpler solutions:
  
 > They don't have to.  All they have to do is use some program (which, if
 > they don't exist already, will certainly be around someday soon) that makes
-> every spam they send show the recipient as the "from" address as well.
+> every spam they send show the recipient as the from address as well.
 
 See above.
  
@@ -72,7 +72,7 @@ So is installing the software. But you do it once.
 	http://tmda.net/faq.cgi?req=all#1.5
 
 > amazed at how confused many people get by them as well.  They tend to
-> ignore the "please apply" messages.
+> ignore the please apply messages.
 > 
 > As an aside, am I the only person around who simply does not use the
 > addressbook feature in email programs?  I never have, and I don't see any

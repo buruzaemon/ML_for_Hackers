@@ -63,7 +63,7 @@ sort of autodetection and changing crap)
 b) tell you on rpm upgrade what config files you should look at because 
 formats have changed.
 
-Red Hat is not "taking it easy" on this, it's putting control in the hands 
+Red Hat is not taking it easy on this, it's putting control in the hands 
 of you, the maintainer of the machine.  Don't be lazy.
 
 > Anyway, I have tons of media files in /home/* probably 5 to 10 gigs at least, my

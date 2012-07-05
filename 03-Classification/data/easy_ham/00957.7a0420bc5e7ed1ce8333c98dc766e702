@@ -72,7 +72,7 @@ Date: Wed, 28 Aug 2002 09:04:20 +0700
 [...]
   | to the SelectTypein procedure.
 
-Yes, I looked at "fixing" it there, but that code is really quite
+Yes, I looked at fixing it there, but that code is really quite
 general, with almost no understanding of what anything means, so I
 didn't think that corrupting it with knowlwedge of the semantics of
 what it is fetching would really be the best thing to do.

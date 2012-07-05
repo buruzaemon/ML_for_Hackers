@@ -81,7 +81,7 @@ sedit             Whatever was last highlighted in sedit and overwritten
 The last needs some amplification. If I highlight something in sedit, then 
 obviously that's what gets pasted. If the highlighting is off, then what gets 
 pasted is NOT what was last highlighted in sedit, but what was last highlighted 
-and typed over (I have "Type Kills SEL" on.).
+and typed over (I have Type Kills SEL on.).
 
 It seems that exmh and sedit are the oddballs here. Very often when I try to 
 paste something in sedit I end up muttering WTF??

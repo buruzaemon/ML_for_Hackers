@@ -23,7 +23,7 @@ List-Subscribe: <mailto:secprog-subscribe@securityfocus.com>
 Delivered-To: mailing list secprog@securityfocus.com
 Delivered-To: moderator for secprog@securityfocus.com
 Received: (qmail 1222 invoked from network); 3 Sep 2002 20:11:16 -0000
-Content-Type: text/plain; charset="iso-8859-15"
+Content-Type: text/plain; charset=iso-8859-15
 From: Yannick Gingras <ygingras@ygingras.net>
 To: secprog@securityfocus.com
 Subject: Re: Secure Sofware Key
@@ -39,10 +39,10 @@ Message-Id: <20020903192326.C9DA533986@LINPDC.eclipsys.qc.ca>
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-> What do you mean by "CD-Key or the like" (I presume that "of" was a
-> typo)? And what do you mean by "unbreakable"?
+> What do you mean by CD-Key or the like (I presume that of was a
+> typo)? And what do you mean by unbreakable?
 
-"of" was a typo
+of was a typo
 
 Unbreakable would mean here that no one, even previously authorised entity, 
 could use the system without paying the periodic subscription fee.
@@ -57,7 +57,7 @@ JDK.
 Nothing is fixed yet, we are looking at the way a software can be protected 
 from unauthorized utilisation.  
 
-Is the use of "trusted hardware" really worth it ?  Does it really make it 
+Is the use of trusted hardware really worth it ?  Does it really make it 
 more secure ?  Look at the DVDs.
 
 - -- 

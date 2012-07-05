@@ -71,7 +71,7 @@ Brian Fahrlander <kilroy@kamakiriad.com> wrote:
 > 
 >     These guys are EXTREMELY apt-friendly.  Unlike most multimedia projects, they seem to prefer RPM/Apt over the older methods.  Isn't that cool?
 > 
->     Hey- how would I have known to "apt-get install gnome-session" to kick all this off?
+>     Hey- how would I have known to apt-get install gnome-session to kick all this off?
 > 
 > ------------------------------------------------------------------------
 > Brian Fahrländer              Linux Zealot, Conservative, and Technomad
@@ -79,9 +79,9 @@ Brian Fahrlander <kilroy@kamakiriad.com> wrote:
 > ICQ  5119262
 > ------------------------------------------------------------------------
 > I don't want to hear news from Isreal until the news contains the words
-> "Bullet", "Brain", and "Arafat".
+> Bullet, Brain, and Arafat.
 
-i took a look into the repository it "just" contains gstreamer and his dependecies
+i took a look into the repository it just contains gstreamer and his dependecies
 but thats nice for people who use it though :)
 
 thanks,

@@ -22,7 +22,7 @@ Received: (qmail 2128 invoked by uid 1001); 24 Jul 2002 15:27:27 -0000
 Received: from localhost (sendmail-bs@127.0.0.1) by localhost with SMTP;
     24 Jul 2002 15:27:27 -0000
 From: Patrick <patrick@stealthgeeks.net>
-To: "Tabor J. Wells" <razor-users@fsckit.net>
+To: Tabor J. Wells <razor-users@fsckit.net>
 Cc: razor-users@example.sourceforge.net
 Subject: Re: [Razor-users] Authentication Error
 In-Reply-To: <20020724141339.GD3208@fsckit.net>

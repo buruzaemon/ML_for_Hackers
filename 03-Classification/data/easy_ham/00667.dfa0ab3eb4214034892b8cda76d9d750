@@ -65,11 +65,11 @@ Reuters Market News
   EMC Corp. announced this week software aimed at allowing users to manage storage
   resources as a pool. Hewlett-Packard Co has a Utility Data Center, designed for
   broader management. International Business Machines Corp's project eLiza is working
-  to make computers "self-healing" when systems break.
+  to make computers self-healing when systems break.
 
-  "Applications still have to run zeroes and ones on some computing engine but the
+  Applications still have to run zeroes and ones on some computing engine but the
   whole idea behind N1 is you stop thinking about that. You don't think about what box
-  it is running on," Sun Vice President Steve MacKay, head of the N1 program, said in an
+  it is running on, Sun Vice President Steve MacKay, head of the N1 program, said in an
   interview on the sidelines of a Sun user conference. 
 
   Many industry executives see computer power eventually being sold like power or
@@ -79,11 +79,11 @@ Reuters Market News
   them together with tenuous links, as most networks do today, experts say. There are
   still major barriers, though, such as communications standards for machines from
   different vendors to interoperate closely. 
-  Sun promised to deliver a "virtualization engine" that would let administrators look at
+  Sun promised to deliver a virtualization engine that would let administrators look at
   their entire network as a pool by the end of the year. Network administrators today
   often have no automatic system to report what is in the network. 
 
-  "It'll tell you what you have and how it is laid out," promised MacKay
+  It'll tell you what you have and how it is laid out, promised MacKay
   The second stage, beginning in 2003, would allow users to identify a service, such as
   online banking, and allocate resources for them with a few clicks, Sun said. 
   Finally, in 2004, Sun's software should allow networks to change uses of resources on

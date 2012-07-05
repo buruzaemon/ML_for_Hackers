@@ -33,10 +33,10 @@ Received: by christo-sat.platypus.net.au with Microsoft Mail id
     +1000
 Message-Id: <01C23170.BC5A06F0@christo-sat.platypus.net.au>
 From: Chris Goh <chris@platypus.net.au>
-To: "spamassassin-talk@example.sourceforge.net" <spamassassin-talk@example.sourceforge.net>
+To: spamassassin-talk@example.sourceforge.net <spamassassin-talk@example.sourceforge.net>
 Subject: RE: [SAtalk] user_perfs
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: 7bit
 X-Virus-Scanned: by AMaViS perl-11
 Sender: spamassassin-talk-admin@example.sourceforge.net
@@ -79,7 +79,7 @@ Question:
 Is this the correct way to code it?
 
 # Whitelist and blacklist addresses are now file-glob-style patterns, so
-# "friend@somewhere.com", "*@isp.com", or "*.domain.net" will all work.
+# friend@somewhere.com, *@isp.com, or *.domain.net will all work.
 whitelist_from  *@freelotto.com
 whitelist_from  *@luckysurf.com
 
@@ -88,7 +88,7 @@ Jim
 
 
 ________________________________________________
-Get your own "800" number
+Get your own 800 number
 Voicemail, fax, email, and a lot more
 http://www.ureach.com/reg/tag
 

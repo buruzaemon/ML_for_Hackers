@@ -81,13 +81,13 @@ if [ -f /etc/sysconfig/spamassassin ] ; then
 fi
 
 # Check that networking is up.
-if is_no "${NETWORKING}"; then
+if is_no ${NETWORKING}; then
 	msg_Network_Down SpamAssassin
 	exit 1
 fi
 
 # See how we were called.
-case "$1" in
+case $1 in
   start)
 	# Start daemon.
 	if [ ! -f /var/lock/subsys/spamd ]; then
@@ -102,7 +102,7 @@ case "$1" in
   stop)
 	# Stop daemons.
 	if [ -f /var/lock/subsys/spamd ]; then
-		echo -n "Shutting down spamd: "
+		echo -n Shutting down spamd: 
 		killproc spamd
 		RETVAL=$?
 		rm -f /var/lock/subsys/spamd
@@ -118,7 +118,7 @@ case "$1" in
 	status spamd
 	;;
   *)
-	msg_Usage "$0 {start|stop|restart|status}"
+	msg_Usage $0 {start|stop|restart|status}
 	exit 1
 esac
 

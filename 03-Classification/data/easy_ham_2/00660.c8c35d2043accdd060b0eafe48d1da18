@@ -22,13 +22,13 @@ Received: (qmail 28566 invoked from network); 20 Aug 2002 09:20:42 -0000
 Received: from unknown (HELO belvoir) (208.7.1.202) by 208.7.1.205 with
     SMTP; 20 Aug 2002 09:20:42 -0000
 Message-Id: <009e01c24855$35b5c480$7c640f0a@mfc.corp.mckee.com>
-From: "Fox" <lds0062@cdc.net>
+From: Fox <lds0062@cdc.net>
 To: <razor-users@example.sourceforge.net>
 References: <B983F641.5890%shawn@shawnyeager.com>
     <003601c247d1$c22de5c0$7c640f0a@mfc.corp.mckee.com>
 Subject: Re: [Razor-users] Upgraded to Razor 2.14
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal

@@ -66,7 +66,7 @@ Once upon a time, Ville wrote :
 > success :)
 
 Well, from what I've tried, both the main and the PCM (at least) volume
-levels can be controlled either by "alsamixer" or the good old "aumix".
+levels can be controlled either by alsamixer or the good old aumix.
 
 > > >From what I can tell after only 2 days using it : ALSA rocks,
 > > >especially
@@ -81,7 +81,7 @@ Both problems you reported (libasound.so and wrong xine dependency) are now
 fixed in the current packages.
 
 Oh, it's maybe also worth pointing out : I've implemented at last sorting
-by both last change date and alphabetically for my "build list" in the php
+by both last change date and alphabetically for my build list in the php
 code : http://freshrpms.net/builds/
 
 And yes, I accept patches/comments/suggestions about all those spec files!

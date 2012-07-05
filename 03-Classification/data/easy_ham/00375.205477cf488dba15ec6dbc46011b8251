@@ -17,8 +17,8 @@ Received: from mithral.com (watcher.mithral.com [204.153.244.1]) by
     xent.com (Postfix) with SMTP id 3C8BD294099 for <fork@xent.com>;
     Sun,  1 Sep 2002 20:58:46 -0700 (PDT)
 Received: (qmail 3706 invoked by uid 1111); 2 Sep 2002 04:01:03 -0000
-From: "Adam L. Beberg" <beberg@mithral.com>
-To: "Mr. FoRK" <fork_list@hotmail.com>
+From: Adam L. Beberg <beberg@mithral.com>
+To: Mr. FoRK <fork_list@hotmail.com>
 Cc: <fork@spamassassin.taint.org>
 Subject: Re: Java is for kiddies
 In-Reply-To: <DAV32l8aii08N8yxdZj00009342@hotmail.com>
@@ -51,7 +51,7 @@ Yea, and that on top of the 100x of all the parsing engines over just
 bigendian'ing it and passing the data (5x+++) in the raw. Then it REALLY
 matters.
 
-- Adam L. "Duncan" Beberg
+- Adam L. Duncan Beberg
   http://www.mithral.com/~beberg/
   beberg@mithral.com
 

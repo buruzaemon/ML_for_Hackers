@@ -57,7 +57,7 @@ I wrote:
 > only at the expense of making a mess of antialiased rendering.
 
 Then again, perhaps the particular font I'm using just has bad
-bytecodes.  That font is "QuickType II", grabbed off my Windows
+bytecodes.  That font is QuickType II, grabbed off my Windows
 partition, where it was installed by I-have-no-idea-which-application.
 
 Anybody else experimenting with bytecode-enabled freetype, presumably

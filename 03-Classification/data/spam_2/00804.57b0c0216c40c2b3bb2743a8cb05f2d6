@@ -9,8 +9,8 @@ Received: from mail5.aweber.com (mail5.aweber.com [207.106.239.77])
 	(envelope-from root@mail5.aweber.com)
 Received: (qmail 30888 invoked by uid 0); 20 Jul 2002 23:34:58 -0000
 Message-ID: <20020720193458.30888.qmail@mail5.aweber.com>
-To: "webmaster" <webmaster@pro-ns.net>
-From: "Foreclosure World" <Homes@ForeclosureWorld.net>
+To: webmaster <webmaster@pro-ns.net>
+From: Foreclosure World <Homes@ForeclosureWorld.net>
 X-Loop: foreclosure@aweber.com
 X-AWeber-Remote-Host: 
 X_Id: 304:07-19-2002-13-13-49:webmaster@pro-ns.net
@@ -21,20 +21,20 @@ Subject: FREE Foreclosure Search Approved!
 <HTML>
 <head>
 <title>Untitled Document</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv=Content-Type content=text/html; charset=iso-8859-1>
 </head>
 
-<body bgcolor="#006394" text="#000000">
-<table width="100" border="0" cellspacing="0" cellpadding="0">
+<body bgcolor=#006394 text=#000000>
+<table width=100 border=0 cellspacing=0 cellpadding=0>
   <tr> 
-    <td><a href="http://www.foreclosureworld.net/index2.htm"><img src="http://www.foreclosuretraining.com/html-email/fw_blue1/blue-fw-header.gif" width="595" height="100" border="0"></a></td>
+    <td><a href=http://www.foreclosureworld.net/index2.htm><img src=http://www.foreclosuretraining.com/html-email/fw_blue1/blue-fw-header.gif width=595 height=100 border=0></a></td>
   </tr>
   <tr> 
-    <td align="left" valign="top"> 
-      <table width="100" border="0" cellspacing="0" cellpadding="0">
+    <td align=left valign=top> 
+      <table width=100 border=0 cellspacing=0 cellpadding=0>
         <tr> 
-          <td align="left" valign="top"><a href="http://www.foreclosureworld.net/index2.htm"><img src="http://www.foreclosuretraining.com/html-email/fw_blue1/blue-fw-panel.gif" width="321" height="587" border="0"></a></td>
-          <td><a href="http://www.foreclosureworld.net/index2.htm"><img src="http://www.foreclosuretraining.com/html-email/fw_blue1/splashimages.gif" width="321" height="587" border="0"></a></td>
+          <td align=left valign=top><a href=http://www.foreclosureworld.net/index2.htm><img src=http://www.foreclosuretraining.com/html-email/fw_blue1/blue-fw-panel.gif width=321 height=587 border=0></a></td>
+          <td><a href=http://www.foreclosureworld.net/index2.htm><img src=http://www.foreclosuretraining.com/html-email/fw_blue1/splashimages.gif width=321 height=587 border=0></a></td>
         </tr>
       </table>
     </td>
@@ -47,9 +47,9 @@ Subject: FREE Foreclosure Search Approved!
 </HTML>
 
 <BR><BR>
-<TABLE ALIGN="center" BORDER="0" WIDTH="580" CELLSPACING="0" CELLPADDING="0"><TR><TD>
+<TABLE ALIGN=center BORDER=0 WIDTH=580 CELLSPACING=0 CELLPADDING=0><TR><TD>
 To unsubscribe or change subscriber options click:
-<A HREF="http://www.aweber.com/z/r/?zAwstEwMjJwMzIwM">click here</A><BR><BR>
+<A HREF=http://www.aweber.com/z/r/?zAwstEwMjJwMzIwM>click here</A><BR><BR>
 </TD></TR></TABLE>
 --DeathToSpamDeathToSpamDeathToSpam--
 

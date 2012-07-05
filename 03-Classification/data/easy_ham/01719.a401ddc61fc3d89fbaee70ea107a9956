@@ -9,7 +9,7 @@ Message-ID: <LNBBLJKPBEHFEDALKOLCOEPHBCAB.tim.one@comcast.net>
 [Neil Schemenauer]
 > These results are from timtest.py.  I've got three sets of spam and ham
 > with about 500 messages in each set.  Here's what happens when I enable
-> my latest "received" header code:
+> my latest received header code:
 
 If you've still got the summary files, please cvs up and try running cmp.py
 again -- in the process of generalizing cmp.py, you managed to make it skip

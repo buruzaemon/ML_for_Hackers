@@ -28,7 +28,7 @@ To: Gary Lawrence Murphy <garym@canada.com>
 Cc: harley@argote.ch (Robert Harley), fork@spamassassin.taint.org
 Subject: Re: Java is for kiddies
 In-Reply-To: Message from Gary Lawrence Murphy <garym@canada.com> of
-    "28 Aug 2002 15:06:39 EDT."
+    28 Aug 2002 15:06:39 EDT.
     <m2vg5u3irk.fsf@maya.dyndns.org>
 From: yyyy@spamassassin.taint.org (Justin Mason)
 X-GPG-Key-Fingerprint: 0A48 2D8B 0B52 A87D 0E8A  6ADD 4137 1B50 6E58 EF0A
@@ -73,10 +73,10 @@ written from the ground up, where the code you're generating is important
 IP for the company; in this case, using a third-party lib often is not an
 option, or would be a PITA licensing-wise.
 
-Also, cutting out third-party dependencies can reduce the risk of "oops,
+Also, cutting out third-party dependencies can reduce the risk of oops,
 there goes the company that makes that library I depend on, now to shop
 around for something vaguely similar, figure out what bugs it's got,
-rewrite my code to use the new API, and hope for the best".
+rewrite my code to use the new API, and hope for the best.
 
 This can be a *very* big deal, for obvious reasons ;)    Open source
 knockers should note that this is not a problem when using LGPL'd libs ;)

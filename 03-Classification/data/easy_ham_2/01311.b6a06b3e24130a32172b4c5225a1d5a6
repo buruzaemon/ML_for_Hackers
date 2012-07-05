@@ -27,7 +27,7 @@ Subject: Delayed Mail (still being retried)
 To: spamassassin-talk-admin@example.sourceforge.net
 MIME-Version: 1.0
 Content-Type: multipart/report; report-type=delivery-status;
-    boundary="0A47D3EA4.1027483206/kci.kciLink.com"
+    boundary=0A47D3EA4.1027483206/kci.kciLink.com
 Message-Id: <20020724040006.0A43B3F78@kci.kciLink.com>
 Sender: spamassassin-talk-owner@example.sourceforge.net
 Errors-To: spamassassin-talk-owner@example.sourceforge.net
@@ -104,8 +104,8 @@ Received: from otherland (otherland.msquadrat.de [10.10.10.10])
 	by nebukadnezar.msquadrat.de (Postfix on SuSE Linux 7.3 (i386)) with ESMTP
 	id 357113FC; Wed, 24 Jul 2002 01:39:46 +0200 (CEST)
 Content-Type: text/plain;
-  charset="iso-8859-1"
-From: "Malte S. Stretz" <msquadrat.nospamplease@gmx.net>
+  charset=iso-8859-1
+From: Malte S. Stretz <msquadrat.nospamplease@gmx.net>
 To: SpamAssassin Talk ML <spamassassin-talk@example.sourceforge.net>
 User-Agent: KMail/1.4.2
 References: <3D3DDEE7.2A07C357@cnc.bc.ca> <20020723231313.GB14564@kluge.net>

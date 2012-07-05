@@ -13,18 +13,18 @@ Received: from lists.ironclad.net.au ([203.30.247.12]) by
 Received: from dbsinfo.com by lists.ironclad.net.au with SMTP;
     Sat, 31 Aug 2002 01:21:00 +1000
 Message-Id: <00c401c25039$7b055460$976fa8c0@cfl.rr.com>
-From: "Bob Musser" <BobM@dbsinfo.com>
+From: Bob Musser <BobM@dbsinfo.com>
 To: <DNS-swap@lists.ironclad.net.au>
 Subject: Tiny DNS Swap
 Date: Fri, 30 Aug 2002 11:25:31 -0400
 MIME-Version: 1.0
 Content-Type: multipart/alternative;
-    boundary="----=_NextPart_000_00C1_01C25017.F2F04E20"
+    boundary=----=_NextPart_000_00C1_01C25017.F2F04E20
 X-Priority: 3
 X-Msmail-Priority: Normal
 X-Mailer: Microsoft Outlook Express 6.00.2600.0000
 X-Mimeole: Produced By Microsoft MimeOLE V6.00.2600.0000
-Reply-To: "DNS-swap" <DNS-swap@lists.ironclad.net.au>
+Reply-To: DNS-swap <DNS-swap@lists.ironclad.net.au>
 Sender: <DNS-swap@lists.ironclad.net.au>
 Precedence: Bulk
 List-Software: LetterRip Pro 3.0.7 by Fog City Software, Inc.
@@ -38,7 +38,7 @@ This is a multi-part message in MIME format.
 
 ------=_NextPart_000_00C1_01C25017.F2F04E20
 Content-Type: text/plain;
-	charset="Windows-1252"
+	charset=Windows-1252
 Content-Transfer-Encoding: quoted-printable
 
 I'm using Simple DNS from JHSoft.  We support only a few web sites and =
@@ -69,14 +69,14 @@ Winter Park FL 32792
 
 ------=_NextPart_000_00C1_01C25017.F2F04E20
 Content-Type: text/html;
-	charset="Windows-1252"
+	charset=Windows-1252
 Content-Transfer-Encoding: quoted-printable
 
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!DOCTYPE HTML PUBLIC -//W3C//DTD HTML 4.0 Transitional//EN>
 <HTML><HEAD>
-<META http-equiv=3DContent-Type content=3D"text/html; =
-charset=3Dwindows-1252">
-<META content=3D"MSHTML 6.00.2716.2200" name=3DGENERATOR>
+<META http-equiv=3DContent-Type content=3Dtext/html; =
+charset=3Dwindows-1252>
+<META content=3DMSHTML 6.00.2716.2200 name=3DGENERATOR>
 <STYLE></STYLE>
 </HEAD>
 <BODY bgColor=3D#ffffff>
@@ -104,8 +104,8 @@ advantage of the trusted zone file transfer option.</FONT></DIV>
 of:<BR>&nbsp;&nbsp; Process Server's Toolbox<BR>&nbsp;&nbsp; Courier =
 Service=20
 Toolbox<BR><A =
-href=3D"mailto:BobM@dbsinfo.com">BobM@dbsinfo.com</A><BR><A=20
-href=3D"http://www.dbsinfo.com">www.dbsinfo.com</A><BR>106 Longhorn =
+href=3Dmailto:BobM@dbsinfo.com>BobM@dbsinfo.com</A><BR><A=20
+href=3Dhttp://www.dbsinfo.com>www.dbsinfo.com</A><BR>106 Longhorn =
 Road<BR>Winter=20
 Park FL 32792<BR>(407) 679-1539</FONT></DIV>
 <DIV>&nbsp;</DIV>

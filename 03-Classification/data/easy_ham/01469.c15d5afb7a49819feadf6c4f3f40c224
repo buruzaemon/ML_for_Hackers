@@ -31,8 +31,8 @@ Message-Id: <20020913140253.GB5897@kluge.net>
 References: <20020913152108.A8295@alinoe.com>
 MIME-Version: 1.0
 Content-Type: multipart/signed; micalg=pgp-sha1;
-    protocol="application/pgp-signature";
-    boundary="7ZAtKRhVyVSsbBD2"
+    protocol=application/pgp-signature;
+    boundary=7ZAtKRhVyVSsbBD2
 Content-Disposition: inline
 In-Reply-To: <20020913152108.A8295@alinoe.com>
 User-Agent: Mutt/1.4i
@@ -77,13 +77,13 @@ I have >3100 spamtraps on my machine (you can multiply that by each domain
 if you really want to).  The vast majority (all but, say, 10) have never
 ever existed.  Yet, spammers would semi-continuously connect, try to
 deliver mail to 40 of them, disconnect, connect again, try delivering
-to 40 more...  over and over, they kept getting "User unknown" until I
+to 40 more...  over and over, they kept getting User unknown until I
 got around to making them spamtraps.
 
 So my evidence would suggest that it depends who you're dealing with. :)
-If your "business" is to sell address lists to people who would then spam,
+If your business is to sell address lists to people who would then spam,
 it's in your best interest to never clean your list.  Therefore you can
-say "10 million email addresses" and not technically be lying, even if
+say 10 million email addresses and not technically be lying, even if
 the majority of them don't work.
 
 If you're a spammer, you'd want to know who doesn't actually exist, but
@@ -104,7 +104,7 @@ That's my view anyway. :)
 
 --=20
 Randomly Generated Tagline:
-"Now you can do that thing with your hands... It's ok." - Prof. Farr
+Now you can do that thing with your hands... It's ok. - Prof. Farr
 
 --7ZAtKRhVyVSsbBD2
 Content-Type: application/pgp-signature

@@ -22,7 +22,7 @@ Received: from localhost (boyhowdy@localhost) by grex.cyberspace.org
     (8.6.13/8.6.12) with SMTP id SAA12869; Tue, 23 Jul 2002 18:06:06 -0400
 From: Scott Henderson <boyhowdy@cyberspace.org>
 Reply-To: Scott Henderson <boyhowdy@cyberspace.org>
-To: "Tabor J. Wells" <razor-users@fsckit.net>
+To: Tabor J. Wells <razor-users@fsckit.net>
 Cc: Razor-Users <razor-users@example.sourceforge.net>
 Subject: Re: [Razor-users] can't find Razor/Client.pm
 In-Reply-To: <20020723215921.GE24778@fsckit.net>

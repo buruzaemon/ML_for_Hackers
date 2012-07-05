@@ -20,12 +20,12 @@ Received: from MAX (adsl-64-171-27-180.dsl.sntc01.pacbell.net
     [64.171.27.180]) by pimout2-ext.prodigy.net (8.12.3 da nor stuldap/8.12.3)
     with ESMTP id g8S4FoI7444696 for <FoRK@xent.com>; Sat, 28 Sep 2002
     00:15:59 -0400
-From: "Max Dunn" <maxdunn@siliconpublishing.com>
-To: "'FoRK'" <FoRK@xent.com>
+From: Max Dunn <maxdunn@siliconpublishing.com>
+To: 'FoRK' <FoRK@xent.com>
 Subject: RE: OSCOM Berkeley report: Xopus, Bitflux, Plone, Xoops
 Message-Id: <000001c266a5$b5ba5600$6401a8c0@MAX>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal
@@ -65,25 +65,25 @@ granted that XSLT was relevant to content management, others took it
 just as for granted that XSLT was irrelevant and seemed happy to ignore
 XML almost completely. 
 
-I attended realizing that "content management" is generally used to
+I attended realizing that content management is generally used to
 apply to *Web* content management, but I was still a bit shocked how
 completely out of scope document management was (almost no consideration
 of the potential print/PDF dimension to content other than the
-occasional "...and you can use FOP to make PDF" as if that was
+occasional ...and you can use FOP to make PDF as if that was
 functional): this seems more the case in open source content management
 than in commercial content management, and probably makes XML easier to
 ignore (if HTML is the be-all and end-all of the output...).
 
 The honesty was refreshing, Phil Suh complained about the state of
 current tools (both open source and commercial), and I wish I'd written
-down what he said, something like "it sucks so extremely, it sucks so
+down what he said, something like it sucks so extremely, it sucks so
 widely, and it is so generally sucking, that it seems sometimes there is
-no hope." For a moment there was contemplation that perhaps commercial
-systems scaled so well that the commercial "big boys" were really much
-more functional than open source, until someone pointed out, "OK, take
+no hope. For a moment there was contemplation that perhaps commercial
+systems scaled so well that the commercial big boys were really much
+more functional than open source, until someone pointed out, OK, take
 some average blog software, spend $500,000 on the rollout... it'll scale
-pretty well." Another quote (citing Brendan Quinn): "content management
-problems are either trivial or impossible."
+pretty well. Another quote (citing Brendan Quinn): content management
+problems are either trivial or impossible.
 
 Mac OS X is getting popular, of the laptops there it was an even 1/3
 each of Mac, Linux, Windows.

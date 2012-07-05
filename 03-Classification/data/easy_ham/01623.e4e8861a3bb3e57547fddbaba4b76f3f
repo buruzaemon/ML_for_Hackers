@@ -30,7 +30,7 @@ Date: Thu, 5 Sep 2002 11:33:21 -0700
 From: Brian Hatch <secprog@ifokr.org>
 To: Crispin Cowan <crispin@wirex.com>
 Cc: Ben Mord <bmord@icon-nicholson.com>,
-	"Webappsec Securityfocus.Com" <webappsec@securityfocus.com>,
+	Webappsec Securityfocus.Com <webappsec@securityfocus.com>,
 	SECPROG Securityfocus <SECPROG@securityfocus.com>
 Subject: Re: use of base image / delta image for automated recovery from
     attacks
@@ -39,8 +39,8 @@ References: <NAEOJLMPJMJDFPLHIOJOMEGLDBAA.bmord@icon-nicholson.com>
     <3D76977B.9010606@wirex.com>
 MIME-Version: 1.0
 Content-Type: multipart/signed; micalg=pgp-sha1;
-    protocol="application/pgp-signature";
-    boundary="2+N3zU4ZlskbnZaJ"
+    protocol=application/pgp-signature;
+    boundary=2+N3zU4ZlskbnZaJ
 Content-Disposition: inline
 In-Reply-To: <3D76977B.9010606@wirex.com>
 User-Agent: Mutt/1.3.28i
@@ -75,8 +75,8 @@ and possibly break some other functionatily to boot.  (Pun intended.  My
 apologies.)
 
 --
-Brian Hatch                  "Are you expected?"
-   Systems and               "No.  Dreaded."
+Brian Hatch                  Are you expected?
+   Systems and               No.  Dreaded.
    Security Engineer
 www.hackinglinuxexposed.com
 

@@ -23,7 +23,7 @@ Received: from nightrealms.com (adsl-66-126-173-116.dsl.snfc21.pacbell.net
     g7T0oaw210208 for <spamassassin-talk@lists.sourceforge.net>;
     Wed, 28 Aug 2002 20:50:36 -0400
 Received: (qmail 5016 invoked by uid 1001); 29 Aug 2002 00:49:38 -0000
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 From: Matthew Cline <matt@nightrealms.com>
 Organization: Night Realms
 To: spamassassin-talk@example.sourceforge.net
@@ -73,7 +73,7 @@ On Wednesday 28 August 2002 04:38 pm, Daniel Quinlan wrote:
 
 >  - It will be difficult to find, prosecute, and win money from someone
 >    in various non-friendly countries where spam originates (China is a
->    good example) even if they do officially "respect" copyright law.
+>    good example) even if they do officially respect copyright law.
 
 SA (and other filters) could be configured to ignore the SWE mark if it 
 appears to come from/through China.
@@ -81,12 +81,12 @@ appears to come from/through China.
 >  - Spammers do not always remember to include contact information!  I
 >    don't understand it either, but nobody said they were bright.  Also,
 >    some spam is non-commercial or sent by a third-party (for example,
->    "pump and dump" stock scams), so contact information is not strictly
+>    pump and dump stock scams), so contact information is not strictly
 >    required for the spammer to get their way.
 
 SA could also be configured so that SWE marks are ignored in messages that 
 look like third-party spam (like stock scams).  Of course, this would still 
-mean that "The U.N. is going to invade America!" spams with SWE would get 
+mean that The U.N. is going to invade America! spams with SWE would get 
 through.  Probably also need to ignore SWE in messages that look like 
 Nigerian scams.
 

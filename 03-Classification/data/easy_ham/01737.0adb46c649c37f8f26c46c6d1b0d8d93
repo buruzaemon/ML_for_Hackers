@@ -8,7 +8,7 @@ References: <15738.24135.294137.640570@slothrop.zope.com>
 	<LNBBLJKPBEHFEDALKOLCCENKBCAB.tim.one@comcast.net>
 Message-ID: <15740.52785.769385.831666@slothrop.zope.com>
 
->>>>> "TP" == Tim Peters <tim.one@comcast.net> writes:
+>>>>> TP == Tim Peters <tim.one@comcast.net> writes:
 
   >> First test results using tokenizer.Tokenizer.tokenize_headers()
   >> unmodified.  ...  Second test results using

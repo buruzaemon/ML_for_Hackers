@@ -70,7 +70,7 @@ On Thu, 5 Sep 2002, David Rees wrote:
 > With a freshly installed SpamAssassin 2.41 and Razor 2.14 I'm seeing these
 > messages spit out from spamd:
 > 
-> razor2 check skipped: No such file or directory Can't call method "log" on
+> razor2 check skipped: No such file or directory Can't call method log on
 > unblessed reference at /usr/lib/perl5/site_perl/5.6.0/Razor2/Client/Agent.pm
 > line 211, <STDIN> line 75.
 > 

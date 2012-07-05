@@ -26,18 +26,18 @@ MIME-Version: 1.0
 X-Mailer: ZjVqnSBZyGWrtRK5M
 X-Priority: 3
 X-Msmail-Priority: Normal
-Content-Type: multipart/related; type="multipart/alternative"; boundary="----=_NextPart_7HZmySBWvSemNjin8Kg9Y"
+Content-Type: multipart/related; type=multipart/alternative; boundary=----=_NextPart_7HZmySBWvSemNjin8Kg9Y
 
 This is a multi-part message in MIME format.
 
 ------=_NextPart_7HZmySBWvSemNjin8Kg9Y
 Content-Type: multipart/alternative;
-	boundary="----=_NextPart_7HZmySBWvSemNjin8Kg9YAA"
+	boundary=----=_NextPart_7HZmySBWvSemNjin8Kg9YAA
 
 
 ------=_NextPart_7HZmySBWvSemNjin8Kg9YAA
 Content-Type: text/html;
-	charset="big5"
+	charset=big5
 Content-Transfer-Encoding: base64
 
 PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiDQp4bWxuczpvPSJ1
@@ -101,10 +101,10 @@ DQoNCjwvYm9keT4NCg0KPC9odG1sPg==
 
 ------=_NextPart_7HZmySBWvSemNjin8Kg9Y
 Content-Type: application/octet-stream;
-	name="./MassMail-1509_files/image001.png"
+	name=./MassMail-1509_files/image001.png
 Content-Transfer-Encoding: base64
 Content-Disposition: attachment;
-	filename="image001.png"
+	filename=image001.png
 
 iVBORw0KGgoAAAANSUhEUgAABsAAAAlaAQAAAAC7d+sfAAAABGdBTUEAALGOfPtRkwAAAAlwSFlz
 AAAOxAAADsQBlSsOGwAA/7JJREFUeNrs/Qt8G8d1L44PVstwCTvBEgYrJ02MJQzGEH1b5nnjJI52
@@ -1533,7 +1533,7 @@ SUVORK5CYII=
 
 ------=_NextPart_7HZmySBWvSemNjin8Kg9Y
 Content-Type: image/jpeg;
-	name="./MassMail-1509_files/image002.jpg"
+	name=./MassMail-1509_files/image002.jpg
 Content-Transfer-Encoding: base64
 Content-ID: <./MassMail-1509_files/image002.jpg>
 

@@ -32,8 +32,8 @@ References: <20020201150022.B11472@cs.helsinki.fi>
     <20020201161552.3497fbfd.matthias@egwn.net>
 MIME-Version: 1.0
 Content-Type: multipart/signed; micalg=pgp-md5;
-    protocol="application/pgp-signature";
-    boundary="J2SCkAp4GZ/dPZZf"
+    protocol=application/pgp-signature;
+    boundary=J2SCkAp4GZ/dPZZf
 Content-Disposition: inline
 User-Agent: Mutt/1.2.5.1i
 In-Reply-To: <20020201161552.3497fbfd.matthias@egwn.net>; from
@@ -82,8 +82,8 @@ blades@remiel% grep nixia /etc/apt/sources.list=20
 Ah, that's it. They had newer gnome there
 
 --=20
-"When life hands you a lemon, make batteries
-=2E...then go electrocute someone."
+When life hands you a lemon, make batteries
+=2E...then go electrocute someone.
 	-- Stevo, Scary Devil Monastery
 
 --J2SCkAp4GZ/dPZZf

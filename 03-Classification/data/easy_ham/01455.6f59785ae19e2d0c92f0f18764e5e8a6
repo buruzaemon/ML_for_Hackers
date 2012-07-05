@@ -33,7 +33,7 @@ To: spamassassin-talk@example.sourceforge.net
 Subject: Re: [SAtalk] base64 decode problem?
 In-Reply-To: <20020911000343.C18217@alinoe.com>
 References: <20020911000343.C18217@alinoe.com>
-X-Mailer: VM 7.07 under 21.4 (patch 8) "Honest Recruiter" XEmacs Lucid
+X-Mailer: VM 7.07 under 21.4 (patch 8) Honest Recruiter XEmacs Lucid
 Sender: spamassassin-talk-admin@example.sourceforge.net
 Errors-To: spamassassin-talk-admin@example.sourceforge.net
 X-Beenthere: spamassassin-talk@example.sourceforge.net
@@ -50,7 +50,7 @@ List-Archive: <http://www.geocrawler.com/redir-sf.php3?list=spamassassin-talk>
 X-Original-Date: Wed, 11 Sep 2002 09:36:38 -0400
 Date: Wed, 11 Sep 2002 09:36:38 -0400
 
->>>>> "CW" == Carlo Wood <carlo@alinoe.com> writes:
+>>>>> CW == Carlo Wood <carlo@alinoe.com> writes:
 
 CW> to manually decode the base64 part.
 CW> Can someone please tell me how to do that?

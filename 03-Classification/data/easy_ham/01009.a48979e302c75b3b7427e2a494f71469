@@ -32,8 +32,8 @@ Received: (from tony@localhost) by hobbit.linuxworks.com.au
 Message-Id: <200209130126.g8D1QUf21470@hobbit.linuxworks.com.au.nospam>
 To: exmh-users@spamassassin.taint.org
 From: Tony Nugent <tony@linuxworks.com.au>
-X-Face: ]IrGs{LrofDtGfsrG!As5=G'2HRr2zt:H>djXb5@v|Dr!jOelxzAZ`!}("]}]
-    Q!)1w#X;)nLlb'XhSu,QL>;)L/l06wsI?rv-xy6%Y1e"BUiV%)mU;]f-5<#U6
+X-Face: ]IrGs{LrofDtGfsrG!As5=G'2HRr2zt:H>djXb5@v|Dr!jOelxzAZ`!}(]}]
+    Q!)1w#X;)nLlb'XhSu,QL>;)L/l06wsI?rv-xy6%Y1eBUiV%)mU;]f-5<#U6
     UthZ0QrF7\_p#q}*Cn}jd|XT~7P7ik]Q!2u%aTtvc;)zfH\:3f<[a:)M
 Organization: Linux Works for network
 X-Mailer: nmh-1.0.4 exmh-2.4
@@ -66,14 +66,14 @@ On Fri Sep 13 2002 at 02:03, Robert Elz wrote:
 >   | exmh has a funky cut/paste model that is essentially all my fault.
 >   | The middle click sets the insert point.  If you hate that, go to the
 >   | Bindings... Simple Edit preferences window and de-select
->   | "Paste Sets Insert".
+>   | Paste Sets Insert.
 > 
 > Unfortunately, the side effect of that solution is that it is no longer
 > possible to cut/paste within one sedit window, some intermediate client
 > always must be used (except in the rare case where you want to select
 > some text, and then paste it at the same place).
 
-> So, the vast majority of people probably want that "Paste Sets Insert"
+> So, the vast majority of people probably want that Paste Sets Insert
 > enabled - that one you can learn to live with, the other is much more
 > painful.
 

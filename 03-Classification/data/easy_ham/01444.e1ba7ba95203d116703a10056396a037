@@ -25,10 +25,10 @@ Received: from brianmay (act-firewall [64.52.135.194]) by
     control.unearthed.org (8.11.6/linuxconf) with SMTP id g85HEPI13616 for
     <spamassassin-talk@lists.sourceforge.net>; Thu, 5 Sep 2002 10:14:25 -0700
 Message-Id: <00c201c254ff$bc2acb30$8801020a@brianmay>
-From: "Brian May" <brian@unearthed.org>
-To: "SpamAssassin Users' list" <spamassassin-talk@example.sourceforge.net>
+From: Brian May <brian@unearthed.org>
+To: SpamAssassin Users' list <spamassassin-talk@example.sourceforge.net>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal

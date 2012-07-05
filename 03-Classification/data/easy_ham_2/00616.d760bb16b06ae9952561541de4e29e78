@@ -33,7 +33,7 @@ Content-Type: text/plain; charset=US-ASCII; format=flowed
 MIME-Version: 1.0 (Apple Message framework v482)
 Cc: razor-users@example.sourceforge.net
 To: Jordan Ritter <jpr5@darkridge.com>
-From: "Craig R.Hughes" <craig@deersoft.com>
+From: Craig R.Hughes <craig@deersoft.com>
 In-Reply-To: <20020808204451.GC1767@darkridge.com>
 Message-Id: <AE80AB20-AB1C-11D6-BCF2-00039396ECF2@deersoft.com>
 Content-Transfer-Encoding: 7bit
@@ -61,7 +61,7 @@ bad performance, which I've been attributing to the problems
 which have been discussed here and on sa-talk.  I'm not saying 
 it's completely not working, or that it has no chance of being 
 fixed 15 minutes from now, just that it's not currently working, 
-and there have been a number of "hiccup" periods in the last 
+and there have been a number of hiccup periods in the last 
 couple months.  Plus, it's hard to deny that we don't know yet 
 if the trust network is going to work or not -- it only just got 
 switched on, and that changeover seems to have corresponded with 

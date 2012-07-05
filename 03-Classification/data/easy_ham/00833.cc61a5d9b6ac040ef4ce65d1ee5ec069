@@ -19,12 +19,12 @@ Received: from cats.ucsc.edu (cats-mx2.ucsc.edu [128.114.129.35]) by
 Received: from Tycho (dhcp-55-196.cse.ucsc.edu [128.114.55.196]) by
     cats.ucsc.edu (8.10.1/8.10.1) with SMTP id g8UKsRT08173 for
     <FoRK@xent.com>; Mon, 30 Sep 2002 13:54:27 -0700 (PDT)
-From: "Jim Whitehead" <ejw@cse.ucsc.edu>
-To: "FoRK" <FoRK@xent.com>
+From: Jim Whitehead <ejw@cse.ucsc.edu>
+To: FoRK <FoRK@xent.com>
 Subject: Internet Archive bookmobile
 Message-Id: <AMEPKEBLDJJCCDEJHAMIKELBFIAA.ejw@cse.ucsc.edu>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal
@@ -75,7 +75,7 @@ fixed cost of the computer/printer/binding machine, if bought new (the IA
 had the equipment donated) is under $10k.
 
 One of the goals is to show libraries across the country that they could, if
-they wished, add these "virtual holdings" (public domain materials) to their
+they wished, add these virtual holdings (public domain materials) to their
 existing library, at a fixed cost most libraries can afford. This should be
 compelling to small libraries in remote areas.
 

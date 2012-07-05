@@ -17,7 +17,7 @@ Received: (qmail 43115 messnum 226689 invoked from
 Received: from p306.as3.adl.dublin.eircom.net (HELO mingmecha)
     (159.134.229.50) by mail02.svc.cra.dublin.eircom.net (qp 43115) with SMTP;
     30 Aug 2002 15:36:34 -0000
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 From: Justin Armstrong <justin.armstrong@acm.org>
 Subject: find the bug
 Date: Fri, 30 Aug 2002 16:36:46 +0100
@@ -35,7 +35,7 @@ void print_nums()
   int i;
 
   for(i = 0; i < 10l; i++) {
-    printf("%d\n",i);
+    printf(%d\n,i);
   }
 
 }

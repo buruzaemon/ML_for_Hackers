@@ -37,7 +37,7 @@ From: pll@lanminds.com
 Subject: Re: Imap servers that support the MH folder/file standards
 References: <200207251406.g6PE6gV24296@houston.rr.com>
 In-Reply-To: Your message of
-    "Thu, 25 Jul 2002 09:06:42 CDT."
+    Thu, 25 Jul 2002 09:06:42 CDT.
     <200207251406.g6PE6gV24296@houston.rr.com>
 Message-Id: <20020725142712.539EEF6EB@tater>
 X-Loop: exmh-users@spamassassin.taint.org
@@ -59,7 +59,7 @@ List-Archive: <https://listman.spamassassin.taint.org/mailman/private/exmh-users
 Date: Thu, 25 Jul 2002 10:27:11 -0400
 
 
->>>>> On Thu, 25 Jul 2002, "Stephen" == Stephen Hocking wrote:
+>>>>> On Thu, 25 Jul 2002, Stephen == Stephen Hocking wrote:
 
   Stephen> What I'd like to do is use an imap capable mailer to
   Stephen> communicate with an imap server that is serving up my MH

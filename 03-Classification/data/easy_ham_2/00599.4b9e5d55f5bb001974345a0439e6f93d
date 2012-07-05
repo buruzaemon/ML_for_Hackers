@@ -67,8 +67,8 @@ tend to want something that has three levels (although nothing like
 this exists, yet):
 
         red     is most certainly spam, verified by high ratings from
-                several sources, and noone says "I know this is NOT
-                spam."  I'd probably drop this into a bit-bucket, or
+                several sources, and noone says I know this is NOT
+                spam.  I'd probably drop this into a bit-bucket, or
                 archive it for humor value.  I expect no
                 false-positives to be here.
 
@@ -78,7 +78,7 @@ this exists, yet):
 
 spamassassin does something useful here, but it only has the is/isn't
 switch, not is/maybe/isn't.  That said, razor is but one check in my
-spam fighting arsenal, so if it reports "doesn't match known spam"
+spam fighting arsenal, so if it reports doesn't match known spam
 once in a while for well-known spam, something else will probably get
 it.
 

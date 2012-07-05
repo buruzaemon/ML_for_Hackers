@@ -20,12 +20,12 @@ Received: from mail.online.ie (mail.online.ie [213.159.130.68]) by
 Received: from ade (unknown [217.67.143.26]); by mail.online.ie with SMTP
     id 835DA701D; for <webdev@linux.ie>; Mon, 19 Aug 2002 12:11:45 +0100 (IST)
 Message-Id: <003501c2476f$b5955580$1a8f43d9@ade2>
-From: "Adrian Murphy" <adrian.murphy@2020tourism.com>
+From: Adrian Murphy <adrian.murphy@2020tourism.com>
 To: <webdev@linux.ie>
 Date: Mon, 19 Aug 2002 12:01:02 +0100
 MIME-Version: 1.0
 Content-Type: multipart/alternative;
-    boundary="----=_NextPart_000_0032_01C24778.16FE3000"
+    boundary=----=_NextPart_000_0032_01C24778.16FE3000
 X-Priority: 3
 X-Msmail-Priority: Normal
 X-Mailer: Microsoft Outlook Express 6.00.2600.0000
@@ -42,7 +42,7 @@ This is a multi-part message in MIME format.
 
 ------=_NextPart_000_0032_01C24778.16FE3000
 Content-Type: text/plain;
-	charset="iso-8859-1"
+	charset=iso-8859-1
 Content-Transfer-Encoding: quoted-printable
 
 Hi,
@@ -60,14 +60,14 @@ Ireland
 
 ------=_NextPart_000_0032_01C24778.16FE3000
 Content-Type: text/html;
-	charset="iso-8859-1"
+	charset=iso-8859-1
 Content-Transfer-Encoding: quoted-printable
 
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!DOCTYPE HTML PUBLIC -//W3C//DTD HTML 4.0 Transitional//EN>
 <HTML><HEAD>
-<META http-equiv=3DContent-Type content=3D"text/html; =
-charset=3Diso-8859-1">
-<META content=3D"MSHTML 6.00.2716.2200" name=3DGENERATOR>
+<META http-equiv=3DContent-Type content=3Dtext/html; =
+charset=3Diso-8859-1>
+<META content=3DMSHTML 6.00.2716.2200 name=3DGENERATOR>
 <STYLE></STYLE>
 </HEAD>
 <BODY bgColor=3D#ffffff>

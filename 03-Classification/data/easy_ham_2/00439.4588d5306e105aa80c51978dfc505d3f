@@ -20,7 +20,7 @@ Received: from chewie.compsoc.com (chewie.compsoc.com [193.120.201.13]) by
 Received: (from kor@localhost) by chewie.compsoc.com (8.11.6/8.11.6) id
     g7HA6iu29380; Sat, 17 Aug 2002 11:06:44 +0100
 Date: Sat, 17 Aug 2002 11:06:44 +0100
-From: "Kevin O' Riordan" <kor@compsoc.com>
+From: Kevin O' Riordan <kor@compsoc.com>
 To: Padraig Brady <padraig.brady@corvil.com>
 Cc: ilug@linux.ie
 Subject: Re: [ILUG] expanding a string multiple times
@@ -47,7 +47,7 @@ On Pungenday, the 9th day of Bureaucracy, Padraig Brady confessed:
 >
 > I.E. I'm missing the repeat in the following:
 >
-> STRING="> "
+> STRING=> 
 > NUMBER=3
 > PREFIX=repeat $STRING $NUMBER
 > echo $PREFIX
@@ -56,9 +56,9 @@ On Pungenday, the 9th day of Bureaucracy, Padraig Brady confessed:
 
 perl ?
 
-  STRING="> "
+  STRING=> 
   NUMBER=3
-  PREFIX=`perl -e "print '$STRING' x $NUMBER;"`
+  PREFIX=`perl -e print '$STRING' x $NUMBER;`
   echo $PREFIX
 
 I'm pretty sure the bsd 'jot' utility can do this too, but I don't

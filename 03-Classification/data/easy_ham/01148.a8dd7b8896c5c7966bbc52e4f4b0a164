@@ -48,9 +48,9 @@ X-Url: http://www.DeepEddy.Com/~cwg
 X-Image-Url: http://www.DeepEddy.Com/~cwg/chris.gif
 MIME-Version: 1.0
 Content-Type: multipart/signed;
-    boundary="==_Exmh_-2120603942P";
+    boundary===_Exmh_-2120603942P;
     micalg=pgp-sha1;
-    protocol="application/pgp-signature"
+    protocol=application/pgp-signature
 Content-Transfer-Encoding: 7bit
 Message-Id: <1033566989.394.TMDA@deepeddy.vircio.com>
 From: Chris Garrigues <cwg-exmh@DeepEddy.Com>
@@ -82,8 +82,8 @@ Content-Type: text/plain; charset=us-ascii
 > 
 > set {bindings(key,Flist_FindUnseen 1 ; Inc_PresortFinish)} <Key-f>
 > 
-> After updating to the current code in CVS I get "bad key f" when 
-> I hit the "f" key.  I can open the Bindings... Commands window 
+> After updating to the current code in CVS I get bad key f when 
+> I hit the f key.  I can open the Bindings... Commands window 
 > and define the binding.  It then works until I restart exmh.
 > 
 > I suspect a parsing problem/change.  I'll try to look into this 

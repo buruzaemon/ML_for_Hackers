@@ -32,7 +32,7 @@ MIME-Version: 1.0
 Content-Type: text/plain; charset=us-ascii
 Content-Disposition: inline
 User-Agent: Mutt/1.2.5.1i
-Subject: [Razor-users] can't call method "log" issue - solution
+Subject: [Razor-users] can't call method log issue - solution
 Sender: razor-users-admin@example.sourceforge.net
 Errors-To: razor-users-admin@example.sourceforge.net
 X-Beenthere: razor-users@example.sourceforge.net

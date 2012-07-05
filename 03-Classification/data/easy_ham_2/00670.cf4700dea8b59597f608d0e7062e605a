@@ -26,13 +26,13 @@ Received: by phobos.labs.netnoteinc.com (Postfix, from userid 500) id
 Received: from phobos (localhost [127.0.0.1]) by
     phobos.labs.netnoteinc.com (Postfix) with ESMTP id 51401341DA;
     Fri, 19 Jul 2002 16:33:30 +0100 (IST)
-To: "Christopher Crowley" <ccrowley@tulane.edu>
+To: Christopher Crowley <ccrowley@tulane.edu>
 Cc: gagel@cnc.bc.ca, spamassassin-talk@example.sourceforge.net
 Subject: Re: [SAtalk] Removing SPAM: from SA notice
 In-Reply-To: Message from
-    "Christopher Crowley"
+    Christopher Crowley
     <ccrowley@tulane.edu> of
-    "Fri, 19 Jul 2002 10:16:06 CDT."
+    Fri, 19 Jul 2002 10:16:06 CDT.
     <3e3101c22f37$3a652890$19775181@netview>
 From: yyyy@spamassassin.taint.org (Justin Mason)
 X-GPG-Key-Fingerprint: 0A48 2D8B 0B52 A87D 0E8A  6ADD 4137 1B50 6E58 EF0A
@@ -54,12 +54,12 @@ X-Original-Date: Fri, 19 Jul 2002 16:33:25 +0100
 Date: Fri, 19 Jul 2002 16:33:25 +0100
 
 
-"Christopher Crowley" said:
+Christopher Crowley said:
 
-> That says that every line is prefixed with "SPAM: ". Could you
+> That says that every line is prefixed with SPAM: . Could you
 > explain how to configure that in 10_misc.cf or in local.cf ?
 
-The problem with the "SPAM: " prefix, is that it's required for
+The problem with the SPAM:  prefix, is that it's required for
 spamassassin -d (removing SpamAssassin markup) to work correctly.
 
 --j.

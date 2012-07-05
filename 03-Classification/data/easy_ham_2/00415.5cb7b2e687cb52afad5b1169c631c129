@@ -16,7 +16,7 @@ Received: (qmail 6320 messnum 30063 invoked from network[159.134.159.50/p306.as1
 Received: from p306.as1.drogheda1.eircom.net (HELO there) (159.134.159.50)
   by mail02.svc.cra.dublin.eircom.net (qp 6320) with SMTP; 27 Jul 2002 17:00:40 -0000
 Content-Type: text/plain;
-  charset="iso-8859-1"
+  charset=iso-8859-1
 From: John Gay <johngay@eircom.net>
 To: kevin lyda <kevin+dated+1028163438.f677b3@linux.ie>
 Subject: Re: [ILUG] Optimizing for Pentium Pt.2
@@ -38,8 +38,8 @@ On Sat 27 Jul 2002 01:57, you wrote:
 > On Fri, Jul 26, 2002 at 11:24:30PM +0100, John Gay wrote:
 > > A while ago I asked what other packages I should optomize for Pentium.
 > > One person answered GlibC. This got me thinking about GCC itself, so I
-> > asked on another list and got a few answers, most were "don't even think
-> > about it" but a few suggested GCC and one pointed me to Linux From
+> > asked on another list and got a few answers, most were don't even think
+> > about it but a few suggested GCC and one pointed me to Linux From
 > > Scratch.
 >
 > why?

@@ -25,7 +25,7 @@ Received: by skynet.csn.ul.ie (Postfix, from userid 2214) id 42796E7C8;
 Received: from localhost (localhost [127.0.0.1]) by skynet.csn.ul.ie
     (Postfix) with ESMTP id 398E87243; Fri, 16 Aug 2002 20:28:24 +0100 (IST)
 Date: Fri, 16 Aug 2002 20:28:24 +0100 (IST)
-From: "Cathal A. Ferris" <pio@csn.ul.ie>
+From: Cathal A. Ferris <pio@csn.ul.ie>
 X-X-Sender: pio@skynet
 To: Ciaran Johnston <cj@nologic.org>
 Cc: ilug@linux.ie
@@ -57,7 +57,7 @@ On Fri, 16 Aug 2002, Ciaran Johnston wrote:
 > > IDE drives. They're cheap, fast, and you don't have to keep buying
 > > media for them. Combine it with a removable HD caddy from Peats or
 > > Maplins, and you have a complete onsite/offsite backup solution with 4
-> > entire generations of data for about ¤250 (2 * 80GB/5400 drives and a
+> > entire generations of data for about 250 (2 * 80GB/5400 drives and a
 > > caddy for the server).
 > >
 > > You do need 60 seconds of downtime to replace the drive, but that's

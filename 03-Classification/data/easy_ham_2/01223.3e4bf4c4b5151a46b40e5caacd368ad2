@@ -66,7 +66,7 @@ I _think_ you need to install postgreql-odbc and its' dependencies. Then
 probably a bit of configuration to open a port to the network. But
 Matthias is right, this is not the right place for this question.
 
-To bring things back on topic, I was practicing my "rpmbuild'n skillz"
+To bring things back on topic, I was practicing my rpmbuild'n skillz
 and made an rpm with some simple software tools to drive my DVD+RW
 burner. No GUI frontend, but it works just fine from the command line. I
 even used it to burn a bootable DVD version of Red Hat 7.3.

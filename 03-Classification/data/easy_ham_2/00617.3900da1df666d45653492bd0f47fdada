@@ -30,7 +30,7 @@ Content-Type: text/plain; charset=US-ASCII; format=flowed
 MIME-Version: 1.0 (Apple Message framework v482)
 Cc: razor-users@example.sourceforge.net
 To: Jehan <nahor@bravobrava.com>
-From: "Craig R.Hughes" <craig@deersoft.com>
+From: Craig R.Hughes <craig@deersoft.com>
 In-Reply-To: <aj8tcp$hvh$1@main.gmane.org>
 Message-Id: <54059D4C-AE39-11D6-A15F-00039396ECF2@deersoft.com>
 Content-Transfer-Encoding: 7bit
@@ -81,11 +81,11 @@ also spread the email address around and get it in the hands of
 lots of spammers so it ends up receiving large quantities of 
 both spam and nonspam, then you have it apply the algorithm 
 above to the incoming mail stream.  So it could be thousands of 
-actual real, different, emails per day.  The "very high rate 
-triggers alarms" thing is certainly something which would be 
+actual real, different, emails per day.  The very high rate 
+triggers alarms thing is certainly something which would be 
 possible to check for, but there may be legitimate ways to 
-exhibit this behavior -- can't think of one right now but "AOL 
-proxy server" springs to mind as an example from another domain.
+exhibit this behavior -- can't think of one right now but AOL 
+proxy server springs to mind as an example from another domain.
 
 C
 

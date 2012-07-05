@@ -24,15 +24,15 @@ Received: from unknown (HELO RAGING) ([66.92.72.213]) (envelope-sender
     <rOD@arsecandle.org>) by mail12.speakeasy.net (qmail-ldap-1.03) with SMTP
     for <marc@perkel.com>; 23 Jul 2002 16:30:20 -0000
 Message-Id: <01b101c23266$36256ab0$b554a8c0@RAGING>
-From: "rODbegbie" <rOD@arsecandle.org>
-To: "Marc Perkel" <marc@perkel.com>,
+From: rODbegbie <rOD@arsecandle.org>
+To: Marc Perkel <marc@perkel.com>,
 	<spamassassin-devel@lists.sourceforge.net>
 References: <20020723101858.406DD440CC@phobos.labs.netnoteinc.com>
     <3D3D820A.5020407@perkel.com>
 Subject: Re: [SAdev] Scoring Yahoo Ads
 Organization: Arsecandle Industries, Inc.
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal
@@ -55,7 +55,7 @@ X-Original-Date: Tue, 23 Jul 2002 12:30:08 -0400
 Date: Tue, 23 Jul 2002 12:30:08 -0400
 
 Marc Perkel wrote:
-> But - MY POINT IS - catching the phrase "risk-free" in the ad portion
+> But - MY POINT IS - catching the phrase risk-free in the ad portion
 > of a non-spam is not a false positive because those lines are
 > technically spam 
 

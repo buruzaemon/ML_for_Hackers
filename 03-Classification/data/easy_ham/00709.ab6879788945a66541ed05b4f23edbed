@@ -20,12 +20,12 @@ Received: (qmail 31218 invoked from network); 22 Sep 2002 22:32:33 -0000
 Received: from dsl.206.191.151.102.evergo.net (HELO JMHALL)
     (206.191.151.102) by mail.evergo.net with SMTP; 22 Sep 2002 22:32:33 -0000
 Reply-To: <johnhall@evergo.net>
-From: "John Hall" <johnhall@evergo.net>
-To: "FoRK" <fork@spamassassin.taint.org>
+From: John Hall <johnhall@evergo.net>
+To: FoRK <fork@spamassassin.taint.org>
 Subject: Colonial Script ...
 Message-Id: <000801c26287$f2960460$0200a8c0@JMHALL>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal
@@ -92,19 +92,19 @@ Gary
 > Cc: fork@spamassassin.taint.org
 > Subject: Re: sed /s/United States/Roman Empire/g
 > 
-> >>>>> "f" == fork list <Mr.> writes:
+> >>>>> f == fork list <Mr.> writes:
 > 
->     f> "Free trade and free markets have proven their ability to lift
->     f> whole societies out of poverty" I'm not a
+>     f> Free trade and free markets have proven their ability to lift
+>     f> whole societies out of poverty I'm not a
 >     f> socio-political/history buff - does anybody have some clear
 >     f> examples?
 > 
 > China?  Ooops, no wait, scratch that.
 > 
 > There is one counter example that I can think of, but it may not be
-> precisely "free trade/markets" -- when Ben Franklin first visited
+> precisely free trade/markets -- when Ben Franklin first visited
 > England he was asked why the colonies were so prosperous.  Ben
-> explained that they used "Colonial Script", a kind of barter-dollar,
+> explained that they used Colonial Script, a kind of barter-dollar,
 > and increasing the supply of script ensured complete employment.  The
 > British bankers were furious and immediately lobbied parliament to
 > clamp down on the practice.  Within a few years, the colonies were
@@ -128,6 +128,6 @@ Gary
 > --
 > Gary Lawrence Murphy - garym@teledyn.com - TeleDynamics Communications
 >  - blog: http://www.auracom.com/~teledyn - biz: http://teledyn.com/ -
->   "Computers are useless. They can only give you answers." (Picasso)
+>   Computers are useless. They can only give you answers. (Picasso)
 
 

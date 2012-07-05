@@ -34,8 +34,8 @@ Mail-Followup-To: spamassassin-talk@example.sourceforge.net
 References: <200207220049.UAA11347@www22.ureach.com>
 MIME-Version: 1.0
 Content-Type: multipart/signed; micalg=pgp-sha1;
-    protocol="application/pgp-signature";
-    boundary="4Ckj6UjgE2iN1+kY"
+    protocol=application/pgp-signature;
+    boundary=4Ckj6UjgE2iN1+kY
 Content-Disposition: inline
 In-Reply-To: <200207220049.UAA11347@www22.ureach.com>
 User-Agent: Mutt/1.4i

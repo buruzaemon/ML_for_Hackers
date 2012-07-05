@@ -19,11 +19,11 @@ Received: from hotmail.com (dav31.law15.hotmail.com [64.4.22.88]) by
 Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
     Sat, 3 Aug 2002 21:22:14 -0700
 X-Originating-Ip: [207.202.171.254]
-From: "Mr. FoRK" <fork_list@hotmail.com>
+From: Mr. FoRK <fork_list@hotmail.com>
 To: <fork@spamassassin.taint.org>
 Subject: Using hosts file to rid yourself of popup ads
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal
@@ -69,7 +69,7 @@ links. The hosts file is a very effective mechanism.
 
 You can download this hosts file, unzip it and place it in your Windows
 directory. YOU SHOULD MAKE A BACK UP of your existing hosts file before you
-do. The hosts file is called "hosts" there is no extension. You may have a
+do. The hosts file is called hosts there is no extension. You may have a
 file named Hosts.sam this is merely a sample hosts file.
 
 Once you download the file and put it in the windows folder, reboot your

@@ -39,7 +39,7 @@ Cc: exmh-workers@spamassassin.taint.org
 Subject: Re: CVS report
 In-Reply-To: Message from Chris Garrigues
     <cwg-dated-1030480087.b12d57@DeepEddy.Com> of
-    "Thu, 22 Aug 2002 15:28:05 CDT."
+    Thu, 22 Aug 2002 15:28:05 CDT.
     <1030048087.20291.TMDA@deepeddy.vircio.com>
 MIME-Version: 1.0
 Content-Type: text/plain; charset=us-ascii
@@ -62,7 +62,7 @@ List-Archive: <https://listman.spamassassin.taint.org/mailman/private/exmh-worke
 Date: Thu, 22 Aug 2002 23:14:20 +0200
 
 
->>>>> On Thu, 22 Aug 2002, "Chris" == Chris Garrigues wrote:
+>>>>> On Thu, 22 Aug 2002, Chris == Chris Garrigues wrote:
 
   Chris> --==_Exmh_267413022P Content-Type: text/plain;
   Chris> charset=us-ascii

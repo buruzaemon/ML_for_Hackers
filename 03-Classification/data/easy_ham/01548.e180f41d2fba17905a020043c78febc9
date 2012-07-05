@@ -23,7 +23,7 @@ Received: from 81-86-135-90.dsl.pipex.com ([81.86.135.90]
     (Exim 4.10) id 17iWOb-0004VE-00; Sat, 24 Aug 2002 09:35:49 +0100
 From: mb/vipul@dcs.qmul.ac.uk
 X-X-Sender: mb@guest1.mews
-To: "Bort, Paul" <pbort@tmwsystems.com>
+To: Bort, Paul <pbort@tmwsystems.com>
 Cc: razor-users@example.sourceforge.net
 Subject: RE: [Razor-users] Razor with sendmail
 In-Reply-To: <C106BE84A6B5D411883300508B55B83A01558FD2@tmwsystems.com>

@@ -20,7 +20,7 @@ Received: (qmail 27565 invoked from network); 10 Sep 2002 05:56:58 -0000
 Received: from unknown (HELO there) ([216.212.1.121]) (envelope-sender
     <signa@birch.net>) by mailserver.birch.net (qmail-ldap-1.03) with SMTP for
     <interested@amiga.com>; 10 Sep 2002 05:56:58 -0000
-Content-Type: text/plain; charset="iso-8859-15"
+Content-Type: text/plain; charset=iso-8859-15
 From: Steve Nordquist <signa@birch.net>
 To: interested@amiga.com
 Subject: UAE/Ami*/Linux Laptop:  Important details.
@@ -145,7 +145,7 @@ keyboard and mouse) as the keyboard/trackpad.
 2 Directional planar mics atop AMLCD; soundcard with multiple 
 18 bit A-D and noise reduction DSP that work in our
 (second-through-fourth, at least) favorite OS.
-Actual 7" bellows pulls out at nominal ventilation 
+Actual 7 bellows pulls out at nominal ventilation 
 fan location for real void-comp (the test in Blade
 Runner) style cooling and extended bass; active cooling
 and airfiltering is available to adjust humidity at user

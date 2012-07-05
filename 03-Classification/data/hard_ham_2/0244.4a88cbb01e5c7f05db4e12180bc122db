@@ -22,7 +22,7 @@ Received: from JD1 ([202.71.153.170])
 	for <pgsql-sql@postgresql.org>; Mon, 9 Sep 2002 01:57:46 -0700 (PDT)
 	(envelope-from jayps@addr.com)(envelope-to <pgsql-sql@postgresql.org>)
 Message-ID: <005101c257df$0343be50$a800a8c0@blraddrcom>
-From: "Jay" <jayps@addr.com>
+From: Jay <jayps@addr.com>
 To: <pgsql-sql@postgresql.org>
 Subject: [SQL] Database joins
 Date: Mon, 9 Sep 2002 14:28:04 +0530
@@ -36,7 +36,7 @@ X-Virus-Scanned: by amavisd-milter (http://amavis.org/)
 X-Virus-Scanned: by AMaViS new-20020517
 Precedence: bulk
 Sender: pgsql-sql-owner@postgresql.org
-Content-Type: multipart/alternative; boundary="----=_NextPart_000_004E_01C2580D.1BC61260"
+Content-Type: multipart/alternative; boundary=----=_NextPart_000_004E_01C2580D.1BC61260
 Status: RO
 X-Status: 
 X-Keywords: 
@@ -46,7 +46,7 @@ This is a multi-part message in MIME format.
 
 ------=_NextPart_000_004E_01C2580D.1BC61260
 Content-Type: text/plain;
-	charset="iso-8859-1"
+	charset=iso-8859-1
 Content-Transfer-Encoding: quoted-printable
 
 Hi,
@@ -62,13 +62,13 @@ Jay
 
 ------=_NextPart_000_004E_01C2580D.1BC61260
 Content-Type: text/html;
-	charset="iso-8859-1"
+	charset=iso-8859-1
 Content-Transfer-Encoding: quoted-printable
 
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!DOCTYPE HTML PUBLIC -//W3C//DTD HTML 4.0 Transitional//EN>
 <HTML><HEAD>
-<META http-equiv=3DContent-Type content=3D"text/html; charset=3Diso-8859-1">
-<META content=3D"MSHTML 6.00.2719.2200" name=3DGENERATOR>
+<META http-equiv=3DContent-Type content=3Dtext/html; charset=3Diso-8859-1>
+<META content=3DMSHTML 6.00.2719.2200 name=3DGENERATOR>
 <STYLE></STYLE>
 </HEAD>
 <BODY bgColor=3D#ffffff>

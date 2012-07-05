@@ -29,8 +29,8 @@ To: dcsb@ai.mit.edu, cryptography@wasabisystems.com, e$@vmeng.com,
 	mac_crypto@vmeng.com,
 	Digital Bearer Settlement List <dbs@philodox.com>, fork@xent.com,
 	irregulars@tb.tf
-From: "R. A. Hettinga" <rah@shipwright.com>
-Content-Type: text/plain; charset="us-ascii"
+From: R. A. Hettinga <rah@shipwright.com>
+Content-Type: text/plain; charset=us-ascii
 Subject: [IRR] [dgc.chat] First public release of NeuDist Distributed
     Transaction Clearing	Framework
 Sender: irregulars-admin@tb.tf
@@ -76,15 +76,15 @@ There are currently no sample applications, but they will be available
 in the next release.
 
 The framework currently contains the following:
-- Classes for creating "Named Objects", which are authenticated using
+- Classes for creating Named Objects, which are authenticated using
 digital signatures within a hierarchy.
-- Storage framework for "Named Objects".
+- Storage framework for Named Objects.
 - Simple XML-Signature implementation (Almost certainly not yet
 interoperable with other implementations)
 - Simple SOAP client
-- Simple Servlet API for handling SOAP requests based on "Named
-  Objects".
-- Current types of "Named Objects" include:
+- Simple Servlet API for handling SOAP requests based on Named
+  Objects.
+- Current types of Named Objects include:
     NameSpace objects -- for maintaining the NameSpace Authentication
  	Framework
     AuthenticationTickets -- for doing web site authentication using
@@ -124,7 +124,7 @@ Views of an EconoFist			http://econofist.com
 subscribe: send blank email to dgcchat-join@lists.goldmoney.com
 unsubscribe: send blank email to dgcchat-leave@lists.goldmoney.com
 digest: send an email to dgcchat-request@lists.goldmoney.com
-with "set yourname@yourdomain.com digest=on" in the message body
+with set yourname@yourdomain.com digest=on in the message body
 
 --- end forwarded text
 
@@ -134,9 +134,9 @@ with "set yourname@yourdomain.com digest=on" in the message body
 R. A. Hettinga <mailto: rah@ibuc.com>
 The Internet Bearer Underwriting Corporation <http://www.ibuc.com/>
 44 Farquhar Street, Boston, MA 02131 USA
-"... however it may deserve respect for its usefulness and antiquity,
+... however it may deserve respect for its usefulness and antiquity,
 [predicting the end of the world] has not been found agreeable to
-experience." -- Edward Gibbon, 'Decline and Fall of the Roman Empire'
+experience. -- Edward Gibbon, 'Decline and Fall of the Roman Empire'
 _______________________________________________
 Irregulars mailing list
 Irregulars@tb.tf

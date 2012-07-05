@@ -26,14 +26,14 @@ Received: by phobos.labs.netnoteinc.com (Postfix, from userid 500) id
 Received: from phobos (localhost [127.0.0.1]) by
     phobos.labs.netnoteinc.com (Postfix) with ESMTP id 7D7E933D8C;
     Wed, 28 Aug 2002 11:21:52 +0100 (IST)
-To: "Steve Thomas" <sthomas@apexvoice.com>
-Cc: "Jonathan Nichols" <jnichols@pbp.net>,
-	"Spam Assassin" <spamassassin-talk@lists.sourceforge.net>
+To: Steve Thomas <sthomas@apexvoice.com>
+Cc: Jonathan Nichols <jnichols@pbp.net>,
+	Spam Assassin <spamassassin-talk@lists.sourceforge.net>
 Subject: Re: [SAtalk] Setting up a spam eating address
 In-Reply-To: Message from
-    "Steve Thomas"
+    Steve Thomas
     <sthomas@apexvoice.com> of
-    "Tue, 27 Aug 2002 11:09:34 PDT."
+    Tue, 27 Aug 2002 11:09:34 PDT.
     <PIEHJPLNKGMNAHJKHLFCOEPHCDAA.sthomas@apexvoice.com>
 From: yyyy@spamassassin.taint.org (Justin Mason)
 X-GPG-Key-Fingerprint: 0A48 2D8B 0B52 A87D 0E8A  6ADD 4137 1B50 6E58 EF0A
@@ -64,7 +64,7 @@ X-Original-Date: Wed, 28 Aug 2002 11:21:47 +0100
 Date: Wed, 28 Aug 2002 11:21:47 +0100
 
 
-"Steve Thomas" said:
+Steve Thomas said:
 
 > I created a user (honeypot) and set up an alias to it. Then I added a
 > 'hidden' (font color same as background color) link to that address at the

@@ -32,8 +32,8 @@ References: <E17nLiF-0002v3-00@usw-sf-list2.sourceforge.net>
     <20020906163144.GA9866@jedi.net>
 MIME-Version: 1.0
 Content-Type: multipart/signed; micalg=pgp-sha1;
-    protocol="application/pgp-signature";
-    boundary="UHN/qo2QbUvPLonB"
+    protocol=application/pgp-signature;
+    boundary=UHN/qo2QbUvPLonB
 Content-Disposition: inline
 In-Reply-To: <20020906163144.GA9866@jedi.net>
 User-Agent: Mutt/1.4i
@@ -67,7 +67,7 @@ On Fri, Sep 06, 2002 at 11:32:01AM -0500, Josh Hildebrand wrote:
 >=20
 >   -F 0|1          remove/add 'From ' line at start of output (default: 1)
 >=20
-> But I can run it on the command line as "spamd -d -c -a -H" just fine.
+> But I can run it on the command line as spamd -d -c -a -H just fine.
 >=20
 > Anyone else run into this problem?
 
@@ -79,8 +79,8 @@ I would find that old version of SA and blow it away.
 
 --=20
 Randomly Generated Tagline:
-"If you lend someone $20, and never see that person again, it was probably
- worth it." - Zen Musings
+If you lend someone $20, and never see that person again, it was probably
+ worth it. - Zen Musings
 
 --UHN/qo2QbUvPLonB
 Content-Type: application/pgp-signature

@@ -35,7 +35,7 @@ X-Mailer: exmh version 2.5 07/13/2001 with nmh-1.0.4
 In-Reply-To: <200209131130.g8DBUZL24217@hobbit.linuxworks.com.au.nospam>
 References: <200209131130.g8DBUZL24217@hobbit.linuxworks.com.au.nospam>
 Comments: In-reply-to Tony Nugent <tony@linuxworks.com.au> message dated
-    "Fri, 13 Sep 2002 21:30:34 +1000."
+    Fri, 13 Sep 2002 21:30:34 +1000.
 To: exmh-users@spamassassin.taint.org
 Subject: Re: bad focus/click behaviours
 MIME-Version: 1.0
@@ -62,7 +62,7 @@ Date: Fri, 13 Sep 2002 09:28:15 -0500
 
 
 
->>>>> On Fri, 13 Sep 2002, "Tony" == Tony Nugent wrote:
+>>>>> On Fri, 13 Sep 2002, Tony == Tony Nugent wrote:
 
   Tony> I can't even mark text in an exmh message window and then
   Tony> paste it into a terminal window, the cut buffer seems to
@@ -75,13 +75,13 @@ was how I read it. ;)
 
 I have a lot of trouble copying and pasting from or to exmh 
 across a VNC link (from things in the vncviewer to things not in 
-it and vice versa).  As long as I stick to apps being "normally" 
+it and vice versa).  As long as I stick to apps being normally 
 displayed on my X server I don't have much of a problem.
 
 My recollection from my X programming days is that the X model,
 like everything in X, is more complex than the human brain can
 handle.  It also is very different from the MS-Windows model.
-And I get the feeling that Tk tries to "unify" those two models
+And I get the feeling that Tk tries to unify those two models
 and fails.  Not sure what the exmh-specific contribution to the 
 confusion is, frankly.
 

@@ -20,12 +20,12 @@ Received: from odin.he.net (odin.he.net [216.218.181.2]) by
 Received: from renegade (c-24-127-153-207.we.client2.attbi.com
     [24.127.153.207]) by odin.he.net (8.8.6/8.8.2) with SMTP id LAA32572 for
     <ilug@linux.ie>; Sat, 27 Jul 2002 11:58:09 -0700
-From: "Paul O'Neil" <poneil@dbiassociates.net>
-To: "irish linux users group" <ilug@linux.ie>
+From: Paul O'Neil <poneil@dbiassociates.net>
+To: irish linux users group <ilug@linux.ie>
 Date: Sat, 27 Jul 2002 11:58:10 -0700
 Message-Id: <NIEFJJMMNPJNOPIDJBFBEEONCDAA.poneil@dbiassociates.net>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal

@@ -22,14 +22,14 @@ Received: (from karl@localhost) by localhost.localdomain (8.11.6/8.11.6)
 X-Authentication-Warning: localhost.localdomain: karl set sender to
     kra@monkey.org using -f
 To: bitbitch@magnesium.net
-Cc: "'fork@spamassassin.taint.org'" <fork@spamassassin.taint.org>
+Cc: 'fork@spamassassin.taint.org' <fork@spamassassin.taint.org>
 Subject: Re: Re[2]: Java is for kiddies
 References: <80CE2C46294CD61198BA00508BADCA830FD384@mis-exchange.mv.timesten.com>
     <143118772134.20020904230741@magnesium.net>
 From: Karl Anderson <kra@monkey.org>
 Organization: Ape Mgt.
 In-Reply-To: bitbitch@magnesium.net's message of
-    "Wed, 4 Sep 2002 23:07:41 -0400"
+    Wed, 4 Sep 2002 23:07:41 -0400
 Message-Id: <m3elc8ri31.fsf@localhost.localdomain>
 User-Agent: Gnus/5.0802 (Gnus v5.8.2) Emacs/20.7
 MIME-Version: 1.0
@@ -66,7 +66,7 @@ bitbitch@magnesium.net writes:
 
 http://www.netli.com/careers/index.htm
 
->* Along with your resume, please answer this question: What does this “C” statement do? #define XY(s, m) (&((s *)0)->m)
+>* Along with your resume, please answer this question: What does this C statement do? #define XY(s, m) (&((s *)0)->m)
 
 Besides provide job security?
 

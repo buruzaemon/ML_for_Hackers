@@ -19,13 +19,13 @@ Received: from hotmail.com (dav75.law15.hotmail.com [64.4.22.210]) by
 Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
     Wed, 2 Oct 2002 09:43:33 -0700
 X-Originating-Ip: [207.202.171.254]
-From: "Mr. FoRK" <fork_list@hotmail.com>
-To: "fork" <fork@spamassassin.taint.org>
+From: Mr. FoRK <fork_list@hotmail.com>
+To: fork <fork@spamassassin.taint.org>
 References: <20021002103833.700FC1B624@maya.dyndns.org>
     <m2heg4ri1h.fsf@maya.dyndns.org>
 Subject: Re: Polit-spam
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal
@@ -49,10 +49,10 @@ Date: Wed, 2 Oct 2002 09:48:45 -0700
 
 
 ----- Original Message -----
-From: "Gary Lawrence Murphy" <garym@canada.com>
+From: Gary Lawrence Murphy <garym@canada.com>
 
 >
-> >>>>> "w" == wpin  <lslifriend> writes:
+> >>>>> w == wpin  <lslifriend> writes:
 >
 >     w> Those who want to leave for the Netherlands to carry on any
 >     w> kind of education,including for PHD, must be careful

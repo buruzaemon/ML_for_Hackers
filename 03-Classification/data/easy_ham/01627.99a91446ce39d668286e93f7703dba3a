@@ -27,15 +27,15 @@ Delivered-To: mailing list secprog@securityfocus.com
 Delivered-To: moderator for secprog@securityfocus.com
 Received: (qmail 15430 invoked from network); 5 Sep 2002 15:26:58 -0000
 From: bmord@icon-nicholson.com (Ben Mord)
-To: "Crispin Cowan" <crispin@wirex.com>
-Cc: "Webappsec Securityfocus.Com" <webappsec@securityfocus.com>,
-	"SECPROG Securityfocus" <SECPROG@securityfocus.com>
+To: Crispin Cowan <crispin@wirex.com>
+Cc: Webappsec Securityfocus.Com <webappsec@securityfocus.com>,
+	SECPROG Securityfocus <SECPROG@securityfocus.com>
 Subject: RE: use of base image / delta image for automated recovery from
     attacks
 Date: Thu, 5 Sep 2002 11:42:40 -0400
 Message-Id: <NAEOJLMPJMJDFPLHIOJOGEHBDBAA.bmord@icon-nicholson.com>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal
@@ -106,7 +106,7 @@ services at the other. This logical architecture maps naturally to a
 physical architecture that has a static web server, a static application
 server, and a database server that has static and changeable partitions. (I
 use the word static versus changeable instead of writeable versus unwritable
-because the "unchangeable" partitions might be written to for temporary swap
+because the unchangeable partitions might be written to for temporary swap
 space. Who knows what Windows does internally?)
 
 My point is that there should be a market out there for a hardware RAID

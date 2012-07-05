@@ -68,7 +68,7 @@ for storing rules, and it was actually *much worse* than it is now. So
 we need an out-of-band way to tell SA where to find this stuff. that's
 the problem!
 
-3. try "perl Makefile.PL < /dev/null" to allow bots to build it.
+3. try perl Makefile.PL < /dev/null to allow bots to build it.
 
 I think I might be missing some details of what you're peeved about,
 though... could you elaborate specifically?

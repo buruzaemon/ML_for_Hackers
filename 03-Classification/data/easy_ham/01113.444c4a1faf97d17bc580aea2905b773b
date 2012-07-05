@@ -50,7 +50,7 @@ Date: Thu, 19 Sep 2002 13:08:25 +0200
 
 Once upon a time, C.Lee wrote :
 
->  > I think I'll use this "--with <whatever>" switch more and more where
+>  > I think I'll use this --with <whatever> switch more and more where
 >  > possible.
 > 	Mmm, great stuff ... Now to get the RedHat Samba packager to do the
 > 	same thing ...
@@ -65,10 +65,10 @@ the spec file, chances of getting the change done are on your side ;-)
 > 	easy way to rebuild the Kernel without having to wait and hour for
 >       it to generate the headers for all arch ... arrrrhhhh ...
 
-The problem is that "--with <foo> --without <bar>" is clearly not meant to
+The problem is that --with <foo> --without <bar> is clearly not meant to
 change deeply the way a package is built. Its use would be more like
 enabling/disabling gpg, ldap, whateversql support in packages as it's not
-possible to use something like "--with-<foo>=<bar>" which could be used for
+possible to use something like --with-<foo>=<bar> which could be used for
 a much wider scope.
 
 Matthias

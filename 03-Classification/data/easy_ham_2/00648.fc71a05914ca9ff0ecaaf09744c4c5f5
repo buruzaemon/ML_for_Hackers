@@ -65,10 +65,10 @@ Oates, Isaac wrote:
  > distributed, it means that an average user will only see 1% of spam.
  > That's not realistic, because not everyone will get the same spam,
  > but the basic threshold can be adjusted.  At the very least, 30
- > people need to "vote" on a given piece of mail to make a realistic
- > decision.  Since there's no "no" vote mechanism (except
- > revocation--and that's after the fact), only a "yes" vote mechanism
- > exists and so if you received 30 "yes" votes then you could safely
+ > people need to vote on a given piece of mail to make a realistic
+ > decision.  Since there's no no vote mechanism (except
+ > revocation--and that's after the fact), only a yes vote mechanism
+ > exists and so if you received 30 yes votes then you could safely
  > say that you got a reasonable sample.
 
 I'm not sure that I follow your reasoning here. Razor isn't your mail 

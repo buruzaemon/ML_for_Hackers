@@ -64,7 +64,7 @@ is when I started redhat.aldil.org, now known as freshrpms.net ;-)
 >     have the 8.0 stuff in the list, everything I want to upgrade requires
 >     200+ RPMs.
 > 
->     I'm not opposed to this, but apt is.  "apt-get dist-upgrade" dumps
+>     I'm not opposed to this, but apt is.  apt-get dist-upgrade dumps
 >     core.
 
 Strange.
@@ -77,7 +77,7 @@ Still, that doesn't explain a core dump :-(
 >     What's the inside secret here, or do I just start searching mirrors
 >     for the ISO and get over it?
 
-Why "search"? There's more than enough to choose from here :
+Why search? There's more than enough to choose from here :
 http://freshrpms.net/mirrors/psyche.html
 
 Matthias

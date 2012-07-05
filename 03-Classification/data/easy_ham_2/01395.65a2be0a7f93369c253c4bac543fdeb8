@@ -23,7 +23,7 @@ Received: from bagend.magicgoeshere.com (ts15-108.dublin.indigo.ie
 Received: from bagend (localhost [127.0.0.1]) by bagend.magicgoeshere.com
     (Postfix) with ESMTP id 47CCC3CF47 for <ilug@linux.ie>; Tue,
     26 Nov 2002 16:12:14 +0000 (GMT)
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 From: Niall O Broin <niall@linux.ie>
 Reply-To: niall@magicgoeshere.com
 Organization: Irish Linux Users Group

@@ -20,7 +20,7 @@ Received: (from rsedc@localhost) by atlantic.gse.rmit.edu.au (8.8.7/8.8.7)
     id PAA29062; Thu, 8 Aug 2002 15:12:00 +1000
 From: rsedc@atlantic.gse.rmit.edu.au
 Message-Id: <20020808151200.A28920@atlantic.gse.rmit.edu.au>
-To: "R. A. Hettinga" <rah@shipwright.com>,
+To: R. A. Hettinga <rah@shipwright.com>,
 	Digital Bearer Settlement List <dbs@philodox.com>, dcsb@ai.mit.edu,
 	cryptography@wasabisystems.com, e$@vmeng.com, mac-crypto@vmeng.com,
 	net-thinkers@vmeng.com, dave@farber.net, cypherpunks@lne.com,

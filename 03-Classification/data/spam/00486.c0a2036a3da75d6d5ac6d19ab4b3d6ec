@@ -16,7 +16,7 @@ Received: from mail pickup service by mail1.insuranceiq.com with Microsoft
 Subject: Hit the Road with CNA
 To: <zzzz@spamassassin.taint.org>
 Date: Mon, 7 Oct 2002 19:04:35 -0400
-From: "IQ - CNA" <cna@insiq.us>
+From: IQ - CNA <cna@insiq.us>
 Message-Id: <45798701c26e55$e78984a0$6b01a8c0@insuranceiq.com>
 X-Mailer: Microsoft CDO for Windows 2000
 MIME-Version: 1.0
@@ -24,13 +24,13 @@ Thread-Index: AcJuQhZmI9l/Tc03RsKcpcRHSEAYvA==
 X-Mimeole: Produced By Microsoft MimeOLE V5.50.4522.1200
 Content-Class: urn:content-classes:message
 X-Originalarrivaltime: 07 Oct 2002 23:04:35.0765 (UTC) FILETIME=[E7A87E50:01C26E55]
-Content-Type: multipart/alternative; boundary="----=_NextPart_000_43A60B_01C26E20.8F5BC480"
+Content-Type: multipart/alternative; boundary=----=_NextPart_000_43A60B_01C26E20.8F5BC480
 
 This is a multi-part message in MIME format.
 
 ------=_NextPart_000_43A60B_01C26E20.8F5BC480
 Content-Type: text/plain;
-	charset="Windows-1252"
+	charset=Windows-1252
 Content-Transfer-Encoding: 7bit
 
  What does it mean to be made in the USA?
@@ -172,58 +172,58 @@ Legal Notice <http://www.insuranceiq.com/legal.htm>
 
 ------=_NextPart_000_43A60B_01C26E20.8F5BC480
 Content-Type: text/html;
-	charset="iso-8859-1"
+	charset=iso-8859-1
 Content-Transfer-Encoding: quoted-printable
 
 <html>
 <head>
 <title>Hit the Road with CNA</title>
-<meta http-equiv=3D"Content-Type" content=3D"text/html; =
-charset=3Diso-8859-1">
+<meta http-equiv=3DContent-Type content=3Dtext/html; =
+charset=3Diso-8859-1>
 </head>
 
-<body bgcolor=3D"#FFFFFF" text=3D"#000000">
-<p align=3D"center">=20
-  <table width=3D"550" border=3D"3" cellspacing=3D"0" cellpadding=3D"0" =
-bordercolor=3D"#CC3333">
+<body bgcolor=3D#FFFFFF text=3D#000000>
+<p align=3Dcenter>=20
+  <table width=3D550 border=3D3 cellspacing=3D0 cellpadding=3D0 =
+bordercolor=3D#CC3333>
     <tr>
       <td>
-        <table width=3D"550" border=3D"0" cellspacing=3D"0" =
-cellpadding=3D"0">
+        <table width=3D550 border=3D0 cellspacing=3D0 =
+cellpadding=3D0>
           <tr>=20
-            <td><img src=3D"http://iiq.us/images/cna/top.jpg" =
-width=3D"550" height=3D"107" alt=3D'What does it mean to be made in the =
+            <td><img src=3Dhttp://iiq.us/images/cna/top.jpg =
+width=3D550 height=3D107 alt=3D'What does it mean to be made in the =
 USA?'><br>
-            <img src=3D"http://iiq.us/images/cna/bot.jpg" width=3D"550" =
-height=3D"153" alt=3D'CNA is hitting the road to tell you about =
+            <img src=3Dhttp://iiq.us/images/cna/bot.jpg width=3D550 =
+height=3D153 alt=3D'CNA is hitting the road to tell you about =
 ingenuity, innovative products and gutsy spirit.'></td>
           </tr>
         </table>
-        <table width=3D"550" border=3D"0" cellspacing=3D"0" =
-cellpadding=3D"0">
+        <table width=3D550 border=3D0 cellspacing=3D0 =
+cellpadding=3D0>
           <tr>=20
-            <td align=3D"center">=20
-                <table width=3D"377" border=3D"0" cellspacing=3D"0" =
-cellpadding=3D"0" height=3D"40">
+            <td align=3Dcenter>=20
+                <table width=3D377 border=3D0 cellspacing=3D0 =
+cellpadding=3D0 height=3D40>
                   <tr>=20
                     <td>=20
-                      <p><font size=3D"2" face=3D"Geneva, Arial, =
-Helvetica, san-serif" color=3D"#CC3333">
+                      <p><font size=3D2 face=3DGeneva, Arial, =
+Helvetica, san-serif color=3D#CC3333>
                         We encourage you to attend the <b><font =
-color=3D"#003399">CNA American Road<br>
+color=3D#003399>CNA American Road<br>
                         Show.</font></b> You'll get an insider's glimpse =
 of CNA's new products:<br>
-                        a <b><font color=3D"#003399">revolutionary =
+                        a <b><font color=3D#003399>revolutionary =
 long-term care, an innovative annuity</font></b> and a<br>
-                        ground-breaking <font color=3D"#003399"><b>new =
+                        ground-breaking <font color=3D#003399><b>new =
 CNA term</b></font> that'll dominate the market.<br>
                         CNA management will also share profitable ideas, =
 discuss<br>
                         service and distribution strategies and unveil =
 exciting<br>
                         incentive programs.</font></p>
-                      <p><font face=3D"Arial, Helvetica, sans-serif" =
-size=3D"2" color=3D"#003399"><b>
+                      <p><font face=3DArial, Helvetica, sans-serif =
+size=3D2 color=3D#003399><b>
                         8:00 a.m. &#150; Coffee and rolls<br>
                         8:15 a.m.-12:00 p.m. &#150; Road Show =
 presentations</b></font></p>
@@ -233,201 +233,201 @@ presentations</b></font></p>
             </td>
           </tr>
         </table>
-        <table width=3D"550" border=3D"0" cellspacing=3D"0" =
-cellpadding=3D"9">
-          <tr valign=3D"top">=20
-            <td width=3D"183">=20
-              <font size=3D"1" face=3D"Geneva, Arial, Helvetica, =
-san-serif">
-              <p>Oct. 8 <font color=3D"#CC3333">New Orleans, =
+        <table width=3D550 border=3D0 cellspacing=3D0 =
+cellpadding=3D9>
+          <tr valign=3Dtop>=20
+            <td width=3D183>=20
+              <font size=3D1 face=3DGeneva, Arial, Helvetica, =
+san-serif>
+              <p>Oct. 8 <font color=3D#CC3333>New Orleans, =
 LA</font><br>
                 Hilton New Orleans Airport <br>
                 901 Airline Drive &#150; Kenner, LA</p>
-              <p>Oct. 9 <font color=3D"#CC3333">Houston, TX</font><br>
+              <p>Oct. 9 <font color=3D#CC3333>Houston, TX</font><br>
                 Marriott Houston Bush IAH<br>
                 18700 John F. Kennedy Blvd.</p>
-              <p>Oct. 10 <font color=3D"#CC3333">Dallas, TX</font><br>
+              <p>Oct. 10 <font color=3D#CC3333>Dallas, TX</font><br>
                 Marriott Suites Dallas Market Center <br>
                 2493 N. Stemmons Fwy.</p>
-              <p>Oct. 16 <font color=3D"#CC3333">Pittsburgh, =
+              <p>Oct. 16 <font color=3D#CC3333>Pittsburgh, =
 PA</font><br>
                 Pittsburgh Marriott City Center<br>
                 112 Washington Place</p>
-              <p>Oct. 18 <font color=3D"#CC3333"> Baltimore, =
+              <p>Oct. 18 <font color=3D#CC3333> Baltimore, =
 MD</font><br>
                 BWI Airport Marriott <br>
                 1743 West Nursery Rd.</p>
-              <p>Oct. 22 <font color=3D"#CC3333">Chicago, IL</font><br>
+              <p>Oct. 22 <font color=3D#CC3333>Chicago, IL</font><br>
                 Marriott Chicago O&#146;Hare<br>
                 8538 West Higgins Rd.</p>
-              <p>Oct. 23 <font color=3D"#CC3333">Seattle, WA</font><br>
+              <p>Oct. 23 <font color=3D#CC3333>Seattle, WA</font><br>
                 Doubletree Hotel Seattle Airport<br>
                 18740 Pacific Hwy. South</p>
-              <p>Oct. 24 <font color=3D"#CC3333">Salt Lake City, =
+              <p>Oct. 24 <font color=3D#CC3333>Salt Lake City, =
 UT</font><br>
                 Hilton Salt Lake City Airport<br>
                 5151 Wiley Post Way </p>
               </font>
             </td>
-            <td width=3D"180">=20
-              <font size=3D"1" face=3D"Geneva, Arial, Helvetica, =
-san-serif">
-              <p>Oct. 25<font color=3D"#CC3333"> Phoenix, AZ</font><br>
+            <td width=3D180>=20
+              <font size=3D1 face=3DGeneva, Arial, Helvetica, =
+san-serif>
+              <p>Oct. 25<font color=3D#CC3333> Phoenix, AZ</font><br>
                 Embassy Suites Phoenix <br>
                 Airport<br>
                 1515 N. 44th Street</p>
-              <p>Oct. 28 <font color=3D"#CC3333">Nashville, =
+              <p>Oct. 28 <font color=3D#CC3333>Nashville, =
 TN</font><br>
                 Sheraton Music City <br>
                 777 McGavock Pike</p>
-              <p>Oct. 29 <font color=3D"#CC3333">Kansas City, =
+              <p>Oct. 29 <font color=3D#CC3333>Kansas City, =
 MO</font><br>
                 Embassy Suites KCI <br>
                 7640 NW Tiffany Springs Pkwy.</p>
-              <p>Oct. 30 <font color=3D"#CC3333">St. Louis, =
+              <p>Oct. 30 <font color=3D#CC3333>St. Louis, =
 MO</font><br>
                 Marriott St. Louis Airport<br>
                 I-70 at Lambert Airport</p>
-              <p>Oct. 31 <font color=3D"#CC3333">Minneapolis, =
+              <p>Oct. 31 <font color=3D#CC3333>Minneapolis, =
 MN</font><br>
                 Marriott Minneapolis Airport<br>
                 2020 East 79th Street</p>
-              <p>Nov. 6 <font color=3D"#CC3333">Charlotte, NC</font><br>
+              <p>Nov. 6 <font color=3D#CC3333>Charlotte, NC</font><br>
                 Renaissance Charlotte <br>
                 Suites Hotel<br>
                 2800 Coliseum Centre Drive</p>
-              <p>Nov. 8 <font color=3D"#CC3333">Hartford, CT</font><br>
+              <p>Nov. 8 <font color=3D#CC3333>Hartford, CT</font><br>
                 Hartford/Windsor Marriott <br>
                 Airport <br>
                 28 Day Hill Road &#150; Windsor, CT </p>
               </font>
             </td>
-            <td width=3D"187">=20
-              <font size=3D"1" face=3D"Geneva, Arial, Helvetica, =
-san-serif">
-              <p>Nov. 11 <font color=3D"#CC3333">Los Angeles, =
+            <td width=3D187>=20
+              <font size=3D1 face=3DGeneva, Arial, Helvetica, =
+san-serif>
+              <p>Nov. 11 <font color=3D#CC3333>Los Angeles, =
 CA</font><br>
                 Marriott Warner Center <br>
                 21850 Oxnard St.<br>
                 Woodland Hills</p>
-              <p>Nov. 12 <font color=3D"#CC3333">Orange County, =
+              <p>Nov. 12 <font color=3D#CC3333>Orange County, =
 CA</font><br>
                 Marriott Irvine John Wayne Airport<br>
                 8538 West Higgins Rd.<br>
                 18000 VonKarman Ave.</p>
-              <p>Nov. 13 <font color=3D"#CC3333">San Diego, =
+              <p>Nov. 13 <font color=3D#CC3333>San Diego, =
 CA</font><br>
                 Marriott San Diego Mission Valley <br>
                 8757 San Diego Drive</p>
-              <p>Nov. 14 <font color=3D"#CC3333">San Francisco, =
+              <p>Nov. 14 <font color=3D#CC3333>San Francisco, =
 CA</font><br>
                 Santa Clara Marriott <br>
                 2700 Mission College Blvd.<br>
                 Santa Clara</p>
-              <p>Nov. 15<font color=3D"#CC3333"> Sacramento, =
+              <p>Nov. 15<font color=3D#CC3333> Sacramento, =
 CA</font><br>
                 Marriott Sacramento <br>
                 11211 Point East Drive <br>
                 Rancho Cordova, CA</p>
-              <p>Nov. 19 <font color=3D"#CC3333">Atlanta, GA</font><br>
+              <p>Nov. 19 <font color=3D#CC3333>Atlanta, GA</font><br>
                 Marriott Atlanta Northwest <br>
                 200 Interstate North Parkway</p>
-              <p>Nov. 20 <font color=3D"#CC3333">Tampa, FL</font><br>
+              <p>Nov. 20 <font color=3D#CC3333>Tampa, FL</font><br>
                 Hilton Garden Inn Tampa North <br>
                 600 Tampa Oaks Blvd. </p>
               </font>
             </td>
           </tr>
         </table>
-        <table width=3D"550" border=3D"0" cellspacing=3D"0" =
-cellpadding=3D"6">
+        <table width=3D550 border=3D0 cellspacing=3D0 =
+cellpadding=3D6>
           <tr>=20
             <td>=20
               <blockquote>=20
-                <p><font face=3D"Geneva, Arial, Helvetica, san-serif" =
-size=3D"2" color=3D"#CC3333"><b>
+                <p><font face=3DGeneva, Arial, Helvetica, san-serif =
+size=3D2 color=3D#CC3333><b>
                   The CNA American Road Show is the must-attend meeting =
 of the year.<br>
                   Visit <a =
-href=3D"http://agents.cnalife.com">http://agents.cnalife.com</a>=20
+href=3Dhttp://agents.cnalife.com>http://agents.cnalife.com</a>=20
                   for more information.</b></font></p>
               </blockquote>
             </td>
           </tr>
         </table>
-        <table width=3D"550" border=3D"0" cellspacing=3D"0" =
-cellpadding=3D"0">
+        <table width=3D550 border=3D0 cellspacing=3D0 =
+cellpadding=3D0>
           <tr>=20
-            <td align=3D"center">
-              <font face=3D"Geneva, Arial, Helvetica, san-serif" =
-size=3D"2" color=3D"#CC3333"><b>&#151; OR &#151;</b></font>
+            <td align=3Dcenter>
+              <font face=3DGeneva, Arial, Helvetica, san-serif =
+size=3D2 color=3D#CC3333><b>&#151; OR &#151;</b></font>
             </td>
           </tr>
         </table>
-        <table width=3D"550" border=3D"0" cellspacing=3D"0" =
-cellpadding=3D"0">
+        <table width=3D550 border=3D0 cellspacing=3D0 =
+cellpadding=3D0>
           <tr>=20
             <td>=20
-              <table width=3D"100%" bgcolor=3D"#FFFFFF">
+              <table width=3D100% bgcolor=3D#FFFFFF>
                 <tr>=20
-                  <form method=3D"post" =
-action=3D"http://65.217.159.103/response/response.asp">
+                  <form method=3Dpost =
+action=3Dhttp://65.217.159.103/response/response.asp>
                     <td>=20
-                      <table width=3D"100%" border=3D"0" =
-cellspacing=3D"0" cellpadding=3D"2" align=3D"center" =
-bgcolor=3D"#ffffff">
+                      <table width=3D100% border=3D0 =
+cellspacing=3D0 cellpadding=3D2 align=3Dcenter =
+bgcolor=3D#ffffff>
                         <tr>=20
-                          <td width=3D"15%" align=3D"right">&nbsp;</td>
-                          <td colspan=3D"4"><font face=3D"Arial, =
-Helvetica, sans-serif" size=3D"2" color=3D"#CC3333"><b>Please fill out =
+                          <td width=3D15% align=3Dright>&nbsp;</td>
+                          <td colspan=3D4><font face=3DArial, =
+Helvetica, sans-serif size=3D2 color=3D#CC3333><b>Please fill out =
 the form below for more information</b></font></td>
                         </tr>
                         <tr>=20
-                          <td width=3D"15%" align=3D"right"><font =
-face=3D"Arial, Helvetica, sans-serif" size=3D"2" =
-color=3D"#CC3333">Name:</font></td>
-                          <td colspan=3D"4"><input type=3D"text" =
-name=3D"contactname" size=3D"50"></td>
+                          <td width=3D15% align=3Dright><font =
+face=3DArial, Helvetica, sans-serif size=3D2 =
+color=3D#CC3333>Name:</font></td>
+                          <td colspan=3D4><input type=3Dtext =
+name=3Dcontactname size=3D50></td>
                         </tr>
                         <tr>=20
-                          <td width=3D"15%" align=3D"right"><font =
-face=3D"Arial, Helvetica, sans-serif" size=3D"2" =
-color=3D"#CC3333">E-mail:</font></td>
-                          <td colspan=3D"4"><input type=3D"text" =
-name=3D"email" size=3D"50"></td>
+                          <td width=3D15% align=3Dright><font =
+face=3DArial, Helvetica, sans-serif size=3D2 =
+color=3D#CC3333>E-mail:</font></td>
+                          <td colspan=3D4><input type=3Dtext =
+name=3Demail size=3D50></td>
                         </tr>
                         <tr>=20
-                          <td width=3D"15%" align=3D"right"><font =
-face=3D"Arial, Helvetica, sans-serif" size=3D"2" =
-color=3D"#CC3333">Phone:</font></td>
-                          <td colspan=3D"4"><input type=3D"text" =
-name=3D"phone" size=3D"50"></td>
+                          <td width=3D15% align=3Dright><font =
+face=3DArial, Helvetica, sans-serif size=3D2 =
+color=3D#CC3333>Phone:</font></td>
+                          <td colspan=3D4><input type=3Dtext =
+name=3Dphone size=3D50></td>
                         </tr>
                         <tr>=20
-                          <td width=3D"15%" align=3D"right"><font =
-face=3D"Arial, Helvetica, sans-serif" size=3D"2" =
-color=3D"#CC3333">City:</font></td>
-                          <td width=3D"30%"><input type=3D"text" =
-name=3D"city" size=3D"20"></td>
-                          <td width=3D"15%" align=3D"right"><font =
-face=3D"Arial, Helvetica, sans-serif" size=3D"2" =
-color=3D"#CC3333">State:</font></td>
-                          <td width=3D"20%"><input type=3D"text" =
-name=3D"state" size=3D"2"></td>
-                          <td rowspan=3D"2" align=3D"center" =
-valign=3D"middle"><font color=3D"#CC3333"><img =
-src=3D"http://iiq.us/images/q2.gif" width=3D"43" =
-height=3D"50"></font></td>
+                          <td width=3D15% align=3Dright><font =
+face=3DArial, Helvetica, sans-serif size=3D2 =
+color=3D#CC3333>City:</font></td>
+                          <td width=3D30%><input type=3Dtext =
+name=3Dcity size=3D20></td>
+                          <td width=3D15% align=3Dright><font =
+face=3DArial, Helvetica, sans-serif size=3D2 =
+color=3D#CC3333>State:</font></td>
+                          <td width=3D20%><input type=3Dtext =
+name=3Dstate size=3D2></td>
+                          <td rowspan=3D2 align=3Dcenter =
+valign=3Dmiddle><font color=3D#CC3333><img =
+src=3Dhttp://iiq.us/images/q2.gif width=3D43 =
+height=3D50></font></td>
                         </tr>
                         <tr>=20
-                          <td width=3D"15%" align=3D"right">&nbsp;</td>
-                          <td width=3D"30%" colspan=3D'3'>=20
-                            <input type=3D"submit" name=3D"submit" =
-value=3D"Submit">
-                            <input type=3D"hidden" =
-name=3D"hdnRecipientTxt" value=3D"roadshow@cnalife.com">
-                            <input type=3D"hidden" =
-name=3D"hdnSubjectTxt" value=3D"CNA Ad Inquiry">
+                          <td width=3D15% align=3Dright>&nbsp;</td>
+                          <td width=3D30% colspan=3D'3'>=20
+                            <input type=3Dsubmit name=3Dsubmit =
+value=3DSubmit>
+                            <input type=3Dhidden =
+name=3DhdnRecipientTxt value=3Droadshow@cnalife.com>
+                            <input type=3Dhidden =
+name=3DhdnSubjectTxt value=3DCNA Ad Inquiry>
                           </td>
                         </tr>
                       </table>
@@ -440,14 +440,14 @@ value=3D'304704'>
             </td>
           </tr>
         </table>
-        <table width=3D"550" border=3D"0" cellspacing=3D"0" =
-cellpadding=3D"4">
+        <table width=3D550 border=3D0 cellspacing=3D0 =
+cellpadding=3D4>
           <tr>=20
-            <td width=3D"73"><img =
-src=3D"http://iiq.us/images/cna/logo.gif" width=3D"63" =
-height=3D"63"></td>
-            <td width=3D"461"><font face=3D"Geneva, Arial, Helvetica, =
-san-serif" size=3D"1">CNA,=20
+            <td width=3D73><img =
+src=3Dhttp://iiq.us/images/cna/logo.gif width=3D63 =
+height=3D63></td>
+            <td width=3D461><font face=3DGeneva, Arial, Helvetica, =
+san-serif size=3D1>CNA,=20
               CNA Life and CNA LTC are registered service marks, trade =
 names and=20
               domain names of CNA Financial Corporation. CNA life =
@@ -470,9 +470,9 @@ insurance=20
               professionals. To be removed from this mailing list, DO =
 NOT REPLY=20
               to this message. Instead, go here: <a =
-href=3D"http://www.insuranceiq.com/optout">http://www.insuranceiq.com/opt=
+href=3Dhttp://www.insuranceiq.com/optout>http://www.insuranceiq.com/opt=
 out</a><br>
-              <a href=3D"http://www.insuranceiq.com/legal.htm">Legal =
+              <a href=3Dhttp://www.insuranceiq.com/legal.htm>Legal =
 Notice</a></font>=20
             </td>
           </tr>

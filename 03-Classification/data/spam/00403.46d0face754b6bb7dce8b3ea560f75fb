@@ -16,8 +16,8 @@ Received: from rack3.easydns.com (rack3.easydns.com [205.210.42.50]) by
 Received: from winxp1 (unknown [195.166.226.132]) by rack3.easydns.com
     (Postfix) with SMTP id 7300A4B243 for <zzzz@spamassassin.taint.org>; Sat,
     21 Sep 2002 00:03:07 -0400 (EDT)
-From: "davidsavimbi" <davidsavimbi@maktoob.com>
-To: "zzzz" <yyyy@spamassassin.taint.org>
+From: davidsavimbi <davidsavimbi@maktoob.com>
+To: zzzz <yyyy@spamassassin.taint.org>
 Subject: private
 Date: Sat, 21 Sep 02 05:01:06 Greenwich Standard Time
 MIME-Version: 1.0
@@ -26,7 +26,7 @@ X-Msmail-Priority: Normal
 X-Mailer: Microsoft Outlook Express 6.00.2462.0000
 X-Mimeole: Produced By Microsoft MimeOLE V6.00.2462.0000
 Message-Id: <20020921040307.7300A4B243@rack3.easydns.com>
-Content-Type: multipart/mixed;boundary= "----=_NextPart_000_002B_83A1E322.4D8B344B"
+Content-Type: multipart/mixed;boundary= ----=_NextPart_000_002B_83A1E322.4D8B344B
 
 ------=_NextPart_000_002B_83A1E322.4D8B344B
 Content-Type: text/plain

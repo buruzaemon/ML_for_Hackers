@@ -35,7 +35,7 @@ Received: from vhost.swchs.org (vhost.swchs.org [216.185.203.194]) by
 Received: from vmwin2k [208.42.95.5] by vhost.swchs.org [216.185.203.194]
     with SMTP (MDaemon.v3.5.0.R) for <razor-users@lists.sf.net>;
     Thu, 12 Sep 2002 19:22:49 -0500
-From: "Will Glynn" <delta407@lerfjhax.com>
+From: Will Glynn <delta407@lerfjhax.com>
 To: <razor-users@example.sourceforge.net>
 Message-Id: <NFBBLLNFCLHJOMCAPMINGEBJCHAA.delta407@lerfjhax.com>
 MIME-Version: 1.0
@@ -50,7 +50,7 @@ X-Return-Path: delta407@lerfjhax.com
 X-Mdaemon-Deliver-To: razor-users@lists.sf.net
 X-Mailscanner: Clean
 Subject: [Razor-users] Re: Collision of hashes?
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: 7bit
 Sender: razor-users-admin@example.sourceforge.net
 Errors-To: razor-users-admin@example.sourceforge.net

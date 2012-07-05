@@ -32,7 +32,7 @@ Justin Mason wrote:
 > Phil R Lawrence said:
 > 
 > 
->>>something to watch out for is to use "nomime" => 1 in the Mail::Audit
+>>>something to watch out for is to use nomime => 1 in the Mail::Audit
 >>>ctor; the M:A folks changed the API there.
 >>
 >>What has MIME to do with it?  I read in perldoc M:A that your suggestion 
@@ -46,12 +46,12 @@ Justin Mason wrote:
 > (you do *not* want to know what I thought of that when I found it ;)
 
 As a new user of SA, I guess I'm having trouble connecting the dots.  If 
-I understand you:  If I don't use the "nomime" => 1 option and I recieve 
+I understand you:  If I don't use the nomime => 1 option and I recieve 
 MIME mail, the Mail::Internet modules become unavailable.
 
 Unavailable for which?  MA?  SA?  What do these methods do?  Does this 
 mean my incoming MIME mail won't be checked by SA unless I specify 
-"nomime" => 1?
+nomime => 1?
 
 Thanks,
 Phil

@@ -28,7 +28,7 @@ Received: by mail_server.Commonwealth.com with Internet Mail Service
     (5.5.2653.19) id <PNLC6ZFX>; Fri, 2 Aug 2002 10:21:10 -0400
 Message-Id: <FD5D2B1760DD594DA0B0C419E8DC809D04D4E7@omega.Commonwealth.com>
 From: Jake Mohnkern <JMohnkern@COMMONWEALTH.COM>
-To: "'spamassassin-talk@example.sourceforge.net'" <spamassassin-talk@example.sourceforge.net>
+To: 'spamassassin-talk@example.sourceforge.net' <spamassassin-talk@example.sourceforge.net>
 MIME-Version: 1.0
 X-Mailer: Internet Mail Service (5.5.2653.19)
 Content-Type: text/plain
@@ -58,7 +58,7 @@ On the Exchange server... (mail.yourdomain.com)
 Create a new, private SMTP address (nomorespam@yourdomain.com) for the
 mailbox you want to protect. Remove the old address.
 
-Create a "custom recipient" with the old SMTP address
+Create a custom recipient with the old SMTP address
 (spammedalot@yourdomain.com). Create another custom recipient pointing at a
 local user on the Spamassassin box (killspam@filtermail.yourdomain.com).
 
@@ -66,7 +66,7 @@ Set the first custom recipient to forward all mail to the second custom
 recipient. (must forward to another address in the Exchange directory)
 
 On the Spamassassin box... (filtermail.yourdomain.com)
-Set up a dummy user, in this case "killspam"
+Set up a dummy user, in this case killspam
 Give killspam a .forward file pointing to the final recipient's new, private
 smtp address back on the Exchange server.
 

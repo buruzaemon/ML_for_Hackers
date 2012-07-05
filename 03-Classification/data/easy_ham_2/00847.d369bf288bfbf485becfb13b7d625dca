@@ -46,7 +46,7 @@ Date: 24 Jul 2002 08:36:36 -0400
 
 On Wed, 2002-07-24 at 07:09, Justin Mason wrote:
 > 
-> "Gordon Mohr" said:
+> Gordon Mohr said:
 > 
 > > I still think self-add whitelists are underrated. 
 > > A FoRK whitelist would presumably start with
@@ -54,7 +54,7 @@ On Wed, 2002-07-24 at 07:09, Justin Mason wrote:
 > > problem mail, in a way that humans can understand
 > > how to whitelist themselves for a resend, avoids 
 > > the problem of silent failures without opening the 
-> > door to lazy, forged-"from" spammers. 
+> > door to lazy, forged-from spammers. 
 > 
 > Big problem I see with this system, is the
 > automatically-generated-but-important mails like online tickets,

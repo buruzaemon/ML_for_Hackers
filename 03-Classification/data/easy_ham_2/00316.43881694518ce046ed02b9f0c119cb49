@@ -52,7 +52,7 @@ indeed.
 > an smtp proxy normally.
 
 well, smtp being store and forward, what is an smtp proxy? :) that's 
-why i said "proxy".
+why i said proxy.
 
 probably, the most effective way to stop spam in the long-term is to 
 configure your email server to use the SPEWS blacklist and a good open 

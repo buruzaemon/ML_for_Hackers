@@ -19,13 +19,13 @@ Received: from hotmail.com (dav70.law15.hotmail.com [64.4.22.205]) by
 Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
     Sun, 4 Aug 2002 13:03:31 -0700
 X-Originating-Ip: [207.202.171.254]
-From: "Mr. FoRK" <fork_list@hotmail.com>
+From: Mr. FoRK <fork_list@hotmail.com>
 To: <fork@spamassassin.taint.org>
 References: <DAV31pQq5pneeFUtLch00019e7b@hotmail.com>
     <3D4CBC2B.1070208@barrera.org>
 Subject: Re: Using hosts file to rid yourself of popup ads
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal
@@ -51,8 +51,8 @@ Okay okay... after reading further I realized this wasn't all that great....
 thanks for the feedback anyway.
 
 ----- Original Message -----
-From: "Joseph S. Barrera III" <joe@barrera.org>
-To: "Mr. FoRK" <fork_list@hotmail.com>
+From: Joseph S. Barrera III <joe@barrera.org>
+To: Mr. FoRK <fork_list@hotmail.com>
 Cc: <fork@spamassassin.taint.org>
 Sent: Saturday, August 03, 2002 10:31 PM
 Subject: Re: Using hosts file to rid yourself of popup ads
@@ -77,7 +77,7 @@ Subject: Re: Using hosts file to rid yourself of popup ads
 >
 > We don't even know how to use the fucking English language.
 > --
-> What security level comes after "Totally Apeshit"?
+> What security level comes after Totally Apeshit?
 >      -- http://www.mnftiu.cc/mnftiu.cc/war12.html
 >
 >

@@ -25,7 +25,7 @@ Received: from bob by rfitzsimons with local (Exim 3.35 #1 (Debian)) id
 Date: Fri, 16 Aug 2002 21:19:26 +0000
 From: Robert Fitzsimons <robfitz@273k.net>
 To: Justin MacCarthy <macarthy@iol.ie>
-Cc: "Ilug@Linux.Ie" <ilug@linux.ie>
+Cc: Ilug@Linux.Ie <ilug@linux.ie>
 Subject: Re: [ILUG] extending a HAN with Wireless..
 Message-Id: <20020816211926.GB1412@rfitzsimons>
 References: <00ea01c24540$7778e3b0$ea5012ac@xelector.com>
@@ -68,9 +68,9 @@ On Fri, Aug 16, 2002 at 05:39:21PM +0100, Justin MacCarthy wrote:
 > I have a small network at home,
 > 
 > Connected by 5 port hub....
-> "smoothwall" smoothwall server  	192.168.1.1
-> "shaftoe" 	Windows 2000		192.168.1.75
-> "gotodengo"	Linux				192.168.1.50
+> smoothwall smoothwall server  	192.168.1.1
+> shaftoe 	Windows 2000		192.168.1.75
+> gotodengo	Linux				192.168.1.50
 > 
 > 
 > The family has a new pc I want to plug in, to use the ISDN in smoothwall.

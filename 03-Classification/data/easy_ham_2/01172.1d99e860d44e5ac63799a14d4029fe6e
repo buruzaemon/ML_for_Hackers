@@ -50,13 +50,13 @@ Date: Tue, 30 Jul 2002 17:00:21 +0200
 
 Hi.
 
-"Kevin Worthington" <kworthington@linuxmail.org> wrote:
+Kevin Worthington <kworthington@linuxmail.org> wrote:
 
 > into /home/dude/redhat etc. by running
 > #rpm -ivh foo.src.rpm
 
 Do this:
-echo "%_topdir /home/dude/redhat" >> /home/dude/.rpmmacros
+echo %_topdir /home/dude/redhat >> /home/dude/.rpmmacros
 
 and make sure the directory structure (RPMS, SOURCES, SPECS, SRPMS, BUILD)
 is there.

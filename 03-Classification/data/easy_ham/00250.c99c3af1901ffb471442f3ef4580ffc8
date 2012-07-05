@@ -95,7 +95,7 @@ A program which is very useful is checkinstall
 http://asic-linux.com.mx/~izto/checkinstall/
 It allows you to install packages from source while still registering
 them in the package management system of your distro (rpm,deb,tgz).
-Instead of "make install" type "checkinstall", and a package is put
+Instead of make install type checkinstall, and a package is put
 together and installed for you.  Makes uninstallation simpler than it
 might otherwise be.
 -- 

@@ -50,7 +50,7 @@ X-Original-Date: Sun, 4 Aug 2002 21:25:26 -0500
 Date: Sun, 4 Aug 2002 21:25:26 -0500
 
 Is there a way to exclude a set of pages from the site map? For each
-page in the site I also create a "printer friendly" page, and I would
+page in the site I also create a printer friendly page, and I would
 like to exclude all of those form the sitemap.
 
 -- 

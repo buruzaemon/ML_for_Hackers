@@ -32,8 +32,8 @@ Received: (from tony@localhost) by hobbit.linuxworks.com.au
 Message-Id: <200209131130.g8DBUZL24217@hobbit.linuxworks.com.au.nospam>
 To: exmh-users@spamassassin.taint.org
 From: Tony Nugent <tony@linuxworks.com.au>
-X-Face: ]IrGs{LrofDtGfsrG!As5=G'2HRr2zt:H>djXb5@v|Dr!jOelxzAZ`!}("]}]
-    Q!)1w#X;)nLlb'XhSu,QL>;)L/l06wsI?rv-xy6%Y1e"BUiV%)mU;]f-5<#U6
+X-Face: ]IrGs{LrofDtGfsrG!As5=G'2HRr2zt:H>djXb5@v|Dr!jOelxzAZ`!}(]}]
+    Q!)1w#X;)nLlb'XhSu,QL>;)L/l06wsI?rv-xy6%Y1eBUiV%)mU;]f-5<#U6
     UthZ0QrF7\_p#q}*Cn}jd|XT~7P7ik]Q!2u%aTtvc;)zfH\:3f<[a:)M
 Organization: Linux Works for network
 X-Mailer: nmh-1.0.4 exmh-2.4
@@ -76,7 +76,7 @@ resolution).
 > but I suppose it and mozilla are the same codebase, approx) - in fact
 > I can't thing of anything it fails for, that I have noticed.
 > 
-> What is an example of an "anything else" that it fails for for you?
+> What is an example of an anything else that it fails for for you?
 
 Everything else :)  I can't even mark text in an exmh message window
 and then paste it into a terminal window, the cut buffer seems to be

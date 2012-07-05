@@ -52,11 +52,11 @@ Once upon a time, Jesse wrote :
 > Have you thought of bumping up sylpheed-claws?  I see sylpheed got a
 > bump... show some claws love?  (;
 
-Well, in sylheed's "claws" branch you need to wait a bit for the developers
+Well, in sylheed's claws branch you need to wait a bit for the developers
 to backport all the updates from the main branch before getting a release
 with the same version number.
 
-Right now, the latest "claws" release is still 0.8.2claws :
+Right now, the latest claws release is still 0.8.2claws :
 http://sourceforge.net/project/showfiles.php?group_id=25528
 
 But as it's the primary mailer I use, you can be sure that as soon as it's

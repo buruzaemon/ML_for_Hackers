@@ -23,8 +23,8 @@ Received: (qmail 72507 messnum 660833 invoked from
 Received: from unknown (HELO pc) (159.134.255.227) by
     mail05.svc.cra.dublin.eircom.net (qp 72507) with SMTP; 27 Jul 2002
     16:10:43 -0000
-From: "John Moran" <arronax@eircom.net>
-To: "ILUG" <ilug@linux.ie>
+From: John Moran <arronax@eircom.net>
+To: ILUG <ilug@linux.ie>
 Subject: RE: [ILUG] Optimizing for Pentium Pt.2
 Date: Sat, 27 Jul 2002 17:10:39 +0100
 Message-Id: <000001c23588$26d71750$e3ff869f@pc>
@@ -56,8 +56,8 @@ On Fri, Jul 26, 2002 at 11:24:30PM +0100, John Gay wrote:
 > One
 > person answered GlibC. This got me thinking about GCC itself, so I
 asked on
-> another list and got a few answers, most were "don't even think about
-it" but
+> another list and got a few answers, most were don't even think about
+it but
 > a few suggested GCC and one pointed me to Linux From Scratch.
 
 why?

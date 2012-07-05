@@ -89,7 +89,7 @@ OK.
 In this case, highlighting wasn't what I was most concerned about.
 A method to get messages in & out of sequences comes first, how it
 displays is a secondary consideration.   But as a suggestion, have an
-"all unknown" sequence highlight, any message in a sequence which has
+all unknown sequence highlight, any message in a sequence which has
 no defined highlighting (where defined includes defined to not be treated
 specially) gets highlighted the same way (maybe something as boring as
 a dark brown text colour - almost indistinguishable from the normal black)

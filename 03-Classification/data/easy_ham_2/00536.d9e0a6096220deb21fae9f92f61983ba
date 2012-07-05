@@ -49,7 +49,7 @@ Date: Wed, 24 Jul 2002 08:02:32 -0400
 
 Until a few days ago, razor (sdk 2.03, client 2.12) was catching a
 decent set of spams.  It seems now, however, that it isn't catching
-anything.  I got one email this morning with "ADV:" in the subject
+anything.  I got one email this morning with ADV: in the subject
 another two or three about how many inches longer I can be.  Did I
 miss something recently perhaps regarding configuration changes, etc?
 
@@ -59,8 +59,8 @@ Joe
 ---
 Joe Berry
 joe@topshot.com
-AIM "joe topshot"
-Yahoo Msgr "joetopshot"
+AIM joe topshot
+Yahoo Msgr joetopshot
 Baltimore, MD
 
 

@@ -21,12 +21,12 @@ Received: from adsl-67-119-24-60.dsl.snfc21.pacbell.net (HELO golden)
     (67.119.24.60) by relay1.pair.com with SMTP; 7 Sep 2002 20:08:45 -0000
 X-Pair-Authenticated: 67.119.24.60
 Message-Id: <005701c256aa$5d12d6e0$640a000a@golden>
-From: "Gordon Mohr" <gojomo@usa.net>
+From: Gordon Mohr <gojomo@usa.net>
 To: <fork@spamassassin.taint.org>
 References: <20020907135257.7E5CBC44D@argote.ch>
 Subject: Re: Selling Wedded Bliss (was Re: Ouch...)
 MIME-Version: 1.0
-Content-Type: text/plain; charset="Windows-1252"
+Content-Type: text/plain; charset=Windows-1252
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal
@@ -54,11 +54,11 @@ Robert Harley writes:
 > 
 > Of course the shapes of the distributions may differ.
 
-You've redefined "promiscuity" above as "total" or "average" 
+You've redefined promiscuity above as total or average 
 activity, which seems to rob it of its common meaning: 
-activity above some specific threshold (usually "one") or 
+activity above some specific threshold (usually one) or 
 norm, or involving extra or indiscriminate variety. 
-"Promiscuity" is thus inherently a description of 
+Promiscuity is thus inherently a description of 
 distributions rather than averages.
 
 Consider a population of 3 males and 3 females. Let
@@ -79,7 +79,7 @@ And here women have a higher mode (2) and median (2)
 number of partners.
 
 So in this contrived population, females are more 
-"promiscuous" than males, unless "promiscuity" is 
+promiscuous than males, unless promiscuity is 
 defined uselessly.
 
 - Gordon

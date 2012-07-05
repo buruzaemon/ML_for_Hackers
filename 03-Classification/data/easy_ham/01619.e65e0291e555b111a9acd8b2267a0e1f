@@ -50,7 +50,7 @@ On Tue, Sep 03, 2002 at 09:03:40PM -0400, Yannick Gingras wrote:
 > This make me wonder about the relative protection of smart cards.  They have 
 > an internal procession unit around 4MHz.  Can we consider them as trusted 
 > hardware ?  The ability to ship smart cards periodicaly uppon cashing of a 
-> monthly subscription fee would not raise too much the cost of "renting" the 
+> monthly subscription fee would not raise too much the cost of renting the 
 > system.  Smart card do their own self encryption.  Can they be used to 
 > decrypt data needed by the system ?  The input of the system could me mangled 
 > and the would keep a reference of how long it was in service.

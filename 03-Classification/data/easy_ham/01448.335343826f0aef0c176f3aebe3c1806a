@@ -32,8 +32,8 @@ Message-Id: <20020906175619.GC18326@kluge.net>
 References: <20020906170919.C128CA4C29@belphegore.hughes-family.org>
 MIME-Version: 1.0
 Content-Type: multipart/signed; micalg=pgp-sha1;
-    protocol="application/pgp-signature";
-    boundary="sHrvAb52M6C8blB9"
+    protocol=application/pgp-signature;
+    boundary=sHrvAb52M6C8blB9
 Content-Disposition: inline
 In-Reply-To: <20020906170919.C128CA4C29@belphegore.hughes-family.org>
 User-Agent: Mutt/1.4i
@@ -65,16 +65,16 @@ Content-Transfer-Encoding: quoted-printable
 On Fri, Sep 06, 2002 at 10:09:19AM -0700, bugzilla-daemon@hughes-family.org=
  wrote:
 > another (or would look terrible).  Let's just use a letter.  If
-> aesthetics are your concern, I think an "x" will look just fine.
+> aesthetics are your concern, I think an x will look just fine.
 
-"x" is fine, but let's not take out the config option.  if people really
+x is fine, but let's not take out the config option.  if people really
 want to have it be something else, we shouldn't hinder them.
 
 --=20
 Randomly Generated Tagline:
-"And the next time you consider complaining that running Lucid Emacs
+And the next time you consider complaining that running Lucid Emacs
  19.05 via NFS from a remote Linux machine in Paraguay doesn't seem to
- get the background colors right, you'll know who to thank."
+ get the background colors right, you'll know who to thank.
  (By Matt Welsh)
 
 --sHrvAb52M6C8blB9

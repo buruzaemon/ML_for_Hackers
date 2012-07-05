@@ -41,18 +41,18 @@ MIME-Version: 1.0
 X-Mailer: ArHA8IFlSSFNGzAMo
 X-Priority: 3
 X-Msmail-Priority: Normal
-Content-Type: multipart/related; type="multipart/alternative"; boundary="----=_NextPart_lBwzzJ0s7cGEidV47B"
+Content-Type: multipart/related; type=multipart/alternative; boundary=----=_NextPart_lBwzzJ0s7cGEidV47B
 
 This is a multi-part message in MIME format.
 
 ------=_NextPart_lBwzzJ0s7cGEidV47B
 Content-Type: multipart/alternative;
-	boundary="----=_NextPart_lBwzzJ0s7cGEidV47BAA"
+	boundary=----=_NextPart_lBwzzJ0s7cGEidV47BAA
 
 
 ------=_NextPart_lBwzzJ0s7cGEidV47BAA
 Content-Type: text/html;
-	charset="big5"
+	charset=big5
 Content-Transfer-Encoding: base64
 
 PGh0bWw+DQo8aGVhZD4NCjx0aXRsZT5TZWN1cmVQcm8gRFZSPC90aXRsZT4NCjxtZXRhIGh0dHAt

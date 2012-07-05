@@ -21,10 +21,10 @@ Received: from relay.dub-t3-1.nwcgroup.com
 Received: from totalise.co.uk (m114-mp1.cvx1-c.bri.dial.ntli.net
     [62.255.12.114]) by relay.dub-t3-1.nwcgroup.com (Postfix) with SMTP id
     0BC3770047 for <ilug@linux.ie>; Fri, 23 Aug 2002 10:14:42 +0100 (IST)
-From: "Robert Seviour" <Robertseviour@totalise.co.uk>
+From: Robert Seviour <Robertseviour@totalise.co.uk>
 To: <ilug@linux.ie>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="ISO-8859-1"
+Content-Type: text/plain; charset=ISO-8859-1
 Date: Fri, 23 Aug 2002 10:24:21 +0100
 Content-Transfer-Encoding: 8bit
 Message-Id: <20020823091443.0BC3770047@relay.dub-t3-1.nwcgroup.com>
@@ -55,7 +55,7 @@ Sound & Speakers
 No Modem
 No CD-ROM Drive  
 Internal 3.5' Floppy Drive    
-3 Months Warranty                      @             £119
+3 Months Warranty                      @             119
  
 IBM ThinkPad 765L Laptop Computer (Stock Ref 6076)
 Intel Pentium 1 166MHz Processor
@@ -66,7 +66,7 @@ Sound & Speakers
 No Modem
 No CD-ROM Drive  
 Internal 3.5' Floppy Drive    
-3 Months Warranty                      @             £149
+3 Months Warranty                      @             149
  
 IBM ThinkPad 770 Laptop Computer (Stock Ref 4225)
 Intel Pentium 1 233MHz Processor
@@ -77,7 +77,7 @@ USB, IRDA, Sound & Speakers
 Internal 56K Modem
 No CD-ROM Drive  
 Internal 3.5' Floppy Drive    
-3 Months Warranty                      @             £249
+3 Months Warranty                      @             249
  
 IBM ThinkPad 380 Laptop Computer (Stock Ref 7868)
 Intel Pentium 11 233MHz Processor
@@ -88,7 +88,7 @@ USB, IRDA, Sound & Speakers
 No Modem
 Internal CD-ROM Drive  
 Internal 3.5' Floppy Drive    
-3 Months Warranty                      @             £289
+3 Months Warranty                      @             289
  
 IBM ThinkPad 770X Laptop Computer (Stock Ref 8051)
 Intel Pentium 11 300MHz Processor
@@ -99,7 +99,7 @@ USB, IRDA, Sound & Speakers
 Internal 56K Modem
 External CD-ROM Drive  
 Internal 3.5' Floppy Drive    
-3 Months Warranty                      @             £349
+3 Months Warranty                      @             349
  
 IBM ThinkPad 770X Laptop Computer (Stock Ref 8220)
 Intel Pentium 11 233MHz Processor
@@ -110,7 +110,7 @@ USB, IRDA, Sound & Speakers
 Internal 56K Modem
 Internal CD-ROM Drive  
 Internal 3.5' Floppy Drive    
-3 Months Warranty                      @             £389
+3 Months Warranty                      @             389
  
 Toshiba 7020CT Laptop Computer (Stock Ref 3111)
 Intel Pentium 11 266MHz Processor
@@ -120,7 +120,7 @@ Intel Pentium 11 266MHz Processor
 USB, IRDA, Sound & Speakers
 Internal 56K Modem  
 Docking Station Including 3.5' Floppy Drive And CD-ROM Drive  
-3 Months Warranty                      @             £389
+3 Months Warranty                      @             389
  
 IBM T20 Laptop Computer (Stock Ref 6062)
 Intel Pentium 111 550MHz Processor
@@ -131,7 +131,7 @@ USB, IRDA, Sound & Speakers
 Internal 56K Modem  
 No CD-ROM Drive
 Internal 3.5' Floppy Drive 
-3 Months Warranty                      @             £549
+3 Months Warranty                      @             549
  
 Dell C500 Laptop Computer (Stock Ref 7052)
 Intel Celeron 700MHz Processor
@@ -142,7 +142,7 @@ USB, IRDA, Sound & Speakers
 Internal 56K Modem  
 Internal CD-ROM Drive
 External 3.5' Floppy Drive 
-3 Months Warranty                      @             £609
+3 Months Warranty                      @             609
  
 Other specifications are available, so if the spec you require is not
 listed please do not hesitate to call our sales team on 01295 271666 for

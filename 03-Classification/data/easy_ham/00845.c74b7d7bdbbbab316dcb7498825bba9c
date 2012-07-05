@@ -19,14 +19,14 @@ Received: from nycsmtp1out.rdc-nyc.rr.com (nycsmtp1out.rdc-nyc.rr.com
 Received: from damien (66-108-144-106.nyc.rr.com [66.108.144.106]) by
     nycsmtp1out.rdc-nyc.rr.com (8.12.1/Road Runner SMTP Server 1.0) with ESMTP
     id g923pH6d025958; Tue, 1 Oct 2002 23:51:17 -0400 (EDT)
-From: "Damien Morton" <dm-temp-310102@nyc.rr.com>
-To: "'Ian Andrew Bell'" <fork@ianbell.com>,
-	"'Eugen Leitl'" <eugen@leitl.org>
+From: Damien Morton <dm-temp-310102@nyc.rr.com>
+To: 'Ian Andrew Bell' <fork@ianbell.com>,
+	'Eugen Leitl' <eugen@leitl.org>
 Cc: <tomwhore@slack.net>, <fork@spamassassin.taint.org>
 Subject: RE: Wifi query
 Message-Id: <007e01c269c6$85605800$6401a8c0@damien>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal

@@ -18,12 +18,12 @@ Received: from ematic.com (ematic-ecdc-191-64.digisle.net
     g11IWm328332 for <rpm-list@freshrpms.net>; Fri, 1 Feb 2002 19:32:49 +0100
 Received: from bfrench ([65.213.202.212]) by ematic.com ; Fri,
     01 Feb 2002 13:32:49 -0500
-From: "Brian French" <bfrench@ematic.com>
+From: Brian French <bfrench@ematic.com>
 To: <rpm-zzzlist@freshrpms.net>
 Subject: RE: Prob. w/ install/uninstall
 Message-Id: <KMENLMHDMGGFAAEMCCNKCEFGCCAA.bfrench@ematic.com>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal
@@ -80,7 +80,7 @@ Once upon a time, Brian wrote :
 > How can i get it to recognize that the package is indeed installed it,
 > and/or get it to unstall it?
 
-You're a bit too vague on your "[rpm package]" here...
+You're a bit too vague on your [rpm package] here...
 Maybe this will help you :
 
 [root@python apg]# rpm -e apg

@@ -37,11 +37,11 @@ X-Mailer: exmh version 2.5 07/13/2001 (debian 2.3.1-1) with nmh-1.0.4+dev
 To: exmh-users@spamassassin.taint.org
 Subject: Re: inbox mail notification broken
 In-Reply-To: Your message of
-    "Tue, 06 Aug 2002 20:40:06 +0700."
+    Tue, 06 Aug 2002 20:40:06 +0700.
     <26592.1028641206@munnari.OZ.AU>
 X-Image-Url: http://crypt.u-strasbg.fr/marc/m-baaden.gif
 X-Url: <http://www.marc-baaden.de>
-X-Face: -Nz&SN]%I8g9WFR#/!fe9se!_G_OndNloj@t+6jrGsoZ<t!|,TdYAQE<N8Yz|X>"z)?an0n
+X-Face: -Nz&SN]%I8g9WFR#/!fe9se!_G_OndNloj@t+6jrGsoZ<t!|,TdYAQE<N8Yz|X>z)?an0n
     P!Nls~*o?u7fy:]1N|^^(KX*uE>Nk{bHaCJ)(hXF~E#5)j.k0n4hgfIzpmn,[VY'\7X:;VOZ\CItIq
     G!2f8,k2`VLrkXQ:<.3LxEQ'E-;d:A)V#
 MIME-Version: 1.0
@@ -89,7 +89,7 @@ Marc
  >> Probably a private sequence has gotten set, the highlighting only
  >> works for public ones.
  >> 
- >> If "scan unseen" works as you'd expect, but highlighting doesn't,
+ >> If scan unseen works as you'd expect, but highlighting doesn't,
  >> that's the usual explanation.
  >> 
  >> kre

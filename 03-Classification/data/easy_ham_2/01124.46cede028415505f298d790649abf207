@@ -64,7 +64,7 @@ Once upon a time, Matthias wrote :
 > Hi, Matthias,
 > 
 > You should temporarly remove gentoo 0.11.29 from valhalla.freshrpms.net.
-> This build (and 0.11.28) has a strong bug: Problems with copying "deep"
+> This build (and 0.11.28) has a strong bug: Problems with copying deep
 > directories.
 > 
 > Have reported this to Emil, he looks currently into it, a fix should be
@@ -74,7 +74,7 @@ Once upon a time, Matthias wrote :
 
 Done.
 Well, I feel especially sorry for him since he already qualified 0.11.28 of
-"brown paper bag" release because of the column header clicking bug :-((
+brown paper bag release because of the column header clicking bug :-((
 
 I'll put up the next version as soon as it's out hoping it'll fix all
 current issues!

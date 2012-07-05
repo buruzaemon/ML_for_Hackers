@@ -77,7 +77,7 @@ Cool :-)
 OK, I'll add this.
 
 > Also, having the kernel compiled by me, I have no kernel-source package
-> installed.  I've added a flag "kernsrc", that also can be used
+> installed.  I've added a flag kernsrc, that also can be used
 > --without, to remove the dependency for kernel-source at build time.  It
 > would be nice to check the correct kernel include files actually exist
 > (/lib/modules/`uname -r`/build/include/linux/*.h), though; however, I'm
@@ -96,7 +96,7 @@ easiest is to install the alsa kernel drivers from source too...
 > out about --without from your first alsa-driver.spec, and existing RPM
 > docs don't help much.
 
-This would be a tricky one since to use the "--with <name>" feature of
+This would be a tricky one since to use the --with <name> feature of
 rpmbuild, I think you'd need to add individual handling of each and every
 card :-/
 
@@ -105,9 +105,9 @@ card :-/
 > the dependency for the rest of the alsa rpm's, and compiled the modules
 > from source.  It created the /dev files and all.
 
-That's what the "alsa-driver" is there for, create all the base files
+That's what the alsa-driver is there for, create all the base files
 excluding the kernel drivers. What I would suggest for dependency reasons
-it to install an "alsa-kernel" for the original kernel (you've kept it,
+it to install an alsa-kernel for the original kernel (you've kept it,
 right? ;-)) and install ALSA modules from source for custom kernels built
 from source.
 
@@ -133,7 +133,7 @@ from source.
 Indeed : The rpm 4.1 snapshot in (null) has a few new features among which
 having the build fail when files are present in the build root but not
 listed in the %files section. I should remove them manually as part of the
-build process... or maybe the new "%exclude /path/to/file" in the %files
+build process... or maybe the new %exclude /path/to/file in the %files
 section would do, but I don't know how older versions of rpm would handle
 it. On my (null) build system, I've simply set the variable :
 %_unpackaged_files_terminate_build 0

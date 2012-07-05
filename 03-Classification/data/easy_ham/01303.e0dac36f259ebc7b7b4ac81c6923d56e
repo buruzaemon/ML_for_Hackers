@@ -101,7 +101,7 @@ On Tue, Oct 08, 2002 at 08:01:48PM -0400, Steve Kann wrote:
 > 
 > I've tried removing the apt rpms, making sure to remove any traces left
 > behind (/etc/apt /var/state/apt /var/cache/apt), and still, I get
-> "couldn't find package xmms-mp3" when running "apt-get install xmms-mp3".
+> couldn't find package xmms-mp3 when running apt-get install xmms-mp3.
 > 
 > Any clues?  Here's a log of a fresh try:
 > 
@@ -146,12 +146,12 @@ On Tue, Oct 08, 2002 at 08:01:48PM -0400, Steve Kann wrote:
 > -- 
 >   Steve Kann - Chief Engineer - 520 8th Ave #2300 NY 10018 -  (212) 533-1775
 >                 HorizonLive.com - collaborate . interact . learn
->    "The box said 'Requires Windows 95, NT, or better,' so I installed Linux."
+>    The box said 'Requires Windows 95, NT, or better,' so I installed Linux.
 
 -- 
   Steve Kann - Chief Engineer - 520 8th Ave #2300 NY 10018 -  (212) 533-1775
                 HorizonLive.com - collaborate . interact . learn
-   "The box said 'Requires Windows 95, NT, or better,' so I installed Linux."
+   The box said 'Requires Windows 95, NT, or better,' so I installed Linux.
 
 _______________________________________________
 RPM-List mailing list <RPM-List@freshrpms.net>

@@ -58,12 +58,12 @@ Here is my recipe for Maildrop:
 # Vipul's Razor check
 #
 log `/usr/bin/razor-check`
-log "razor-check = $RETURNCODE"
+log razor-check = $RETURNCODE
 if ( $RETURNCODE == 0 )
 {
-  xfilter "reformail -a'X-Razor: SPAM'"
-  log "SPAM caught by Vipul's Razor"
-  to "$FOLDERS/.SPAM/"
+  xfilter reformail -a'X-Razor: SPAM'
+  log SPAM caught by Vipul's Razor
+  to $FOLDERS/.SPAM/
 }
 
 I used this with Razor version 1.  I'm not sure if it was ever used

@@ -19,7 +19,7 @@ Received: from linux.local (unknown [213.9.245.200]) by lugh.tuatha.org
 Received: (qmail 5842 invoked from network); 21 Sep 2002 16:48:24 -0000
 Received: from unknown (HELO h) (192.168.0.2) by linux.local with SMTP;
     21 Sep 2002 16:48:24 -0000
-From: "Sales Department" <smokesdirect@terra.es>
+From: Sales Department <smokesdirect@terra.es>
 To: social@linux.ie
 Reply-To: smokesdirect@terra.es
 X-Priority: 3

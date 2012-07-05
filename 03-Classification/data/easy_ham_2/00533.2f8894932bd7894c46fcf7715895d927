@@ -21,7 +21,7 @@ Received: from eclectic.kluge.net ([66.92.69.221]) by
 Received: (from felicity@localhost) by eclectic.kluge.net (8.11.6/8.11.6)
     id g6NNBS814844; Tue, 23 Jul 2002 19:11:28 -0400
 From: Theo Van Dinter <felicity@kluge.net>
-To: "Tabor J. Wells" <razor-users@fsckit.net>
+To: Tabor J. Wells <razor-users@fsckit.net>
 Cc: Razor-Users <razor-users@example.sourceforge.net>
 Subject: Re: [Razor-users] can't find Razor/Client.pm
 Message-Id: <20020723231128.GA14564@kluge.net>
@@ -71,8 +71,8 @@ list where it looks for Razor itself...
 
 -- 
 Randomly Generated Tagline:
-"Duct tape is like the force; it has a light side & a dark side, and it
- holds the universe together." - Zen Musings
+Duct tape is like the force; it has a light side & a dark side, and it
+ holds the universe together. - Zen Musings
 
 
 -------------------------------------------------------

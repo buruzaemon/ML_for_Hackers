@@ -21,7 +21,7 @@ Received: (from tjb@localhost) by wintermute.sr.unh.edu (8.11.6/8.11.6) id
 X-Authentication-Warning: wintermute.sr.unh.edu: tjb set sender to
     tjb@unh.edu using -f
 Subject: Apt 0.3 and 0.5
-From: "Thomas J. Baker" <tjb@unh.edu>
+From: Thomas J. Baker <tjb@unh.edu>
 To: rpm-zzzlist@freshrpms.net
 Content-Type: text/plain
 Content-Transfer-Encoding: 7bit

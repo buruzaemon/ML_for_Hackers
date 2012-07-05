@@ -20,12 +20,12 @@ Received: from MAX (adsl-66-122-60-240.dsl.sntc01.pacbell.net
     [66.122.60.240]) by pimout2-ext.prodigy.net (8.12.3 da nor stuldap/8.12.3)
     with ESMTP id g8M1hGI7171706 for <fork@xent.com>; Sat, 21 Sep 2002
     21:43:25 -0400
-From: "Max Dunn" <maxdunn@siliconpublishing.com>
+From: Max Dunn <maxdunn@siliconpublishing.com>
 To: <fork@spamassassin.taint.org>
 Subject: RE: sed /s/United States/Roman Empire/g
 Message-Id: <000101c261d9$6ef54340$6401a8c0@MAX>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="US-ASCII"
+Content-Type: text/plain; charset=US-ASCII
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal
@@ -56,8 +56,8 @@ Date: Sat, 21 Sep 2002 18:43:16 -0700
 > six-figure income.  I wish I 
 > could be exploited like that.  
 
-Like what, like the rare exception case you've raised or like the "on
-average" case mentioned in the post you were replying to?
+Like what, like the rare exception case you've raised or like the on
+average case mentioned in the post you were replying to?
 
 Max
 

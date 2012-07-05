@@ -32,9 +32,9 @@ To: ilug@linux.ie
 From: Albert White - SUN Ireland <albert.white@ireland.sun.com>
 Subject: Re: [ILUG] Sparc Solaris (was: Dell GX260 V Redhat 7.3)
 In-Reply-To: Message from
-    "Matthew French"
+    Matthew French
     <mfrench42@yahoo.co.uk> of
-    "Tue, 06 Aug 2002 09:46:27 BST."
+    Tue, 06 Aug 2002 09:46:27 BST.
     <001501c23d25$c21ba0b0$3864a8c0@sabeo.ie>
 Date: Tue, 06 Aug 2002 14:10:03 +0100
 Sender: ilug-admin@linux.ie
@@ -64,7 +64,7 @@ personal favourite at the moment is enlightenment which also has Solaris
 packages available for download.
 
 > > Basically the whole installation procedure is
-> > "boot net - install"
+> > boot net - install
 > Talking of which, you can install Sparc Linux using this technique as well.
 > The image takes a while to load, but once this is done you can install in
 > the normal fashion.
@@ -75,7 +75,7 @@ come in to a fully installed and patched desktop the next morning?
 
 > There are minor problems: like the serial console drivers, but for workstation 
 > installs I suspect it will work fine.
-I don't see why this should be a _major problem. The prom (ie the "ok" prompt) 
+I don't see why this should be a _major problem. The prom (ie the ok prompt) 
 is almost at the hardware level and hence dosent depend on the os so you 
 should be able to connect to that easily enough. Once the machine is installed 
 cant you just log in over the network? The network is the computer after all 

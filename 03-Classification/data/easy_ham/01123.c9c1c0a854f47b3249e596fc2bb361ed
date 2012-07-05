@@ -36,10 +36,10 @@ In-Reply-To: <200209131705.g8DH5Or30284@lin12.triumf.ca>
 References: <200209131130.g8DBUZL24217@hobbit.linuxworks.com.au.nospam>
     <200209131705.g8DH5Or30284@lin12.triumf.ca>
 Comments: In-reply-to Rick Baartman <baartman@lin12.triumf.ca> message
-    dated "Fri, 13 Sep 2002 10:05:23 -0700."
+    dated Fri, 13 Sep 2002 10:05:23 -0700.
 From: Brent Welch <welch@panasas.com>
 X-Url: http://www.panasas.com/
-X-Face: "HxE|?EnC9fVMV8f70H83&{fgLE.|FZ^$>@Q(yb#N,Eh~N]e&]=>r5~UnRml1:4EglY{9B+
+X-Face: HxE|?EnC9fVMV8f70H83&{fgLE.|FZ^$>@Q(yb#N,Eh~N]e&]=>r5~UnRml1:4EglY{9B+
     :'wJq$@c_C!l8@<$t,{YUr4K,QJGHSvS~U]H`<+L*x?eGzSk>XH\W:AK\j?@?c1o<k;j'Ei/UL)!*0
     ILwSR)J\bc)gjz!rrGQ2#i*f:M:ydhK}jp4dWQW?;0{,#iWrCV$4~%e/3)$1/D
 X-Loop: exmh-users@spamassassin.taint.org
@@ -60,14 +60,14 @@ List-Archive: <https://listman.spamassassin.taint.org/mailman/private/exmh-users
 Date: Sun, 22 Sep 2002 22:08:16 -0700
 
 It's all here in these 10 lines, otherwise known as the
-"I'll try my damnest to paste something" procedure:
+I'll try my damnest to paste something procedure:
 
 # Return the current selection (from any window) or cut buffer 0.
 proc Text_Selection {} {
     if [catch {selection get} sel] {
         if [catch {selection get -selection CLIPBOARD} sel] {
             if [catch {cutbuffer get 0} sel] {
-                return ""
+                return 
             }
         }
     }
@@ -75,7 +75,7 @@ proc Text_Selection {} {
 }
 
 This is in textSelection.tcl, and is what exmh uses to find text to paste.
-It is that last "cutbuffer get" that is wacky, because exmh sticks its
+It is that last cutbuffer get that is wacky, because exmh sticks its
 own deletions into that little know stash, and is probably the only
 application on the planet that still looks there.  We should probably
 just disable that - try this variant:
@@ -83,7 +83,7 @@ just disable that - try this variant:
 proc Text_Selection {} {
     if [catch {selection get} sel] {
         if [catch {selection get -selection CLIPBOARD} sel] {
-            return ""
+            return 
         }
     }
     return $sel
@@ -127,7 +127,7 @@ Everything funnels through here, so you just need to hack this one spot.
      s 
  > pasted is NOT what was last highlighted in sedit, but what was last highligh
      ted 
- > and typed over (I have "Type Kills SEL" on.).
+ > and typed over (I have Type Kills SEL on.).
  > 
  > It seems that exmh and sedit are the oddballs here. Very often when I try to
       

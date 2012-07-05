@@ -19,12 +19,12 @@ Received: from barrera.org (unknown [63.145.31.2]) by xent.com (Postfix)
 Received: from  (127.0.0.1 [127.0.0.1]) by MailEnable Inbound Mail Agent
     with ESMTP; Wed, 04 Sep 2002 02:30:43 -08:00
 Message-Id: <3D757053.7030006@barrera.org>
-From: "Joseph S. Barrera III" <joe@barrera.org>
+From: Joseph S. Barrera III <joe@barrera.org>
 Organization: Wings over the World
 User-Agent: Mutt 5.00.2919.6900 DM (Nigerian Scammer Special Edition)
 X-Accept-Language: en-us, en, ja
 MIME-Version: 1.0
-To: "Adam L. Beberg" <beberg@mithral.com>
+To: Adam L. Beberg <beberg@mithral.com>
 Cc: Kragen Sitaker <kragen@pobox.com>, fork@spamassassin.taint.org
 Subject: Re: asynchronous I/O (was Re: Gasp!)
 References: <Pine.LNX.4.33.0209031924180.13303-100000@watcher.mithral.com>

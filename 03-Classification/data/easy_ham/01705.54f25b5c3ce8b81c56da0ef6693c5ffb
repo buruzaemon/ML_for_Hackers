@@ -20,7 +20,7 @@ tokenization.
 
 > Here are results with the stock tokenizer:
 
-Unsure what "stock tokenizer" means to you.  For example, it might mean
+Unsure what stock tokenizer means to you.  For example, it might mean
 tokenizer.tokenize, or mboxtest.MyTokenizer.tokenize.
 
 > Training on <mbox: /home/jeremy/Mail/INBOX 0> & <mbox:
@@ -56,7 +56,7 @@ and 220 of spam.  That remains A Mystery.
 > And results from the tokenizer that looks at all headers except Date,
 > Received, and X-From_:
 
-Unsure what that means too.  For example, "looks at" might mean you enabled
+Unsure what that means too.  For example, looks at might mean you enabled
 Anthony's count-them gimmick, and/or that you're tokenizing them yourself,
 and/or ...?
 
@@ -92,7 +92,7 @@ and/or ...?
 
 Since I don't know what you did, exactly, I can't guess.  What you seemed to
 show is that you did *something* clever with headers and that doing so
-helped (the "after" numbers are better than the "before" numbers, right?).
+helped (the after numbers are better than the before numbers, right?).
 Assuming that what you did was override what's now
 tokenizer.Tokenizer.tokenize_headers with some other routine, and didn't
 call the base Tokenizer.tokenize_headers at all, then you're missing
@@ -110,9 +110,9 @@ reported good results from this scheme:
 
     ip_re = re.compile(r'(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3})')
 
-    for header in msg.get_all("received", ()):
+    for header in msg.get_all(received, ()):
         for ip in ip_re.findall(header):
-            parts = ip.split(".")
+            parts = ip.split(.)
             for n in range(1, 5):
                 yield 'received:' + '.'.join(parts[:n])
 

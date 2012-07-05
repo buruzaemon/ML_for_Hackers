@@ -60,7 +60,7 @@ arts-devel installed, its support will be compiled in :-/
 Also, I had made another mistake and added the configure option to disable
 lirc ot xine-lib when it should have been for xine-ui.
 
-All this is fixed in the upcoming "fr6" release.
+All this is fixed in the upcoming fr6 release.
 
 Matthias
 

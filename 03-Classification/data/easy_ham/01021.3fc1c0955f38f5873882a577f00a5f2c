@@ -34,7 +34,7 @@ Message-Id: <200209132329.g8DNTx409571@head-cfa.harvard.edu>
 X-Mailer: exmh version 2.3.1 01/18/2001 with nmh-1.0.4
 To: exmh-users@spamassassin.taint.org
 Subject: Automated forwarding
-From: "Wendy P. Roberts" <wendy@head-cfa.harvard.edu>
+From: Wendy P. Roberts <wendy@head-cfa.harvard.edu>
 X-Loop: exmh-users@spamassassin.taint.org
 Sender: exmh-users-admin@spamassassin.taint.org
 Errors-To: exmh-users-admin@spamassassin.taint.org
@@ -66,7 +66,7 @@ I currently have in my .exmh-defaults:
 _Remove
 
 
-I've also tried with "SeditSend {$draft $t 0}" after the forward command.
+I've also tried with SeditSend {$draft $t 0} after the forward command.
 It should forward to a spam address (where filters get adjusted) and then
 delete.  It does so, but not without producing the edit window.
 

@@ -13,7 +13,7 @@ just the MIME boundaries.  For instance, the following message:
 From: somebody <someone@somewhere.org>
 To: neale@woozle.org
 Subject: Booga
-Content-type: multipart/alternative; boundary="snot"
+Content-type: multipart/alternative; boundary=snot
 
 This is a multi-part message in MIME format.
 
@@ -36,7 +36,7 @@ Comes out like this:
 From: somebody <someone@somewhere.org>
 To: neale@woozle.org
 Subject: Booga
-Content-type: multipart/alternative; boundary="snot"
+Content-type: multipart/alternative; boundary=snot
 X-Hammie-Disposition: No; 0.74; [unrelated gar removed]
 
 This is a multi-part message in MIME format.
@@ -46,7 +46,7 @@ This is a multi-part message in MIME format.
 --snot--
 ------------------------------8<------------------------------
 
-I'm using "Python 2.3a0 (#1, Sep  9 2002, 22:56:24)".
+I'm using Python 2.3a0 (#1, Sep  9 2002, 22:56:24).
 
 I've fixed it with the following patch to Tim's tokenizer, but I have to
 admit that I'm baffled as to why it works.  Maybe there's some subtle
@@ -69,7 +69,7 @@ diff -u -r1.15 tokenizer.py
 +++ tokenizer.py	11 Sep 2002 05:01:16 -0000
 @@ -1,3 +1,4 @@
 +#! /usr/bin/env python
- """Module to tokenize email messages for spam filtering."""
+ Module to tokenize email messages for spam filtering.
  
  import email
 @@ -507,7 +508,8 @@

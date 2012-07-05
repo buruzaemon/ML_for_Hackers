@@ -39,7 +39,7 @@ still, feel free to check in something better.
 The Msg and MsgStream classes in timtest.py are a start at that, but it's
 hard to do anything truly *useful* here when people use all sorts of
 different physical representations for email msgs (mboxes in various
-formats, one file per "folder", one file per msg, Skip's gzipped gimmick,
+formats, one file per folder, one file per msg, Skip's gzipped gimmick,
 ...).  If you're a Python coder <wink>, you *should* find it very easy to
 change the guts of Msg and MsgStream to handle your peculiar scheme.
 Defining interfaces for these guys should be done.

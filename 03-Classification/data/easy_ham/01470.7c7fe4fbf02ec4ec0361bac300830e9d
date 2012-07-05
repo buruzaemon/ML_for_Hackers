@@ -28,12 +28,12 @@ Received: by greece.local.net with Internet Mail Service (5.5.2653.19) id
     <RXNP4B5Z>; Fri, 13 Sep 2002 15:04:11 +0100
 Message-Id: <87A8DADECEE0D411A5500050046B13A048D792@greece.local.net>
 From: Tony Hoyle <tmh@magenta-netlogic.com>
-To: "'carlo@alinoe.com'" <carlo@alinoe.com>,
+To: 'carlo@alinoe.com' <carlo@alinoe.com>,
 	spamassassin-talk@lists.sourceforge.net
 Subject: RE: [SAtalk] Getting yourself removed from spam lists
 MIME-Version: 1.0
 X-Mailer: Internet Mail Service (5.5.2653.19)
-Content-Type: text/plain; charset="windows-1252"
+Content-Type: text/plain; charset=windows-1252
 X-Virus-Scanned: by AMaViS new-20020517
 X-Razor-Id: 72f4879d997b64bc62636a2e2a86360b74ef5fe4
 Sender: spamassassin-talk-admin@example.sourceforge.net

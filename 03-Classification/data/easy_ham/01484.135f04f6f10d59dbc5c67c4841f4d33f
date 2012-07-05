@@ -28,7 +28,7 @@ X-Mailer: QUALCOMM Windows Eudora Light Version 3.0.5 (32)
 To: spamassassin-talk@example.sourceforge.net
 From: Chris <cfortune@telus.net>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Subject: [SAtalk] Running SA as a user app?
 Sender: spamassassin-talk-admin@example.sourceforge.net
 Errors-To: spamassassin-talk-admin@example.sourceforge.net

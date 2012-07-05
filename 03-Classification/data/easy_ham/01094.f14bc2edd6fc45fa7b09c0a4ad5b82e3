@@ -29,8 +29,8 @@ Message-Id: <20020206163018.C17717@cs.helsinki.fi>
 References: <20020206162953.C10950@pihlaja.kotilo>
 MIME-Version: 1.0
 Content-Type: multipart/signed; micalg=pgp-md5;
-    protocol="application/pgp-signature";
-    boundary="bg08WKrSYDhXBjb5"
+    protocol=application/pgp-signature;
+    boundary=bg08WKrSYDhXBjb5
 Content-Disposition: inline
 User-Agent: Mutt/1.2.5.1i
 In-Reply-To: <20020206162953.C10950@pihlaja.kotilo>; from pisara@iki.fi on

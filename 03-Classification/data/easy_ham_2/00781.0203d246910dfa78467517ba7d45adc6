@@ -30,7 +30,7 @@ Received: from smtp3.knology.net
 Received: (qmail 27310 invoked by uid 8002); 17 Aug 2002 02:36:00 -0000
 Received: from unknown (HELO grumpy.dyndns.org) (24.214.34.52) by
     smtp3.knology.net with SMTP; 17 Aug 2002 02:36:00 -0000
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 From: David Kelly <dkelly@HiWAAY.net>
 To: exmh-users@spamassassin.taint.org, Peter <pfheiss@philonline.com>
 Subject: Re: No more spell-check

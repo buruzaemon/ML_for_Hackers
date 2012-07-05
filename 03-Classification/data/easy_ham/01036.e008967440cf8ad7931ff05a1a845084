@@ -62,7 +62,7 @@ Once upon a time, Ville wrote :
 > > the box (on vanilla Valhalla w/latest errata).
 > 
 > ...except that I don't see an init script in the RPMs, a sample one
-> designed for RH is supposed to be in "utils/alsasound".  Could you take
+> designed for RH is supposed to be in utils/alsasound.  Could you take
 > a look if it can be included?
 
 It doesn't need to as Red Hat Linux already sets correct permissions on all
@@ -74,7 +74,7 @@ computer is halted, even using ALSA.
 
 I'm glad you got your card working with these! I'm now wondering if I won't
 maybe buy an amplifier that supports Dolby Digial decoding (my current one
-"only" does PRo Logic) since I've read that ALSA supports the S/PDIF
+only does PRo Logic) since I've read that ALSA supports the S/PDIF
 optical output of the sound chip of my Shuttle!
 (http://freshrpms.net/shuttle/)
 

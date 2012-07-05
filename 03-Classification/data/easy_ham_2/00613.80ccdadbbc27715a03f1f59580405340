@@ -24,7 +24,7 @@ Received: from h-66-166-21-186.snvacaid.covad.net ([66.166.21.186]
 Received: (from jpr5@localhost) by cynosure.darkridge.com (8.11.6/8.11.5)
     id g78M9Pn02405; Thu, 8 Aug 2002 15:09:25 -0700
 From: Jordan Ritter <jpr5@darkridge.com>
-To: "Craig R . Hughes" <craig@deersoft.com>,
+To: Craig R . Hughes <craig@deersoft.com>,
 	razor-users@lists.sourceforge.net
 Message-Id: <20020808220925.GF1767@darkridge.com>
 References: <007001c23ef4$25af8f40$6600a8c0@dhiggins>
@@ -32,8 +32,8 @@ References: <007001c23ef4$25af8f40$6600a8c0@dhiggins>
     <20020808142859.A4489@rover.vipul.net>
 MIME-Version: 1.0
 Content-Type: multipart/signed; micalg=pgp-sha1;
-    protocol="application/pgp-signature";
-    boundary="f0KYrhQ4vYSV2aJu"
+    protocol=application/pgp-signature;
+    boundary=f0KYrhQ4vYSV2aJu
 Content-Disposition: inline
 In-Reply-To: <20020808142859.A4489@rover.vipul.net>
 User-Agent: Mutt/1.4i

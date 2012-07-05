@@ -21,10 +21,10 @@ Received: from p233-196.as1.cbr.castlebar.eircom.net (HELO oemcomputer)
     (159.134.233.196) by mail03.svc.cra.dublin.eircom.net (qp 45645) with SMTP;
     3 Aug 2002 19:19:33 -0000
 Message-Id: <001501c23b22$e0446220$c4e9869f@oemcomputer>
-From: "Brian O'Brien" <obrienbrian@eircom.net>
+From: Brian O'Brien <obrienbrian@eircom.net>
 To: <iiu@taint.org>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal

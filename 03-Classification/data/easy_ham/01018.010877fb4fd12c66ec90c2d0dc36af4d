@@ -35,9 +35,9 @@ Received: from ptavv (localhost [127.0.0.1]) by ptavv.es.net (Postfix)
 To: exmh-users@spamassassin.taint.org
 Subject: Re: bad focus/click behaviours
 In-Reply-To: Your message of
-    "Fri, 13 Sep 2002 21:30:34 +1000."
+    Fri, 13 Sep 2002 21:30:34 +1000.
     <200209131130.g8DBUZL24217@hobbit.linuxworks.com.au.nospam>
-From: "Kevin Oberman" <oberman@es.net>
+From: Kevin Oberman <oberman@es.net>
 Message-Id: <20020913144647.E8CED5D04@ptavv.es.net>
 X-Loop: exmh-users@spamassassin.taint.org
 Sender: exmh-users-admin@spamassassin.taint.org
@@ -78,7 +78,7 @@ Date: Fri, 13 Sep 2002 07:46:47 -0700
 > > but I suppose it and mozilla are the same codebase, approx) - in fact
 > > I can't thing of anything it fails for, that I have noticed.
 > > 
-> > What is an example of an "anything else" that it fails for for you?
+> > What is an example of an anything else that it fails for for you?
 > 
 > Everything else :)  I can't even mark text in an exmh message window
 > and then paste it into a terminal window, the cut buffer seems to be

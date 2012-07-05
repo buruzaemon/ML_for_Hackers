@@ -21,7 +21,7 @@ Received: from barney (fw.jinny.ie [193.120.171.2]) by homer.jinny.ie
     7 Oct 2002 09:30:00 +0100 (IST)
 Received: from john by barney with local (Exim 3.35 #1 (Debian)) id
     17yTH7-0005Mi-00 for <ilug@linux.ie>; Mon, 07 Oct 2002 09:30:01 +0100
-From: "John P. Looney" <valen@tuatha.org>
+From: John P. Looney <valen@tuatha.org>
 To: ilug@linux.ie
 Subject: Re: [ILUG] rpm dependencies
 Message-Id: <20021007083001.GJ16947@jinny.ie>

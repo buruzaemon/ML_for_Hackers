@@ -22,7 +22,7 @@ Message-Id: <200209301934.MAA06188@maltesecat>
 To: fork@spamassassin.taint.org
 Subject: Re: EBusiness Webforms: cluetrain has left the station
 In-Reply-To: Message from fork-request@xent.com of
-    "Mon, 30 Sep 2002 05:29:02 PDT."
+    Mon, 30 Sep 2002 05:29:02 PDT.
     <20020930122902.4016.16668.Mailman@lair.xent.com>
 From: Dave Long <dl@silcom.com>
 Sender: fork-admin@xent.com
@@ -42,7 +42,7 @@ Date: Mon, 30 Sep 2002 12:34:12 -0700
 
 
 > >                                                ... webforms /can/
-> > accept "U.S. of A" as a country.  Incredible, but true.  Web forms can
+> > accept U.S. of A as a country.  Incredible, but true.  Web forms can
 > > also accept /multiple/ or even /free-form/ telephone numbers ...
 
 Are the people who use procrustean web
@@ -76,7 +76,7 @@ I want to do with their contents.
 
 :::::::::
 
-"dumb question: X client behind a firewall?"
+dumb question: X client behind a firewall?
 > Back in my day, they didn't have ssh. Then again, back in my day,
 > they didn't have firewalls.
 

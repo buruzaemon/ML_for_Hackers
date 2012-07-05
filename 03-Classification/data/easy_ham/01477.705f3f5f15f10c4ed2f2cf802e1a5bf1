@@ -21,10 +21,10 @@ Received: from mail.terraworld.net ([64.254.32.52]
     -0700
 Received: (qmail 81756 invoked by uid 89); 15 Sep 2002 15:07:42 -0000
 Message-Id: <20020915150742.81753.qmail@kronos.terraworld.net>
-From: "dhs" <dhs@terraworld.net>
+From: dhs <dhs@terraworld.net>
 To: spamassassin-devel@example.sourceforge.net
 MIME-Version: 1.0
-Content-Type: text/plain; format=flowed; charset="iso-8859-1"
+Content-Type: text/plain; format=flowed; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 Subject: [SAdev] spamc load balancing to multiple spamd
 Sender: spamassassin-devel-admin@example.sourceforge.net

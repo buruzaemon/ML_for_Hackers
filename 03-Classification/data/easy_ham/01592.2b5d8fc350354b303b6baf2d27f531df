@@ -23,8 +23,8 @@ Received: from localhost (mail.co-ver.it [127.0.0.1]) by mail.co-ver.it
 Received: from 0124in (0-124IN.co-ver.it [192.168.0.124]) by
     mail.co-ver.it (Postfix) with ESMTP id 99C591F44C; Thu, 19 Sep 2002
     09:33:15 +0200 (CEST)
-From: "Boniforti Flavio" <boniforti.f@co-ver.it>
-To: "'Santiago Vila'" <sanvila@unex.es>
+From: Boniforti Flavio <boniforti.f@co-ver.it>
+To: 'Santiago Vila' <sanvila@unex.es>
 Cc: <razor-users@example.sourceforge.net>
 Subject: RE: [Razor-users] RE: Re: Some startup questions...
 Organization: Informa Srl
@@ -56,7 +56,7 @@ Date: Thu, 19 Sep 2002 09:34:04 +0200
 > enough with razor and understand how it works, try the complex things
 > like integration with the MTA and the like.
 
-OK, but do I have to launch that command as "root" or what?
+OK, but do I have to launch that command as root or what?
 
 Thank you
 

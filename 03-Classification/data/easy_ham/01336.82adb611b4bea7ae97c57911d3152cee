@@ -23,8 +23,8 @@ References: <20020827224738.GA30677@kluge.net>
     <33052.194.125.220.138.1030490064.squirrel@jmason.org>
 MIME-Version: 1.0
 Content-Type: multipart/signed; micalg=pgp-sha1;
-    protocol="application/pgp-signature";
-    boundary="wLAMOaPNJ0fu1fTG"
+    protocol=application/pgp-signature;
+    boundary=wLAMOaPNJ0fu1fTG
 Content-Disposition: inline
 In-Reply-To: <33052.194.125.220.138.1030490064.squirrel@spamassassin.taint.org>
 User-Agent: Mutt/1.4i
@@ -56,9 +56,9 @@ out permissions unless you absolutely need to.   ;)
 
 --=20
 Randomly Generated Tagline:
-"The cardinal rule at our school is simple. No shooting at teachers. If
- you have to shoot a gun, shoot it at a student or an administrator."
-                 - "Word Smart II", from Princeton Review Pub.
+The cardinal rule at our school is simple. No shooting at teachers. If
+ you have to shoot a gun, shoot it at a student or an administrator.
+                 - Word Smart II, from Princeton Review Pub.
 
 --wLAMOaPNJ0fu1fTG
 Content-Type: application/pgp-signature

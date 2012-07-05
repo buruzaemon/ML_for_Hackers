@@ -32,8 +32,8 @@ References: <Pine.LNX.4.44.0207231035460.15938-100000@aztec.zanshin.com>
     <20020723202227.L92608-100000@moon.campus.luth.se>
 MIME-Version: 1.0
 Content-Type: multipart/signed; micalg=pgp-sha1;
-    protocol="application/pgp-signature";
-    boundary="PEIAKu/WMn1b1Hv9"
+    protocol=application/pgp-signature;
+    boundary=PEIAKu/WMn1b1Hv9
 Content-Disposition: inline
 In-Reply-To: <20020723202227.L92608-100000@moon.campus.luth.se>
 User-Agent: Mutt/1.4i
@@ -59,7 +59,7 @@ Date: Tue, 23 Jul 2002 19:19:27 -0600
 Content-Type: text/plain; charset=us-ascii
 Content-Disposition: inline
 
-> PS I know my English isn't good, but... "negative score added", can
+> PS I know my English isn't good, but... negative score added, can
 > you really say that? Adding something negative... hmmm...
 
 Yes, that is perfectly legitimate.  It is a math / accounting thing.

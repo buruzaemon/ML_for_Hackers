@@ -25,14 +25,14 @@ Received: from ws4-4.us4.outblaze.com (205-158-62-105.outblaze.com
     15:50:18 GMT
 Received: (qmail 27544 invoked by uid 1001); 30 Jul 2002 15:50:17 -0000
 Message-Id: <20020730155017.27541.qmail@linuxmail.org>
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Disposition: inline
 Content-Transfer-Encoding: 7bit
 MIME-Version: 1.0
 X-Mailer: MIME-tools 5.41 (Entity 5.404)
 Received: from [127.0.0.1] by ws4-4.us4.outblaze.com with http for
     kworthington@linuxmail.org; Tue, 30 Jul 2002 10:50:17 -0500
-From: "Kevin Worthington" <kworthington@linuxmail.org>
+From: Kevin Worthington <kworthington@linuxmail.org>
 To: rpm-zzzlist@freshrpms.net
 Subject: Re: building as non-root / newbie question
 X-Originating-Ip: 127.0.0.1
@@ -55,12 +55,12 @@ List-Archive: <http://lists.freshrpms.net/pipermail/rpm-zzzlist/>
 X-Original-Date: Tue, 30 Jul 2002 10:50:17 -0500
 Date: Tue, 30 Jul 2002 10:50:17 -0500
 
-> Hehe :-) So your usual *n?x login is "dude" too? ;-)))))))
+> Hehe :-) So your usual *n?x login is dude too? ;-)))))))
 > 
 > Matthias
 
 Hey Matthias,
-Actually it isn't, I used yours (I remembered from the RPM builder's guide "The fight" that your wrote). Mine is boring, I use kworthington, since my boxes are on a corporate LAN.
+Actually it isn't, I used yours (I remembered from the RPM builder's guide The fight that your wrote). Mine is boring, I use kworthington, since my boxes are on a corporate LAN.
 Sorry to get your hopes up! You can think of it as a tribute to you if it makes you feel any better :-)
 
 ------------------------------------------------

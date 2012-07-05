@@ -23,9 +23,9 @@ Received: from localhost (eugen@localhost) by hydrogen.leitl.org
     (8.11.6/8.11.6) with ESMTP id g75FiQ014693; Mon, 5 Aug 2002 17:44:52 +0200
 X-Authentication-Warning: hydrogen.leitl.org: eugen owned process doing -bs
 From: Eugen Leitl <eugen@leitl.org>
-To: "Stephen D. Williams" <sdw@lig.net>
+To: Stephen D. Williams <sdw@lig.net>
 Cc: Udhay Shankar N <udhay@pobox.com>,
-	"Mr. FoRK" <fork_list@hotmail.com>, <fork@xent.com>
+	Mr. FoRK <fork_list@hotmail.com>, <fork@xent.com>
 Subject: Re: Using hosts file to rid yourself of popup ads
 In-Reply-To: <3D4E99A8.9000801@lig.net>
 Message-Id: <Pine.LNX.4.33.0208051743570.5669-100000@hydrogen.leitl.org>

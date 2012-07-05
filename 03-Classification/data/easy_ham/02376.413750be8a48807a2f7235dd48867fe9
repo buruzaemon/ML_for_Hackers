@@ -28,9 +28,9 @@ sort of way.
 The other big change is the inclusion of MT-search to allow users to have their 
 own site search. Every web site needs a site search[2]. Existing MT-search 
 users should merge the contents of mt-search.cfg into mt.cfg, change 
-"TemplateDir" to "SearchTemplatePath", and (if you use alternate templates) 
-change "AltTemplate1", "AltTemplate2", "AltTemplate3", etc. to "AltTemplate". 
-They should all just be "AltTemplate". 
+TemplateDir to SearchTemplatePath, and (if you use alternate templates) 
+change AltTemplate1, AltTemplate2, AltTemplate3, etc. to AltTemplate. 
+They should all just be AltTemplate. 
 
 - Download MT 2.5[3]. 
 - MT 2.5 changelog[4]. 

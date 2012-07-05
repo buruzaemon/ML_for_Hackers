@@ -34,8 +34,8 @@ Received: from dimebox.bmc.com (localhost [127.0.0.1]) by dimebox.bmc.com
 X-Mailer: exmh version 2.5 07/13/2001 with nmh-1.0.4
 In-Reply-To: <E17v8Mw-0004eS-00@pmenage-dt.ensim.com>
 References: <E17v8Mw-0004eS-00@pmenage-dt.ensim.com>
-Comments: In-reply-to Paul Menage <pmenage@ensim.com> message dated "Fri,
-    27 Sep 2002 20:34:14 -0700."
+Comments: In-reply-to Paul Menage <pmenage@ensim.com> message dated Fri,
+    27 Sep 2002 20:34:14 -0700.
 To: exmh-users@spamassassin.taint.org
 Subject: Re: Help! I've lost my exmh-unseen window!
 MIME-Version: 1.0
@@ -62,10 +62,10 @@ Date: Fri, 27 Sep 2002 23:09:52 -0500
 
 
 
->>>>> On Fri, 27 Sep 2002, "Paul" == Paul Menage wrote:
+>>>>> On Fri, 27 Sep 2002, Paul == Paul Menage wrote:
 
   Paul> so you don't really need the unseen window unless you're
-  Paul> using more sequences than just "unseen".
+  Paul> using more sequences than just unseen.
 
 I use a virtual window manager and keep the main exmh window and 
 the detached folder list on one virtual desktop but the unseen 

@@ -25,7 +25,7 @@ Subject: Re: RedHat 8.0 and his own freetype
 To: rpm-zzzlist@freshrpms.net
 Message-Id: <3DA3C96B.7050007@eecs.berkeley.edu>
 MIME-Version: 1.0
-Content-Type: multipart/mixed; boundary="Boundary_(ID_xjiotMI3LbV/zJ0Zs39NiA)"
+Content-Type: multipart/mixed; boundary=Boundary_(ID_xjiotMI3LbV/zJ0Zs39NiA)
 X-Accept-Language: en-us, en
 User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.1) Gecko/20020827
 References: <20021004155451.52f9ecd5.matthias_haase@bennewitz.com>
@@ -69,28 +69,28 @@ sense that the antialiased text in my GNOME2 applications just looked,
 well, wrong somehow.  I finally took some comparison screen shots with 
 and without the interpreter, and that made the difference crystal clear.
 
-Consider the two images attached below.  The first, "no-bytecodes.png", 
+Consider the two images attached below.  The first, no-bytecodes.png, 
 shows some text rendered by a GNOME2 panel menu without the bytecode 
-interpreter.  Contrast this with the second, "bytecodes.png", taken with 
+interpreter.  Contrast this with the second, bytecodes.png, taken with 
 the bytecode interpreter enabled.
 
 When the bytecode interpreter is turned on, notice that several 
 rendering anomalies appear:
 
    - Several letters are narrower, giving the whole run of text a more
-     compressed feel.  This is especially noticeable in "R" and "o".
+     compressed feel.  This is especially noticeable in R and o.
 
-   - The left side of the "Q" is painted in too light a shade of grey,
-     causing it to drop out somewhat.  "C", not in this sample, has the
+   - The left side of the Q is painted in too light a shade of grey,
+     causing it to drop out somewhat.  C, not in this sample, has the
      same problem.
 
-   - "Qu" are set right up against each other, with insufficient
+   - Qu are set right up against each other, with insufficient
      whitespace between them.
 
-   - "M" is distinctly asymmetric.
+   - M is distinctly asymmetric.
 
-   - The enclosed loop of "a" looks muddy, as it is partially filled
-     with grey.  Contrast with "a" drawn without the bytecode
+   - The enclosed loop of a looks muddy, as it is partially filled
+     with grey.  Contrast with a drawn without the bytecode
      interpreter, which has a nice clear open loop.
 
 Ick.  Perhaps this is why Red Hat turned the bytecode interpreter off. 

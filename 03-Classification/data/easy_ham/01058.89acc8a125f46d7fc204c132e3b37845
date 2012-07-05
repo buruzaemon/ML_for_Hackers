@@ -22,7 +22,7 @@ Received: from localhost.localdomain ([218.188.76.21]) by egwn.net
 Received: from localhost (localhost [[UNIX: localhost]]) by
     localhost.localdomain (8.11.6/8.11.6) id g8670VX01954 for
     rpm-list@freshrpms.net; Fri, 6 Sep 2002 15:00:31 +0800
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 From: Stephen Liu <satimis@writeme.com>
 To: rpm-zzzlist@freshrpms.net
 Subject: Apt-get question

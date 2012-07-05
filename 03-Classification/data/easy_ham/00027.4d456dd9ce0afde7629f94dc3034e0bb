@@ -21,7 +21,7 @@ Received: from mail.dnet.co.uk (unverified [194.46.8.61]) by
     ni-mail1.dna.utvinternet.net (Vircom SMTPRS 1.4.232) with SMTP id
     <B0002356019@ni-mail1.dna.utvinternet.net>; Thu, 22 Aug 2002 18:55:19
     +0100
-From: "Peter Staunton" <peter@staunton.ie>
+From: Peter Staunton <peter@staunton.ie>
 Reply-To: peter@staunton.ie
 To: ilug@linux.ie
 Date: Thu, 22 Aug 2002 18:57:35 GMT
@@ -45,7 +45,7 @@ Just got a new PC at home - Dell box with Windows XP. Added a second hard disk
 for Linux. Partitioned the disk and have installed Suse 7.2 from CD, which went
 fine except it didn't pick up my monitor.
  
-I have a Dell branded E151FPp 15" LCD flat panel monitor and a nVidia GeForce4
+I have a Dell branded E151FPp 15 LCD flat panel monitor and a nVidia GeForce4
 Ti4200 video card, both of which are probably too new to feature in Suse's default
 set. I downloaded a driver from the nVidia website and installed it using RPM.
 Then I ran Sax2 (as was recommended in some postings I found on the net), but

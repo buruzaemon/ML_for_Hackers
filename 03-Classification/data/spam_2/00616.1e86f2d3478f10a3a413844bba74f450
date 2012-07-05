@@ -11,7 +11,7 @@ Received: from emztd2225.com ([216.97.147.5]) by webnote.net (8.9.3/8.9.3)
     with SMTP id DAA21228 for <jm@netnoteinc.com>; Thu, 6 Jun 2002 03:00:29
     +0100
 Message-Id: <200206060200.DAA21228@webnote.net>
-From: "aluko martin" <al_mat21@mail.com>
+From: aluko martin <al_mat21@mail.com>
 Reply-To: al_mat21@mail.com
 To: yyyy@netnoteinc.com
 Date: Thu, 6 Jun 2002 03:07:26 +0200
@@ -19,10 +19,10 @@ Subject: asap
 X-Mailer: Microsoft Outlook Express 5.00.2919.6900 DM
 MIME-Version: 1.0
 X-Keywords: 
-Content-Type: multipart/mixed; boundary="===_SecAtt_000_1fuklemuttfusq"
+Content-Type: multipart/mixed; boundary====_SecAtt_000_1fuklemuttfusq
 
 --===_SecAtt_000_1fuklemuttfusq
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: quoted-printable
 
 Aluko Martin
@@ -57,9 +57,9 @@ Aluko Martin=2E
 
 
 --===_SecAtt_000_1fuklemuttfusq
-Content-Type: application/octet-stream; name="MailXS_list.lst"
+Content-Type: application/octet-stream; name=MailXS_list.lst
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="MailXS_list.lst"
+Content-Disposition: attachment; filename=MailXS_list.lst
 
 
 --===_SecAtt_000_1fuklemuttfusq

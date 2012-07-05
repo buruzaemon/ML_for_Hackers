@@ -23,7 +23,7 @@ Received: from iww.netfr.alcatel.fr (iww.netfr.alcatel.fr
     g86I3uCv015726 for <spamassassin-talk@lists.sourceforge.net>;
     Fri, 6 Sep 2002 20:03:57 +0200
 Received: by iww.netfr.alcatel.fr
-    ("Mikrosoft Xchange",
+    (Mikrosoft Xchange,
     from userid 513) id 1F1771B2E; Fri,  6 Sep 2002 20:04:20 +0200 (CEST)
 From: Stephane Lentz <Stephane.Lentz@ansf.alcatel.fr>
 To: spamassassin-talk@example.sourceforge.net
@@ -61,7 +61,7 @@ On Fri, Sep 06, 2002 at 06:22:52PM +0100, Matt Sergeant wrote:
 > handle extra headers, but I'm sure that can't be universally true.
 > 
 > I've searched the 'net, and it seems that Notes can only filter based on 
-> the "visible" headers, i.e. sender, subject, precedence, etc. Is there 
+> the visible headers, i.e. sender, subject, precedence, etc. Is there 
 > any way to filter based on X- headers?
 
 => Yes the only way out with Notes looks like changing the subject 

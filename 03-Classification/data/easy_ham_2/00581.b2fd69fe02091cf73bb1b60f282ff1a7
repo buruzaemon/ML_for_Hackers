@@ -21,12 +21,12 @@ Received: from adsl-64-171-13-166.dsl.sntc01.pacbell.net ([64.171.13.166]
 Received: (from vipul@localhost) by rover.vipul.net (8.11.6/8.11.6) id
     g777jJK01455; Wed, 7 Aug 2002 00:45:19 -0700
 From: Vipul Ved Prakash <mail@vipul.net>
-To: "Rose, Bobby" <brose@med.wayne.edu>
+To: Rose, Bobby <brose@med.wayne.edu>
 Cc: ML-razor-users <razor-users@example.sourceforge.net>
 Subject: Re: [Razor-users] What's wrong with the Razor servers now?
 Message-Id: <20020807004518.A1213@rover.vipul.net>
 Reply-To: mail@vipul.net
-Mail-Followup-To: "Rose, Bobby" <brose@med.wayne.edu>,
+Mail-Followup-To: Rose, Bobby <brose@med.wayne.edu>,
 	ML-razor-users <razor-users@lists.sourceforge.net>
 References: <D79A56AD131896448D0860DEE07CBE1FA7D8@med-core07.med.wayne.edu>
 MIME-Version: 1.0
@@ -101,8 +101,8 @@ On Tue, Aug 06, 2002 at 06:54:04PM -0400, Rose, Bobby wrote:
 
 -- 
 
-Vipul Ved Prakash          |   "The future is here, it's just not 
-Software Design Artist     |    widely distributed."
+Vipul Ved Prakash          |   The future is here, it's just not 
+Software Design Artist     |    widely distributed.
 http://vipul.net/          |              -- William Gibson
 
 

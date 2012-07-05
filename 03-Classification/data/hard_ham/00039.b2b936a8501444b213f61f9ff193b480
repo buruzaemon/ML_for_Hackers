@@ -9,8 +9,8 @@ Received: from itodell (168.dhcp-wl2.opentext.com [192.168.131.168])
 	by vectorsvc.wl.opentext.com (8.9.3/8.9.3) with SMTP id LAA21072;
 	Thu, 11 Jul 2002 11:00:12 -0400
 Reply-To: <hito@opentext.com>
-From: "=?iso-2022-jp?B?GyRCMEtFbCEhP04bKEI=?=" <hito@opentext.com>
-To: "=?iso-2022-jp?B?JxskQiUiJUAlYCEmJVklcyU4JWMlXyVzGyhCJw==?=" <aebenjam@opentext.com>
+From: =?iso-2022-jp?B?GyRCMEtFbCEhP04bKEI=?= <hito@opentext.com>
+To: =?iso-2022-jp?B?JxskQiUiJUAlYCEmJVklcyU4JWMlXyVzGyhCJw==?= <aebenjam@opentext.com>
 Cc: <michaelb@opentext.com>
 Subject: =?iso-2022-jp?B?GyRCRnxLXDhsJE43b0w+IUolNSVWJTglJyUvJUghSyEhJTkbKEI=?=
 	=?iso-2022-jp?B?GyRCJVElYCVhITwlayRHJE8kIiRqJF4kOyRzISobKEI=?=
@@ -18,7 +18,7 @@ Date: Thu, 11 Jul 2002 11:01:45 -0400
 Message-ID: <000101c228eb$e04cf280$a883a8c0@wl.opentext.com>
 MIME-Version: 1.0
 Content-Type: multipart/mixed;
-	boundary="----=_NextPart_000_0002_01C228CA.593B5280"
+	boundary=----=_NextPart_000_0002_01C228CA.593B5280
 X-Priority: 3 (Normal)
 X-MSMail-Priority: Normal
 X-Mailer: Microsoft Outlook CWS, Build 9.0.2416 (9.0.2911.0)
@@ -30,49 +30,49 @@ This is a multi-part message in MIME format.
 
 ------=_NextPart_000_0002_01C228CA.593B5280
 Content-Type: text/plain;
-	charset="iso-2022-jp"
+	charset=iso-2022-jp
 Content-Transfer-Encoding: 7bit
 
-OpenText社
-伊東様
+OpenText$B<R(B
+$B0KElMM(B
 
-いつもお世話になっております。
-安井@infocomです。
+$B$$$D$b$*@$OC$K$J$C$F$*$j$^$9!#(B
+$B0B0f(B@infocom$B$G$9!#(B
 
-あるタスクリストに、適当なマイルストーンを複数、タスクを複数用意し
-それぞれのタスクについては、存在する適当なマイルストーンに割り当てたものと
-します。
-あるマイルストーンを見ると、添付の絵にあるような画面が表示されるのですが
-ここで丸で囲った部分（ 期間 ）は、何を意味しているのでしょうか？
+$B$$k%?%9%/%j%9%H$K!E,Ev$J%^%$%k%9%H!<%s$rJ#?t!%?%9%/$rJ#?tMQ0U$7(B
+$B$=$l$>$l$N%?%9%/$K$D$$$F$O!B8:_$9$kE,Ev$J%^%$%k%9%H!<%s$K3d$jEv$F$?$b$N$H(B
+$B$7$^$9!#(B
+$B$$k%^%$%k%9%H!<%s$r8+$k$H!E:IU$N3($K$$k$h$&$J2hLL$,I=<($5$l$k$N$G$9$,(B
+$B$3$3$G4]$G0O$C$?ItJ,!J(B $B4|4V(B $B!K$O!2?$r0UL#$7$F$$$k$N$G$7$g$&$+!)(B
 
-つまり、３７日 、２７日
-のそれぞれの意味（算出のされ方について教えてください。）
+$B$D$^$j!#3#7F|(B $B!#2#7F|(B
+$B$N$=$l$>$l$N0UL#!J;;=P$N$5$lJ}$K$D$$$F65$($F$/$@$5$$!#!K(B
 
-また「週末を除く」とありますが、週末を除かない設定方法はあるのでしょうか？
+$B$^$?!V=5Kv$r=|$/!W$H$$j$^$9$,!=5Kv$r=|$+$J$$@_DjJ}K!$O$$k$N$G$7$g$&$+!)(B
 
-以上、ご回答の方よろしくお願いいたします。
+$B0J>e!$42sEz$NJ}$h$m$7$/$*4j$$$$$?$7$^$9!#(B
 
 
 --
 +--------------------------------------+
-インフォコム(株)
-ナレッジマネジメント本部
-KMフロンティア部
-コラボレーティブシステムグループ
+$B%$%s%U%)%3%`(B($B3t(B)
+$B%J%l%C%8%^%M%8%a%s%HK\It(B
+KM$B%U%m%s%F%#%It(B
+$B%3%i%\%l!<%F%#%V%7%9%F%`%0%k!<%W(B
 
-〒101-0062
-東京都千代田区神田駿河台3-11三井住友海上駿河台別館5F
-安井  剛
+$B)(B101-0062
+$BEl5~ET@iBeED6h?@ED=Y2OBf(B3-11$B;00f=;M'3$>e=Y2OBfJL4[(B5F
+$B0B0f(B  $B9d(B
 E-mail: go@infocom.co.jp
 TEL: 03-3518-3299
 FAX: 03-3518-3055
 
 ------=_NextPart_000_0002_01C228CA.593B5280
 Content-Type: image/bmp;
-	name="=?iso-2022-jp?B?GyRCJV4lJCVrJTklSCE8JXNJPTwoGyhCLmJtcA==?="
+	name==?iso-2022-jp?B?GyRCJV4lJCVrJTklSCE8JXNJPTwoGyhCLmJtcA==?=
 Content-Transfer-Encoding: base64
 Content-Disposition: attachment;
-	filename="=?iso-2022-jp?B?GyRCJV4lJCVrJTklSCE8JXNJPTwoGyhCLmJtcA==?="
+	filename==?iso-2022-jp?B?GyRCJV4lJCVrJTklSCE8JXNJPTwoGyhCLmJtcA==?=
 
 Qk1mXQMAAAAAAHYAAAAoAAAA+AIAAEQCAAABAAQAAAAAAPBcAwDEDgAAxA4AAAAAAAAAAAAAAAAA
 AAAAgAAAgAAAAICAAIAAAACAAIAAgIAAAICAgADAwMAAAAD/AAD/AAAA//8A/wAAAP8A/wD//wAA

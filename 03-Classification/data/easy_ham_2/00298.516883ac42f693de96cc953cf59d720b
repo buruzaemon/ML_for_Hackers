@@ -27,12 +27,12 @@ Received: from swsmsx17.isw.intel.com ([172.28.130.21]) by
 Received: by swsmsx17.isw.intel.com with Internet Mail Service
     (5.5.2653.19) id <L81TGDFL>; Fri, 9 Aug 2002 15:03:57 +0100
 Message-Id: <A92DB5482F76D51193290002A50A5612015632D3@irsmsx103.ir.intel.com>
-From: "Satelle, StevenX" <stevenx.satelle@intel.com>
-To: "Ilug (E-mail)" <ilug@linux.ie>
+From: Satelle, StevenX <stevenx.satelle@intel.com>
+To: Ilug (E-mail) <ilug@linux.ie>
 Date: Fri, 9 Aug 2002 14:59:52 +0100
 MIME-Version: 1.0
 X-Mailer: Internet Mail Service (5.5.2653.19)
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Subject: [ILUG] Digital Cameras
 Sender: ilug-admin@linux.ie
 Errors-To: ilug-admin@linux.ie

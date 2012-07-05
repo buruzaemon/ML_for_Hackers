@@ -34,8 +34,8 @@ Message-Id: <20020906005141.GG29663@kluge.net>
 References: <20020905221132.GB6886@jedi.net>
 MIME-Version: 1.0
 Content-Type: multipart/signed; micalg=pgp-sha1;
-    protocol="application/pgp-signature";
-    boundary="iJXiJc/TAIT2rh2r"
+    protocol=application/pgp-signature;
+    boundary=iJXiJc/TAIT2rh2r
 Content-Disposition: inline
 In-Reply-To: <20020905221132.GB6886@jedi.net>
 User-Agent: Mutt/1.4i
@@ -79,7 +79,7 @@ rm -rf /usr/local/lib/perl5/site_perl/5.6.1/Razor
 
 --=20
 Randomly Generated Tagline:
-"It's a chicken finger device."            - Theo, looking at entree
+It's a chicken finger device.            - Theo, looking at entree
 
 --iJXiJc/TAIT2rh2r
 Content-Type: application/pgp-signature

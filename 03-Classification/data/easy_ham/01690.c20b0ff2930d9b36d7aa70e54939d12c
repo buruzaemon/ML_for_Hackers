@@ -10,7 +10,7 @@ Message-ID: <200209070410.g874Ab620880@localhost.localdomain>
 >>> Skip Montanaro wrote
 > 
 > I actually like Neale's X-Spam-Disposition header, I just wonder if maybe we
-> should choose something with a different prefix than "X-Spam-" so that
+> should choose something with a different prefix than X-Spam- so that
 > people don't confuse it with SpamAssassin, all of whose headers begin with
 > that prefix.
 

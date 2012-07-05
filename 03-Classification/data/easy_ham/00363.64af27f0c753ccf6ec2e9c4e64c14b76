@@ -21,7 +21,7 @@ Received: from maya.dyndns.org (ts5-016.ptrb.interhop.net
     g7T1kLU16275; Wed, 28 Aug 2002 21:46:21 -0400 (EDT)
 Received: by maya.dyndns.org (Postfix, from userid 501) id 062961C388;
     Wed, 28 Aug 2002 21:52:11 -0400 (EDT)
-To: "Jim Whitehead" <ejw@cse.ucsc.edu>
+To: Jim Whitehead <ejw@cse.ucsc.edu>
 Cc: <fork@spamassassin.taint.org>
 Subject: Re: Java is for kiddies
 References: <AMEPKEBLDJJCCDEJHAMIEEGIFFAA.ejw@cse.ucsc.edu>
@@ -47,7 +47,7 @@ List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
 List-Archive: <http://xent.com/pipermail/fork/>
 Date: 28 Aug 2002 21:52:11 -0400
 
->>>>> "J" == Jim Whitehead <ejw@cse.ucsc.edu> writes:
+>>>>> J == Jim Whitehead <ejw@cse.ucsc.edu> writes:
 
     J> You open sourced the new components you developed for this
     J> project, so the next person who comes along won't have to
@@ -63,6 +63,6 @@ a newswire server /is/ GPL and available on sourceforge.
 -- 
 Gary Lawrence Murphy <garym@teledyn.com> TeleDynamics Communications Inc
  Business Advantage through Community Software : http://www.teledyn.com
-"Computers are useless.  They can only give you answers."(Pablo Picasso)
+Computers are useless.  They can only give you answers.(Pablo Picasso)
 
 

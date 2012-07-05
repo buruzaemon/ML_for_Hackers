@@ -30,8 +30,8 @@ X-Server-Uuid: 3789b954-9c4e-11d3-af68-0008c73b0911
 Received: by dubim07742.ie.ml.com with Internet Mail Service (
     5.5.2654.52) id <3TCXNSD7>; Fri, 16 Aug 2002 11:48:16 +0100
 Message-Id: <A3C83F41488BD61195C3000802252FC135BA52@dubim07742.ie.ml.com>
-From: "Breathnach, Proinnsias (Dublin)" <breatpro@exchange.ie.ml.com>
-To: "'ILUG'" <ilug@linux.ie>
+From: Breathnach, Proinnsias (Dublin) <breatpro@exchange.ie.ml.com>
+To: 'ILUG' <ilug@linux.ie>
 Date: Fri, 16 Aug 2002 11:48:15 +0100
 MIME-Version: 1.0
 X-Mailer: Internet Mail Service (5.5.2654.52)
@@ -69,7 +69,7 @@ P
 > available from web)
 > 	keyboard & mouse (new)
 > 
-> 	Currently running MacOS9.1 (small partition) and Debian "Woody".  OK
+> 	Currently running MacOS9.1 (small partition) and Debian Woody.  OK
 > as is (think 
 > 	Pentium 233ish) or ready for upgrade to G3-500 for some real
 > performance!

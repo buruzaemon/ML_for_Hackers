@@ -22,7 +22,7 @@ References: <mkettler@evi-inc.com>
     <20021001194648.DBAAC16F16@jmason.org> <20021001205821.GN29097@kluge.net>
 From: Daniel Quinlan <quinlan@pathname.com>
 Date: 01 Oct 2002 19:22:16 -0700
-In-Reply-To: Theo Van Dinter's message of "Tue, 1 Oct 2002 16:58:21 -0400"
+In-Reply-To: Theo Van Dinter's message of Tue, 1 Oct 2002 16:58:21 -0400
 Message-Id: <yf2d6qth95z.fsf@proton.pathname.com>
 X-Mailer: Gnus v5.7/Emacs 20.7
 
@@ -51,7 +51,7 @@ My results:
 The interesting thing is that these hits all seem to be rot13 versions
 of the To: address.  If we ever start getting FPs (or if anyone is
 worried), we could make it an eval test for rot13 of the To: address
-(turning non-word characters into "." characters in the regular
+(turning non-word characters into . characters in the regular
 expression).
 
 At the same time, it might be worth testing for username in HTML

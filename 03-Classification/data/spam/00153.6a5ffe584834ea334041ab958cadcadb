@@ -20,13 +20,13 @@ Received: from byron.heanet.ie (byron.heanet.ie [193.1.219.90]) by
 Received: from [200.164.227.2] (helo=qfgf94776.com) by byron.heanet.ie
     with smtp (Exim 4.05) id 17kMJ2-0007g5-00 for social@linux.ie;
     Thu, 29 Aug 2002 11:13:43 +0100
-From: "Opt-inList" <besthomebiz@subdimension.com>
+From: Opt-inList <besthomebiz@subdimension.com>
 Reply-To: stockbuyer@netzero.net
 To: social@linux.ie
 Date: Thu, 29 Aug 2002 06:25:48 -0500
 X-Mailer: Microsoft Outlook Express 6.00.2600.0000
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Message-Id: <E17kMJ2-0007g5-00@byron.heanet.ie>
 X-MIME-Autoconverted: from quoted-printable to 8bit by lugh.tuatha.org id
     LAA15946
@@ -50,7 +50,7 @@ traditional straightline)...EVERYONE makes money...
 and those that sponsor make more....
 
 <html>
-<a href="mailto:gmt101info@profitresponder.com?subject=send-more-info"<b>
+<a href=mailto:gmt101info@profitresponder.com?subject=send-more-info<b>
 Click here to request for more information</b></a>
 
 <br>
@@ -75,7 +75,7 @@ Click here to request for more information</b></a>
 
 
 
-<a href="mailto:stockbuyer@netzero.net?subject=REMOVE"<b>
+<a href=mailto:stockbuyer@netzero.net?subject=REMOVE<b>
 We belong to the same opt-in list. But if wish to have your email
 address REMOVE from our database please click here</b></a>
 </html>

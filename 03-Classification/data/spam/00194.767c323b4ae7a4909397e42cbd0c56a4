@@ -11,8 +11,8 @@ Received: from c448022-c (12-243-62-67.client.attbi.com [12.243.62.67]) by
     dogma.slashnull.org (8.11.6/8.11.6) with SMTP id g7V2kdZ20239 for
     <zzzz-latestdodgydotcomstock@jmason.org>; Sat, 31 Aug 2002 03:46:40 +0100
 Message-Id: <200208310246.g7V2kdZ20239@dogma.slashnull.org>
-From: "zzzz-latestdodgydotcomstock" <yyyy-latestdodgydotcomstock@spamassassin.taint.org>
-To: "zzzz-latestdodgydotcomstock" <yyyy-latestdodgydotcomstock@spamassassin.taint.org>
+From: zzzz-latestdodgydotcomstock <yyyy-latestdodgydotcomstock@spamassassin.taint.org>
+To: zzzz-latestdodgydotcomstock <yyyy-latestdodgydotcomstock@spamassassin.taint.org>
 Subject: Testing a system, please delete
 Date: Fri, 30 Aug 02 21:48:08 Eastern Daylight Time
 MIME-Version: 1.0
@@ -20,7 +20,7 @@ X-Priority: 3
 X-Msmail-Priority: Normal
 X-Mailer: Microsoft Outlook Express 6.00.2462.0000
 X-Mimeole: Produced By Microsoft MimeOLE V6.00.2462.0000
-Content-Type: multipart/mixed;boundary= "----=_NextPart_000_006C_6B8D6A65.3C3C56F"
+Content-Type: multipart/mixed;boundary= ----=_NextPart_000_006C_6B8D6A65.3C3C56F
 
 ------=_NextPart_000_006C_6B8D6A65.3C3C56F
 Content-Type: text/plain

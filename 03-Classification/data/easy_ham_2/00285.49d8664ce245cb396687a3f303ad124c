@@ -58,7 +58,7 @@ On Thu, Aug 08, 2002 at 11:27:59AM +0100, wintermute wrote:
 
 if used properly, they actually can make code more readable.  but those
 proper occasions are quite rare really.  it's a good idea to avoid them
-since over use of goto will create what niall calls "write-only code."
+since over use of goto will create what niall calls write-only code.
 what a wonderful expression.  my professors would spend entire lectures
 explaining that concept, and yet three little words convey it so well.
 

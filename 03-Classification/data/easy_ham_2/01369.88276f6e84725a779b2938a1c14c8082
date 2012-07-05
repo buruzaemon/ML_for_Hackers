@@ -24,7 +24,7 @@ Date: Fri, 9 Aug 2002 15:03:33 -0700
 Content-Type: text/plain; charset=US-ASCII; format=flowed
 MIME-Version: 1.0 (Apple Message framework v482)
 Cc: <da@securityfocus.com>, <vulnwatch@vulnwatch.org>
-To: "Foundstone Labs" <labs@foundstone.com>
+To: Foundstone Labs <labs@foundstone.com>
 From: Rob Flickenger <rob@oreillynet.com>
 In-Reply-To: <9DC8A3D37E31E043BD516142594BDDFAC476B0@MISSION.foundstone.com>
 Message-Id: <D8F6A4EC-ABE3-11D6-AF54-0003936D6AE0@oreillynet.com>
@@ -53,7 +53,7 @@ stupidity, but that's beyond the scope of this advisory.  ;)
 > Vendor Response:
 >
 > Both vendors were notified of this issue on July 8th, 2002. According
-> to Orinoco, "The Residential Gateway line has been discontinued."
+> to Orinoco, The Residential Gateway line has been discontinued.
 
 I've also heard (second hand, but on good authority) that the RG line is 
 alive and well (hence the recent RG-1100, and the upcoming 802.11a 

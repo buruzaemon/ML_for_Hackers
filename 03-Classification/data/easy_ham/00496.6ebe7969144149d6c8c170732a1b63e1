@@ -43,7 +43,7 @@ List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
 List-Archive: <http://xent.com/pipermail/fork/>
 Date: Sun, 08 Sep 2002 00:55:00 -0700
 
-On 9/8/02 7:38 AM, "Gary Lawrence Murphy" <garym@canada.com> wrote:
+On 9/8/02 7:38 AM, Gary Lawrence Murphy <garym@canada.com> wrote:
 >   J> ...  If you want a region of the globe mapped out to a very
 >   J> high resolution (e.g. 1-meter), they can scan the area with
 >   J> aircraft LIDAR and add it to the database, thereby making that
@@ -56,7 +56,7 @@ On 9/8/02 7:38 AM, "Gary Lawrence Murphy" <garym@canada.com> wrote:
 
 An example:  Being able to model RF propagation in three dimensions for a
 metro area when deploying wireless networks.  By having every single tree
-and building detail and similar, you can "see" even tiny dead spots due to
+and building detail and similar, you can see even tiny dead spots due to
 physical blockage and signal attenuation.  Overlay this with fiber map data
 for yourself and your competitors (when you can glean such data), which is
 also useful at this resolution, and you have a very slick way of modeling

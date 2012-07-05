@@ -12,19 +12,19 @@ Received: from cs.com (12-245-142-206.client.attbi.com [12.245.142.206])
     <zzzz@jmason.org>; Tue, 17 Sep 2002 10:38:21 +0100
 Message-Id: <4174-22002921794043650@cs.com>
 Errors-To: AdvertSpRj40@cs.com
-From: "Adverting Department" <AdvertSpRj40@cs.com>
+From: Adverting Department <AdvertSpRj40@cs.com>
 Organisation: JOHNSON HOME PRODUCTS & SERVICES
-To: "zzzz@spamassassin.taint.org" <yyyy@spamassassin.taint.org>
+To: zzzz@spamassassin.taint.org <yyyy@spamassassin.taint.org>
 Subject: May I have a moment of your Time PLEASE
 Date: Tue, 17 Sep 2002 05:40:44 -0400
 MIME-Version: 1.0
-Content-Type: multipart/mixed; boundary="----=_NextPart_000_01BC2B74.89D1CCC0"
+Content-Type: multipart/mixed; boundary=----=_NextPart_000_01BC2B74.89D1CCC0
 
 This is a multi-part message in MIME format.
 
 ------=_NextPart_000_01BC2B74.89D1CCC0
 Content-Type: multipart/alternative; 
-	boundary="----=_NextPart_84815C5ABAF209EF376268C8"
+	boundary=----=_NextPart_84815C5ABAF209EF376268C8
 
 ------=_NextPart_84815C5ABAF209EF376268C8
 Content-type: text/plain; charset=windows-1252
@@ -77,8 +77,8 @@ he emailing list=2E
 AdvertSpRj40@cs=2Ecom
 
 
-To be removed from my Email list Please reply to this email=2E type "remov=
-e" in the subject area of the email=2E
+To be removed from my Email list Please reply to this email=2E type remov=
+e in the subject area of the email=2E
 
 
 
@@ -86,7 +86,7 @@ e" in the subject area of the email=2E
 Content-Type: text/html; charset=windows-1252
 Content-Transfer-Encoding: quoted-printable
 
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4=2E0 Transitional//EN">
+<!DOCTYPE HTML PUBLIC -//W3C//DTD HTML 4=2E0 Transitional//EN>
 
 <html>
 <head>
@@ -94,9 +94,9 @@ Content-Transfer-Encoding: quoted-printable
 </head>
 <body>
 <center>
-<a href=3D"http://home=2Eattbi=2Ecom/~johnsonhomestor1/pro=2Ehtm"><img src=
-=3D"http://johnson2276=2Eitctv=2Ecom/j/johnson2276/Images/IntroDuction=2Ej=
-pg" alt=3D"Welcome"><br><font color=3D"#6633ff"><b><small><small><br>Click=
+<a href=3Dhttp://home=2Eattbi=2Ecom/~johnsonhomestor1/pro=2Ehtm><img src=
+=3Dhttp://johnson2276=2Eitctv=2Ecom/j/johnson2276/Images/IntroDuction=2Ej=
+pg alt=3DWelcome><br><font color=3D#6633ff><b><small><small><br>Click=
  on to continue</a></font></small></small><br>
 </center>
 
@@ -106,10 +106,10 @@ pg" alt=3D"Welcome"><br><font color=3D"#6633ff"><b><small><small><br>Click=
 ------=_NextPart_84815C5ABAF209EF376268C8--
 
 ------=_NextPart_000_01BC2B74.89D1CCC0
-Content-Type: image/gif; name="ecp10cc.gif"
+Content-Type: image/gif; name=ecp10cc.gif
 Content-Transfer-Encoding: base64
 Content-Description: ecp10cc.gif
-Content-Disposition: attachment; filename="ecp10cc.gif"
+Content-Disposition: attachment; filename=ecp10cc.gif
 
 R0lGODlhfQIGAfcAAPn6/er3/PPp/Nv3+/b47v0CA+no+vTo7Nrm7Nvn+AEB2jEzAtn07gIB4trY
 9+jZ+fHa+wEjAuj17fDL+fPY6eTJ6+bK+ObY68z3+8rX9wALAMvm7Mvn+MnI9veJjfpDPce79ebY

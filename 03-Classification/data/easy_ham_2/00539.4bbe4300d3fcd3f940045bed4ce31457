@@ -24,8 +24,8 @@ Received: from unknown (HELO RAGING) ([66.92.72.213]) (envelope-sender
     <rOD@arsecandle.org>) by mail12.speakeasy.net (qmail-ldap-1.03) with SMTP
     for <razor-users@fsckit.net>; 24 Jul 2002 16:28:20 -0000
 Message-Id: <00d301c2332f$1ca59b90$b554a8c0@RAGING>
-From: "rODbegbie" <rOD@arsecandle.org>
-To: "Tabor J. Wells" <razor-users@fsckit.net>
+From: rODbegbie <rOD@arsecandle.org>
+To: Tabor J. Wells <razor-users@fsckit.net>
 Cc: <razor-users@example.sourceforge.net>
 References: <20020711084825.W60740-100000@rockstar.stealthgeeks.net>
     <20020723211828.Y98572-100000@rockstar.stealthgeeks.net>
@@ -33,7 +33,7 @@ References: <20020711084825.W60740-100000@rockstar.stealthgeeks.net>
 Subject: Re: [Razor-users] Authentication Error
 Organization: Arsecandle Industries, Inc.
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal
@@ -64,13 +64,13 @@ Tabor J. Wells wrote:
 
 1)  I think the code is still very much pre-beta.
 
-2)  When you go to the "Download" page, it tells you "Fetch the latest
-versions of razor-agents and razor-agents-sdk packages"  It is not at all
+2)  When you go to the Download page, it tells you Fetch the latest
+versions of razor-agents and razor-agents-sdk packages  It is not at all
 clear that these are development packages.
 
 The site is badly designed, and very misleading.  IMO.  The fact that the
-word "beta" appears in the middle of some introductory text on the front
-page is hardly a valid argument.  (Well accepted software design "fact":
+word beta appears in the middle of some introductory text on the front
+page is hardly a valid argument.  (Well accepted software design fact:
 USERS DON'T READ *ANYTHING*)
 
 I get the impression that Vipul & co are deliberately trying to mislead

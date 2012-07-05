@@ -45,7 +45,7 @@ John P. Looney wrote:
 > On Tue, Aug 13, 2002 at 09:53:55AM +0100, Damian O' Sullivan mentioned:
 > 
 >>> Curiously, when I go into the boot prom, an use
->>> "set_params" I can tell it to mount /dev/hda2 as root. But 
+>>> set_params I can tell it to mount /dev/hda2 as root. But 
 >>>then it uses the PROM copy of the kernel (dodgy 2.2.16 
 >>>kernel), which doesn't know ext3, so wants to fsck up my disk.
 >>

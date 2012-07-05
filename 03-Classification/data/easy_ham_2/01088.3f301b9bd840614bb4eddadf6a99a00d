@@ -17,7 +17,7 @@ Received: from mithral.com (watcher.mithral.com [204.153.244.1]) by
     xent.com (Postfix) with SMTP id 2217729409D for <fork@xent.com>;
     Mon, 19 Aug 2002 18:16:07 -0700 (PDT)
 Received: (qmail 3098 invoked by uid 1111); 20 Aug 2002 01:17:37 -0000
-From: "Adam L. Beberg" <beberg@mithral.com>
+From: Adam L. Beberg <beberg@mithral.com>
 To: Rohit Khare <khare@alumni.caltech.edu>
 Cc: <fork@spamassassin.taint.org>
 Subject: Re: POLICY CHANGE: subscriber-only posting
@@ -54,7 +54,7 @@ And I didnt even need to visit, woohoo :)
 think I should be offended, but I'll be too busy basking in the glow of a
 spam-free FoRK :)
 
-- Adam L. "Duncan" Beberg
+- Adam L. Duncan Beberg
   http://www.mithral.com/~beberg/
   beberg@mithral.com
 

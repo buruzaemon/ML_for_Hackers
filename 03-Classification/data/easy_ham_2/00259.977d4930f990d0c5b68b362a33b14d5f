@@ -54,7 +54,7 @@ At the moment at work, if we want a new workstation, we just
 buy whatever Sun's latest system is, we jumpstart it, and 
 that's it, it's up and running.
 Basically the whole installation procedure is
-"boot net - install"
+boot net - install
 This is exactly what you need when you are administering a large
 group of workstations. You don't have the time to check dells
 website every time you want to buy a machine, you'd spend
@@ -74,7 +74,7 @@ On Fri, Aug 02, 2002 at 04:02:38AM -0500, Stephen_Reilly@dell.com wrote:
 > With Dell just check the support.dell.com site, match the system, look for
 > downloadable drivers. From these if there aren't any linux drivers you can
 > usually find out the chipset of each device. Plug them into google with
-> "linux" and see what people have to say about them. Generally speaking when
+> linux and see what people have to say about them. Generally speaking when
 > you buy the system you'll be told the make/model of each device rather than
 > the chipset, so further investigation is necessary.
 > 

@@ -49,7 +49,7 @@ List-Archive: <http://lists.freshrpms.net/pipermail/rpm-zzzlist/>
 X-Original-Date: Sat, 02 Feb 2002 11:20:17 +1300
 Date: Sat, 02 Feb 2002 11:20:17 +1300
 
-Hiya, I always seem to get errors when I do an "apt update", is this a 
+Hiya, I always seem to get errors when I do an apt update, is this a 
 problem on the repository itself, or on my end, or possibly a timeout in 
 the connection due to my connection being a crappy modem?
 
@@ -83,7 +83,7 @@ http://apt.freshrpms.net/redhat/7.2/i386/base/release.freshrpms
   Bad header line
 
                                     -- \m/ --
-  "...if I seem super human I have been misunderstood." (c) Dream Theater
+  ...if I seem super human I have been misunderstood. (c) Dream Theater
          mark@talios.com - ICQ: 1934853 JID: talios@myjabber.net
 
 

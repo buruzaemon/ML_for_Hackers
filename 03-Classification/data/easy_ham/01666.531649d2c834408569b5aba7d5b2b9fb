@@ -22,8 +22,8 @@ The two problems I see with filtering that early are:
 
     2. Given that there will be some false positives, you absolutely have to
        put the mail somewhere.  You can't simply delete it.  (I also don't
-       like the TMDA-ish business of replying with a msg that says, "here's
-       what you do to really get your message to me."  That puts an extra
+       like the TMDA-ish business of replying with a msg that says, here's
+       what you do to really get your message to me.  That puts an extra
        burden on my correspondents.)  As an individual, I would prefer you
        put spammish messages somewhere where I can review them, not an
        anonymous sysadmin who I might not trust with my personal email

@@ -12,7 +12,7 @@ Message-ID: <LNBBLJKPBEHFEDALKOLCCELKBCAB.tim.one@comcast.net>
 > complains:
 >
 >     % cvs add unheader.py
->     cvs [server aborted]: "add" requires write access to the repository
+>     cvs [server aborted]: add requires write access to the repository
 >
 > Any thoughts?
 

@@ -26,7 +26,7 @@ Received: from localhost (localhost [127.0.0.1]) by saul.cis.upenn.edu
     -0400 (EDT)
 To: unison-announce@yahoogroups.com, unison-users@egroups.com
 Message-Id: <6535.1029808006@saul.cis.upenn.edu>
-From: "Benjamin C. Pierce" <bcpierce@saul.cis.upenn.edu>
+From: Benjamin C. Pierce <bcpierce@saul.cis.upenn.edu>
 MIME-Version: 1.0
 Mailing-List: list unison-announce@yahoogroups.com; contact
     unison-announce-owner@yahoogroups.com
@@ -364,10 +364,10 @@ Enjoy,
                  available. For example, emacs users may find the
                  following convenient:
 
-    merge2 = emacs -q --eval '(ediff-merge-files "CURRENT1" "CURRENT2"
-               nil "NEW")'
+    merge2 = emacs -q --eval '(ediff-merge-files CURRENT1 CURRENT2
+               nil NEW)'
     merge = emacs -q --eval '(ediff-merge-files-with-ancestor
-               "CURRENT1" "CURRENT2" "OLD" nil "NEW")'
+               CURRENT1 CURRENT2 OLD nil NEW)'
                  (These commands are displayed here on two lines to avoid
                  running off the edge of the page. In your preference
                  file, each should be written on a single line.)
@@ -688,7 +688,7 @@ Enjoy,
             we added file: and socket:. You may have to modify your
             profiles in the .unison directory. If a replica is specified
             without an explicit protocol, we now assume it refers to a
-            file. (Previously "//saul/foo" meant to use SSH to connect to
+            file. (Previously //saul/foo meant to use SSH to connect to
             saul, then access the foo directory. Now it means to access
             saul via a remote file mechanism such as samba; the old
             effect is now achieved by writing ssh://saul/foo.)
@@ -1319,10 +1319,10 @@ Changes in Version 2.9.20
                  available. For example, emacs users may find the
                  following convenient:
 
-    merge2 = emacs -q --eval '(ediff-merge-files "CURRENT1" "CURRENT2"
-               nil "NEW")'
+    merge2 = emacs -q --eval '(ediff-merge-files CURRENT1 CURRENT2
+               nil NEW)'
     merge = emacs -q --eval '(ediff-merge-files-with-ancestor
-               "CURRENT1" "CURRENT2" "OLD" nil "NEW")'
+               CURRENT1 CURRENT2 OLD nil NEW)'
                  (These commands are displayed here on two lines to avoid
                  running off the edge of the page. In your preference
                  file, each should be written on a single line.)
@@ -1643,7 +1643,7 @@ Changes in Version 2.9.20
             we added file: and socket:. You may have to modify your
             profiles in the .unison directory. If a replica is specified
             without an explicit protocol, we now assume it refers to a
-            file. (Previously "//saul/foo" meant to use SSH to connect to
+            file. (Previously //saul/foo meant to use SSH to connect to
             saul, then access the foo directory. Now it means to access
             saul via a remote file mechanism such as samba; the old
             effect is now achieved by writing ssh://saul/foo.)

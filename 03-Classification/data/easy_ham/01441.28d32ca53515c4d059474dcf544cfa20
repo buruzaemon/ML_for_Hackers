@@ -32,7 +32,7 @@ Received: from spamassassin.taint.org (localhost [127.0.0.1]) by spamassassin.ta
 To: SpamAssassin <spamassassin-talk@example.sourceforge.net>
 Subject: Re: [SAtalk] My SA went crazy.
 In-Reply-To: Message from Jesus Climent <jesus.climent@hispalinux.es> of
-    "Thu, 05 Sep 2002 08:08:35 +0200."
+    Thu, 05 Sep 2002 08:08:35 +0200.
     <20020905060834.GA20869@reypastor.hispalinux.es>
 From: yyyy@spamassassin.taint.org (Justin Mason)
 X-GPG-Key-Fingerprint: 0A48 2D8B 0B52 A87D 0E8A  6ADD 4137 1B50 6E58 EF0A
@@ -66,13 +66,13 @@ Date: Thu, 05 Sep 2002 12:26:25 +0100
 Jesus Climent said:
 
 > d output: Bareword found where operator expected at (eval 11) line 95,
-> near "25FREEMEGS_URL_uri_test"  (Missing operator before
+> near 25FREEMEGS_URL_uri_test  (Missing operator before
 > FREEMEGS_URL_uri_test?) Bareword found whe
 
 > Is that a bug or is a fault in my system?
 
 looks like there's an out-of-date copy of the rules files, on your system.
-that rules is called "FREEMEGS_URL" nowadays.
+that rules is called FREEMEGS_URL nowadays.
 
 --j.
 

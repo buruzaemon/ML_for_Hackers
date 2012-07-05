@@ -22,14 +22,14 @@ Received: from QUENTIN ([12.218.16.218]) by sccmmhc02.mchsi.com (InterMail
     vM.4.01.03.27 201-229-121-127-20010626) with ESMTP id
     <20020911215014.SJEI7903.sccmmhc02.mchsi.com@QUENTIN>; Wed, 11 Sep 2002
     21:50:14 +0000
-From: "Quentin Krengel" <quentin@krengeltech.com>
+From: Quentin Krengel <quentin@krengeltech.com>
 To: <simonian@library.ucr.edu>
 Cc: <spamassassin-talk@example.sourceforge.net>
 Subject: RE: [SAtalk] Debianized Packages for SA 2.3+
 Organization: Krengel Technology Inc
 Message-Id: <018d01c259dd$35066050$ad01a8c0@QUENTIN>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal
@@ -78,7 +78,7 @@ I'm running the stable source live right now and it is working very
 well.
 
 If you want unstable change /etc/apt/sources.list, substituting
-"unstable" for "stable",
+unstable for stable,
 Run apt-get update
 Install the unstable versions
 Change /etc/apt/sources.list

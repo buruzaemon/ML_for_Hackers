@@ -56,9 +56,9 @@ On Wed, 2002-08-14 at 07:16, Victor wrote:
 
 I'm decoding this to mean:
 
-"This spec file installs in the system, rather than in the build root,
+This spec file installs in the system, rather than in the build root,
 even though I am passing the relevant overrides to make. It is as if the
-Makefile does not allow overrides, or does not have those variables."
+Makefile does not allow overrides, or does not have those variables.
 
 I note that:
 

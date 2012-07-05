@@ -31,11 +31,11 @@ Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: 7bit
 Message-Id: <15842.35115.185328.504724@montanaro.dyndns.org>
 Date: Mon, 25 Nov 2002 14:33:47 -0600
-To: "Moore, Paul" <Paul.Moore@atosorigin.com>
+To: Moore, Paul <Paul.Moore@atosorigin.com>
 Subject: RE: [Spambayes] New web training interface for pop3proxy
 In-Reply-To: <16E1010E4581B049ABC51D4975CEDB885E2E1A@UKDCX001.uk.int.atosorigin.com>
 References: <16E1010E4581B049ABC51D4975CEDB885E2E1A@UKDCX001.uk.int.atosorigin.com>
-X-Mailer: VM 7.07 under 21.5  (beta9) "brussels sprouts" XEmacs Lucid
+X-Mailer: VM 7.07 under 21.5  (beta9) brussels sprouts XEmacs Lucid
 Cc: spambayes@python.org
 X-Beenthere: spambayes@python.org
 X-Mailman-Version: 2.1b5

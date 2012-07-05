@@ -23,7 +23,7 @@ Received: from husi (husi.vamos-wentworth.org [192.168.2.37])
     (authenticated (0 bits)) by vife.vamos-wentworth.org
     (Switch-2.2.0/Switch-2.2.0) with ESMTP id g7SJuAm18267 for
     <spamassassin-talk@lists.sourceforge.net>; Wed, 28 Aug 2002 12:56:11 -0700
-From: "Rossz Vamos-Wentworth" <rossz@vamos-wentworth.org>
+From: Rossz Vamos-Wentworth <rossz@vamos-wentworth.org>
 To: spamassassin-talk@example.sourceforge.net
 MIME-Version: 1.0
 Subject: Re: [SAtalk] custom score for a given domain?

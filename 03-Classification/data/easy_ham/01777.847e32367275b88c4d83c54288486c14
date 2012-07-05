@@ -34,9 +34,9 @@ In this issue:
 |   http://use.perl.org/article.pl?sid=02/09/02/1827239              |
 +--------------------------------------------------------------------+
 
-KLB writes "[0]Krow, one of the authors of [1]Slash, has written up a
+KLB writes [0]Krow, one of the authors of [1]Slash, has written up a
 [2]review on [3]Linux.com of two other Perl CMS systems, the E2 and LJ
-engines. Makes for interesting reading."
+engines. Makes for interesting reading.
 
 Discuss this story at:
     http://use.perl.org/comments.pl?sid=02/09/02/1827239
@@ -54,9 +54,9 @@ Links:
 |   http://use.perl.org/article.pl?sid=02/09/03/2334251              |
 +--------------------------------------------------------------------+
 
-[0]gnat writes "[1]The 1998 Perl Conference CD is online on perl.org.
+[0]gnat writes [1]The 1998 Perl Conference CD is online on perl.org.
 Enjoy the blast from the past (was [2]this Damian's first public
-appearance?)" (thanks to Daniel Berger for packratting the CD!)
+appearance?) (thanks to Daniel Berger for packratting the CD!)
 
 Discuss this story at:
     http://use.perl.org/comments.pl?sid=02/09/03/2334251
@@ -73,13 +73,13 @@ Links:
 |   http://use.perl.org/article.pl?sid=02/09/04/002204               |
 +--------------------------------------------------------------------+
 
-[0]Theory writes "Bricolage 1.4.0 has finally escaped the shackles of its
+[0]Theory writes Bricolage 1.4.0 has finally escaped the shackles of its
 CVS repository! ... Bricolage is a full-featured, enterprise-class
 content management and publishing system. It offers a browser-based
 interface for ease-of use, a full-fledged templating system with complete
 programming language support for flexibility, and many other features
 (see below). It operates in an Apache/mod_perl environment, and uses the
-PostgreSQL RDBMS for its repository."
+PostgreSQL RDBMS for its repository.
 
 This story continues at:
     http://use.perl.org/article.pl?sid=02/09/04/002204

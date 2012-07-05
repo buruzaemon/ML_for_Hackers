@@ -25,7 +25,7 @@ Received: from localhost (drais@localhost) by wow.atlasta.net
     (8.12.2/8.12.2/Submit) with ESMTP id g8CG6rKT034499; Thu, 12 Sep 2002
     09:06:53 -0700 (PDT)
 From: David Raistrick <drais@wow.atlasta.net>
-To: "Rose, Bobby" <brose@med.wayne.edu>
+To: Rose, Bobby <brose@med.wayne.edu>
 Cc: razor-users@example.sourceforge.net
 In-Reply-To: <D79A56AD131896448D0860DEE07CBE1F3BACA9@med-core07.med.wayne.edu>
 Message-Id: <Pine.BSF.4.21.0209120845130.19863-100000@wow.atlasta.net>
@@ -50,8 +50,8 @@ Date: Thu, 12 Sep 2002 09:06:53 -0700 (PDT)
 
 On Tue, 10 Sep 2002, Rose, Bobby wrote:
 
-> Use the sample-spam.txt from Spamassassin and do a "razor-check -d <
-> sample-spam.txt"
+> Use the sample-spam.txt from Spamassassin and do a razor-check -d <
+> sample-spam.txt
 
 Interesting.  I just upgraded to razor-agents 2.14 yesterday, ran
 razor-admin -register.  I to am seeing that I'm not getting any positives

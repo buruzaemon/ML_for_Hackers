@@ -26,7 +26,7 @@ Received: (from john@localhost) by jlooney.jinny.ie (8.11.6/8.11.6) id
 X-Authentication-Warning: jlooney.jinny.ie: john set sender to
     jlooney@jinny.ie using -f
 Date: Mon, 22 Jul 2002 09:09:41 +0100
-From: "John P. Looney" <valen@tuatha.org>
+From: John P. Looney <valen@tuatha.org>
 To: ILUG Mailing List <ilug@linux.ie>
 Subject: Re: [ILUG] How to copy some files
 Message-Id: <20020722080941.GI3234@jinny.ie>
@@ -59,8 +59,8 @@ On Sat, Jul 20, 2002 at 09:33:35PM +0100, kevin lyda mentioned:
 > to make them consistent with hard links.
 
  That's something that POSIX would do - make every platform as equally
-broken, rather than standing up and saying "how about we try & make
-everyone better".
+broken, rather than standing up and saying how about we try & make
+everyone better.
 
  (why ? Because in the real world, you can't. Somethings just suck)
 

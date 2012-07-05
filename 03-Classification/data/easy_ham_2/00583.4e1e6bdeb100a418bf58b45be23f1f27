@@ -21,16 +21,16 @@ Received: from med-core07.med.wayne.edu ([146.9.19.23]) by
 X-Mimeole: Produced By Microsoft Exchange V6.0.6249.0
 Content-Class: urn:content-classes:message
 MIME-Version: 1.0
-Content-Type: text/plain; charset="US-ASCII"
+Content-Type: text/plain; charset=US-ASCII
 Subject: RE: [Razor-users] What's wrong with the Razor servers now?
 Message-Id: <D79A56AD131896448D0860DEE07CBE1FA7DE@med-core07.med.wayne.edu>
 X-MS-Has-Attach: 
 X-MS-Tnef-Correlator: 
 Thread-Topic: [Razor-users] What's wrong with the Razor servers now?
 Thread-Index: AcI95uZYty6JbCTTTZ2zyQUcXNqGpgAK8pNw
-From: "Rose, Bobby" <brose@med.wayne.edu>
+From: Rose, Bobby <brose@med.wayne.edu>
 To: <mail@vipul.net>
-Cc: "ML-razor-users" <razor-users@example.sourceforge.net>
+Cc: ML-razor-users <razor-users@example.sourceforge.net>
 Sender: razor-users-admin@example.sourceforge.net
 Errors-To: razor-users-admin@example.sourceforge.net
 X-Beenthere: razor-users@example.sourceforge.net
@@ -114,8 +114,8 @@ On Tue, Aug 06, 2002 at 06:54:04PM -0400, Rose, Bobby wrote:
 
 -- 
 
-Vipul Ved Prakash          |   "The future is here, it's just not 
-Software Design Artist     |    widely distributed."
+Vipul Ved Prakash          |   The future is here, it's just not 
+Software Design Artist     |    widely distributed.
 http://vipul.net/          |              -- William Gibson
 
 

@@ -22,7 +22,7 @@ X-Trace: UmFuZG9tSVa87sYWrSluYXSK7DPiKMqonQmSCJAzc+sc8Ru+zPNZzmuJmF6sE0EFamayqye
 Received: from eb-174121.od.nih.gov ([156.40.174.121]
     helo=TOSHIBA-L8QYR7M) by smtp03.mrf.mail.rcn.net with asmtp (Exim 3.35 #6)
     id 17jp2b-0007bg-00 for fork@xent.com; Tue, 27 Aug 2002 18:42:29 -0400
-From: "John Evdemon" <jevdemon@acm.org>
+From: John Evdemon <jevdemon@acm.org>
 To: fork@spamassassin.taint.org
 MIME-Version: 1.0
 Subject: Re: DataPower announces XML-in-silicon
@@ -52,7 +52,7 @@ X-MIME-Autoconverted: from Quoted-printable to 8bit by dogma.slashnull.org
 On 27 Aug 2002 at 15:00, Rohit Khare wrote:
 
 > DataPower delivers XML acceleration device
-> By Scott Tyler Shafer
+> ByScott Tyler Shafer
 > August 27, 2002 5:46 am PT
 > 
 Intel also had a similar device a couple of years ago (Netstructure).  They have, afaik, abandoned it.

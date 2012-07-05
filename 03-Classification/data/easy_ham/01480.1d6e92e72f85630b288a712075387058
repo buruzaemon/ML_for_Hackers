@@ -23,7 +23,7 @@ Received: from moon.campus.luth.se (tony@moon.campus.luth.se
     [130.240.202.158]) by moon.campus.luth.se (8.12.3/8.12.3) with ESMTP id
     g8FKVaMg044001; Sun, 15 Sep 2002 22:31:36 +0200 (CEST) (envelope-from
     tony@svanstrom.com)
-From: "Tony L. Svanstrom" <tony@svanstrom.com>
+From: Tony L. Svanstrom <tony@svanstrom.com>
 X-X-Sender: tony@moon.campus.luth.se
 To: Marc Perkel <marc@perkel.com>
 Cc: spamassassin-devel@example.sourceforge.net
@@ -56,7 +56,7 @@ On Sun, 15 Sep 2002 the voices made Marc Perkel write:
 > some time by presorting messages into to piles.
 
  If you (people) don't know enough to filter on the actual score they've got
-the "stars", which will give them more than enough levers, if they want it.
+the stars, which will give them more than enough levers, if they want it.
 
 
 	/Tony

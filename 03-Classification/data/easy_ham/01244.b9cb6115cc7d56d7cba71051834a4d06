@@ -82,7 +82,7 @@ Matthias Saou wrote:
 >automatically detected it. The new spec file explicitely passes
 >--disable-libdv when the package is rebuilt with --without libdv.
 >
->Grab the "fr2.1" spec from here :
+>Grab the fr2.1 spec from here :
 >http://freshrpms.net/builds/index.html?build=mplayer
 >
 >Matthias

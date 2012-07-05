@@ -20,7 +20,7 @@ Received: (from john@localhost) by jinny.ie (8.11.6/8.11.6) id
 X-Authentication-Warning: jlooney.jinny.ie: john set sender to
     jlooney@jinny.ie using -f
 Date: Tue, 20 Aug 2002 12:10:04 +0100
-From: "John P. Looney" <valen@tuatha.org>
+From: John P. Looney <valen@tuatha.org>
 To: ilug@linux.ie
 Subject: Re: [ILUG] SMTP auth & mutt
 Message-Id: <20020820111004.GD14073@jinny.ie>

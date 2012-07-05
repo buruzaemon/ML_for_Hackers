@@ -64,10 +64,10 @@ Anyway, Matthias wrote:
 > 
 > > I did apt-get update, and it seemed to have gotten the new packages
 > 
-> Hmmm, "it seems"? Check closer as this may be where the problem is
+> Hmmm, it seems? Check closer as this may be where the problem is
 > coming
 > from.
-> > but doing things like "apt-get install synaptic" didn't work (neither
+> > but doing things like apt-get install synaptic didn't work (neither
 > > did other known packages, like apt-get install lame
 > > 
 > > I just get:
@@ -76,7 +76,7 @@ Anyway, Matthias wrote:
 > > Building Dependency Tree... Done
 > > E: Couldn't find package lame
 > 
-> Could you double check what "apt-get update" does? And eventually post
+> Could you double check what apt-get update does? And eventually post
 > the
 > output if there are any errors or messages you don't understand.
 
@@ -162,7 +162,7 @@ I'm stumped.
 -- 
   Steve Kann - Chief Engineer - 520 8th Ave #2300 NY 10018 -  (212) 533-1775
                 HorizonLive.com - collaborate . interact . learn
-   "The box said 'Requires Windows 95, NT, or better,' so I installed Linux."
+   The box said 'Requires Windows 95, NT, or better,' so I installed Linux.
 
 _______________________________________________
 RPM-List mailing list <RPM-List@freshrpms.net>

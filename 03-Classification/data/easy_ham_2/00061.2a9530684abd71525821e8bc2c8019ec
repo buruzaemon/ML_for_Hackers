@@ -21,13 +21,13 @@ Received: from unknown (HELO mfrenchw2k) (mfrench42@62.254.163.42 with
     login) by smtp.mail.vip.sc5.yahoo.com with SMTP; 19 Jul 2002 14:26:07
     -0000
 Message-Id: <003301c22f2f$b722ba30$3864a8c0@sabeo.ie>
-From: "Matthew French" <mfrench42@yahoo.co.uk>
+From: Matthew French <mfrench42@yahoo.co.uk>
 To: <ilug@linux.ie>
 References: <20020719132842.GA2506@bagend.makalumedia.com>
 Subject: Re: [ILUG] How to copy some files
 Date: Fri, 19 Jul 2002 15:22:26 +0100
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal

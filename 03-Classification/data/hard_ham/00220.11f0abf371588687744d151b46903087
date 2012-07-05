@@ -15,15 +15,15 @@ To: Justin Mason <zzz-meerkat@spamassassin.taint.org>
 Subject: JavaServer Pages updated
 Date: Tue, 17 Sep 2002 17:07:02 -0700
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 8bit
 List-Unsubscribe: <mailto:leave-ora_webprog-1083425X@newsletter.oreilly.com>
 Message-Id: <LYRIS-1083425-12762-2002.09.17-17.07.03--zzz-meerkat#spamassassin.taint.org@newsletter.oreilly.com>
 
 Filled with useful examples and the depth, clarity, and 
 attention to detail that made the first edition so popular 
-with web developers, the just-released "JavaServer Pages,  
-2nd Edition" (Bergsten, $44.95) is completely revised 
+with web developers, the just-released JavaServer Pages,  
+2nd Edition (Bergsten, $44.95) is completely revised 
 and updated to cover the substantial changes in the 
 1.2 version of the JSP specifications, and includes 
 coverage of the new JSTL Tag libraries--an eagerly 
@@ -33,17 +33,17 @@ coverage of Custom Tag Libraries.
 
 What people said about the first edition:
 
-"an excellent printed resource on JSPs...I have 
+an excellent printed resource on JSPs...I have 
 been extremely impressed by its depth, clarity,
- and attention to detail. " 
+ and attention to detail.  
 --Reuven M. Lerner, Linux Journal
 
-"This is a great book: it was written by a key 
+This is a great book: it was written by a key 
 contributor not only to the JSP specification, 
 but also to the JSP and  Servlet reference 
 implementations. Filled with useful examples,
  it stands as an important text in the adoption of 
-JSP in the market." 
+JSP in the market. 
 --Eduardo Pelegri-Llopart, lead JSP Specification Engineer.
 
 To order your copy or for more information, see:
@@ -54,7 +54,7 @@ or email orders@oreilly.com
 JavaServer Pages, 2nd Edition  
 By Hans Bergsten
 0-596-00317-X, Order Number: 317X
-684 pages, $44.95 US $69.95 CA Â£31.95 UK
+684 pages, $44.95 US $69.95 CA Â31.95 UK
 -----------------------------------------------------------------
 If you want to cancel a subscription to this newsletter,
 go to http://www.oreillynet.com/cs/user/home and 

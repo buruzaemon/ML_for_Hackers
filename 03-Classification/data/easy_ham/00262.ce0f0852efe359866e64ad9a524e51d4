@@ -21,7 +21,7 @@ Received: by crank.slack.net (Postfix, from userid 596) id D10A43ED70;
 Received: from localhost (localhost [127.0.0.1]) by crank.slack.net
     (Postfix) with ESMTP id CF81B3ED4D; Tue,  8 Oct 2002 19:17:04 -0400 (EDT)
 From: Tom <tomwhore@slack.net>
-To: "R. A. Hettinga" <rah@shipwright.com>
+To: R. A. Hettinga <rah@shipwright.com>
 Cc: fork@spamassassin.taint.org
 Subject: Re: The Disappearing Alliance
 In-Reply-To: <p05111a20b9c9098b7f7c@[66.149.49.6]>

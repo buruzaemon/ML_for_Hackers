@@ -22,14 +22,14 @@ Received: (from john@localhost) by jlooney.jinny.ie (8.11.6/8.11.6) id
 X-Authentication-Warning: jlooney.jinny.ie: john set sender to
     jlooney@jinny.ie using -f
 Date: Tue, 13 Aug 2002 10:06:29 +0100
-From: "John P. Looney" <valen@tuatha.org>
-To: "Damian O' Sullivan" <Damian.OSullivan@bcs.ie>
-Cc: "'ilug@linux.ie'" <ilug@linux.ie>
+From: John P. Looney <valen@tuatha.org>
+To: Damian O' Sullivan <Damian.OSullivan@bcs.ie>
+Cc: 'ilug@linux.ie' <ilug@linux.ie>
 Subject: Re: [ILUG] RH7.3 on Cobalt - the saga continues
 Message-Id: <20020813090629.GD2019@jinny.ie>
 Reply-To: ilug@linux.ie
 Mail-Followup-To: Damian O' Sullivan <Damian.OSullivan@bcs.ie>,
-	"'ilug@linux.ie'" <ilug@linux.ie>
+	'ilug@linux.ie' <ilug@linux.ie>
 References: <214A52C16E44D51186FB00508BB83E0F7C0D68@w2k-server.bcs.ie>
 MIME-Version: 1.0
 Content-Type: text/plain; charset=us-ascii
@@ -54,8 +54,8 @@ On Tue, Aug 13, 2002 at 10:03:14AM +0100, Damian O' Sullivan mentioned:
  Yep.
 
  Power on the box while pushing the recessed button near the LCD with a
-paper clip. On the serial console, you'll see "press space to enter the
-prom".
+paper clip. On the serial console, you'll see press space to enter the
+prom.
 
  It's a crap prom, but a prom, nonetheless.
 

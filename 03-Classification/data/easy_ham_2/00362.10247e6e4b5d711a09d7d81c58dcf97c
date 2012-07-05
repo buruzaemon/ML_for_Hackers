@@ -63,8 +63,8 @@ I know that.  And no, you shouldn't.  But see below.
 I know that, too.
 
 However, the discussion was tending towards
-"don't use things like goto and break to alter flow of control
-in your program".  While not valid 100% of the time, it's a 
+don't use things like goto and break to alter flow of control
+in your program.  While not valid 100% of the time, it's a 
 reasonable rule of thumb.  The idea is that, when looking at
 code, it's easier to see how control moves through a 
 function if your basic control blocks do all the work.  The

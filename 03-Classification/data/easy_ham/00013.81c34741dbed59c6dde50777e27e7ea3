@@ -22,7 +22,7 @@ Received: from jlooney.jinny.ie (unknown [193.120.171.2]) by moe.jinny.ie
 Received: by jlooney.jinny.ie (Postfix, from userid 500) id 4F57189D;
     Thu, 22 Aug 2002 16:25:45 +0100 (IST)
 Date: Thu, 22 Aug 2002 16:25:45 +0100
-From: "John P. Looney" <valen@tuatha.org>
+From: John P. Looney <valen@tuatha.org>
 To: linux-raid@vger.kernel.org
 Cc: ilug@linux.ie
 Message-Id: <20020822152545.GJ3670@jinny.ie>

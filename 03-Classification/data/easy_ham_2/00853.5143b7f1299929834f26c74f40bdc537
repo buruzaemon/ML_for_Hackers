@@ -24,10 +24,10 @@ X-Sender: mike@techdirt.com
 X-Mailer: Windows Eudora Pro Version 3.0 (32) -- [Cornell Modified]
 To: Eugen Leitl <eugen@leitl.org>
 From: Mike Masnick <mike@techdirt.com>
-Subject: Re: Mossberg on 'ChoiceMail': "In my tests, it cut my spam to zero."
+Subject: Re: Mossberg on 'ChoiceMail': In my tests, it cut my spam to zero.
 Cc: <fork@spamassassin.taint.org>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Sender: fork-admin@xent.com
 Errors-To: fork-admin@xent.com
 X-Beenthere: fork@spamassassin.taint.org
@@ -46,7 +46,7 @@ At 11:49 AM 7/24/02 +0200, Eugen Leitl wrote:
 >On Tue, 23 Jul 2002, Mike Masnick wrote:
 >
 >> Lately, a fairly large % of the spam I've been getting has been coming
->> from spam systems that forge my own address as the "from" address...
+>> from spam systems that forge my own address as the from address...
 >
 >Include a random token with an expiration date with anything you send.  
 >Valid whitelisting of From:you@here.net yet invalid random token would get 
@@ -66,7 +66,7 @@ ever use it.
 
 They don't have to.  All they have to do is use some program (which, if
 they don't exist already, will certainly be around someday soon) that makes
-every spam they send show the recipient as the "from" address as well.
+every spam they send show the recipient as the from address as well.
 
 >> Plus, I'm still not sure how I feel about whitelists.  I don't think I'm so
 >> special that people should need to fill out a special form just to send me
@@ -78,7 +78,7 @@ The adding manually thing doesn't seem like much fun.  And, anytime I speak
 to someone new, it just makes it more unlikely that they will be willing to
 contact me.  Having played around with whitelists in the past, you'd be
 amazed at how confused many people get by them as well.  They tend to
-ignore the "please apply" messages.
+ignore the please apply messages.
 
 As an aside, am I the only person around who simply does not use the
 addressbook feature in email programs?  I never have, and I don't see any

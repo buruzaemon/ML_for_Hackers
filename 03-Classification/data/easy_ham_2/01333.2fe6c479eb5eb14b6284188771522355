@@ -24,9 +24,9 @@ Received: from bert.cs.rice.edu (bert.cs.rice.edu [128.42.3.146]) by
     -0500 (CDT)
 Received: by bert.cs.rice.edu (Postfix, from userid 14314) id 7A930374003;
     Wed, 21 Aug 2002 06:57:36 -0500 (CDT)
-To: "Craig R.Hughes" <craig@deersoft.com>
+To: Craig R.Hughes <craig@deersoft.com>
 Cc: yyyy@spamassassin.taint.org (Justin Mason),
-	"Malte S. Stretz" <msquadrat.nospamplease@gmx.net>,
+	Malte S. Stretz <msquadrat.nospamplease@gmx.net>,
 	SpamAssassin Talk ML <spamassassin-talk@lists.sourceforge.net>
 References: <B7973337-B468-11D6-9F04-00039396ECF2@deersoft.com>
 From: Scott A Crosby <scrosby@cs.rice.edu>

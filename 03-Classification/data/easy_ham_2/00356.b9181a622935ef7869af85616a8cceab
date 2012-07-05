@@ -55,12 +55,12 @@ public to have them anyway.  The ISOs include third-party proprietary
 apps, but of necessity not the highly-restricted ones available in 
 boxed set editions.)
 
-(1) You can get a single-disk ISO9660 image of SuSE "evaluation"
+(1) You can get a single-disk ISO9660 image of SuSE evaluation
 edition, version 7.0, _lots_ of places, including here:
 
 ftp://ftp.suse.com/pub/suse/i386/evaluation-7.0/evaluation-7.0.iso
 
-(2) You could "wget -r" (or equivalent) the entire 8.0 FTP Edition (for
+(2) You could wget -r (or equivalent) the entire 8.0 FTP Edition (for
 lack of an official name for it) from here (or mirror sites):
 
 ftp://ftp.suse.com/pub/suse/i386/8.0/
@@ -93,10 +93,10 @@ those stories.  The law recognises such efforts as creative works
 deserving copyright protection, if there is sufficient creative effort.
 (A judge would decide, if someone made a court case of it.)  Courts have
 held, on the other hand, that arrangement and publication of
-alphabetical telephone listings in a "yellow pages" telephone directory
+alphabetical telephone listings in a yellow pages telephone directory
 (the advertising section) don't have anywhere near enough creative
 content to support an overreaching telco's claim of compilation
-copyright.  (The court politely said "Nice try", in effect.)
+copyright.  (The court politely said Nice try, in effect.)
 
 The OpenBSD Foundation's claim may be a bit of a legal bluff, too.
 Theoretically, one could get around it by creating a slightly different
@@ -112,9 +112,9 @@ or distribution as a whole.
 > but essentially the only 'free' version of SuSE will be it's
 > ftp offering.
 
-Again, the "FTP Edition" and the Evaluation Edition may be redistributed
-more-or-less freely, as long as it's not "for value".  (Ditto the
-"live-eval" edition, which is a demo only.)  The three boxed sets'
+Again, the FTP Edition and the Evaluation Edition may be redistributed
+more-or-less freely, as long as it's not for value.  (Ditto the
+live-eval edition, which is a demo only.)  The three boxed sets'
 contents may not.
 
 -- 

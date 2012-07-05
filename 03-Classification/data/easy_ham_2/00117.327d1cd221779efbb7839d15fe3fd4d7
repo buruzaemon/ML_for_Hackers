@@ -25,13 +25,13 @@ Received: (qmail 79500 messnum 1024557 invoked from
 Received: from unknown (HELO win2000) (194.125.130.10) by
     relay07.indigo.ie (qp 79500) with SMTP; 22 Jul 2002 14:48:16 -0000
 Reply-To: <macarthy@iol.ie>
-From: "Justin MacCarthy" <macarthy@iol.ie>
-To: "irish linux users group" <ilug@linux.ie>
+From: Justin MacCarthy <macarthy@iol.ie>
+To: irish linux users group <ilug@linux.ie>
 Subject: RE: [ILUG] bind + lex + yacc...
 Date: Mon, 22 Jul 2002 15:48:54 +0100
 Message-Id: <OFEGLPGPCHPACFLJPAILAEENDNAA.macarthy@iol.ie>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal

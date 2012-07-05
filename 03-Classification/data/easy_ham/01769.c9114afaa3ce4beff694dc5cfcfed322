@@ -32,11 +32,11 @@ In this issue:
 |   http://use.perl.org/article.pl?sid=02/08/27/1317253              |
 +--------------------------------------------------------------------+
 
-[0]jonasbn writes "DevX has brought an article on the subject of [1]Perl
+[0]jonasbn writes DevX has brought an article on the subject of [1]Perl
 and .NET and porting existing code. The teaser: Learn how CPAN Perl
 modules can be made automatically available to the .NET framework. The
 technique involves providing small PerlNET mediators between Perl and
-.NET and knowing when, where, and how to modify."
+.NET and knowing when, where, and how to modify.
 
 Discuss this story at:
     http://use.perl.org/comments.pl?sid=02/08/27/1317253

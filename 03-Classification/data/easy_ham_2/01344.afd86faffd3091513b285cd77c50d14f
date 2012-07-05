@@ -25,12 +25,12 @@ MIME-Version: 1.0
 Message-Id: <p04310104b989ac1fad1d@[198.248.208.11]>
 In-Reply-To: <95D05F3FD1EBD311AE8B00508B5A968508BAB083@gvlexch4.gvl.esys.com>
 References: <95D05F3FD1EBD311AE8B00508B5A968508BAB083@gvlexch4.gvl.esys.com>
-To: "Rice, MA Mark (6750)" <RiceMA@ISL-3Com.com>,
+To: Rice, MA Mark (6750) <RiceMA@ISL-3Com.com>,
 	zeek <zeek@sparklehouse.com>,
 	SA <spamassassin-talk@lists.sourceforge.net>
 From: Justin Shore <listuser@neo.pittstate.edu>
 Subject: RE: [SAtalk] Probing for valid addrs
-Content-Type: text/plain; charset="us-ascii" ; format="flowed"
+Content-Type: text/plain; charset=us-ascii ; format=flowed
 Sender: spamassassin-talk-admin@example.sourceforge.net
 Errors-To: spamassassin-talk-admin@example.sourceforge.net
 X-Beenthere: spamassassin-talk@example.sourceforge.net
@@ -48,8 +48,8 @@ X-Original-Date: Wed, 21 Aug 2002 15:51:44 -0500
 Date: Wed, 21 Aug 2002 15:51:44 -0500
 
 At 3:39 PM -0500 8/21/02, Rice, MA Mark (6750 wrote:
->I get hit with these probes or "Rumplestiltskin attacks" too.
->Justin, could you explain what a "LART" is?  I've seen that term used on
+>I get hit with these probes or Rumplestiltskin attacks too.
+>Justin, could you explain what a LART is?  I've seen that term used on
 >this list before...
 
 Sure.  I described it the way I understand it to another person off 

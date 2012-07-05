@@ -41,7 +41,7 @@ Received: from localhost (HELO deepeddy.vircio.com)
     <cwg-exmh@DeepEddy.Com>) by localhost (qmail-ldap-1.03) with SMTP for
     <exmh-workers@redhat.com>; 22 Aug 2002 14:12:18 -0000
 X-Mailer: exmh version 2.5 07/13/2001 with nmh-1.0.4
-To: "J. W. Ballantine" <jwb@homer.att.com>
+To: J. W. Ballantine <jwb@homer.att.com>
 Cc: exmh-workers@spamassassin.taint.org
 Subject: Re: New Sequences Window
 In-Reply-To: <200208211351.JAA15807@hera.homer.att.com>
@@ -50,9 +50,9 @@ X-Url: http://www.DeepEddy.Com/~cwg
 X-Image-Url: http://www.DeepEddy.Com/~cwg/chris.gif
 MIME-Version: 1.0
 Content-Type: multipart/signed;
-    boundary="==_Exmh_1547759024P";
+    boundary===_Exmh_1547759024P;
     micalg=pgp-sha1;
-    protocol="application/pgp-signature"
+    protocol=application/pgp-signature
 Content-Transfer-Encoding: 7bit
 Message-Id: <1030025538.25487.TMDA@deepeddy.vircio.com>
 From: Chris Garrigues <cwg-exmh@DeepEddy.Com>
@@ -77,7 +77,7 @@ Date: Thu, 22 Aug 2002 09:12:16 -0500
 --==_Exmh_1547759024P
 Content-Type: text/plain; charset=us-ascii
 
-> From:  "J. W. Ballantine" <jwb@homer.att.com>
+> From:  J. W. Ballantine <jwb@homer.att.com>
 > Date:  Wed, 21 Aug 2002 09:51:31 -0400
 >
 > I CVS'ed the unseen/Sequences changes and installed them, and have only one 

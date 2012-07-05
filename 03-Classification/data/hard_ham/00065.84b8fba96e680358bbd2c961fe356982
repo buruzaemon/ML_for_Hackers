@@ -23,7 +23,7 @@ Content-Type: text/html; charset=us-ascii
 
       CLICK HERE to read this newsletter on the Web for FREE:
 
-      <a href="http://www.lockergnome.com/issues/daily/20020712.html">
+      <a href=http://www.lockergnome.com/issues/daily/20020712.html>
       http://www.lockergnome.com/issues/daily/20020712.html
       </a>
 
@@ -66,7 +66,7 @@ Content-Type: text/html; charset=us-ascii
 
 
 
-<style type="text/css">
+<style type=text/css>
 <!--
  body      { BACKGROUND-IMAGE: url(http://images.lockergnome.com/images/issue/top-right.gif); color: #990000 }
  a:link    { COLOR: #000000; TEXT-DECORATION: underline; font-weight: normal }
@@ -79,33 +79,33 @@ Content-Type: text/html; charset=us-ascii
 -->
 </style><title>20020712 Lockergnome Windows Daily</title></head>
 
-<body   MARGINHEIGHT="0" TOPMARGIN="0" BOTTOMMARGIN="0" bgcolor="#FFFFFF"   style="BACKGROUND-POSITION: right top; BACKGROUND-REPEAT: no-repeat" MARGINWIDTH="0" LEFTMARGIN="0" rightmargin="0">
+<body   MARGINHEIGHT=0 TOPMARGIN=0 BOTTOMMARGIN=0 bgcolor=#FFFFFF   style=BACKGROUND-POSITION: right top; BACKGROUND-REPEAT: no-repeat MARGINWIDTH=0 LEFTMARGIN=0 rightmargin=0>
 
-<!-- background="http://images.lockergnome.com/images/bg.head.gray.gif" bgcolor="#C0C0C0" left width="610" background="http://www.lockergnome.com/images/issue/top-right-2.gif" -->
+<!-- background=http://images.lockergnome.com/images/bg.head.gray.gif bgcolor=#C0C0C0 left width=610 background=http://www.lockergnome.com/images/issue/top-right-2.gif -->
 
- <table width="100%" border="0" cellspacing="0" cellpadding="7" align="CENTER" valign="MIDDLE">
-  <tr><td background="http://images.lockergnome.com/images/issue/top-left.gif" nowrap valign="middle" align="center" colspan="2">
+ <table width=100% border=0 cellspacing=0 cellpadding=7 align=CENTER valign=MIDDLE>
+  <tr><td background=http://images.lockergnome.com/images/issue/top-left.gif nowrap valign=middle align=center colspan=2>
 
  <!-- TOP BANNER AD -->
  <center>
- <a href="http://www.lockergnome.com/"><img src="http://images.lockergnome.com/images/gnomedaily.gif" width="50" height="60" hspace="5" alt="Lockergnome" border="0"></a>
- <a target="_blank" href="http://www.gnomedex.com/"><img src="http://www.lockergnome.com/images/ads/gnomedex2002banner.gif" width="468" height="60" alt="See You at Gnomedex 2002!" border="0"></a>
+ <a href=http://www.lockergnome.com/><img src=http://images.lockergnome.com/images/gnomedaily.gif width=50 height=60 hspace=5 alt=Lockergnome border=0></a>
+ <a target=_blank href=http://www.gnomedex.com/><img src=http://www.lockergnome.com/images/ads/gnomedex2002banner.gif width=468 height=60 alt=See You at Gnomedex 2002! border=0></a>
  <br>
  </center>
  <!-- TOP BANNER AD -->
 
- <!--#include virtual="/include/banner.txt" -->
+ <!--#include virtual=/include/banner.txt -->
 
  </td></tr>
 
-  <tr><td valign="top" bgcolor="#FFFFFF"><font color="#990000" face="Verdana, Tahoma, Arial" style="font-size: 10pt" size="2">
+  <tr><td valign=top bgcolor=#FFFFFF><font color=#990000 face=Verdana, Tahoma, Arial style=font-size: 10pt size=2>
 
 <!-- NEWS -->
-<table bgcolor="#FFCC99" border="0" cellspacing="0" cellpadding="0" width="100%"><tr><td><p class="title">
+<table bgcolor=#FFCC99 border=0 cellspacing=0 cellpadding=0 width=100%><tr><td><p class=title>
 &nbsp; 07.12.2002 GnomeREPORT </p></td></tr></table><p>
 
-<p class="sidebar"><table cellpadding="10" cellspacing="0" border="0"><tr><td><font style="font-size: 10pt" face="Verdana, Tahoma, Arial" size="2">
-<b>Content Management Is Key:</b> Need a reason your boss should be sending you to Gnomedex? Some of the leading experts on content management solutions (those things we affectionately call blogs) will be sharing the future of blogging and how you can adapt it to both the way you do business and the way you communicate in general. Join Evan Williams and Doc Searls as they share pearls of wisdom on blogging, Linux and other open source applications that are changing our lives. If that's not enough incentive, remind the boss that THE Internet security guru, Steve Gibson, will be sharing his wisdom as well. <a href="http://www.gnomedex.com">Register for Gnomedex today</a>!   
+<p class=sidebar><table cellpadding=10 cellspacing=0 border=0><tr><td><font style=font-size: 10pt face=Verdana, Tahoma, Arial size=2>
+<b>Content Management Is Key:</b> Need a reason your boss should be sending you to Gnomedex? Some of the leading experts on content management solutions (those things we affectionately call blogs) will be sharing the future of blogging and how you can adapt it to both the way you do business and the way you communicate in general. Join Evan Williams and Doc Searls as they share pearls of wisdom on blogging, Linux and other open source applications that are changing our lives. If that's not enough incentive, remind the boss that THE Internet security guru, Steve Gibson, will be sharing his wisdom as well. <a href=http://www.gnomedex.com>Register for Gnomedex today</a>!   
 </font></td></tr></table></p>
 
 
@@ -113,8 +113,8 @@ My mom just notified me of my aunt Theresa's death. She was my
 father's older sister, though I only knew her through a few e-mail
 exchanges and a couple of brief encounters as a child. This news
 came hours after I received ANOTHER bit of disturbing news:
-"Please tell Chris that one of his first fans died last weekend of
-a heart attack at home." I first met Jon Snyder at an Apple user's
+Please tell Chris that one of his first fans died last weekend of
+a heart attack at home. I first met Jon Snyder at an Apple user's
 group meeting a couple of years ago; to me, he always looked like
 a beefier Robert Beltran. Death is something we all must deal
 with, but you never seem to be prepared for it when someone
@@ -127,7 +127,7 @@ few months ago:
 
 <p>
 
-<I>"I evangelized for months last year for having our company at
+<I>I evangelized for months last year for having our company at
 the first of these consumer computer conferences in Des Moines
 last October, but got shot down. The conference was a hit despite
 being postponed by 9/11, and having to move the venue at the last
@@ -139,40 +139,40 @@ friend of mine. He was the 'kid' hired by TechTV to host their
 Call for Help daily TV program in SF starting last fall. If you
 get the Dish network or Mediacom cable you can catch his show. I
 have my DishPlayer set up to record his show on a daily basis.
-It's VERY well done, as is TechTV as a whole."</I>
+It's VERY well done, as is TechTV as a whole.</I>
 
 <p>
 
-I returned from speaking to another <a href="http://www.dvpc.org/">user group</a> the other night and
+I returned from speaking to another <a href=http://www.dvpc.org/>user group</a> the other night and
 found that approximately 100 new GnomeTomes had been ordered.
 Sweet! When I started looking closer at the numbers, I realized
-that Jake was offering his <a href="http://www.gnometomes.com/tome/cat_audio.html">Converting
+that Jake was offering his <a href=http://www.gnometomes.com/tome/cat_audio.html>Converting
 Vinyl LPs to CD</a> eBook for free - and that's all anybody was
 taking. No, seriously - five hundred orders later, and 99% of them
 were just for that particular title. Now, while I don't have a
 problem with Jake's offer, I do want to encourage you to check out
 the non-free titles (and if you've already looked, please
-<a href="http://www.gnometomes.com/">look again</a>). A lot of blood,
+<a href=http://www.gnometomes.com/>look again</a>). A lot of blood,
 sweat, and tears went into them - and they're just as helpful. In
-fact, Jake's also written one for <A HREF="http://www.gnometomes.com/tome/001924.html">OS X</A> (which
+fact, Jake's also written one for <A HREF=http://www.gnometomes.com/tome/001924.html>OS X</A> (which
 probably wouldn't impress you if you weren't using an Apple
 machine). Although, I'm sure plenty of you use
-<a href="http://www.gnometomes.com/tome/001691.html">Dreamweaver</a>.
+<a href=http://www.gnometomes.com/tome/001691.html>Dreamweaver</a>.
 Which reminds me: Jake's also now authoring our Webmaster Weekly
 newsletter. So, if you haven't read that in a while, I'd encourage
-you to give it another glance. After all, as <A HREF="http://members.aol.com/voicepro/">Elwood
-Edwards</A> so finely said: <a href="http://www.lockergnome.com/coolstuff/youvegotlockergnome.mp3">You've
-Got Lockergnome</a>! Thanks to <a href="http://www.online-tonight.com/">David
+you to give it another glance. After all, as <A HREF=http://members.aol.com/voicepro/>Elwood
+Edwards</A> so finely said: <a href=http://www.lockergnome.com/coolstuff/youvegotlockergnome.mp3>You've
+Got Lockergnome</a>! Thanks to <a href=http://www.online-tonight.com/>David
 Lawrence</a> for making that MP3 a reality. El can make one with your
 name, too. And yes, that's the AOL guy.
 
 
 <!-- DOWNLOADS -->
-<p align="right">See You in <a target="_blank" href="http://www.gnomedex.com/">August</a>,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><font style="font-size: 23pt" face="Chris Pirillo, Script">Chris Pirillo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></P>
-<p><br><table bgcolor="#FFCC99" border="0" cellspacing="0" cellpadding="0" width="100%"><tr><td><p class="title">&nbsp;GnomeDOWNLOADS</p></td></tr></table><p>
+<p align=right>See You in <a target=_blank href=http://www.gnomedex.com/>August</a>,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><font style=font-size: 23pt face=Chris Pirillo, Script>Chris Pirillo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></P>
+<p><br><table bgcolor=#FFCC99 border=0 cellspacing=0 cellpadding=0 width=100%><tr><td><p class=title>&nbsp;GnomeDOWNLOADS</p></td></tr></table><p>
 <B>VLINK v0.6.8.0 [257k] W9x FREE</b>
 <P>
- <A CLASS=URL HREF="http://www.vxtech.org/">http://www.vxtech.org/</A>
+ <A CLASS=URL HREF=http://www.vxtech.org/>http://www.vxtech.org/</A>
 <P>
 {Desktop link manager} Nothing gets you there faster than a link.
 I mean, imagine if while you're surfing, you had to stop and type
@@ -190,7 +190,7 @@ run it.&quot;
 
 <B>GhiaTracker v1.5 [370k] W9x/2k/XP FREE</b>
 <P>
- <A CLASS=URL HREF="http://homepage.mac.com/karmannghia/ghiatracker/">http://homepage.mac.com/karmannghia/ghiatracker/</A>
+ <A CLASS=URL HREF=http://homepage.mac.com/karmannghia/ghiatracker/>http://homepage.mac.com/karmannghia/ghiatracker/</A>
 <P>
 {Learn about your Ghia} Gearheads, motorheads, call them whatever
 you will, but I've never been part of their ranks. Not that I
@@ -208,23 +208,23 @@ is also available.
 
 
 <!-- SPECIALS -->
-<p align="right"><a class="url" style="color: gray; text-decoration: none" href="http://www.lockergnome.com/recommend.html">Recommend It!</a></p>
-<p><br><table bgcolor="#FFCC99" border="0" cellspacing="0" cellpadding="0" width="100%"><tr><td><p class="title">&nbsp;GnomeCLICKS</p></td></tr></table><p>
-<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr>
-<td valign=top align=center><a target="_blank" href="http://www.infopackets.com/cgi-bin/click.cgi?id=83"><img src="http://www.lockergnome.com/images/ads/icon.hotwindowstip.gif" height="62" width="62" alt="TECHNOLOGY can be frustrating for new and intermediate computer users, UNTIL NOW. Join us for a FREE Windows Newsletter, video tutorials, articles, special reports, and more!" border="0"></a></td>
-<td valign=top align=center><a target="_blank" href="http://www.picozip.com/lg/"><img src="http://www.picozip.com/ads/picozip_lg.gif" height="60" width="63" alt="The easiest way to Zip/UnZip. An AWARD-WINNING file compression utility featuring quick backup, batch processing, Windows integration and SUPPORTS 15 archive formats (ACE, RAR, etc)." border="0"></a></td>
-<td valign=top align=center><a target="_blank" href="http://www.handybackup.com"><img src="http://www.lockergnome.com/images/ads/icon.handybackup.gif" height="62" width="33" alt="Handy Backup" border="0"></a></td>
-<td valign=top align=center><a target="_blank" href="http://www.outlooksecure.com/"><img src="http://www.lockergnome.com/images/ads/icon.outlooksecure.gif" height="57" width="60" alt="Secure your E-Mail!" border="0"></a></td>
-<td valign=top align=center><a target="_blank" href="http://www.capitalintellect.net/indexlgicon.htm"><img src="http://www.capitalintellect.net/lg1/images/shortcut.gif" height="62" width="62" alt="Shortcut to RDesk.exe" border="0"></a></td>
-<td valign=top align=center><a target="_blank" href="http://www.paessler.com/?ref=LGGCIP"><img src="http://www.lockergnome.com/images/ads/icon.ipcheck1.gif" height="63" width="39" alt="IPCheck Server Monitor monitors a network using various protocols (e.g. ping, http, smtp, ftp) and notifies the staff in various ways as soon as an outage occurs." border="0"></a></td>
-<td valign=top align=center><a target="_blank" href="http://outlook.4team.biz/?fr=gnome"><img src="http://www.lockergnome.com/images/ads/icon.outlook4team.1.gif" height="60" width="60" alt="Share your team/project contacts, calendars, tasks, etc. in MS Oulook 2002, without a server!" border="0"></a></td>
+<p align=right><a class=url style=color: gray; text-decoration: none href=http://www.lockergnome.com/recommend.html>Recommend It!</a></p>
+<p><br><table bgcolor=#FFCC99 border=0 cellspacing=0 cellpadding=0 width=100%><tr><td><p class=title>&nbsp;GnomeCLICKS</p></td></tr></table><p>
+<table cellpadding=0 cellspacing=0 border=0 width=100%><tr>
+<td valign=top align=center><a target=_blank href=http://www.infopackets.com/cgi-bin/click.cgi?id=83><img src=http://www.lockergnome.com/images/ads/icon.hotwindowstip.gif height=62 width=62 alt=TECHNOLOGY can be frustrating for new and intermediate computer users, UNTIL NOW. Join us for a FREE Windows Newsletter, video tutorials, articles, special reports, and more! border=0></a></td>
+<td valign=top align=center><a target=_blank href=http://www.picozip.com/lg/><img src=http://www.picozip.com/ads/picozip_lg.gif height=60 width=63 alt=The easiest way to Zip/UnZip. An AWARD-WINNING file compression utility featuring quick backup, batch processing, Windows integration and SUPPORTS 15 archive formats (ACE, RAR, etc). border=0></a></td>
+<td valign=top align=center><a target=_blank href=http://www.handybackup.com><img src=http://www.lockergnome.com/images/ads/icon.handybackup.gif height=62 width=33 alt=Handy Backup border=0></a></td>
+<td valign=top align=center><a target=_blank href=http://www.outlooksecure.com/><img src=http://www.lockergnome.com/images/ads/icon.outlooksecure.gif height=57 width=60 alt=Secure your E-Mail! border=0></a></td>
+<td valign=top align=center><a target=_blank href=http://www.capitalintellect.net/indexlgicon.htm><img src=http://www.capitalintellect.net/lg1/images/shortcut.gif height=62 width=62 alt=Shortcut to RDesk.exe border=0></a></td>
+<td valign=top align=center><a target=_blank href=http://www.paessler.com/?ref=LGGCIP><img src=http://www.lockergnome.com/images/ads/icon.ipcheck1.gif height=63 width=39 alt=IPCheck Server Monitor monitors a network using various protocols (e.g. ping, http, smtp, ftp) and notifies the staff in various ways as soon as an outage occurs. border=0></a></td>
+<td valign=top align=center><a target=_blank href=http://outlook.4team.biz/?fr=gnome><img src=http://www.lockergnome.com/images/ads/icon.outlook4team.1.gif height=60 width=60 alt=Share your team/project contacts, calendars, tasks, etc. in MS Oulook 2002, without a server! border=0></a></td>
 </tr></table>
 
 <!-- SYSTEM -->
-<p><br><table bgcolor="#FFCC99" border="0" cellspacing="0" cellpadding="0" width="100%"><tr><td><p class="title">&nbsp;GnomeSYSTEM</p></td></tr></table><p>
+<p><br><table bgcolor=#FFCC99 border=0 cellspacing=0 cellpadding=0 width=100%><tr><td><p class=title>&nbsp;GnomeSYSTEM</p></td></tr></table><p>
 <B>WebTV Viewer v2.6 [6.8M] W9x FREE</b>
 <P>
- <A CLASS=URL HREF="http://developer.msntv.com/tools/viewer/">http://developer.msntv.com/tools/viewer/</A>
+ <A CLASS=URL HREF=http://developer.msntv.com/tools/viewer/>http://developer.msntv.com/tools/viewer/</A>
 <P>
 &quot;Preview your sites on WebTV without leaving your PC! The WebTV
 Viewer simulates WebTV on your system. Read the online Viewer
@@ -246,20 +246,20 @@ browser does.&quot;
 
 
 <!-- WILDCARD -->
-<p align="right"><a class="url" style="color: gray; text-decoration: none" href="http://www.lockergnome.com/recommend.html">Recommend It!</a></p>
-<p><br><table bgcolor="#FFCC99" border="0" cellspacing="0" cellpadding="0" width="100%"><tr><td><p class="title">&nbsp;GnomeWILDCARD</p></td></tr></table><p>
+<p align=right><a class=url style=color: gray; text-decoration: none href=http://www.lockergnome.com/recommend.html>Recommend It!</a></p>
+<p><br><table bgcolor=#FFCC99 border=0 cellspacing=0 cellpadding=0 width=100%><tr><td><p class=title>&nbsp;GnomeWILDCARD</p></td></tr></table><p>
 
-<table align="right" bgcolor="#FFFFFF" cellspacing="0" cellpadding="10"><tr><td><table align="left" bgcolor="#990000" cellspacing="0" cellpadding="2"><tr><td><table border="0" cellpadding="6" cellspacing="0">
-<tr><td align="center" valign="middle" bgcolor="#FFEEDD"><font style="font-size: 8pt" face="Tahoma, Helvetica, Arial" size="1"><B>Full PDF Books</b></font></td></tr><tr><td bgcolor="#FFEEDD"><font style="font-size: 8pt" face="Tahoma, Helvetica, Arial" size="1">
-<A HREF="http://www.gnometomes.com/tome/001829.html">Poor Richard's Web</A><BR>
-<A HREF="http://www.gnometomes.com/tome/001827.html">Internet Promotions</A><BR>
-<A HREF="http://www.gnometomes.com/tome/001804.html">E-Mail Publishing</A><BR>
-<A HREF="http://www.gnometomes.com/tome/001830.html">Web Site Makeover</A><BR>
-<A HREF="http://www.gnometomes.com/tome/001803.html">Websites Made Easy</A><BR>
-<A HREF="http://www.gnometomes.com/tome/001825.html">Online Communities</A><BR>
-<A HREF="http://www.gnometomes.com/tome/001826.html">Home Networking</A><BR>
-<A HREF="http://www.gnometomes.com/tome/001828.html">Internet Recruiting</A><BR>
-<A HREF="http://www.gnometomes.com/tome/001824.html">Online Branding</A><BR>
+<table align=right bgcolor=#FFFFFF cellspacing=0 cellpadding=10><tr><td><table align=left bgcolor=#990000 cellspacing=0 cellpadding=2><tr><td><table border=0 cellpadding=6 cellspacing=0>
+<tr><td align=center valign=middle bgcolor=#FFEEDD><font style=font-size: 8pt face=Tahoma, Helvetica, Arial size=1><B>Full PDF Books</b></font></td></tr><tr><td bgcolor=#FFEEDD><font style=font-size: 8pt face=Tahoma, Helvetica, Arial size=1>
+<A HREF=http://www.gnometomes.com/tome/001829.html>Poor Richard's Web</A><BR>
+<A HREF=http://www.gnometomes.com/tome/001827.html>Internet Promotions</A><BR>
+<A HREF=http://www.gnometomes.com/tome/001804.html>E-Mail Publishing</A><BR>
+<A HREF=http://www.gnometomes.com/tome/001830.html>Web Site Makeover</A><BR>
+<A HREF=http://www.gnometomes.com/tome/001803.html>Websites Made Easy</A><BR>
+<A HREF=http://www.gnometomes.com/tome/001825.html>Online Communities</A><BR>
+<A HREF=http://www.gnometomes.com/tome/001826.html>Home Networking</A><BR>
+<A HREF=http://www.gnometomes.com/tome/001828.html>Internet Recruiting</A><BR>
+<A HREF=http://www.gnometomes.com/tome/001824.html>Online Branding</A><BR>
 </font></td></tr></table></td></tr></table></td></tr></table>
 <B>The Evidence is Against You</b>
     <br>Scribbled by Jim Girard
@@ -357,17 +357,17 @@ be paying him as much as he is.
 
 
 <!-- FAVORITE -->
-<p align="right"><a class="url" style="color: gray; text-decoration: none" href="http://www.lockergnome.com/submit.html">Submit Your Thoughts</a> <font class="url" color="gray">|</font> <a class="url" style="color: gray; text-decoration: none" href="http://www.lockergnome.com/recommend.html">Recommend It!</a></p>
+<p align=right><a class=url style=color: gray; text-decoration: none href=http://www.lockergnome.com/submit.html>Submit Your Thoughts</a> <font class=url color=gray>|</font> <a class=url style=color: gray; text-decoration: none href=http://www.lockergnome.com/recommend.html>Recommend It!</a></p>
 
 
-<p class="sidebar"><table cellpadding="10" cellspacing="0" border="0"><tr><td><font style="font-size: 10pt" face="Verdana, Tahoma, Arial" size="2">
-<b>A BOOK FOR EVERY GEEK:</b> Want to know more about <a href="http://www.gnometomes.com/tome/001826.html">networking</a>? Have you ever wanted to <a href="http://www.gnometomes.com/tome/001843.html">write an e-book</a>? Maybe you need to polish your <a href="http://www.gnometomes.com/tome/001829.html">Web design</a> skills? Get full-length books from the Poor Richard's series, including <b>Poor Richard's E-mail Publishing</b>, by Chris Pirillo, at GnomeTomes.com, for 50% off the suggested retail price of the print versions. <a href="http://www.gnometomes.com">Click here</a> to learn more.    
+<p class=sidebar><table cellpadding=10 cellspacing=0 border=0><tr><td><font style=font-size: 10pt face=Verdana, Tahoma, Arial size=2>
+<b>A BOOK FOR EVERY GEEK:</b> Want to know more about <a href=http://www.gnometomes.com/tome/001826.html>networking</a>? Have you ever wanted to <a href=http://www.gnometomes.com/tome/001843.html>write an e-book</a>? Maybe you need to polish your <a href=http://www.gnometomes.com/tome/001829.html>Web design</a> skills? Get full-length books from the Poor Richard's series, including <b>Poor Richard's E-mail Publishing</b>, by Chris Pirillo, at GnomeTomes.com, for 50% off the suggested retail price of the print versions. <a href=http://www.gnometomes.com>Click here</a> to learn more.    
 </font></td></tr></table></p>
 
-<p><br><table bgcolor="#FFCC99" border="0" cellspacing="0" cellpadding="0" width="100%"><tr><td><p class="title">&nbsp;GnomeFAVORITE</p></td></tr></table><p>
+<p><br><table bgcolor=#FFCC99 border=0 cellspacing=0 cellpadding=0 width=100%><tr><td><p class=title>&nbsp;GnomeFAVORITE</p></td></tr></table><p>
 <B>My Virtual Model</b>
 <P>
- <A CLASS=URL HREF="http://www.myvirtualmodel.com/">http://www.myvirtualmodel.com/</A>
+ <A CLASS=URL HREF=http://www.myvirtualmodel.com/>http://www.myvirtualmodel.com/</A>
 <P>
 {Make a model of you} Wouldn't it be cool if you could physically
 walk into cyberspace? Well, you can't... so stop thinking about
@@ -383,20 +383,20 @@ for your body type. (I'll stick with plaid, thank you very much.)
 
 
 <!-- TIP -->
-<p align="right"><a class="url" style="color: gray; text-decoration: none" href="http://www.lockergnome.com/recommend.html">Recommend It!</a></p>
-<p><br><table bgcolor="#FFCC99" border="0" cellspacing="0" cellpadding="0" width="100%"><tr><td><p class="title">&nbsp;GnomeTIP</p></td></tr></table><p>
+<p align=right><a class=url style=color: gray; text-decoration: none href=http://www.lockergnome.com/recommend.html>Recommend It!</a></p>
+<p><br><table bgcolor=#FFCC99 border=0 cellspacing=0 cellpadding=0 width=100%><tr><td><p class=title>&nbsp;GnomeTIP</p></td></tr></table><p>
 
-<table align="right" bgcolor="#FFFFFF" cellspacing="0" cellpadding="10"><tr><td><table align="left" bgcolor="#990000" cellspacing="0" cellpadding="2"><tr><td><table border="0" cellpadding="6" cellspacing="0">
-<tr><td align="center" valign="middle" bgcolor="#FFEEDD"><font style="font-size: 8pt" face="Tahoma, Helvetica, Arial" size="1"><B>Our Tip eBooks</b></font></td></tr><tr><td bgcolor="#FFEEDD"><font style="font-size: 8pt" face="Tahoma, Helvetica, Arial" size="1">
-<a target="_blank" href="http://www.gnometomes.com/tome/000628.html">Microsoft Office Tips</a><BR>
-<a target="_blank" href="http://www.gnometomes.com/tome/000627.html">PC Productivity Tips</a><BR>
-<a target="_blank" href="http://www.gnometomes.com/tome/000626.html">Cool Internet Tips</a><BR>
-<a target="_blank" href="http://www.gnometomes.com/tome/000625.html">Windows 2000 Tips</a><BR>
-<a target="_blank" href="http://www.gnometomes.com/tome/000623.html">Windows XP Tips</a><BR>
-<a target="_blank" HREF="http://www.gnometomes.com/tome/001106.html">Top 50 Fun Sites</A><BR>
-<a target="_blank" HREF="http://www.gnometomes.com/tome/001104.html">Must-Know Terms</A><BR>
-<a target="_blank" HREF="http://www.gnometomes.com/tome/001105.html">Top 50 Useful Sites</A><BR>
-<a target="_blank" HREF="http://www.gnometomes.com/tome/001099.html">Top 75 Tech Sites</A><BR>
+<table align=right bgcolor=#FFFFFF cellspacing=0 cellpadding=10><tr><td><table align=left bgcolor=#990000 cellspacing=0 cellpadding=2><tr><td><table border=0 cellpadding=6 cellspacing=0>
+<tr><td align=center valign=middle bgcolor=#FFEEDD><font style=font-size: 8pt face=Tahoma, Helvetica, Arial size=1><B>Our Tip eBooks</b></font></td></tr><tr><td bgcolor=#FFEEDD><font style=font-size: 8pt face=Tahoma, Helvetica, Arial size=1>
+<a target=_blank href=http://www.gnometomes.com/tome/000628.html>Microsoft Office Tips</a><BR>
+<a target=_blank href=http://www.gnometomes.com/tome/000627.html>PC Productivity Tips</a><BR>
+<a target=_blank href=http://www.gnometomes.com/tome/000626.html>Cool Internet Tips</a><BR>
+<a target=_blank href=http://www.gnometomes.com/tome/000625.html>Windows 2000 Tips</a><BR>
+<a target=_blank href=http://www.gnometomes.com/tome/000623.html>Windows XP Tips</a><BR>
+<a target=_blank HREF=http://www.gnometomes.com/tome/001106.html>Top 50 Fun Sites</A><BR>
+<a target=_blank HREF=http://www.gnometomes.com/tome/001104.html>Must-Know Terms</A><BR>
+<a target=_blank HREF=http://www.gnometomes.com/tome/001105.html>Top 50 Useful Sites</A><BR>
+<a target=_blank HREF=http://www.gnometomes.com/tome/001099.html>Top 75 Tech Sites</A><BR>
 </font></td></tr></table></td></tr></table></td></tr></table>
 Who has no trouble with controling his codes? Lockergnomie Wayne
 Smith: &quot;Here is a bit of information specifically for Hotmail
@@ -421,113 +421,113 @@ correctly register, and use in IE's right-click / context menu?&quot;
 
 
 <!-- ADMINISTRIVIA -->
-<p align="right"><a class="url" style="color: gray; text-decoration: none" href="http://www.lockergnome.com/recommend.html">Recommend It!</a></p>
+<p align=right><a class=url style=color: gray; text-decoration: none href=http://www.lockergnome.com/recommend.html>Recommend It!</a></p>
 
-<p><br><table cellpadding="0" cellspacing="0" border="0"><tr><td><p class="sidebar">
-<table cellpadding="7" cellspacing="0" border="0"><tr><td>
-<font style="font-size: 8pt" face="Verdana, Tahoma, Arial" size="1">
-<a href="http://www.lockergnome.com/issues/daily/20020712.html">http://www.lockergnome.com/issues/daily/20020712.html</a>
-<p>Your subscribed e-mail address is: [qqqqqqqqqq-lg@spamassassin.taint.org] - To unsubscribe or change your delivery address, please visit the <A HREF="http://www.lockergnome.com/changesub.html">subscription management</A> page. For further information, please refer to the GnomeCREDITS in the sidebar.
+<p><br><table cellpadding=0 cellspacing=0 border=0><tr><td><p class=sidebar>
+<table cellpadding=7 cellspacing=0 border=0><tr><td>
+<font style=font-size: 8pt face=Verdana, Tahoma, Arial size=1>
+<a href=http://www.lockergnome.com/issues/daily/20020712.html>http://www.lockergnome.com/issues/daily/20020712.html</a>
+<p>Your subscribed e-mail address is: [qqqqqqqqqq-lg@spamassassin.taint.org] - To unsubscribe or change your delivery address, please visit the <A HREF=http://www.lockergnome.com/changesub.html>subscription management</A> page. For further information, please refer to the GnomeCREDITS in the sidebar.
 </font></td></tr></table>
 </p></td></tr></table>
 
-<!--#include virtual="/include/subscription2.txt" -->
+<!--#include virtual=/include/subscription2.txt -->
 
 </font></td>
-<td background="http://images.lockergnome.com/images/issue/sidebar.gif" VALIGN="top" align="left" width="145"><font color="#990000" face="Verdana, Tahoma, Arial" style="font-size: 8pt" size="1">
+<td background=http://images.lockergnome.com/images/issue/sidebar.gif VALIGN=top align=left width=145><font color=#990000 face=Verdana, Tahoma, Arial style=font-size: 8pt size=1>
 
-<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td><p class="sidebar">LOOK OVER HERE</p></td></tr></table><br>
+<table cellpadding=0 cellspacing=0 border=0 width=100%><tr><td><p class=sidebar>LOOK OVER HERE</p></td></tr></table><br>
 
-&nbsp;<a href="http://www.gnometomes.com/">Download Our Tip Files</a><br>
+&nbsp;<a href=http://www.gnometomes.com/>Download Our Tip Files</a><br>
 <p>
-&nbsp;<a href="http://windowsdaily.lockergnome.com/">Latest Windows Daily</a><br>
-&nbsp;<a href="http://digitalmedia.lockergnome.com/">Latest Digital Media</a><br>
-&nbsp;<a href="http://techspecialist.lockergnome.com/">Latest Tech Specialist</a><br>
-&nbsp;<a href="http://penguinshell.lockergnome.com/">Latest Penguin Shell</a><br>
-&nbsp;<a href="http://applecore.lockergnome.com/">Latest Apple Core</a><br>
-&nbsp;<a href="http://webmasterweekly.lockergnome.com/">Latest Web Weekly</a><br>
-&nbsp;<a href="http://updates.lockergnome.com/">Latest Bits &amp; Bytes</a><br>
-&nbsp;<A HREF="http://www.gnomeradio.com/">Latest Audio Show</A><BR>
+&nbsp;<a href=http://windowsdaily.lockergnome.com/>Latest Windows Daily</a><br>
+&nbsp;<a href=http://digitalmedia.lockergnome.com/>Latest Digital Media</a><br>
+&nbsp;<a href=http://techspecialist.lockergnome.com/>Latest Tech Specialist</a><br>
+&nbsp;<a href=http://penguinshell.lockergnome.com/>Latest Penguin Shell</a><br>
+&nbsp;<a href=http://applecore.lockergnome.com/>Latest Apple Core</a><br>
+&nbsp;<a href=http://webmasterweekly.lockergnome.com/>Latest Web Weekly</a><br>
+&nbsp;<a href=http://updates.lockergnome.com/>Latest Bits &amp; Bytes</a><br>
+&nbsp;<A HREF=http://www.gnomeradio.com/>Latest Audio Show</A><BR>
 <p>
-&nbsp;<A HREF="http://lockergnome.pricegrabber.com/">Low Price Search</A><br>
-&nbsp;<A HREF="http://www.gnomedex.com/">$99 Tech Conference</A><br>
+&nbsp;<A HREF=http://lockergnome.pricegrabber.com/>Low Price Search</A><br>
+&nbsp;<A HREF=http://www.gnomedex.com/>$99 Tech Conference</A><br>
 <p>
 <center>
-<a href="http://www.gnomedex.com/" target="_blank"><img alt="See You in August!" src="http://chris.pirillo.com/archives/Gnomedex_Banner_going.gif" width="120" height="60" border="0"></a>
+<a href=http://www.gnomedex.com/ target=_blank><img alt=See You in August! src=http://chris.pirillo.com/archives/Gnomedex_Banner_going.gif width=120 height=60 border=0></a>
 </center>
 
 <p>
-&nbsp;<a href="http://store.lockergnome.com">The GnomeSTORE</a><br>
-&nbsp;<a href="http://www.lockergnome.com/recommend.html">Tell a Friend About Us!</a><br>
-&nbsp;<a href="http://www.lockergnome.com/submit.html">Suggest a Feature</a><br>
-&nbsp;<a href="http://www.lockergnome.com/advertise.html">Advertise With Us</a><br>
-&nbsp;<A HREF="http://seeker.dice.com/seeker.epl?rel_code=14">High-Tech Job Search</A><br>
-&nbsp;<a href="http://www.lockergnome.com/chat.html">Chat With Gnomies</a><br>
-&nbsp;<a href="http://www.lockergnome.com/webcam.html">Watch The Webcams</a><br>
-&nbsp;<a href="https://www.sandhills.com/secure/smartcomputing/cpufreetrial3.asp?source=cp491bonus">Computer Power User</a><br>
+&nbsp;<a href=http://store.lockergnome.com>The GnomeSTORE</a><br>
+&nbsp;<a href=http://www.lockergnome.com/recommend.html>Tell a Friend About Us!</a><br>
+&nbsp;<a href=http://www.lockergnome.com/submit.html>Suggest a Feature</a><br>
+&nbsp;<a href=http://www.lockergnome.com/advertise.html>Advertise With Us</a><br>
+&nbsp;<A HREF=http://seeker.dice.com/seeker.epl?rel_code=14>High-Tech Job Search</A><br>
+&nbsp;<a href=http://www.lockergnome.com/chat.html>Chat With Gnomies</a><br>
+&nbsp;<a href=http://www.lockergnome.com/webcam.html>Watch The Webcams</a><br>
+&nbsp;<a href=https://www.sandhills.com/secure/smartcomputing/cpufreetrial3.asp?source=cp491bonus>Computer Power User</a><br>
 <p>
-&nbsp;<a href="http://www.lockergnome.com/issues/">Read Past Issues</a><br>
-&nbsp;<a href="http://www.xteq.com/">Download X-Setup</a><br>
-&nbsp;<a href="http://www.lockergnome.com/about.html">About Lockergnome</a><br>
-&nbsp;<a href="http://www.lockergnome.com/privacy.html">Our Privacy Policy</a><br>
-&nbsp;<a href="http://www.lockergnome.com/options.html">View More Options</a><br>
-&nbsp;<a href="http://www.lockergnome.com/lockergnome.xml">Our XML / RSS Feed</a><br>
-&nbsp;<a href="http://www.lockergnome.com/options.html#syndicate">Syndicate Our Tips</a><br>
-&nbsp;<a href="http://www.lockergnome.com/images/lockerlink.gif">Link To Lockergnome</a><br>
-&nbsp;<A HREF="http://lockergnome.pricegrabber.com/search_getprod.php/isbn=0966103254/">Get Chris's Book</A><br>
+&nbsp;<a href=http://www.lockergnome.com/issues/>Read Past Issues</a><br>
+&nbsp;<a href=http://www.xteq.com/>Download X-Setup</a><br>
+&nbsp;<a href=http://www.lockergnome.com/about.html>About Lockergnome</a><br>
+&nbsp;<a href=http://www.lockergnome.com/privacy.html>Our Privacy Policy</a><br>
+&nbsp;<a href=http://www.lockergnome.com/options.html>View More Options</a><br>
+&nbsp;<a href=http://www.lockergnome.com/lockergnome.xml>Our XML / RSS Feed</a><br>
+&nbsp;<a href=http://www.lockergnome.com/options.html#syndicate>Syndicate Our Tips</a><br>
+&nbsp;<a href=http://www.lockergnome.com/images/lockerlink.gif>Link To Lockergnome</a><br>
+&nbsp;<A HREF=http://lockergnome.pricegrabber.com/search_getprod.php/isbn=0966103254/>Get Chris's Book</A><br>
 <p>
-&nbsp;<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#102;&#101;&#101;&#100;&#98;&#97;&#99;&#107;&#64;&#108;&#111;&#99;&#107;&#101;&#114;&#103;&#110;&#111;&#109;&#101;&#46;&#99;&#111;&#109;?subject=Lockergnome Windows Daily Feedback">General Feedback</a><br>
-&nbsp;<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#99;&#104;&#114;&#105;&#115;&#64;&#108;&#111;&#99;&#107;&#101;&#114;&#103;&#110;&#111;&#109;&#101;&#46;&#99;&#111;&#109;?subject=Lockergnome Windows Daily Comment">E-mail the Editor</a><br>
-&nbsp;<A HREF="http://chris.pirillo.com/">The Editor's Blog</A><BR>
+&nbsp;<a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#102;&#101;&#101;&#100;&#98;&#97;&#99;&#107;&#64;&#108;&#111;&#99;&#107;&#101;&#114;&#103;&#110;&#111;&#109;&#101;&#46;&#99;&#111;&#109;?subject=Lockergnome Windows Daily Feedback>General Feedback</a><br>
+&nbsp;<a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#99;&#104;&#114;&#105;&#115;&#64;&#108;&#111;&#99;&#107;&#101;&#114;&#103;&#110;&#111;&#109;&#101;&#46;&#99;&#111;&#109;?subject=Lockergnome Windows Daily Comment>E-mail the Editor</a><br>
+&nbsp;<A HREF=http://chris.pirillo.com/>The Editor's Blog</A><BR>
 
-<p>&nbsp;<p><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td><p class="sidebar">MP3 SOFTWARE</p></td></tr></table><br>
-<A target="_blank" HREF="http://lockergnome.pricegrabber.com/search_getprod.php/masterid=548557/">Havas MP3 Pro</A><BR>
-<A target="_blank" HREF="http://lockergnome.pricegrabber.com/search_getprod.php/masterid=234527/">Magix MP3 Maker</A><BR>
-<A target="_blank" HREF="http://lockergnome.pricegrabber.com/search_getprod.php/masterid=278075/">Ejay MP3</A><BR>
-<A target="_blank" HREF="http://lockergnome.pricegrabber.com/search_getprod.php/masterid=468032/">Audiostation 5.0</A><BR>
-<A target="_blank" HREF="http://lockergnome.pricegrabber.com/search_getprod.php/masterid=588415/">Jack The MP3 Ripper</A><BR>
-<A target="_blank" HREF="http://lockergnome.pricegrabber.com/search_getprod.php/masterid=599956/">Pearson MP3 Maker</A><BR>
-<A target="_blank" HREF="http://lockergnome.pricegrabber.com/search_getprod.php/masterid=472433/">Steinberg My MP3</A><BR>
-<A target="_blank" HREF="http://lockergnome.pricegrabber.com/search_getprod.php/masterid=555517/">MusicMatch Jukebox 7.0</A><BR>
-<A target="_blank" HREF="http://lockergnome.pricegrabber.com/search_getprod.php/masterid=20635/">Hip Hop E-jay Record</A><BR>
-<A target="_blank" HREF="http://lockergnome.pricegrabber.com/search_getprod.php/masterid=393896/">MP3-Wolf</A><BR>
-<A target="_blank" HREF="http://lockergnome.pricegrabber.com/search_getprod.php/masterid=409500/">MP3 Maker Gold</A><BR>
-<A target="_blank" HREF="http://lockergnome.pricegrabber.com/search_getprod.php/masterid=273932/">The MP3 Wizard</A><BR>
+<p>&nbsp;<p><table cellpadding=0 cellspacing=0 border=0 width=100%><tr><td><p class=sidebar>MP3 SOFTWARE</p></td></tr></table><br>
+<A target=_blank HREF=http://lockergnome.pricegrabber.com/search_getprod.php/masterid=548557/>Havas MP3 Pro</A><BR>
+<A target=_blank HREF=http://lockergnome.pricegrabber.com/search_getprod.php/masterid=234527/>Magix MP3 Maker</A><BR>
+<A target=_blank HREF=http://lockergnome.pricegrabber.com/search_getprod.php/masterid=278075/>Ejay MP3</A><BR>
+<A target=_blank HREF=http://lockergnome.pricegrabber.com/search_getprod.php/masterid=468032/>Audiostation 5.0</A><BR>
+<A target=_blank HREF=http://lockergnome.pricegrabber.com/search_getprod.php/masterid=588415/>Jack The MP3 Ripper</A><BR>
+<A target=_blank HREF=http://lockergnome.pricegrabber.com/search_getprod.php/masterid=599956/>Pearson MP3 Maker</A><BR>
+<A target=_blank HREF=http://lockergnome.pricegrabber.com/search_getprod.php/masterid=472433/>Steinberg My MP3</A><BR>
+<A target=_blank HREF=http://lockergnome.pricegrabber.com/search_getprod.php/masterid=555517/>MusicMatch Jukebox 7.0</A><BR>
+<A target=_blank HREF=http://lockergnome.pricegrabber.com/search_getprod.php/masterid=20635/>Hip Hop E-jay Record</A><BR>
+<A target=_blank HREF=http://lockergnome.pricegrabber.com/search_getprod.php/masterid=393896/>MP3-Wolf</A><BR>
+<A target=_blank HREF=http://lockergnome.pricegrabber.com/search_getprod.php/masterid=409500/>MP3 Maker Gold</A><BR>
+<A target=_blank HREF=http://lockergnome.pricegrabber.com/search_getprod.php/masterid=273932/>The MP3 Wizard</A><BR>
 
-<p>&nbsp;<p><table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#FFEEDD"><tr><td><p class="sidebar">GNOMESPECIALS</p></td></tr></table><br>
-&nbsp;<a target="_blank" title="Share your team/project contacts, calendars, tasks, etc. in MS Oulook 2002, without a server!" href="http://outlook.4team.biz/?fr=gnome">Manage Your Workgroup</a><br>
-&nbsp;<a target="_blank" title="Software for filling in paper forms on your computer instead of a typewriter" href="http://www.colorpilot.com/typewriter.html">Form Pilot</a><br>
-&nbsp;<a target="_blank" title="It's both fun and functional! Hear the time, set alarms, style your taskbar clock, sync your PC time, and more. Try Say the Time free for 30 days." href="http://www.provenio.ws/saythetime/">Say the Time 5.0</a><br>
-&nbsp;<a target="_blank" title="Convert MP3, WAV, AVI, JPG, GIF, and PNG to the SWF format for no buffer streaming" href="http://www.gfx2swf.com/gnome-special/">Boomer - Stream Now</a><br>
-&nbsp;<a target="_blank" title="Creating Web/CD catalogs with HyperPublish is really a snap! Not just an editor but a quick, powerful all-in-one environment for creating stunning catalogs, CDs and Web sites!" href="http://www.hyperpublish.com/create_a_catalog_000018.htm">Create Web/CD catalog</a><br>
-&nbsp;<a target="_blank" title="Create your Web site in minutes with this easy-to-use visual tool!" href="http://www.easywebeditor.com/create_web_page_000004.htm">Easy Web Editor</a><br>
-&nbsp;<a target="_blank" title="Capture TEXT seen in folder trees, file lists, database reports, dialog boxes, menus, status lines, including areas that you could not highlight with your mouse. (Chris cannot live without it!;)" href="http://www.structurise.com/kleptomania">Kleptomania</a><br>
-&nbsp;<a target="_blank" title="Organize all your mp3 collection in seconds! You can rename mp3s quickly and easily, write tag information in batch, from file names or import it from cddb. Get your free trial now!" href="http://www.softpointer.com/tr_2.htm">Tag&amp;Rename</a><br>
-&nbsp;<a target="_blank" title="You will enjoy countless hours of fun with Pretty Good Solitaire!  Play 500 solitaire card games, from classic games like Klondike, FreeCell, and Spider, to original games found nowhere else.  Enjoy lush graphics, large easy-to-read cards, statistics, and quests, a unique new way to play for points." href="http://www.goodsol.com/lockergnome.html">Pretty Good Solitaire</a><br>
-&nbsp;<a target="_blank" title="Choosing color combinations for the web is a careful balance between a scheme designed to draw attention; while being respectful of established color-harmony principles.  ColorCombo's four panels scroll, allowing side-by-side color comparisons.  Also text on background checker, 4096 color array, + more. FREE." href="http://www.colorcombo.com">Visualize Color Combos</a><br>
-&nbsp;<a target="_blank" title="FirstStop WebSearch(TM) Deluxe Edition, a FREE trial version of this incredibly fast, award winning, customizable multi-search engine that has been described as the FASTEST no-nonsense meta search for the net. Now, Gnomies can save 50% when they register a copy of FirstStop WebSearch!" href="http://www.Firststopwebsearch.com/lockergnomeoffer.html">FirstStop WebSearch</a><br>
-&nbsp;<a target="_blank" title="Ecobuilder is the ultimate web application that allows you to get your portal, online community, intranet, extranet or any web site project online by saving time, money and manpower. Gnomies receive $400 off the cost of the software." href="http://www.ecobuilder.com/lockergnome.cfm">Ecobuilder</a><br>
-&nbsp;<a target="_blank" title="Software for organizing your personal book collection. Add books quickly - no typing required! Group, filter, sort and print your database. Click for free trial version." href="http://www.collectorz.com/book?from=lockergnome">Book Collector</a><br>
-<p align="center"><a href="http://www.lockergnome.com/special.html"><B>Get Listed Here</B></a></p>
+<p>&nbsp;<p><table cellpadding=0 cellspacing=0 border=0 width=100% bgcolor=#FFEEDD><tr><td><p class=sidebar>GNOMESPECIALS</p></td></tr></table><br>
+&nbsp;<a target=_blank title=Share your team/project contacts, calendars, tasks, etc. in MS Oulook 2002, without a server! href=http://outlook.4team.biz/?fr=gnome>Manage Your Workgroup</a><br>
+&nbsp;<a target=_blank title=Software for filling in paper forms on your computer instead of a typewriter href=http://www.colorpilot.com/typewriter.html>Form Pilot</a><br>
+&nbsp;<a target=_blank title=It's both fun and functional! Hear the time, set alarms, style your taskbar clock, sync your PC time, and more. Try Say the Time free for 30 days. href=http://www.provenio.ws/saythetime/>Say the Time 5.0</a><br>
+&nbsp;<a target=_blank title=Convert MP3, WAV, AVI, JPG, GIF, and PNG to the SWF format for no buffer streaming href=http://www.gfx2swf.com/gnome-special/>Boomer - Stream Now</a><br>
+&nbsp;<a target=_blank title=Creating Web/CD catalogs with HyperPublish is really a snap! Not just an editor but a quick, powerful all-in-one environment for creating stunning catalogs, CDs and Web sites! href=http://www.hyperpublish.com/create_a_catalog_000018.htm>Create Web/CD catalog</a><br>
+&nbsp;<a target=_blank title=Create your Web site in minutes with this easy-to-use visual tool! href=http://www.easywebeditor.com/create_web_page_000004.htm>Easy Web Editor</a><br>
+&nbsp;<a target=_blank title=Capture TEXT seen in folder trees, file lists, database reports, dialog boxes, menus, status lines, including areas that you could not highlight with your mouse. (Chris cannot live without it!;) href=http://www.structurise.com/kleptomania>Kleptomania</a><br>
+&nbsp;<a target=_blank title=Organize all your mp3 collection in seconds! You can rename mp3s quickly and easily, write tag information in batch, from file names or import it from cddb. Get your free trial now! href=http://www.softpointer.com/tr_2.htm>Tag&amp;Rename</a><br>
+&nbsp;<a target=_blank title=You will enjoy countless hours of fun with Pretty Good Solitaire!  Play 500 solitaire card games, from classic games like Klondike, FreeCell, and Spider, to original games found nowhere else.  Enjoy lush graphics, large easy-to-read cards, statistics, and quests, a unique new way to play for points. href=http://www.goodsol.com/lockergnome.html>Pretty Good Solitaire</a><br>
+&nbsp;<a target=_blank title=Choosing color combinations for the web is a careful balance between a scheme designed to draw attention; while being respectful of established color-harmony principles.  ColorCombo's four panels scroll, allowing side-by-side color comparisons.  Also text on background checker, 4096 color array, + more. FREE. href=http://www.colorcombo.com>Visualize Color Combos</a><br>
+&nbsp;<a target=_blank title=FirstStop WebSearch(TM) Deluxe Edition, a FREE trial version of this incredibly fast, award winning, customizable multi-search engine that has been described as the FASTEST no-nonsense meta search for the net. Now, Gnomies can save 50% when they register a copy of FirstStop WebSearch! href=http://www.Firststopwebsearch.com/lockergnomeoffer.html>FirstStop WebSearch</a><br>
+&nbsp;<a target=_blank title=Ecobuilder is the ultimate web application that allows you to get your portal, online community, intranet, extranet or any web site project online by saving time, money and manpower. Gnomies receive $400 off the cost of the software. href=http://www.ecobuilder.com/lockergnome.cfm>Ecobuilder</a><br>
+&nbsp;<a target=_blank title=Software for organizing your personal book collection. Add books quickly - no typing required! Group, filter, sort and print your database. Click for free trial version. href=http://www.collectorz.com/book?from=lockergnome>Book Collector</a><br>
+<p align=center><a href=http://www.lockergnome.com/special.html><B>Get Listed Here</B></a></p>
 Question: which group is 250,000+ strong and always looking for stuff to make their personal and professional lives run smoother? 
 
-<!--#include virtual="/include/subscribeside.txt" -->
+<!--#include virtual=/include/subscribeside.txt -->
 
-<p>&nbsp;<p><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td><p class="sidebar">HAPPY FUN STUFF</p></td></tr></table><br>
+<p>&nbsp;<p><table cellpadding=0 cellspacing=0 border=0 width=100%><tr><td><p class=sidebar>HAPPY FUN STUFF</p></td></tr></table><br>
 And now, we see the story of the ugly shoe unfold before our very eyes. This footwear was outcast from the group weeks ago, and has been very depressed ever since. Pity my shoe.
 <p>
-<a href="http://images.lockergnome.com/images/video/lone.shoe.WMV">The Lone Shoe</a>
+<a href=http://images.lockergnome.com/images/video/lone.shoe.WMV>The Lone Shoe</a>
 
-<p>&nbsp;<p><font style="font-size: 8pt" face="Verdana, Tahoma, Arial" size="1">
-<table align="center" border="0"><tr><td><a href="http://www.lockergnome.com/webcam.html">
-<img width="125" height="94" alt="Lockergnome Webcam Image" src="http://www.lockergnome.com/images/webcam/webcam32.jpg"></a></td></tr>
-<tr><td align="center"><font style="font-size: 7pt" size="1" face="Verdana, Tahoma, Arial">CLICK HERE TO ZOOM</font></td></tr></table>
+<p>&nbsp;<p><font style=font-size: 8pt face=Verdana, Tahoma, Arial size=1>
+<table align=center border=0><tr><td><a href=http://www.lockergnome.com/webcam.html>
+<img width=125 height=94 alt=Lockergnome Webcam Image src=http://www.lockergnome.com/images/webcam/webcam32.jpg></a></td></tr>
+<tr><td align=center><font style=font-size: 7pt size=1 face=Verdana, Tahoma, Arial>CLICK HERE TO ZOOM</font></td></tr></table>
 </font>
 
 <p>&nbsp;<p>
-<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td><p class="sidebar">BYTE ME NOW</p></td></tr></table><br>
-<font style="font-size: 8pt" face="Verdana, Tahoma, Arial" size="1">
-&copy;2002, Lockergnome LLC. ISSN: 1095-3965. All Rights Reserved. Please read our <a href="http://www.lockergnome.com/terms.html">Terms of Service</a>. Our Web site is hosted by <a href="http://www.digitaldaze.com/?lg">DigitalDaze</a>. Domain registered at <a href="http://www.dnscentral.com/?lg">DNS Central</a>.
+<table cellpadding=0 cellspacing=0 border=0 width=100%><tr><td><p class=sidebar>BYTE ME NOW</p></td></tr></table><br>
+<font style=font-size: 8pt face=Verdana, Tahoma, Arial size=1>
+&copy;2002, Lockergnome LLC. ISSN: 1095-3965. All Rights Reserved. Please read our <a href=http://www.lockergnome.com/terms.html>Terms of Service</a>. Our Web site is hosted by <a href=http://www.digitaldaze.com/?lg>DigitalDaze</a>. Domain registered at <a href=http://www.dnscentral.com/?lg>DNS Central</a>.
 
 <!-- FUNNY COMMENT   Beefier Vinyl  -->
 

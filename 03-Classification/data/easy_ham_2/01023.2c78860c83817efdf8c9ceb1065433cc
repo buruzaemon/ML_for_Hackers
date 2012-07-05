@@ -21,12 +21,12 @@ Received: from adsl-67-119-24-58.dsl.snfc21.pacbell.net (HELO golden)
     (67.119.24.58) by relay1.pair.com with SMTP; 13 Aug 2002 04:29:35 -0000
 X-Pair-Authenticated: 67.119.24.58
 Message-Id: <01d001c24282$06c4aed0$640a000a@golden>
-From: "Gordon Mohr" <gojomo@usa.net>
+From: Gordon Mohr <gojomo@usa.net>
 To: <fork@spamassassin.taint.org>
 References: <20020813030904.B31F2C433@email4.lga2.nytimes.com>
 Subject: Re: NYTimes.com Article: Bigger Bar Code Inches Up on Retailers
 MIME-Version: 1.0
-Content-Type: text/plain; charset="Windows-1252"
+Content-Type: text/plain; charset=Windows-1252
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal
@@ -75,7 +75,7 @@ One segment of the article along these lines:
 
 A newly *patented* bar code, that merely fits 14 digits
 into less space? I sure hope there's more to this
-"invention" than "more lines, and narrower". 
+invention than more lines, and narrower. 
 
 They might as well go 2-D to fit in lots of extra bits,
 which could also ease the transition to the capacity 
@@ -86,7 +86,7 @@ A bunch of info on different barcode standards, including
 
 http://www.makebarcode.com/specs/speclist.html
 
-Something very much like a 2-D barcode is Xerox "Dataglyphs":
+Something very much like a 2-D barcode is Xerox Dataglyphs:
 
 http://www.parc.com/solutions/dataglyphs/
 

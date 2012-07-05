@@ -65,11 +65,11 @@ As a pointer occupies the natural word size (32 bits or 64bits), no wonder
 you get 4*1024 (sizeof(char *) * numer_of_elements).
 
 >  int len = sizeof(testbuff);
->  cout << len << "\n";
+>  cout << len << \n;
 >  return 0;
 > }
 
-> using " int len = sizeof((char*)testbuff); "
+> using  int len = sizeof((char*)testbuff); 
 sizeof returns the size of types. You can use it with vars (and then the
 normal form is sizeof var, not sizeof(var)), but if you're changing the
 type with the var with a cast, of course you'll get the size of that new

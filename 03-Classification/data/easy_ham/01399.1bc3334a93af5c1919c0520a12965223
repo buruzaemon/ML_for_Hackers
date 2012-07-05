@@ -20,7 +20,7 @@ Received: from med-core07.med.wayne.edu ([146.9.19.23]) by
     22 Aug 2002 19:14:23 -0700
 Content-Class: urn:content-classes:message
 MIME-Version: 1.0
-Content-Type: text/plain; charset="US-ASCII"
+Content-Type: text/plain; charset=US-ASCII
 X-Mimeole: Produced By Microsoft Exchange V6.0.6249.0
 Subject: RE: [Razor-users] honor is not in csl
 Message-Id: <D79A56AD131896448D0860DEE07CBE1F3BABD6@med-core07.med.wayne.edu>
@@ -28,7 +28,7 @@ X-MS-Has-Attach:
 X-MS-Tnef-Correlator:
 Thread-Topic: [Razor-users] honor is not in csl
 Thread-Index: AcJKJ21KJv3jzfLET8CZTYqNyhijJwAIy+hA
-From: "Rose, Bobby" <brose@med.wayne.edu>
+From: Rose, Bobby <brose@med.wayne.edu>
 To: <mail@vipul.net>, <razor-users@example.sourceforge.net>
 Sender: razor-users-admin@example.sourceforge.net
 Errors-To: razor-users-admin@example.sourceforge.net
@@ -75,8 +75,8 @@ vipul.
 
 -- 
 
-Vipul Ved Prakash          |   "The future is here, it's just not 
-Software Design Artist     |    widely distributed."
+Vipul Ved Prakash          |   The future is here, it's just not 
+Software Design Artist     |    widely distributed.
 http://vipul.net/          |              -- William Gibson
 
 

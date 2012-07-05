@@ -20,11 +20,11 @@ Received: from klawatti.watchguard.com ([64.74.30.161]
     <spamassassin-talk@lists.sourceforge.net>; Mon, 23 Sep 2002 15:35:31 -0700
 Message-Id: <fd014188eb21d97217e935c50f3e76c43d8f970a@watchguard.com>
 From: Jason Qualkenbush <Jason.Qualkenbush@watchguard.com>
-To: "'Stephane Lentz'" <Stephane.Lentz@ansf.alcatel.fr>,
+To: 'Stephane Lentz' <Stephane.Lentz@ansf.alcatel.fr>,
 	spamassassin-talk@lists.sourceforge.net
 Subject: RE: [SAtalk] separate inbound and outbound
 MIME-Version: 1.0
-Content-Type: text/plain; charset="ISO-8859-1"
+Content-Type: text/plain; charset=ISO-8859-1
 Sender: spamassassin-talk-admin@example.sourceforge.net
 Errors-To: spamassassin-talk-admin@example.sourceforge.net
 X-Beenthere: spamassassin-talk@example.sourceforge.net

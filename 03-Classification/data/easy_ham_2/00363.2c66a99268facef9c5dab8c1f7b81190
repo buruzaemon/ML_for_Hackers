@@ -53,20 +53,20 @@ Quoting Paul Linehan (plinehan@yahoo.com):
 Anything either you or I have to say about their motivation is
 speculation.  Bearing that disclaimer in mind, here's mine:  They make
 money from selling boxed sets.  They're glad to make some versions
-available for almost-unrestricted distribution (not "for value") via CD
+available for almost-unrestricted distribution (not for value) via CD
 duplication or the Internet that they estimate won't substitute for
 boxed-set sales.
 
-For example, they _could_ have packaged what I call the "FTP edition" 
+For example, they _could_ have packaged what I call the FTP edition 
 in ISO9660 images.  The fact that they didn't suggests to me that they
 see the inconvenience of mirroring FTP Edition i386 files (which, at the
 moment, are v. 8.0) as motivation for all but the really determined to
 buy boxed sets, instead.  
 
 Likewise, they _could_ release a v. 8.0 (current) version of the
-"evaluation" single-disk ISO image.  Instead, they always keep it
+evaluation single-disk ISO image.  Instead, they always keep it
 several versions behind.  This again seems like an incentive to buy a
-boxed set, after "evaluating" SuSE via the ISO image.
+boxed set, after evaluating SuSE via the ISO image.
 
 Again, the above is my speculation (only) about their motivations.  All
 we know of a certainty is what permissions they've granted, which are a
@@ -106,7 +106,7 @@ simply lack the right to do so.  Claiming to do it would be copyright
 violation.
 
 > I thought that the model for the likes of SuSE was selling support and
-> customisation, rather than what I thought of as the core "product". I
+> customisation, rather than what I thought of as the core product. I
 > thought that the likes of Yast came under core - maybe it worked in
 > the glory days before, say, 2001 - I can understand that they might
 > want to make more money, but the way in which they have done it, seems
@@ -166,14 +166,14 @@ it.
 In fact, the assertion to the contrary is a favourite FUD tactic from
 enemies of Linux:  They're forever trying to convince software producers
 that using GPLed software in any way with their proprietary offerings
-will "taint" their copyrights and force them to put their property under
+will taint their copyrights and force them to put their property under
 the GPL.  It's simply not so.
 
 > If I wanted support from SuSE, that would be a different issue, and
 > one for which I would be willing to pay.
 
 That's nice, but they're not _offering_ the exact contents of the boxed
-sets free of charge and lawful to duplicate & redistribute, or "borrow".
+sets free of charge and lawful to duplicate & redistribute, or borrow.
 For one thing, as you will have noticed from my earlier listing of
 components, the boxed sets' CD-ROMs include quite a lot of _third-party_
 proprietary software.  SuSE Linux AG _cannot_ allow you (or your friend)
@@ -185,7 +185,7 @@ the first place.
 If you mean the 3-CD core set of RH 7.3, good.  It's a quite decent
 distribution.  But bear in mind that the RH 7.3 boxed sets include
 some other third-party applications whose owners would be very upset to
-find them being copied or "borrowed". 
+find them being copied or borrowed. 
 
 > I have now realised this, thanks to your kind explanations. I can
 > borrow them, but not copy them? 
@@ -194,7 +194,7 @@ No.
 
 Look, it's a collection of software, many elements of which may not be
 lawfully just given out to multiple people:  Your friend installing it,
-then _not_ erasing it but merely letting you "borrow" the CDs results in
+then _not_ erasing it but merely letting you borrow the CDs results in
 the product being installed in multiple places.  That's unauthorised
 copying.
 

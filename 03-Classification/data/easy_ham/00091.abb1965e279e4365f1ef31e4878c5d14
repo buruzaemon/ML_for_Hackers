@@ -22,14 +22,14 @@ Received: (qmail 97613 messnum 1200606 invoked from
 Received: from unknown (HELO win2000) (194.125.130.10) by
     relay05.indigo.ie (qp 97613) with SMTP; 2 Sep 2002 10:46:25 -0000
 Reply-To: <macarthy@iol.ie>
-From: "Justin MacCarthy" <macarthy@iol.ie>
-To: "Dermot Daly" <dermot.daly@itsmobile.com>
-Cc: "Ilug@Linux.Ie" <ilug@linux.ie>
+From: Justin MacCarthy <macarthy@iol.ie>
+To: Dermot Daly <dermot.daly@itsmobile.com>
+Cc: Ilug@Linux.Ie <ilug@linux.ie>
 Subject: RE: [ILUG] What HOWTOs for SOHO system
 Date: Mon, 2 Sep 2002 11:46:57 +0100
 Message-Id: <OFEGLPGPCHPACFLJPAILKEICECAA.macarthy@iol.ie>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal
@@ -72,7 +72,7 @@ Justin
 > is all incorrect and noting goes out through ppp0 (eh0 must be the
 > default route or something).
 >
-> Is there standard "out of the box" Linux tools that will carry out
+> Is there standard out of the box Linux tools that will carry out
 > portmapping on behalf of the LAN PCs ?  (I'm planning on non routable
 > addresses 192.168.x.x for the LAN, routed outwards via the ppp0
 > interface).

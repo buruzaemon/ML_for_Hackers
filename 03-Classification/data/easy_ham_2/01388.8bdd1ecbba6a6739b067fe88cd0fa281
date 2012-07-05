@@ -11,21 +11,21 @@ Received: from mail.ryanair2.ie ([193.120.152.8]) by dogma.slashnull.org
     (8.11.6/8.11.6) with SMTP id g7NJacZ05495 for <jm-ryanair@jmason.org>;
     Fri, 23 Aug 2002 20:36:38 +0100
 From: webster@ryanairmail.com
-To: "Customers" <customers@mail.ryanairmail.com>
+To: Customers <customers@mail.ryanairmail.com>
 Subject: Hertz Europe- 3 Day Weekend September Deals
 Date: Fri, 23 Aug 2002 14:33:29 +0100
 X-Assembled-BY: XWall v3.21
 Message-Id: <LISTMANAGER-949326-21303-2002.08.23-14.37.30--yyyy-ryanair#spamassassin.taint.org@mail.ryanairmail.com>
 MIME-Version: 1.0
 Content-Type: multipart/mixed;
-    boundary="_NextPart_1_LTDtbEBFLbCEudrAQjXgSgCyoKl"
+    boundary=_NextPart_1_LTDtbEBFLbCEudrAQjXgSgCyoKl
 List-Unsubscribe: <mailto:leave-customers-949326K@mail.ryanairmail.com>
 Reply-To: webster@ryanairmail.com
 
 This is a multi part message in MIME format.
 
 --_NextPart_1_LTDtbEBFLbCEudrAQjXgSgCyoKl
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: quoted-printable
 
 Autumn Weekend Break Bonanza - Special 3 Day Weekend Deals=20
@@ -187,7 +187,7 @@ AA/0
 
 
 --_NextPart_1_LTDtbEBFLbCEudrAQjXgSgCyoKl
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Content-description: footer
 
 ---

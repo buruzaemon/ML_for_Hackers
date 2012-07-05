@@ -25,7 +25,7 @@ Received: from moon.campus.luth.se (tony@moon.campus.luth.se
     [130.240.202.158]) by moon.campus.luth.se (8.12.3/8.12.3) with ESMTP id
     g792q2xN076986; Fri, 9 Aug 2002 04:52:03 +0200 (CEST) (envelope-from
     tony@svanstrom.com)
-From: "Tony L. Svanstrom" <tony@svanstrom.com>
+From: Tony L. Svanstrom <tony@svanstrom.com>
 X-X-Sender: tony@moon.campus.luth.se
 To: Scott A Crosby <scrosby@cs.rice.edu>
 Cc: Spamassassin-talk@example.sourceforge.net
@@ -52,7 +52,7 @@ Date: Fri, 9 Aug 2002 04:52:02 +0200 (CEST)
 
 On 4 Aug 2002 the voices made Scott A Crosby write:
 
-> On Sun, 4 Aug 2002 16:36:57 +0200 (CEST), "Tony L. Svanstrom"
+> On Sun, 4 Aug 2002 16:36:57 +0200 (CEST), Tony L. Svanstrom
 > <tony@svanstrom.com> writes:
 >
 > > On Sun, 4 Aug 2002 the voices made Tony L. Svanstrom write:

@@ -28,14 +28,14 @@ Received: by spamassassin.taint.org (Postfix, from userid 500) id 7262216F22;
     Thu,  5 Sep 2002 12:24:14 +0100 (IST)
 Received: from spamassassin.taint.org (localhost [127.0.0.1]) by spamassassin.taint.org (Postfix)
     with ESMTP id 6F0D8F7B1; Thu,  5 Sep 2002 12:24:14 +0100 (IST)
-To: "Clark C . Evans" <cce@clarkevans.com>
+To: Clark C . Evans <cce@clarkevans.com>
 Cc: spamassassin-talk@example.sourceforge.net
 Subject: Re: [SAtalk] getting single-user spam assassin to work in FreeBSD
     default install
 In-Reply-To: Message from
-    "Clark C . Evans"
+    Clark C . Evans
     <cce@clarkevans.com> of
-    "Thu, 05 Sep 2002 02:30:19 -0000."
+    Thu, 05 Sep 2002 02:30:19 -0000.
     <20020905023019.A43636@doublegemini.com>
 From: yyyy@spamassassin.taint.org (Justin Mason)
 X-GPG-Key-Fingerprint: 0A48 2D8B 0B52 A87D 0E8A  6ADD 4137 1B50 6E58 EF0A
@@ -66,7 +66,7 @@ X-Original-Date: Thu, 05 Sep 2002 12:24:09 +0100
 Date: Thu, 05 Sep 2002 12:24:09 +0100
 
 
-"Clark C . Evans" said:
+Clark C . Evans said:
 
 > Hello.  I'm hosted on a FreeBSD box where I can't modify the
 > local Perl installation.  I downloaded and installed procmail

@@ -61,7 +61,7 @@ Matthias Saou <matthias@egwn.net> wrote:
 Hi, Matthias,
 
 You should temporarly remove gentoo 0.11.29 from valhalla.freshrpms.net.
-This build (and 0.11.28) has a strong bug: Problems with copying "deep"
+This build (and 0.11.28) has a strong bug: Problems with copying deep
 directories.
 
 Have reported this to Emil, he looks currently into it, a fix should be

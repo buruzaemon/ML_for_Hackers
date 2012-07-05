@@ -19,12 +19,12 @@ Received: from mail.cruzio.com (mail.cruzio.com [63.249.95.37]) by
 Received: from Tycho (dsl3-63-249-68-7.cruzio.com [63.249.68.7]) by
     mail.cruzio.com with SMTP id PAA12678 for <FoRK@xent.com>; Sun,
     4 Aug 2002 15:19:28 -0700 (PDT)
-From: "Jim Whitehead" <ejw@cse.ucsc.edu>
-To: "FoRK" <FoRK@xent.com>
+From: Jim Whitehead <ejw@cse.ucsc.edu>
+To: FoRK <FoRK@xent.com>
 Subject: FYI: WSE 2002
 Message-Id: <AMEPKEBLDJJCCDEJHAMIOENFFDAA.ejw@cse.ucsc.edu>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal
@@ -91,7 +91,7 @@ architecture, metrics, and testing to Web sites
 WSE 2002 is co-located with the IEEE International Conference on Software
 Maintenance (ICSM 2002). ICSM is the IEEE Computer Society's flagship event
 focused on the modernization of existing systems. ICSM 2002's theme of
-"maintaining distributed heterogeneous systems" nicely compliments WSE
+maintaining distributed heterogeneous systems nicely compliments WSE
 2002's overall theme and goals.
 
 

@@ -21,11 +21,11 @@ Date: Thu, 22 Aug 2002 11:28:13 -0700
 Subject: Re: [SAdev] 2.40 RELEASE PROCESS: mass-check status, folks?
 Content-Type: text/plain; charset=US-ASCII; format=flowed
 MIME-Version: 1.0 (Apple Message framework v482)
-Cc: "Malte S. Stretz" <msquadrat.nospamplease@gmx.net>,
+Cc: Malte S. Stretz <msquadrat.nospamplease@gmx.net>,
 	SpamAssassin-devel@lists.sourceforge.net,
 	SpamAssassin-talk@lists.sourceforge.net
 To: yyyy@spamassassin.taint.org (Justin Mason)
-From: "Craig R.Hughes" <craig@deersoft.com>
+From: Craig R.Hughes <craig@deersoft.com>
 In-Reply-To: <20020822172428.4FCCD43F99@phobos.labs.netnoteinc.com>
 Message-Id: <EB0AF9F0-B5FC-11D6-A91E-00039396ECF2@deersoft.com>
 Content-Transfer-Encoding: 7bit

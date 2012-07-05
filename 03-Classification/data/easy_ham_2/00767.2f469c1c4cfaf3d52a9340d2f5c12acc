@@ -20,13 +20,13 @@ Received: from lig.net (IDENT:BiCcsxiVSNERVyIN+ZZ3YWnlgYNIij6v@localhost
     [127.0.0.1]) by sdwlapn.lig.net (8.11.6/8.11.6) with ESMTP id g75FSeg11663;
     Mon, 5 Aug 2002 11:28:41 -0400
 Message-Id: <3D4E99A8.9000801@lig.net>
-From: "Stephen D. Williams" <sdw@lig.net>
+From: Stephen D. Williams <sdw@lig.net>
 User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.0rc2)
     Gecko/20020513 Netscape/7.0b1
 X-Accept-Language: en-us, en
 MIME-Version: 1.0
 To: Udhay Shankar N <udhay@pobox.com>
-Cc: "Mr. FoRK" <fork_list@hotmail.com>, fork@spamassassin.taint.org
+Cc: Mr. FoRK <fork_list@hotmail.com>, fork@spamassassin.taint.org
 Subject: Re: Using hosts file to rid yourself of popup ads
 References: <5.1.0.14.2.20020805082652.02fc3e50@bgl.vsnl.net.in>
 Content-Type: text/plain; charset=us-ascii; format=flowed

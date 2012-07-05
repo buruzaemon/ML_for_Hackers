@@ -21,13 +21,13 @@ Received: (from karl@localhost) by localhost.localdomain (8.11.6/8.11.6)
     id g857qCu12404; Thu, 5 Sep 2002 00:52:12 -0700
 X-Authentication-Warning: localhost.localdomain: karl set sender to
     kra@monkey.org using -f
-To: "Jim Whitehead" <ejw@cse.ucsc.edu>
-Cc: "FoRK" <FoRK@xent.com>
+To: Jim Whitehead <ejw@cse.ucsc.edu>
+Cc: FoRK <FoRK@xent.com>
 Subject: Re: CD player UI for toddlers
 References: <AMEPKEBLDJJCCDEJHAMIIECDFGAA.ejw@cse.ucsc.edu>
 From: Karl Anderson <kra@monkey.org>
 Organization: Ape Mgt.
-In-Reply-To: "Jim Whitehead"'s message of "Wed, 4 Sep 2002 11:03:03 -0700"
+In-Reply-To: Jim Whitehead's message of Wed, 4 Sep 2002 11:03:03 -0700
 Message-Id: <m3admwrhzn.fsf@localhost.localdomain>
 User-Agent: Gnus/5.0802 (Gnus v5.8.2) Emacs/20.7
 MIME-Version: 1.0
@@ -46,7 +46,7 @@ List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
 List-Archive: <http://xent.com/pipermail/fork/>
 Date: 05 Sep 2002 00:52:12 -0700
 
-"Jim Whitehead" <ejw@cse.ucsc.edu> writes:
+Jim Whitehead <ejw@cse.ucsc.edu> writes:
 
 > The CD player we have combines play and pause in a single button, but
 > doesn't provide *instantaneous* feedback that the button was pushed, instead

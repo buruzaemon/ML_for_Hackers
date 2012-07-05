@@ -51,14 +51,14 @@ Oh goodie. My final year project rears its head :-)
 > or is the goto used as a kind of common enemy of 
 > programming syntax
 
-Much as I would like to answer an unqualified "yes", I must admit: if 
+Much as I would like to answer an unqualified yes, I must admit: if 
 you already code in a style that makes heavy use of GOTOs, coding in the 
 same style with GOSUBs or function calls does not improve code. Much the 
-same as when the manuals on "modular coding" said to write modules that 
+same as when the manuals on modular coding said to write modules that 
 would fit on a single sheet of computer paper, lots of coders proceeded 
 to split their code into arbitrary 60-line chunks. :)
 
-However, "Go-to considered harmful" points out that to analyse (==debug) 
+However, Go-to considered harmful points out that to analyse (==debug) 
 code, you need to be able to tell what the point of execution is, and 
 what the values of the variables are at that point. This is an easy(tm) 
 job if the code uses assignment, if(), for() and functions, but not if 

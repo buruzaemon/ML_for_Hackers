@@ -57,14 +57,14 @@ Hash: SHA1
 Content-Type: text/plain; charset=us-ascii
 
 After a bit of peeking through the exmh tcl and playing with tcl a bit, I got 
-the "catchup unseen messages before cur" procedure working.  Here's the code 
+the catchup unseen messages before cur procedure working.  Here's the code 
 for everybody and the list archives in case anyone wants it in the future.  
 Thanks to John R. LoVerso for putting me on the right track.  
 
 proc My_Mark2CurSeen {} {
     global exmh pick msg
     set results {}
-    Exmh_Status "Clearing unseen up to cur..." red
+    Exmh_Status Clearing unseen up to cur... red
     Mh_SetCur $exmh(folder) $msg(id)
     set unseen [Mh_Unseen $exmh(folder)]
     foreach elem $unseen {
@@ -86,8 +86,8 @@ on it and add the following lines to your .exmh/exmh-defaults:
 - -- 
 Ted Cabeen           http://www.pobox.com/~secabeen            ted@impulse.net 
 Check Website or Keyserver for PGP/GPG Key BA0349D2         secabeen@pobox.com
-"I have taken all knowledge to be my province." -F. Bacon  secabeen@cabeen.org
-"Human kind cannot bear very much reality."-T.S.Eliot        cabeen@netcom.com
+I have taken all knowledge to be my province. -F. Bacon  secabeen@cabeen.org
+Human kind cannot bear very much reality.-T.S.Eliot        cabeen@netcom.com
 
 
 -----BEGIN PGP SIGNATURE-----

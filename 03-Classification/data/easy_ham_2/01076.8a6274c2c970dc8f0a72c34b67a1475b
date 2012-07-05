@@ -20,7 +20,7 @@ Received: (qmail 3986 invoked from network); 19 Aug 2002 06:43:56 -0000
 Received: from unknown (HELO there) ([216.212.1.170]) (envelope-sender
     <signa@birch.net>) by mailserver.birch.net (qmail-ldap-1.03) with SMTP for
     <fork@xent.com>; 19 Aug 2002 06:43:56 -0000
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 From: Steve Nordquist <signa@birch.net>
 To: fork@spamassassin.taint.org
 Subject: Re: NASA mindreading

@@ -25,7 +25,7 @@ Received: from mx0.emailqueue.net (localhost.daemonmail.net [127.0.0.1])
 Received: from brianmay (brianmay [64.52.135.194]) by mail.unearthed.com
     with ESMTP id 0rI0WvO2 Thu, 15 Aug 2002 10:37:19 -0700 (PDT)
 Message-Id: <002c01c24482$762a8310$5201020a@brianmay>
-From: "Brian May" <brian@unearthed.com>
+From: Brian May <brian@unearthed.com>
 Cc: <razor-users@example.sourceforge.net>
 References: <20020814180016.A24501@rover.vipul.net>
     <20020814180853.F74424-100000@rockstar.stealthgeeks.net>
@@ -33,7 +33,7 @@ References: <20020814180016.A24501@rover.vipul.net>
 Subject: Re: [Razor-users] Re: What's wrong with the Razor servers now?
 Organization: UnEarthed.Com
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal
@@ -58,8 +58,8 @@ Date: Thu, 15 Aug 2002 10:37:37 -0700
 Isn't eBays trust the feedback?
 
 ----- Original Message -----
-From: "Chip Paswater" <turk182@chipware.net>
-To: "Patrick" <patrick@stealthgeeks.net>
+From: Chip Paswater <turk182@chipware.net>
+To: Patrick <patrick@stealthgeeks.net>
 Cc: <razor-users@example.sourceforge.net>
 Sent: Wednesday, August 14, 2002 9:51 PM
 Subject: Re: [Razor-users] Re: What's wrong with the Razor servers now?

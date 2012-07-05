@@ -39,9 +39,9 @@ From: Alexander Zangerl <az@snafu.priv.at>
 Cc: welch@panasas.com
 MIME-Version: 1.0
 Content-Type: multipart/signed;
-    boundary="----------=_1033130560-1199-5";
-    micalg="pgp-sha1";
-    protocol="application/pgp-signature"
+    boundary=----------=_1033130560-1199-5;
+    micalg=pgp-sha1;
+    protocol=application/pgp-signature
 X-Loop: exmh-users@spamassassin.taint.org
 Sender: exmh-users-admin@spamassassin.taint.org
 Errors-To: exmh-users-admin@spamassassin.taint.org
@@ -65,7 +65,7 @@ You'll need GPG or PGP to check the signature.
 
 ------------=_1033130560-1199-5
 Content-Type: multipart/mixed;
- boundary="Multipart_Fri_Sep_27_14:42:27_2002-1"
+ boundary=Multipart_Fri_Sep_27_14:42:27_2002-1
 Content-Transfer-Encoding: 8bit
 
 --Multipart_Fri_Sep_27_14:42:27_2002-1
@@ -97,27 +97,27 @@ az
 
 --Multipart_Fri_Sep_27_14:42:27_2002-1
 Content-Type: text/plain; charset=US-ASCII
-Content-Disposition: attachment; filename="exmh-patch"
+Content-Disposition: attachment; filename=exmh-patch
 Content-Transfer-Encoding: 8bit
 
 --- /usr/lib/exmh/extrasInit.tcl	Sat Mar  2 17:26:38 2002
 +++ ./extrasInit.tcl	Fri Sep 27 14:22:13 2002
 @@ -642,6 +642,18 @@
      {pgp(passtimeout) pgpPassTimeout 60 {Minutes to cache PGP passphrase}
- "Exmh will clear its memory of PGP passphrases after
- this time period, in minutes, has elapsed." }
+ Exmh will clear its memory of PGP passphrases after
+ this time period, in minutes, has elapsed. }
 +{pgp(extpass) pgpExtPass OFF {Use external passphrase cache}
-+"If this is enabled, then exmh will use an external program to retrieve 
++If this is enabled, then exmh will use an external program to retrieve 
 +your passphrase when needed. pgpKeepPass and pgpPassTimeout will 
-+be ignored."}
++be ignored.}
 +{pgp(getextcmd) pgpGetExtCmd {/usr/bin/q-client get %s} {Method to query external passphrase cache}
-+"This external program is used to retrieve the passphrase for your key,
++This external program is used to retrieve the passphrase for your key,
 +if pgpExtPass is active. The passphrase is expected on stdout.
-+The key id is substituted with %s (using format)." }
++The key id is substituted with %s (using format). }
 +{pgp(delextcmd) pgpDelExtCmd {/usr/bin/q-client delete %s} {Method to invalidate external passphrase cache}
-+"This external program is used to delete the passphrase for your key
++This external program is used to delete the passphrase for your key
 +from the external cache, if pgpExtPass is active. 
-+The key id is substituted with %s (using format)." }
++The key id is substituted with %s (using format). }
      }
  
      # Make sure we don't inherit a bad pgp(version) from a previous setup
@@ -129,24 +129,24 @@ Content-Transfer-Encoding: 8bit
  
 +    if {[info exists pgp(extpass)] && [set pgp(extpass)] \
 +	    && [info exists pgp(getextcmd)]} {
-+	Exmh_Debug "Pgp_GetPass $v $key external"
++	Exmh_Debug Pgp_GetPass $v $key external
 +	set keyid [lindex $key 0]
 +	set cmd [format $pgp(getextcmd) $keyid]
 +	while (1) {
-+	    Exmh_Debug "running cmd $cmd"
-+	    if [ catch {exec sh -c "$cmd"} result ] {
-+		Exmh_Debug "error running cmd: $result"
-+		Exmh_Status "Error executing external cmd" warn
++	    Exmh_Debug running cmd $cmd
++	    if [ catch {exec sh -c $cmd} result ] {
++		Exmh_Debug error running cmd: $result
++		Exmh_Status Error executing external cmd warn
 +		return {}
 +	    } else {
 +		if {[Pgp_Exec_CheckPassword $v $result $key]} {
 +		    return $result
 +		} else {
-+		    Exmh_Debug "bad passphrase"
++		    Exmh_Debug bad passphrase
 +		    if {[info exists pgp(delextcmd)]} {
-+			Exmh_Debug "trying to invalidate bad passphrase"
-+			if [catch {exec sh -c "[format $pgp(delextcmd) $keyid]"}] {
-+			    Exmh_Debug "invalidation failed"
++			Exmh_Debug trying to invalidate bad passphrase
++			if [catch {exec sh -c [format $pgp(delextcmd) $keyid]}] {
++			    Exmh_Debug invalidation failed
 +			    return {}
 +			}
 +		    }
@@ -154,9 +154,9 @@ Content-Transfer-Encoding: 8bit
 +	    }
 +	}
 +    } else {
-     Exmh_Debug "Pgp_GetPass $v $key"
+     Exmh_Debug Pgp_GetPass $v $key
  
-     if {[lsearch -glob [set pgp($v,privatekeys)] "[lindex $key 0]*"] < 0} {
+     if {[lsearch -glob [set pgp($v,privatekeys)] [lindex $key 0]*] < 0} {
 @@ -695,6 +722,7 @@
              }
              return $password
@@ -171,13 +171,13 @@ Content-Type: text/plain; charset=US-ASCII
 
 -- 
 + Alexander Zangerl + az@snafu.priv.at + DSA 42BD645D + (RSA 5B586291)
-Kind of like my 404K fund, "wealth not found." -- shrox
+Kind of like my 404K fund, wealth not found. -- shrox
 
 --Multipart_Fri_Sep_27_14:42:27_2002-1--
 
 ------------=_1033130560-1199-5
-Content-Type: application/pgp-signature; name="signature.ng"
-Content-Disposition: inline; filename="signature.ng"
+Content-Type: application/pgp-signature; name=signature.ng
+Content-Disposition: inline; filename=signature.ng
 Content-Transfer-Encoding: 7bit
 
 -----BEGIN PGP SIGNATURE-----

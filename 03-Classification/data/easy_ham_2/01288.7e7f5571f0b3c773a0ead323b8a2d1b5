@@ -29,7 +29,7 @@ Cc: spamassassin-devel@example.sourceforge.net
 Subject: Re: [SAdev] Debug Support Feature
 References: <3D3ACD3D.9020600@perkel.com>
 From: Daniel Quinlan <quinlan@pathname.com>
-In-Reply-To: Marc Perkel's message of "Sun, 21 Jul 2002 08:03:25 -0700"
+In-Reply-To: Marc Perkel's message of Sun, 21 Jul 2002 08:03:25 -0700
 Message-Id: <yf2vg78hok0.fsf@proton.pathname.com>
 X-Mailer: Gnus v5.7/Emacs 20.7
 Sender: spamassassin-devel-admin@example.sourceforge.net
@@ -51,7 +51,7 @@ Date: 21 Jul 2002 12:24:31 -0700
 Marc Perkel <marc@perkel.com> writes:
 
 > Here something I want - maybe it's in there. I want a way to pipe a file 
-> containing messages into one of the "masses" tools and have it output 
+> containing messages into one of the masses tools and have it output 
 > the messages that match a specific rule.
 > 
 > The reason I want this is to pipe non-spam corpus through a rule and get 

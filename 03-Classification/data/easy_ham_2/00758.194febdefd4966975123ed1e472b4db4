@@ -30,15 +30,15 @@ Received: from localhost (localhost [127.0.0.1]) by peterson.ath.cx
     (Postfix) with ESMTP id F3966AB062 for <exmh-users@redhat.com>;
     Mon,  5 Aug 2002 20:40:18 -0600 (MDT)
 X-Mailer: exmh version 2.5 07/13/2001 with nmh-1.0.4
-From: "Jan L. Peterson" <jlp@softhome.net>
+From: Jan L. Peterson <jlp@softhome.net>
 To: exmh-users@spamassassin.taint.org
 Subject: Re: curses interface to nmh
-X-Face: p=61=y<.Il$z+k*y~"j>%c[8R~8{j3WTnaSd-'RyC>t.Ub>AAm\zYA#5JF
+X-Face: p=61=y<.Il$z+k*y~j>%c[8R~8{j3WTnaSd-'RyC>t.Ub>AAm\zYA#5JF
     +W=G?EI+|EI);]=fs_MOfKN0n9`OlmB[1^0;L^64K5][nOb&gv/n}p@mm06|J|WNa
     asp7mMEw0w)e_6T~7v-\]yHKvI^1}[2k)]
 References: <20020806014000.48D429E@whatexit.org>
 In-Reply-To: Your message of
-    "Mon, 05 Aug 2002 21:39:59 EDT."
+    Mon, 05 Aug 2002 21:39:59 EDT.
     <20020806014000.48D429E@whatexit.org>
 MIME-Version: 1.0
 Content-Type: text/plain; charset=us-ascii

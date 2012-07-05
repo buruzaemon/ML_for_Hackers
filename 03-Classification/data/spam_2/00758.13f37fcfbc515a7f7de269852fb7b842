@@ -34,19 +34,19 @@ List-Id: Friends of Rohit Khare <fork.xent.com>
 X-Beenthere: fork@spamassassin.taint.org
 Content-Type: text/html;
 
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!DOCTYPE HTML PUBLIC -//W3C//DTD HTML 4.0 Transitional//EN>
 <HTML><HEAD>
-<META content="text/html; charset=iso-8859-1" http-equiv=Content-Type>
-<META content="MSHTML 5.00.3315.2870" name=GENERATOR>
+<META content=text/html; charset=iso-8859-1 http-equiv=Content-Type>
+<META content=MSHTML 5.00.3315.2870 name=GENERATOR>
 <STYLE></STYLE>
 </HEAD>
 <BODY bgColor=#ffffff>
 <DIV><FONT face=Arial size=2>
-<TABLE align=center width="80%">
+<TABLE align=center width=80%>
   <TBODY>
   <TR>
     <TD>
-      <TABLE width="85%">
+      <TABLE width=85%>
         <TBODY>
         <TR>
             <TD>&nbsp;</TD>
@@ -86,75 +86,75 @@ Content-Type: text/html;
       <P align=justify><FONT face=arial>$15K minimum investment required. 
       Serious inquiries only.</FONT></P>
       <P><FONT face=arial>To recieve your free video. Fill out this form.
-      <CENTER><form method="POST" action="mailto:pedrospanks@phantasmo.com">
+      <CENTER><form method=POST action=mailto:pedrospanks@phantasmo.com>
               <center>
                 <table>
                   <tr> 
                     <td> 
-                      <p><font face="Arial, Helvetica, sans-serif">Name:</font></p>
+                      <p><font face=Arial, Helvetica, sans-serif>Name:</font></p>
                     </td>
                     <td> 
-                      <input type="TEXT" name="Name" size="30">
+                      <input type=TEXT name=Name size=30>
                     </td>
                   </tr>
                   <tr> 
                     <td> 
-                      <p><font face="Arial, Helvetica, sans-serif">Phone Number<br>
+                      <p><font face=Arial, Helvetica, sans-serif>Phone Number<br>
                         (including area code):</font></p>
                     </td>
-                    <td valign="middle"> 
-                      <input type="TEXT" name="Phone" size="30">
+                    <td valign=middle> 
+                      <input type=TEXT name=Phone size=30>
                     </td>
                   </tr>
                   <tr> 
                     <td> 
-                      <p><font face="Arial, Helvetica, sans-serif">Mailing Address:</font></p>
+                      <p><font face=Arial, Helvetica, sans-serif>Mailing Address:</font></p>
                     </td>
                     <td> 
-                      <input type="TEXT" name="mailingaddress" size="50">
+                      <input type=TEXT name=mailingaddress size=50>
                     </td>
                   </tr>
                   <tr> 
                     <td> 
-                      <p><font face="Arial, Helvetica, sans-serif">Province / 
+                      <p><font face=Arial, Helvetica, sans-serif>Province / 
                         State:</font></p>
                     </td>
                     <td> 
-                      <input type="TEXT" name="province" size="30">
+                      <input type=TEXT name=province size=30>
                     </td>
                   </tr>
                   <tr> 
-                    <td height="29"> 
-                      <p><font face="Arial, Helvetica, sans-serif">Postal Code</font></p>
+                    <td height=29> 
+                      <p><font face=Arial, Helvetica, sans-serif>Postal Code</font></p>
                     </td>
-                    <td height="29"> 
-                      <input type="TEXT" name="postalcode" size="30">
+                    <td height=29> 
+                      <input type=TEXT name=postalcode size=30>
                     </td>
                   </tr>
                   <tr> 
                     <td> 
-                      <p><font face="Arial, Helvetica, sans-serif"></font></p>
+                      <p><font face=Arial, Helvetica, sans-serif></font></p>
                     </td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr> 
                     <td> 
-                      <p><font face="Arial, Helvetica, sans-serif">E-mail Address:</font></p>
+                      <p><font face=Arial, Helvetica, sans-serif>E-mail Address:</font></p>
                     </td>
                     <td> 
-                      <input type="TEXT" name="Email" size="30">
+                      <input type=TEXT name=Email size=30>
                     </td>
                   </tr>
                   <tr> 
-                    <td><font face="Arial, Helvetica, sans-serif"></font></td>
+                    <td><font face=Arial, Helvetica, sans-serif></font></td>
                     <td>&nbsp;</td>
                   </tr>
                 </table>
                 <br>
-                <input type="SUBMIT" value="      OK      " name="SUBMIT">
+                <input type=SUBMIT value=      OK       name=SUBMIT>
               </center>
             </form>
-        <br><br><br><font size="1">To be removed from this list please reply with UNSUBSCRIBE.  Thank you.</font></CENTER></FONT></TD></TR></TBODY></TABLE></FONT></DIV></BODY></HTML>
+        <br><br><br><font size=1>To be removed from this list please reply with UNSUBSCRIBE.  Thank you.</font></CENTER></FONT></TD></TR></TBODY></TABLE></FONT></DIV></BODY></HTML>
 
 
 http://xent.com/mailman/listinfo/fork

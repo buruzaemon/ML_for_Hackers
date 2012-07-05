@@ -23,15 +23,15 @@ X-PGP-Dsskey: 0x55FAB8D3
 X-PGP-Rsakey: 0xCAA67415
 Message-Id: <5.1.0.14.2.20021009103526.02ec2050@frodo.hserus.net>
 X-Nil:
-To: "Stephen D. Williams" <sdw@lig.net>,
+To: Stephen D. Williams <sdw@lig.net>,
 	Lorin Rivers <lrivers@realsoftware.com>
 From: Udhay Shankar N <udhay@pobox.com>
 Subject: Re: ActiveBuddy
-Cc: "Mr. FoRK" <fork_list@hotmail.com>, FoRK List <fork@spamassassin.taint.org>
+Cc: Mr. FoRK <fork_list@hotmail.com>, FoRK List <fork@spamassassin.taint.org>
 In-Reply-To: <6E8631AD.30501@lig.net>
 References: <B9C28892.35FF2%lrivers@realsoftware.com>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"; format=flowed
+Content-Type: text/plain; charset=us-ascii; format=flowed
 Sender: fork-admin@xent.com
 Errors-To: fork-admin@xent.com
 X-Beenthere: fork@spamassassin.taint.org

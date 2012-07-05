@@ -35,11 +35,11 @@ Received: from localhost ([127.0.0.1] helo=kanga.nu) by
 To: exmh-users@spamassassin.taint.org
 Subject: Re: Folder computed replcomps (and replgroupcomps
 In-Reply-To: Message from Hal DeVore <haldevore@acm.org> of
-    "Sun, 21 Jul 2002 16:37:21 CDT."
+    Sun, 21 Jul 2002 16:37:21 CDT.
     <23937.1027287441@dimebox>
 References: <8128.1027129899@kanga.nu>  <23937.1027287441@dimebox>
 X-Face: ?<YUs-cNP1\Oc-H>^_yw@fA`CEX&}--=*&XqXbF-oePvxaT4(kyt\nwM9]{]N!>b^K}-Mb9
-    YH%saz^>nq5usBlD"s{(.h'_w|U^3ldUq7wVZz$`u>MB(-4$f\a6Eu8.e=Pf\
+    YH%saz^>nq5usBlDs{(.h'_w|U^3ldUq7wVZz$`u>MB(-4$f\a6Eu8.e=Pf\
 X-Image-Url: http://www.kanga.nu/~claw/kanga.face.tiff
 X-Url: http://www.kanga.nu/~claw/
 Message-Id: <29965.1027569302@kanga.nu>
@@ -67,13 +67,13 @@ Date: Wed, 24 Jul 2002 20:55:02 -0700
 On Sun, 21 Jul 2002 16:37:21 -0500 
 Hal DeVore <haldevore@acm.org> wrote:
 
->>>>>> On Fri, 19 Jul 2002, "J" == J C Lawrence wrote:
+>>>>>> On Fri, 19 Jul 2002, J == J C Lawrence wrote:
 
 J> What would be great is if I could build the relevant comp file
 J> dynamically at runtime.
 
-> Sure.  Use the "folder change" hooks.  Create a proc named
-> Hook_FolderChangeSomething (where "Something" is meaningful and likely
+> Sure.  Use the folder change hooks.  Create a proc named
+> Hook_FolderChangeSomething (where Something is meaningful and likely
 > to be unique in the universe just in case you distribute this to
 > others).  Put the proc in a file in your ~/.tk/exmh directory,
 > regenerate the tclIndex, restart exmh.
@@ -106,7 +106,7 @@ Reasons:
 
   nmh, like MH, by default delivers outbound mail via SMTP to port 25 on
   a defined host.  The port number cannot be configured (it calls
-  getservbyname() which does a lookup against "smtp" in /etc/services).
+  getservbyname() which does a lookup against smtp in /etc/services).
   Ergo, you are constrained to use tell nmh to use tmda-sendmail instead
   of SMTP.
 
@@ -119,16 +119,16 @@ Reasons:
 
   which creates problems:
 
-    Postfix does not support "-bv" and returns in error
+    Postfix does not support -bv and returns in error
 
-    Exim does not support "-t" with "-bv" and returns in error
+    Exim does not support -t with -bv and returns in error
 
     Don't mention Qmail.  I won't use it.
 
-  "whom" is far too useful as a component tool in MH to lose.  
+  whom is far too useful as a component tool in MH to lose.  
 
     It would be nice if someone gave the new crew working on nmh a shout
-    about this.  The "-bv" option to sendmail is pretty damned close to
+    about this.  The -bv option to sendmail is pretty damned close to
     being Allman sendmail specific and thus unfriendly to other MTAs.
     Further there are many cases where it would be useful to configure a
     non-standard port to deliver outbound mail to via SMTP.  nmh's
@@ -136,7 +136,7 @@ Reasons:
     /etc/services) is a pain.
 
 I've worked out a hack to use TMDA with Exim while retaining nmh's
-"whom" support using Exim's system filter:
+whom support using Exim's system filter:
 
   0) Make sure that the following options are set in ~/.tmda/config:
 
@@ -145,25 +145,25 @@ I've worked out a hack to use TMDA with Exim while retaining nmh's
     CRYPT_KEY_FILE
     FINGERPRINT
 
-  1) chgrp everything in and under ~/.tmda to group "mail".
+  1) chgrp everything in and under ~/.tmda to group mail.
 
   2) Configure Exim as per the current TMDA HOW-TO.
 
   3) Set the following options in exim.conf:
 
-    message_filter = "/etc/exim/filter"
+    message_filter = /etc/exim/filter
     message_filter_pipe_transport = address_pipe
 
   4) /etc/exim/filter reads:
 
     # Exim filter
-    testprint "local_part: ${local_part: $h_From:}"
-    testprint "domain: ${domain: $h_From:}"
-    if "$h_X-tmda-fingerprint:" is "" and 
-       "${domain: $h_From:}" is "kanga.nu" and
-       "${if exists {/home/${local_part:$h_From:}/.tmda} {true}{false}}" is "true"
+    testprint local_part: ${local_part: $h_From:}
+    testprint domain: ${domain: $h_From:}
+    if $h_X-tmda-fingerprint: is  and 
+       ${domain: $h_From:} is kanga.nu and
+       ${if exists {/home/${local_part:$h_From:}/.tmda} {true}{false}} is true
     then
-      pipe "/usr/bin/tmda-inject -c /home/${local_part:$h_From:}/.tmda/config"
+      pipe /usr/bin/tmda-inject -c /home/${local_part:$h_From:}/.tmda/config
       finish
     endif
 
@@ -204,7 +204,7 @@ Notes:
 Caveat Emptor.  
 
   ObNote: I've also written a small patch against TMDA 0.58 to add a
-  "hold" delivery method (identical to "confirm" except it sends no
+  hold delivery method (identical to confirm except it sends no
   confirmation requests -- very useful for testing configs or doing
   silent sidetracking of mail).
 

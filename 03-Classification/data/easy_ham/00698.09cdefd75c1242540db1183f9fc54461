@@ -19,7 +19,7 @@ Received: from barrera.org (unknown [63.145.31.2]) by xent.com (Postfix)
 Received: from  (127.0.0.1 [127.0.0.1]) by MailEnable Inbound Mail Agent
     with ESMTP; Sun, 22 Sep 2002 05:59:23 -08:00
 Message-Id: <3D8D5C3B.2090202@barrera.org>
-From: "Joseph S. Barrera III" <joe@barrera.org>
+From: Joseph S. Barrera III <joe@barrera.org>
 Organization: NERV
 User-Agent: Mutt 5.00.2919.6900 DM (Nigerian Scammer Special Edition)
 X-Accept-Language: en-us, en, ja

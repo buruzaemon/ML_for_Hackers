@@ -17,8 +17,8 @@ Received: from mithral.com (watcher.mithral.com [204.153.244.1]) by
     xent.com (Postfix) with SMTP id 6E01D294099 for <fork@xent.com>;
     Sun,  1 Sep 2002 19:19:16 -0700 (PDT)
 Received: (qmail 3268 invoked by uid 1111); 2 Sep 2002 02:21:33 -0000
-From: "Adam L. Beberg" <beberg@mithral.com>
-To: "Reza B'Far (eBuilt)" <rbfar@ebuilt.com>
+From: Adam L. Beberg <beberg@mithral.com>
+To: Reza B'Far (eBuilt) <rbfar@ebuilt.com>
 Cc: <fork@spamassassin.taint.org>
 Subject: RE: Java is for kiddies
 In-Reply-To: <NCBBJMBPOKEEKDAILFNGGEBDFEAA.rbfar@ebuilt.com>
@@ -76,7 +76,7 @@ No it's not, but you can hire teams of Javites for cheap at your local high
 school. Java is about cutting costs and commoditizing programming - and it's
 working!
 
-- Adam L. "Duncan" Beberg
+- Adam L. Duncan Beberg
   http://www.mithral.com/~beberg/
   beberg@mithral.com
 

@@ -15,7 +15,7 @@ Received: from mail.link-builder.com (mail.link-builder.com [127.0.0.1])
     by mx1.link-builder.com (Postfix) with SMTP id 9FDF3142562 for
     <webmaster@jmason.org>; Mon,  2 Dec 2002 15:51:47 -0800 (PST)
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Date: Mon, 2 Dec 2002 15:51 -0800
 Subject: spamassassin.taint.org
 To: webmaster@spamassassin.taint.org

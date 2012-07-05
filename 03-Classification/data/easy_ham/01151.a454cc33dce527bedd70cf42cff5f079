@@ -36,7 +36,7 @@ In-Reply-To: <1033567132.911.TMDA@deepeddy.vircio.com>
 References: <30937.1033532481@dimebox.bmc.com>
     <1033567132.911.TMDA@deepeddy.vircio.com>
 Comments: In-reply-to Chris Garrigues <cwg-dated-1033999132.9ba1d6@DeepEddy.Com>
-    message dated "Wed, 02 Oct 2002 08:58:51 -0500."
+    message dated Wed, 02 Oct 2002 08:58:51 -0500.
 To: Chris Garrigues <cwg-dated-1033999132.9ba1d6@DeepEddy.Com>
 Cc: exmh-workers@spamassassin.taint.org
 Subject: Re: Unseen window versus Sequences Window
@@ -62,7 +62,7 @@ List-Archive: <https://listman.spamassassin.taint.org/mailman/private/exmh-worke
 Date: Wed, 02 Oct 2002 09:34:08 -0500
 
 
->>>>> On Wed, 2 Oct 2002, "Chris" == Chris Garrigues wrote:
+>>>>> On Wed, 2 Oct 2002, Chris == Chris Garrigues wrote:
 
   Chris> I'm not sure I'll get to it any time soon.
 
@@ -71,7 +71,7 @@ phrase hell freezes over comes to mind)... so whenever you can
 will certainly be fine.
 
 Thanks for considering it.  In the meantime I've set the 
-"minimum entry lines" to 1.  It certainly isn't going to make me 
+minimum entry lines to 1.  It certainly isn't going to make me 
 go back to the old version.
 
 --Hal

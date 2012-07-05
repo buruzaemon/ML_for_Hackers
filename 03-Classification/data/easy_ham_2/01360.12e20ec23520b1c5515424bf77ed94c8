@@ -23,12 +23,12 @@ List-Subscribe: <mailto:vulnwatch-subscribe@vulnwatch.org>
 Delivered-To: mailing list vulnwatch@vulnwatch.org
 Delivered-To: moderator for vulnwatch@vulnwatch.org
 Received: (qmail 23589 invoked from network); 9 Aug 2002 01:12:03 -0000
-From: "Marc Maiffret" <marc@eeye.com>
-To: "vulwatch" <vulnwatch@vulnwatch.org>
+From: Marc Maiffret <marc@eeye.com>
+To: vulwatch <vulnwatch@vulnwatch.org>
 Date: Thu, 8 Aug 2002 17:26:22 -0700
 Message-Id: <MKEAIJIPCGAHEFEJGDOCOEMHGEAA.marc@eeye.com>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal
@@ -51,12 +51,12 @@ Unix and Windows; Netscape and Internet Explorer
 Description:
 While working on some pre-release eEye Retina CHAM tools, an exploitable
 condition was discovered within the Shockwave Flash file format called SWF
-(pronounced "SWIF").
+(pronounced SWIF).
 
 Since this is a browser based bug, it makes it trivial to bypass firewalls
 and attack the user at his desktop. Also, application browser bugs allow you
 to target users based on the websites they visit, the newsgroups they read,
-or the mailing lists they frequent. It is a "one button" push attack, and
+or the mailing lists they frequent. It is a one button push attack, and
 using anonymous remailers or proxies for these attacks is possible.
 
 This vulnerability has been proven to work with all versions of Macromedia
@@ -78,8 +78,8 @@ pointer address and redirect the flow of control to a specified location as
 soon as this address is used. At the moment the overwritten address takes
 control flow, an address pointing to a portion of our data is 8 bytes back
 from the stack pointer. By using a relative jump we redirect flow into a
-"call dword ptr [esp+N]", where N is the number of bytes from the stack
-pointer. These "jump points" can be located in multiple loaded dll's. By
+call dword ptr [esp+N], where N is the number of bytes from the stack
+pointer. These jump points can be located in multiple loaded dll's. By
 creating a simple tool using the debugging API and ReadMemory, you can
 examine a process's virtual address space for useful data to help you with
 your exploitation.

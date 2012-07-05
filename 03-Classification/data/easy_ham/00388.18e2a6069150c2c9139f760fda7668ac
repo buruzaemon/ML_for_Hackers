@@ -41,7 +41,7 @@ Received: from localhost (HELO deepeddy.vircio.com)
     <cwg-exmh@DeepEddy.Com>) by localhost (qmail-ldap-1.03) with SMTP for
     <exmh-workers@redhat.com>; 22 Aug 2002 16:28:41 -0000
 X-Mailer: exmh version 2.5 07/13/2001 with nmh-1.0.4
-To: "J. W. Ballantine" <jwb@homer.att.com>, exmh-workers@spamassassin.taint.org
+To: J. W. Ballantine <jwb@homer.att.com>, exmh-workers@spamassassin.taint.org
 Subject: Re: New Sequences Window
 In-Reply-To: <1030025538.25487.TMDA@deepeddy.vircio.com>
 References: <200208211351.JAA15807@hera.homer.att.com>
@@ -50,9 +50,9 @@ X-Url: http://www.DeepEddy.Com/~cwg
 X-Image-Url: http://www.DeepEddy.Com/~cwg/chris.gif
 MIME-Version: 1.0
 Content-Type: multipart/signed;
-    boundary="==_Exmh_-763629846P";
+    boundary===_Exmh_-763629846P;
     micalg=pgp-sha1;
-    protocol="application/pgp-signature"
+    protocol=application/pgp-signature
 Content-Transfer-Encoding: 7bit
 Message-Id: <1030033720.27656.TMDA@deepeddy.vircio.com>
 From: Chris Garrigues <cwg-exmh@DeepEddy.Com>
@@ -80,7 +80,7 @@ Content-Type: text/plain; charset=us-ascii
 > From:  Chris Garrigues <cwg-exmh@DeepEddy.Com>
 > Date:  Thu, 22 Aug 2002 09:12:16 -0500
 >
-> > From:  "J. W. Ballantine" <jwb@homer.att.com>
+> > From:  J. W. Ballantine <jwb@homer.att.com>
 > > Date:  Wed, 21 Aug 2002 09:51:31 -0400
 > >
 > > I CVS'ed the unseen/Sequences changes and installed them, and have only one 
@@ -96,10 +96,10 @@ Content-Type: text/plain; charset=us-ascii
 Well, unfortunately, I appear to be using a window manager that doesn't 
 support the icon window.
 
-However, I did fix some bugs in the related "Hide When Empty" functionality 
-which may solve the issue.  You may need to remove "unseen" from the "always 
-show sequences" to make this work.  If so, let me know so I can put that in 
-the help window for "Icon Window" as it already is for "Hide When Empty".
+However, I did fix some bugs in the related Hide When Empty functionality 
+which may solve the issue.  You may need to remove unseen from the always 
+show sequences to make this work.  If so, let me know so I can put that in 
+the help window for Icon Window as it already is for Hide When Empty.
 
 Chris
 

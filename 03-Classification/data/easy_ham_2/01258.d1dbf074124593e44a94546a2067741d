@@ -60,7 +60,7 @@ Once upon a time, Harig, wrote :
 > does not already define, but how can we override an
 > existing switch?
 
-Well, %configure doesn't define "--program-prefix=", so that's why it
+Well, %configure doesn't define --program-prefix=, so that's why it
 works. Maybe you thought that was an example, but no, it's the exact syntax
 to use as a workaround ;-)
 

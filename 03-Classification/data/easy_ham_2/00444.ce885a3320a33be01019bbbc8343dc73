@@ -24,7 +24,7 @@ Received: (qmail 99311 messnum 123666 invoked from
 Received: from jimbo.eircom.net (HELO webmail.eircom.net) (159.134.237.75)
     by mail01.svc.cra.dublin.eircom.net (qp 99311) with SMTP; 19 Aug 2002
     08:30:17 -0000
-From: "Mark Conway" <mconway35@eircom.net>
+From: Mark Conway <mconway35@eircom.net>
 Reply-To: <mconway35@eircom.net>
 To: ILUG@linux.ie
 Date: Mon, 19 Aug 2002 09:30:17 +0100

@@ -21,13 +21,13 @@ Received: from p256.as1.cra.dublin.eircom.net (HELO mfrenchw2k)
     (mfrench42@159.134.177.0 with login) by smtp.mail.vip.sc5.yahoo.com with
     SMTP; 19 Jul 2002 21:03:45 -0000
 Message-Id: <002c01c22f67$4216c280$f264a8c0@sabeo.ie>
-From: "Matthew French" <mfrench42@yahoo.co.uk>
-To: "Irish Linux Users Group" <ilug@linux.ie>
+From: Matthew French <mfrench42@yahoo.co.uk>
+To: Irish Linux Users Group <ilug@linux.ie>
 References: <200207191959.g6JJxHX04486@linux.local>
 Subject: Re: [ILUG] hard- vs. soft-links [was: How to copy some files ]
 Date: Fri, 19 Jul 2002 22:00:02 +0100
 MIME-Version: 1.0
-Content-Type: text/plain; charset="utf-8"
+Content-Type: text/plain; charset=utf-8
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal
@@ -41,19 +41,19 @@ List-Id: Irish Linux Users' Group <ilug.linux.ie>
 X-Beenthere: ilug@linux.ie
 
 Brian Foster wrote:
->  I use this fact on occasion to "save" data, via the well-
+>  I use this fact on occasion to save data, via the well-
 >  known attack of hard-linking to a supposedly-temporary file
 >  I want to preserve.  the subsequent unlink(2)ing of the
->  "temporary" file does not destroy the data.
+>  temporary file does not destroy the data.
 
-Now here is a thought: a Unix version of the "Deleted Items" folder.
+Now here is a thought: a Unix version of the Deleted Items folder.
 
-In the root of a hard drive, create a directory ".unwanted". Then
+In the root of a hard drive, create a directory .unwanted. Then
 periodically create hard links to every file on the hard drive that does not
 have hard links.
 
-That way, when someone accidentally does "rm *" or whatever, you still have
-a link under ".unwanted"
+That way, when someone accidentally does rm * or whatever, you still have
+a link under .unwanted
 
 Another script can then periodically clear out enough old files to ensure
 that there is usually enough disk space.

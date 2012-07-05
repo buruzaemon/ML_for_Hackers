@@ -23,7 +23,7 @@ Received: (qmail 49936 messnum 1249470 invoked from
 Received: from k100-110.bas1.dbn.dublin.eircom.net (HELO gemini.windmill)
     (159.134.100.110) by relay05.indigo.ie (qp 49936) with SMTP;
     31 Jul 2002 20:23:09 -0000
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 From: Nick Murtagh <nickm@go2.ie>
 To: ilug@linux.ie
 Subject: [OT] Irish language (was Re: [ILUG] Fwd: Linux Beer Hike)
@@ -63,7 +63,7 @@ an afterthought. Whereas doing it the other way round would be a lot more
 useful...
 
 I hear this complaint a lot, but I never hear people complaining about being
-"forced" to learn to read and write, or to do maths. Maybe people don't mind
+forced to learn to read and write, or to do maths. Maybe people don't mind
 as much if it is perceived as a useful skill (which Irish is not usually
 perceived as).
 

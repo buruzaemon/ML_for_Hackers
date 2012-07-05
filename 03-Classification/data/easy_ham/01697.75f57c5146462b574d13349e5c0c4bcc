@@ -19,7 +19,7 @@ Message-ID: <15737.37186.513740.936811@12-248-11-90.client.attbi.com>
 Time to upgrade I guess. :-(
 
     % cvs add unheader.py 
-    cvs [server aborted]: "add" requires write access to the repository
+    cvs [server aborted]: add requires write access to the repository
 
 I'll try a checkout into a new directory...
 

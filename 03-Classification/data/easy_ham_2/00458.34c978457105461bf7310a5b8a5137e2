@@ -48,7 +48,7 @@ X-Beenthere: ilug@linux.ie
 > reboot).  Is there a GMT windows timezone?
 
 Start->Settings->Control Panel->Date/Time->Time Zone tab-> Uncheck
-"Automatically adjust clock for daylight saving change".
+Automatically adjust clock for daylight saving change.
 
 Ciaran
 

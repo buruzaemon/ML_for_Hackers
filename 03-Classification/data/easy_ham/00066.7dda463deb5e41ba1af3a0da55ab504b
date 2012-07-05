@@ -13,13 +13,13 @@ Received: from lists.ironclad.net.au ([203.30.247.12]) by
 Received: from aernet.ru by lists.ironclad.net.au with SMTP;
     Sat, 31 Aug 2002 01:35:15 +1000
 Date: Fri, 30 Aug 2002 19:39:57 +0400
-From: "Andrey G. Sergeev (AKA Andris)" <andris@aernet.ru>
+From: Andrey G. Sergeev (AKA Andris) <andris@aernet.ru>
 X-Mailer: The Bat! (v1.60q)
-Reply-To: "DNS-swap" <DNS-swap@lists.ironclad.net.au>
+Reply-To: DNS-swap <DNS-swap@lists.ironclad.net.au>
 Organization: AerNet Ltd.
 X-Priority: 3 (Normal)
 Message-Id: <16279722375.20020830193957@aernet.ru>
-To: "Bob Musser" <DNS-swap@lists.ironclad.net.au>
+To: Bob Musser <DNS-swap@lists.ironclad.net.au>
 Subject: Re: Tiny DNS Swap
 In-Reply-To: <00c401c25039$7b055460$976fa8c0@cfl.rr.com>
 References: <00c401c25039$7b055460$976fa8c0@cfl.rr.com>

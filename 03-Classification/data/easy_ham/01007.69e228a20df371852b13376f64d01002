@@ -36,10 +36,10 @@ Subject: Re: bad focus/click behaviours
 In-Reply-To: <17705.1031833169@garlic.apnic.net>
 References: <17705.1031833169@garlic.apnic.net>
 Comments: In-reply-to George Michaelson <ggm@apnic.net> message dated
-    "Thu, 12 Sep 2002 12:19:29 -0000."
+    Thu, 12 Sep 2002 12:19:29 -0000.
 From: Brent Welch <welch@panasas.com>
 X-Url: http://www.panasas.com/
-X-Face: "HxE|?EnC9fVMV8f70H83&{fgLE.|FZ^$>@Q(yb#N,Eh~N]e&]=>
+X-Face: HxE|?EnC9fVMV8f70H83&{fgLE.|FZ^$>@Q(yb#N,Eh~N]e&]=>
     r5~UnRml1:4EglY{9B+ :'wJq$@c_C!l8@<$t,{YUr4K,QJGHSvS~U]H`<+L*x?eGzSk>XH\W:AK\j?@?c1o<k;j'Ei/UL)!*0
     ILwSR)J\bc)gjz!rrGQ2#i*f:M:ydhK}jp4dWQW?;0{,#iWrCV$4~%e/3)$1/D
 MIME-Version: 1.0
@@ -64,7 +64,7 @@ Date: Wed, 11 Sep 2002 20:15:00 -0700
 exmh has a funky cut/paste model that is essentially all my fault.
 The middle click sets the insert point.  If you hate that, go to the
 Bindings... Simple Edit preferences window and de-select
-"Paste Sets Insert".  
+Paste Sets Insert.  
 
 >>>George Michaelson said:
  > 

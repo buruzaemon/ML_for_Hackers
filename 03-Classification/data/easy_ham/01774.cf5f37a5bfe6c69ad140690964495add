@@ -51,7 +51,7 @@ Discuss this story at:
 |   http://use.perl.org/article.pl?sid=02/09/02/1823229              |
 +--------------------------------------------------------------------+
 
-[0]brian_d_foy writes "The latest issue of The Perl Review is ready:
+[0]brian_d_foy writes The latest issue of The Perl Review is ready:
 [1]http://www.theperlreview.com
 
   * Extreme Mowing -- Andy Lester
@@ -63,7 +63,7 @@ Discuss this story at:
   * Filehandle Ties -- Robby Walker
 
   * The Iterator Design Pattern -- brian d foy
-    Enjoy!"
+    Enjoy!
 
 Discuss this story at:
     http://use.perl.org/comments.pl?sid=02/09/02/1823229

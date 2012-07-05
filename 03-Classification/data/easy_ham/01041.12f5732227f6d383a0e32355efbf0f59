@@ -65,12 +65,12 @@ Lance
 On Wed, 2002-08-28 at 12:00, Matthias Saou wrote:
 > Followup to the story :
 > 
-> I've now made a sub-package of alsa-driver called "alsa-kernel" which
+> I've now made a sub-package of alsa-driver called alsa-kernel which
 > contains only the kernel modules, and alsa-driver contains everything else
 > from the original package (device entries, include files and docs).
 > 
-> This should allow installation of a single "alsa-driver" package and
-> multiple "alsa-kernel" if you have more than one kernel installed. Right
+> This should allow installation of a single alsa-driver package and
+> multiple alsa-kernel if you have more than one kernel installed. Right
 > now the dependencies make it mandatory to have kernels installed through
 > rpm... people who install from source can still install the ALSA modules
 > from the source though ;-)

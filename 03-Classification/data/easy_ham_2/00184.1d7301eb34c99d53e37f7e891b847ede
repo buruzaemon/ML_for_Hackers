@@ -21,13 +21,13 @@ Received: from [172.18.80.234] (helo=xeljreilly) by smtpout.xelector.com
     with smtp (Exim 3.34 #2) id 17Zved-0000sZ-00 for ilug@linux.ie;
     Wed, 31 Jul 2002 16:44:51 +0100
 Message-Id: <007601c238aa$61bcbcb0$ea5012ac@xelector.com>
-From: "John Reilly" <jr@inconspicuous.org>
+From: John Reilly <jr@inconspicuous.org>
 To: <ilug@linux.ie>
 References: <3D351C3E@webmail.ucc.ie>
 Subject: Re: [ILUG] removing lilo
 Date: Wed, 31 Jul 2002 16:53:15 +0100
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal
@@ -44,7 +44,7 @@ Lacking a DOS boot disk, I just looked for a different way to do it
 yesterday.  You can use
     lilo -u /dev/hda
 
-Sourced via google search "remove lilo" which returned
+Sourced via google search remove lilo which returned
 http://support.microsoft.com/default.aspx?scid=KB;EN-US;q315224&
 
 Much handier if you only have tomsrtbt or something similar.
@@ -53,7 +53,7 @@ jr
 
 
 ----- Original Message -----
-From: "jac1" <jac1@student.cs.ucc.ie>
+From: jac1 <jac1@student.cs.ucc.ie>
 To: <ilug@linux.ie>
 Sent: Wednesday, July 31, 2002 2:30 PM
 Subject: [ILUG] removing lilo

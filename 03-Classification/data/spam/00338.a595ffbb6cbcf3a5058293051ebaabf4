@@ -15,7 +15,7 @@ Received: from party by gcn.net.tw with SMTP id 7AEqQF0sKZQlE5DgCKCEvOP;
     Tue, 15 Sep 2015 01:42:02 +0800
 Message-Id: <be6DqittO@mail.seeder.net.tw>
 From: abc@ms22.hinet.net
-To: ¥¼©R¦W.txt@dogma.slashnull.org, 0913.10.TXT@dogma.slashnull.org,
+To: RW.txt@dogma.slashnull.org, 0913.10.TXT@dogma.slashnull.org,
 	0913.11.TXT@dogma.slashnull.org, 0913.12.TXT@dogma.slashnull.org,
 	0913.13.TXT@dogma.slashnull.org, 0913.14.TXT@dogma.slashnull.org,
 	0913.2.TXT@dogma.slashnull.org, 0913.3.TXT@dogma.slashnull.org,
@@ -47,18 +47,18 @@ MIME-Version: 1.0
 X-Mailer: bNngf4C0mjSsqJIXFFxHjZeAH9ON5
 X-Priority: 3
 X-Msmail-Priority: Normal
-Content-Type: multipart/related; type="multipart/alternative"; boundary="----=_NextPart_dDSo3gGXsd1lAyTI8"
+Content-Type: multipart/related; type=multipart/alternative; boundary=----=_NextPart_dDSo3gGXsd1lAyTI8
 
 This is a multi-part message in MIME format.
 
 ------=_NextPart_dDSo3gGXsd1lAyTI8
 Content-Type: multipart/alternative;
-	boundary="----=_NextPart_dDSo3gGXsd1lAyTI8AA"
+	boundary=----=_NextPart_dDSo3gGXsd1lAyTI8AA
 
 
 ------=_NextPart_dDSo3gGXsd1lAyTI8AA
 Content-Type: text/html;
-	charset="big5"
+	charset=big5
 Content-Transfer-Encoding: base64
 
 PGh0bWw+DQoNCjxoZWFkPg0KPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1MYW5ndWFnZSIgY29u

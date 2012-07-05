@@ -22,7 +22,7 @@ X-Trace: UmFuZG9tSVYxzJnFYxMXNjqJ4lUEVQOm6YtA82BFhZbjjRi5tKZMbH8JePAdnW4tCKzy1BN
 Received: from [165.112.63.34] (helo=TOSHIBA-L8QYR7M) by
     smtp01.mrf.mail.rcn.net with asmtp (Exim 3.35 #6) id 17cZj5-0005L9-00 for
     fork@xent.com; Wed, 07 Aug 2002 18:56:23 -0400
-From: "John Evdemon" <jevdemon@acm.org>
+From: John Evdemon <jevdemon@acm.org>
 To: fork@spamassassin.taint.org
 MIME-Version: 1.0
 Subject: Quitting Music

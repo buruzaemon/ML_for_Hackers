@@ -23,14 +23,14 @@ Received: from r220-1.rz.RWTH-Aachen.DE (relay2.RWTH-Aachen.DE
 Received: from wilson (wilson.weh.RWTH-Aachen.DE [137.226.141.141]) by
     r220-1.rz.RWTH-Aachen.DE (8.12.1/8.11.3/24) with SMTP id g7R3fJwP028257
     for <rpm-list@freshrpms.net>; Tue, 27 Aug 2002 05:41:19 +0200 (MEST)
-Content-Type: text/plain; charset="iso-8859-15"
+Content-Type: text/plain; charset=iso-8859-15
 From: Torsten Bronger <bronger@users.sourceforge.net>
 Organization: RWTH Aachen
-Subject: "requires:" and relational operators
+Subject: requires: and relational operators
 X-Mailer: KMail [version 1.2]
 MIME-Version: 1.0
 Message-Id: <02082705410501.08779@wilson>
-To: "RPM Mailing List" <rpm-zzzlist@freshrpms.net>
+To: RPM Mailing List <rpm-zzzlist@freshrpms.net>
 X-Mailscanner: Found to be clean, Found to be clean
 Content-Transfer-Encoding: 8bit
 X-MIME-Autoconverted: from quoted-printable to 8bit by egwn.net id

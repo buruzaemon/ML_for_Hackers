@@ -75,7 +75,7 @@ int main(int argc, char **argv)
 
   if(argc != 3)
   {
-    fprintf(stderr, "Usage: %s [int1] [int2]\n", argv[0]);
+    fprintf(stderr, Usage: %s [int1] [int2]\n, argv[0]);
     exit(1);
   }
 
@@ -85,7 +85,7 @@ int main(int argc, char **argv)
   else
     progname ++; /* Skip past the '/' */
   
-  if(strcmp(progname, "add") == 0)
+  if(strcmp(progname, add) == 0)
   {
     operation = add;
   }
@@ -95,8 +95,8 @@ int main(int argc, char **argv)
   }
   else
   {
-    fprintf(stderr, "Program called with invalid "
-            "name %s. Quitting.\n", argv[0]);
+    fprintf(stderr, Program called with invalid 
+            name %s. Quitting.\n, argv[0]);
     exit(1);
   }
 
@@ -105,7 +105,7 @@ int main(int argc, char **argv)
                                     * args starting 0 */
   if(*marker != '\0')
   {
-    fprintf(stderr, "Invalid character %c in argument %s.\n",
+    fprintf(stderr, Invalid character %c in argument %s.\n,
             *marker, argv[1]);
     exit(1);
   }
@@ -115,12 +115,12 @@ int main(int argc, char **argv)
                                     * args starting 0 */
   if(*marker != '\0')
   {
-    fprintf(stderr, "Invalid character %c in argument %s.\n",
+    fprintf(stderr, Invalid character %c in argument %s.\n,
             *marker, argv[2]);
     exit(1);
   }
   
-  printf("%ld %c %ld = %ld\n", 
+  printf(%ld %c %ld = %ld\n, 
           a, 
           (operation == add)?'+':'-', 
           b, 

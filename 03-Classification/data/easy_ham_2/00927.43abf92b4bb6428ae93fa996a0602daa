@@ -21,7 +21,7 @@ Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
 Received: from 216.30.74.2 by lw15fd.law15.hotmail.msn.com with HTTP;
     Mon, 29 Jul 2002 19:08:05 GMT
 X-Originating-Ip: [216.30.74.2]
-From: "Russell Turpin" <deafbox@hotmail.com>
+From: Russell Turpin <deafbox@hotmail.com>
 To: fork@spamassassin.taint.org
 Subject: Re: [NYT] A Sudden Rush to Declare Bankruptcy is Expected
 MIME-Version: 1.0
@@ -46,9 +46,9 @@ Owen Byrne:
 >I think his beef is that the laws for personal bankruptcy are being 
 >rewritten without touching
 >corporate bankruptcy, another example of how the legal construct known as a 
->"corporation"
->is treated more favorably than the non-legal construct known as a "human 
->being."
+>corporation
+>is treated more favorably than the non-legal construct known as a human 
+>being.
 
 Yeah, I get that. I just think this is a poor
 example. Corporate bankruptcy is a power fight

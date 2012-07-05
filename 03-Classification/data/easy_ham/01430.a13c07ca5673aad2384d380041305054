@@ -54,7 +54,7 @@ http://www.hughes-family.org/bugzilla/show_bug.cgi?id=805
 ------- Additional Comments From felicity@kluge.net  2002-09-02 15:05 -------
 from the sa-dev mailing list:
 
-"ln -s /dev/null ~root/.razor/razor-agent.log"
+ln -s /dev/null ~root/.razor/razor-agent.log
   
 The question is, why does 2.40 do this whereas my 2.31 doesn't. Hmmm.
 

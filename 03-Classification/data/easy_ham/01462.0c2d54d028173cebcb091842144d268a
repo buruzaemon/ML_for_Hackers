@@ -25,7 +25,7 @@ Received: from omega.paradigm-omega.net (localhost.localdomain
     [127.0.0.1]) by omega.paradigm-omega.net (Postfix) with ESMTP id
     AC7909FBB7 for <spamassassin-talk@lists.sourceforge.net>; Wed,
     11 Sep 2002 15:23:58 -0700 (PDT)
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Organization: Paradigm-Omega, LLC
 To: spamassassin-talk@example.sourceforge.net
 X-Mailer: KMail [version 1.3.1]

@@ -35,7 +35,7 @@ Message-Id: <B9A6AE92.91AD%opslag@inklaar.net>
 In-Reply-To: <10209111535.ZM66084@ajax.dgi.com>
 MIME-Version: 1.0
 X-No-Archive: Yes
-Content-Type: text/plain; charset="US-ASCII"
+Content-Type: text/plain; charset=US-ASCII
 Content-Transfer-Encoding: 7bit
 Sender: spamassassin-talk-admin@example.sourceforge.net
 Errors-To: spamassassin-talk-admin@example.sourceforge.net
@@ -55,7 +55,7 @@ Op 12-09-2002 00:35 schreef Ellen Clary (ellen@dgi.com):
 
 >> Then there is a third possibility. Instead of returning a 550 code
 >> indicating you're on to the spammer, fake a 5.1.1 response which is
->> saying "mailbox does not exist." This would be in the hopes that some
+>> saying mailbox does not exist. This would be in the hopes that some
 >> spammers out there actually remove names reported as non-existent from
 >> their lists. I know, a slim hope, but even if only a few do, it can
 >> lower the incidence.

@@ -23,13 +23,13 @@ Received: from siddhi (siddhi.sidney.com [192.168.93.20]) by
     sidebone.sidney.com (8.12.5/8.12.5) with SMTP id g73GCIvJ020067 for
     <razor-users@lists.sourceforge.net>; Sat, 3 Aug 2002 09:12:18 -0700
 Message-Id: <01c301c23b08$8a3cc210$145da8c0@sidney.com>
-From: "Sidney Markowitz" <sidney@sidney.com>
+From: Sidney Markowitz <sidney@sidney.com>
 To: <razor-users@example.sourceforge.net>
 References: <3D4B0146.20604@perkel.com> <02080219195506.20486@neofelis>
     <20020803045955.GA21527@misery.proulx.com>
 Subject: Re: [Razor-users] False Positives on EFF Messages
 MIME-Version: 1.0
-Content-Type: text/plain; charset="Windows-1252"
+Content-Type: text/plain; charset=Windows-1252
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal

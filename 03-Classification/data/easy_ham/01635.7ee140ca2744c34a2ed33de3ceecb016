@@ -21,15 +21,15 @@ cunning plan...
 
 It will!  Part of my cunning plan involves something like this:
 
-  if folder == "accepted":             # ie. not suspected junk mail
+  if folder == accepted:             # ie. not suspected junk mail
       if (len(recipients) == 1 and
-          recipients[0] in ("guido@python.org", "barry@python.org", ...)):
-          folder = "personal"
+          recipients[0] in (guido@python.org, barry@python.org, ...)):
+          folder = personal
 
 If you (and Guido, Barry, et. al.) prefer, I could change that last
-statement to "folder = None", so the mail won't be saved at all.  I
-*might* also add a "and sender doesn't look like -bounce-*, -request,
--admin, ..." clause to that if statement.
+statement to folder = None, so the mail won't be saved at all.  I
+*might* also add a and sender doesn't look like -bounce-*, -request,
+-admin, ... clause to that if statement.
 
 > Can you think of anyplace to get a large, shareable ham sample apart from a
 > public mailing list?  Everyone's eager to share their spam, but spam is so

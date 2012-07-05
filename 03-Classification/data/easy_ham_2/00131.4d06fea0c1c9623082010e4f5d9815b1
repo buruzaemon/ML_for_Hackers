@@ -25,7 +25,7 @@ Received: (qmail 18612 messnum 1118184 invoked from
 Received: from p289.as1.drogheda1.eircom.net (HELO there) (159.134.159.33)
     by mail04.svc.cra.dublin.eircom.net (qp 18612) with SMTP; 28 Jul 2002
     15:21:42 -0000
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 From: John Gay <johngay@eircom.net>
 To: ilug@linux.ie
 Date: Sun, 28 Jul 2002 12:28:05 +0100
@@ -44,8 +44,8 @@ X-Beenthere: ilug@linux.ie
 
 On Sun 28 Jul 2002 06:29, ilug-admin@linux.ie wrote:
 > Message: 3
-> From: "John Moran" <arronax@eircom.net>
-> To: "ILUG" <ilug@linux.ie>
+> From: John Moran <arronax@eircom.net>
+> To: ILUG <ilug@linux.ie>
 > Subject: RE: [ILUG] Optimizing for Pentium Pt.2
 > Date: Sat, 27 Jul 2002 17:10:39 +0100
 >
@@ -68,7 +68,7 @@ higher optimization level, and generate code for your specific architecture.
 
 Therefore:
 
-    export CFLAGS="-O3 -march=<architecture>" &&
+    export CFLAGS=-O3 -march=<architecture> &&
     CXXFLAGS=$CFLAGS
 
 This is a minimal set of optimizations that ensures it works on almost all

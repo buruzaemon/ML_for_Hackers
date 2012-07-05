@@ -15,7 +15,7 @@ X-MSMail-Priority: Normal
 X-mailer: AspMail 3.53 (SMTP2D571B)
 Subject: You're signed up for the Reich Report!
 Mime-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: 7bit
 X-MIME-Autoconverted: from quoted-printable to 8bit by eclectic.kluge.net id g8G3RfOk029859
 X-Spam-Status: Yes, hits=5.3 required=5.0 tests=INVALID_DATE,MISSING_MIMEOLE,MISSING_OUTLOOK_NAME,MSG_ID_ADDED_BY_MTA_3,REMOVE_SUBJ,SPAM_PHRASE_05_08,SUPERLONG_LINE version=2.41

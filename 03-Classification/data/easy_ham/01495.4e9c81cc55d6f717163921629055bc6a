@@ -6,13 +6,13 @@ Received: by spamassassin.taint.org (Postfix, from userid 500)
 Received: from spamassassin.taint.org (localhost [127.0.0.1])
 	by jmason.org (Postfix) with ESMTP
 	id 69CACF7B1; Fri, 20 Sep 2002 13:03:34 +0100 (IST)
-To: "Michael Moncur" <mgm@starlingtech.com>
-Cc: "Justin Mason" <yyyy@spamassassin.taint.org>,
-	"Daniel Quinlan" <quinlan@pathname.com>,
+To: Michael Moncur <mgm@starlingtech.com>
+Cc: Justin Mason <yyyy@spamassassin.taint.org>,
+	Daniel Quinlan <quinlan@pathname.com>,
 	SpamAssassin-devel@lists.sourceforge.net
 Subject: Re: [SAdev] phew! 
-In-Reply-To: Message from "Michael Moncur" <mgm@starlingtech.com> 
-   of "Thu, 19 Sep 2002 21:42:52 MDT." <NEBBKLEDELIODOCJHLPCGEOHNCAA.mgm@starlingtech.com> 
+In-Reply-To: Message from Michael Moncur <mgm@starlingtech.com> 
+   of Thu, 19 Sep 2002 21:42:52 MDT. <NEBBKLEDELIODOCJHLPCGEOHNCAA.mgm@starlingtech.com> 
 From: yyyy@spamassassin.taint.org (Justin Mason)
 X-GPG-Key-Fingerprint: 0A48 2D8B 0B52 A87D 0E8A  6ADD 4137 1B50 6E58 EF0A
 X-Habeas-Swe-1: winter into spring
@@ -29,7 +29,7 @@ Sender: yyyy@spamassassin.taint.org
 Message-Id: <20020920120334.6CA7916F03@spamassassin.taint.org>
 
 
-"Michael Moncur" said:
+Michael Moncur said:
 
 > My corpus is about 50% spamtrap spam at any given time. Let me know if I
 > should leave that out next time, I do keep it separate. My spamtraps are

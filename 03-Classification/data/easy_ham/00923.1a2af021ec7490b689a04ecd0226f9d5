@@ -52,7 +52,7 @@ On Tue, 20 Aug 2002, Matthew Cline wrote:
 > 
 > Summary: a company will offer short snippets of original, copyrighted
 > and trademarked text that can be inserted into email message headers,
-> and email filters can recognize this as a "not-spam" indicator.  Any
+> and email filters can recognize this as a not-spam indicator.  Any
 > spammers who use the text will be sued for copyright and trademark
 > infringement.
 
@@ -60,10 +60,10 @@ They may be in for a patent fight before any of this goes forward:
 
 http://www.eweek.com/article2/0,3959,476558,00.asp
 
-"Banking on the fact that few enterprises sending commercial mail want to 
+Banking on the fact that few enterprises sending commercial mail want to 
 be associated with spam, IronPort Systems Inc., in San Bruno, Calif., has 
 developed the Bonded Sender program in an effort to give legitimate bulk 
-e-mailers some credibility."
+e-mailers some credibility.
 
 
 

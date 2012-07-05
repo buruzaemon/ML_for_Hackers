@@ -23,9 +23,9 @@ MIME-Version: 1.0
 X-Sender: rahettinga@pop.earthlink.net
 Message-Id: <p05111a06b97119b4bace@[66.149.49.6]>
 To: Digital Bearer Settlement List <dbs@philodox.com>, fork@spamassassin.taint.org
-From: "R. A. Hettinga" <rah@shipwright.com>
+From: R. A. Hettinga <rah@shipwright.com>
 Subject: info-theoretic model of anonymity
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Sender: fork-admin@xent.com
 Errors-To: fork-admin@xent.com
 X-Beenthere: fork@spamassassin.taint.org
@@ -53,8 +53,8 @@ User-Agent: Mutt/1.2.2i
 Subject: info-theoretic model of anonymity
 Sender: owner-cypherpunks@lne.com
 
-Just read this paper published in PET02 "Towards an Information
-Theoretic Metric for Anonymity" [1]:
+Just read this paper published in PET02 Towards an Information
+Theoretic Metric for Anonymity [1]:
 
 	http://www.cl.cam.ac.uk/~gd216/set.pdf
 or	http://www.cl.cam.ac.uk/~gd216/set.ps
@@ -63,7 +63,7 @@ it uses a Shannon like entropy model for the anonymity provided by a
 system uses this model to analyse the effect of different parameters
 one can tune with mixmaster (POOLSIZE, RATE, in mixmaster.conf).
 
-The "anonymity entropy" measurement can be interpreted as how many
+The anonymity entropy measurement can be interpreted as how many
 bits of information the attacker needs to identify a user and is
 computed from probabilities.
 
@@ -78,12 +78,12 @@ http://www.cypherspace.org/adam/
 [1]
 
 @inproceedings{Serjantov:02:info-theoretic-anon,
-  author = "Andrei Serjantov and George Danezis",
-  title = "Towards an Information Theoretic Metric for Anonymity",
-  booktitle = "Proceedings of the Workshop on Privacy Enhancing Technologies",
-  year = "2002",
-  note = "Also available as
-\url{http://www.cl.cam.ac.uk/~aas23/papers_aas/set.ps}"
+  author = Andrei Serjantov and George Danezis,
+  title = Towards an Information Theoretic Metric for Anonymity,
+  booktitle = Proceedings of the Workshop on Privacy Enhancing Technologies,
+  year = 2002,
+  note = Also available as
+\url{http://www.cl.cam.ac.uk/~aas23/papers_aas/set.ps}
 }
 
 --- end forwarded text
@@ -94,9 +94,9 @@ http://www.cypherspace.org/adam/
 R. A. Hettinga <mailto: rah@ibuc.com>
 The Internet Bearer Underwriting Corporation <http://www.ibuc.com/>
 44 Farquhar Street, Boston, MA 02131 USA
-"... however it may deserve respect for its usefulness and antiquity,
+... however it may deserve respect for its usefulness and antiquity,
 [predicting the end of the world] has not been found agreeable to
-experience." -- Edward Gibbon, 'Decline and Fall of the Roman Empire'
+experience. -- Edward Gibbon, 'Decline and Fall of the Roman Empire'
 http://xent.com/mailman/listinfo/fork
 
 

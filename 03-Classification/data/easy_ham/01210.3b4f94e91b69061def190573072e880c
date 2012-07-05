@@ -55,8 +55,8 @@ Once upon a time, Mark wrote :
 > work, maybe :)
 
 I've done that too, on many production servers. The only little
-(unimportant) catch is to replace "kernel-headers" by "glibc-kernheaders",
-a simple "apt-get install glibc-kernheaders" taking care of that.
+(unimportant) catch is to replace kernel-headers by glibc-kernheaders,
+a simple apt-get install glibc-kernheaders taking care of that.
 
 Upgrading between releases is meant to work, not between betas or beta and
 releases. The reason is simple : Some packages may have been downgraded,

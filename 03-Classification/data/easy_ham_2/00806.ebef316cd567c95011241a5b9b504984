@@ -17,7 +17,7 @@ Received: from mithral.com (watcher.mithral.com [204.153.244.1]) by
     xent.com (Postfix) with SMTP id 905192940A8 for <fork@xent.com>;
     Mon, 22 Jul 2002 14:01:48 -0700 (PDT)
 Received: (qmail 23269 invoked by uid 1111); 22 Jul 2002 21:10:44 -0000
-From: "Adam L. Beberg" <beberg@mithral.com>
+From: Adam L. Beberg <beberg@mithral.com>
 To: <fork@spamassassin.taint.org>
 Subject: spam maps
 In-Reply-To: <415-22002712219375752@user-bbxdmnnh9d>
@@ -41,7 +41,7 @@ Date: Mon, 22 Jul 2002 14:10:44 -0700 (PDT)
 Did someone invert the spam filters? I'm getting almost nothing but spam on
 fork now...
 
-- Adam L. "Duncan" Beberg
+- Adam L. Duncan Beberg
   http://www.mithral.com/~beberg/
   beberg@mithral.com
 

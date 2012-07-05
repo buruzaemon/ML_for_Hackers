@@ -23,7 +23,7 @@ X-PGP-Dsskey: 0x55FAB8D3
 X-PGP-Rsakey: 0xCAA67415
 Message-Id: <5.1.0.14.2.20020918220930.02fa8c60@frodo.hserus.net>
 X-Nil:
-To: "R. A. Hettinga" <rah@shipwright.com>,
+To: R. A. Hettinga <rah@shipwright.com>,
 	Rodent of Unusual Size <Ken.Coar@Golux.Com>,
 	Flatware or Road Kill? <FoRK@xent.com>
 From: Udhay Shankar N <udhay@pobox.com>
@@ -33,7 +33,7 @@ References: <3D885FE0.37C1C9EA@Golux.Com>
     <Pine.LNX.4.44.0209172137100.5112-100000@isolnetsux.techmonkeys.net>
     <3D885FE0.37C1C9EA@Golux.Com>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"; format=flowed
+Content-Type: text/plain; charset=us-ascii; format=flowed
 Sender: fork-admin@xent.com
 Errors-To: fork-admin@xent.com
 X-Beenthere: fork@spamassassin.taint.org

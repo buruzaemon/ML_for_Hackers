@@ -50,7 +50,7 @@ Date: Sat, 2 Feb 2002 13:06:04 +0100
 
 Once upon a time, Mark wrote :
 
-> Hiya, I always seem to get errors when I do an "apt update", is this a 
+> Hiya, I always seem to get errors when I do an apt update, is this a 
 > problem on the repository itself, or on my end, or possibly a timeout in 
 > the connection due to my connection being a crappy modem?
 > 
@@ -71,7 +71,7 @@ Once upon a time, Mark wrote :
 > Hit http://apt.freshrpms.net redhat/7.2/i386 release.freshrpms
 [...]
 
-It works for me (it should works with or without the "en" subdirectory).
+It works for me (it should works with or without the en subdirectory).
 Does it always give you the same error each time? Do you use an proxy
 server?
 

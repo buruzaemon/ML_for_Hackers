@@ -56,9 +56,9 @@ Subject: Re: [SAdev]  spam_level_char option change/removal
 
 On Fri, Sep 06, 2002 at 10:09:19AM -0700, bugzilla-daemon@hughes-family.org wrote:
 > another (or would look terrible).  Let's just use a letter.  If
-> aesthetics are your concern, I think an "x" will look just fine.
+> aesthetics are your concern, I think an x will look just fine.
 
-"x" is fine, but let's not take out the config option.  if people really
+x is fine, but let's not take out the config option.  if people really
 want to have it be something else, we shouldn't hinder them.
 
 

@@ -24,7 +24,7 @@ Received: from localhost (eugen@localhost) by hydrogen.leitl.org
     +0200
 X-Authentication-Warning: hydrogen.leitl.org: eugen owned process doing -bs
 From: Eugen Leitl <eugen@leitl.org>
-To: "Joseph S. Barrera III" <joe@barrera.org>
+To: Joseph S. Barrera III <joe@barrera.org>
 Cc: FoRK <fork@spamassassin.taint.org>
 Subject: Re: dumb question: X client behind a firewall?
 In-Reply-To: <3D924040.1080303@barrera.org>

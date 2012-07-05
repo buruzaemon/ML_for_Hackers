@@ -21,7 +21,7 @@ Received: (apparently) from smtp0442.mail.yahoo.com ([210.83.114.251]) by
     ntserver.yueli.com.tw  with Microsoft SMTPSVC(5.5.1877.197.19);
     Fri, 26 Jul 2002 23:48:38 +0800
 Date: Fri, 26 Jul 2002 23:47:05 +0800
-From: "Dorothy Luke" <b0783@polbox.com>
+From: Dorothy Luke <b0783@polbox.com>
 X-Priority: 3
 To: ilug-admin@linux.ie
 Cc: ilug-request@linux.ie, ilug@linux.ie

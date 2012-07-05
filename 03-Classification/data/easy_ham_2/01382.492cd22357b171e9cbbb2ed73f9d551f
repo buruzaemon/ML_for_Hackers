@@ -23,10 +23,10 @@ Received: from pd9eae28f.dip.t-dialin.net (HELO simmobile)
     (217.234.226.143) by alderaan.pixelhouse.de with SMTP; 20 Aug 2002
     17:33:29 -0000
 Message-Id: <00f301c24870$55ccfe30$b101a8c0@simmobile>
-From: "Alexander Meis" <am@simoon.de>
+From: Alexander Meis <am@simoon.de>
 To: <spamassassin-talk@example.sourceforge.net>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal

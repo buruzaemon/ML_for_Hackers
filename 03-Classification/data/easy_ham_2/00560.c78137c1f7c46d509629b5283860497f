@@ -22,11 +22,11 @@ Received: from dennis (c18584.rivrw1.nsw.optusnet.com.au [211.28.44.179])
     by mail014.syd.optusnet.com.au (8.11.1/8.11.1) with SMTP id g728VeH24912
     for <razor-users@lists.sourceforge.net>; Fri, 2 Aug 2002 18:31:40 +1000
 Message-Id: <003101c239ff$05bf44e0$3d00a8c0@dennis>
-From: "zenn" <zenn@optushome.com.au>
+From: zenn <zenn@optushome.com.au>
 To: <razor-users@example.sourceforge.net>
 References: <7njikuo9efrl4s4gvs5od9vt3eleto20ee@localhost>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal
@@ -50,7 +50,7 @@ X-Original-Date: Fri, 2 Aug 2002 18:31:38 +1000
 Date: Fri, 2 Aug 2002 18:31:38 +1000
 
 suggestion...
-as I see it, there is a valid need for a "razor-cache" server that is
+as I see it, there is a valid need for a razor-cache server that is
 available to the local smtp host...
 recursiveness would also be a nice feature, giving us the option to link
 caches to offload the burden on the razor servers...

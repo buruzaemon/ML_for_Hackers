@@ -22,8 +22,8 @@ Message-Id: <20020902194618.GB15737@kluge.net>
 References: <20020902175329.E20EC43F99@phobos.labs.netnoteinc.com>
 MIME-Version: 1.0
 Content-Type: multipart/signed; micalg=pgp-sha1;
-    protocol="application/pgp-signature";
-    boundary="eJnRUKwClWJh1Khz"
+    protocol=application/pgp-signature;
+    boundary=eJnRUKwClWJh1Khz
 Content-Disposition: inline
 In-Reply-To: <20020902175329.E20EC43F99@phobos.labs.netnoteinc.com>
 User-Agent: Mutt/1.4i

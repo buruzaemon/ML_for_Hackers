@@ -26,10 +26,10 @@ Received: by server3.fastmail.fm (Postfix, from userid 99) id C0EE52FD33;
     Sun, 25 Aug 2002 11:50:54 -0500 (CDT)
 Content-Disposition: inline
 Content-Transfer-Encoding: 8bit
-Content-Type: text/plain; charset="ISO-8859-1"
+Content-Type: text/plain; charset=ISO-8859-1
 MIME-Version: 1.0
 X-Mailer: MIME::Lite 1.2  (F2.6; T1.001; A1.48; B2.12; Q2.03)
-From: "James Tauber" <jtauber@jtauber.com>
+From: James Tauber <jtauber@jtauber.com>
 To: johnhall@evergo.net, fork@spamassassin.taint.org
 X-Epoch: 1030294257
 X-Sasl-Enc: P8OwrRaDs2VlLKfQnqm1Zg
@@ -49,13 +49,13 @@ List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
 List-Archive: <http://xent.com/pipermail/fork/>
 Date: Sun, 25 Aug 2002 16:50:54 UT
 
-On Sat, 24 Aug 2002 11:07:00 -0700, "John Hall" <johnhall@evergo.net>
+On Sat, 24 Aug 2002 11:07:00 -0700, John Hall <johnhall@evergo.net>
 said:
 > Ran across a site which claimed to explain the original meaning of the
 > Ten Commandments.  It seems some of those meanings have evolved a bit,
 > too.
 
-By "meanings have evolved" do you [or they] mean that the Hebrew words
+By meanings have evolved do you [or they] mean that the Hebrew words
 have changed meaning or that our understanding of the Hebrew words have
 changed? Or do they posit a pre-Mosaic form of the laws that had
 evolved by time of the Pentateuch?
@@ -69,9 +69,9 @@ Hebrew word in question is GANAV which elsewhere in the Pentateuch (eg
 Gen 44.8) is used to mean steal silver and gold amongst other things.
 
 In July 1999, I made the following comment in response to a similar
-claim about the "real" meaning of one of the ten commandments:
+claim about the real meaning of one of the ten commandments:
 
-"""
+
 > The translations since cause problems at each successive remove
 
 We have the original language versions, though, so this is not an
@@ -81,12 +81,12 @@ issue.
 > is 'thou shalt not murder' rather than 'kill,'
 
 This has nothing to do with successive translations. It is based on our
-knowledge of the meaning of the Hebrew word "ratsach". Most modern
-translations I've seen translate it "murder" but elsewhere the word is
+knowledge of the meaning of the Hebrew word ratsach. Most modern
+translations I've seen translate it murder but elsewhere the word is
 used
 of an animal killing a human (something for which most English speakers
-wouldn't use the word "murder").
-"""
+wouldn't use the word murder).
+
 - http://www.xent.com/FoRK-archive/july99/0163.html
 
 

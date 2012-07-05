@@ -17,7 +17,7 @@ Received: from mithral.com (watcher.mithral.com [204.153.244.1]) by
     xent.com (Postfix) with SMTP id B4CBA294098 for <fork@xent.com>;
     Thu, 15 Aug 2002 19:35:50 -0700 (PDT)
 Received: (qmail 15642 invoked by uid 1111); 16 Aug 2002 02:36:57 -0000
-From: "Adam L. Beberg" <beberg@mithral.com>
+From: Adam L. Beberg <beberg@mithral.com>
 To: <fork@spamassassin.taint.org>
 Subject: Food bits
 Message-Id: <Pine.LNX.4.33.0208151936280.15634-100000@watcher.mithral.com>
@@ -43,7 +43,7 @@ http://www.nal.usda.gov/fnic/foodcomp/Data/SR15/sr15.html
 
 You are what you eat :)
 
-- Adam L. "Duncan" Beberg
+- Adam L. Duncan Beberg
   http://www.mithral.com/~beberg/
   beberg@mithral.com
 

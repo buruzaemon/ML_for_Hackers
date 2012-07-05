@@ -21,11 +21,11 @@ Received: from [213.190.156.25] (helo=dogBear) by storm.liquidweb.com with
     smtp (Exim 3.35 #1) id 17jyfg-0001yN-00 for ilug@linux.ie; Wed,
     28 Aug 2002 04:59:28 -0400
 Message-Id: <002501c24e71$68298e20$f600a8c0@dogBear>
-From: "Carlos Luna" <carlos.luna@steorn.com>
+From: Carlos Luna <carlos.luna@steorn.com>
 To: <ilug@linux.ie>
 Date: Wed, 28 Aug 2002 10:00:45 +0100
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal

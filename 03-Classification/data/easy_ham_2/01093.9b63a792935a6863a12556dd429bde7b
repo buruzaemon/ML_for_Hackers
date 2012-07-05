@@ -24,7 +24,7 @@ Received: from localhost (eugen@localhost) by hydrogen.leitl.org
     +0200
 X-Authentication-Warning: hydrogen.leitl.org: eugen owned process doing -bs
 From: Eugen Leitl <eugen@leitl.org>
-To: "Joseph S. Barrera III" <joe@barrera.org>
+To: Joseph S. Barrera III <joe@barrera.org>
 Cc: Rob Shavell <rob@mobiusvc.com>, <fork@spamassassin.taint.org>
 Subject: Re: sprint delivers the next big thing??
 In-Reply-To: <3D60DEC6.6020306@barrera.org>

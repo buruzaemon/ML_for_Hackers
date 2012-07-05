@@ -50,9 +50,9 @@ X-Url: http://www.DeepEddy.Com/~cwg
 X-Image-Url: http://www.DeepEddy.Com/~cwg/chris.gif
 MIME-Version: 1.0
 Content-Type: multipart/signed;
-    boundary="==_Exmh_2112058634P";
+    boundary===_Exmh_2112058634P;
     micalg=pgp-sha1;
-    protocol="application/pgp-signature"
+    protocol=application/pgp-signature
 Content-Transfer-Encoding: 7bit
 Message-Id: <1032794039.27118.TMDA@deepeddy.vircio.com>
 From: Chris Garrigues <cwg-exmh@DeepEddy.Com>
@@ -88,31 +88,31 @@ Content-Type: text/plain; charset=us-ascii
 > exmh-bg, exmh-strip, etc to point at the right one.  Now I'm getting
 > another traceback on startup:
 > 
-> can't read "mhPriv(pubseq,family,cur)": no such variable
+> can't read mhPriv(pubseq,family,cur): no such variable
 >     while executing
-> "MhSeq $folder $seq add $mhPriv(pubseq,$folder,$seq) [MhSeqExpand
-> $folder $msgids"
->     (procedure "MhReadSeqs" line 73)
+> MhSeq $folder $seq add $mhPriv(pubseq,$folder,$seq) [MhSeqExpand
+> $folder $msgids
+>     (procedure MhReadSeqs line 73)
 >     invoked from within
-> "MhReadSeqs $folder seqs"
->     (procedure "Mh_Sequences" line 2)
+> MhReadSeqs $folder seqs
+>     (procedure Mh_Sequences line 2)
 >     invoked from within
-> "Mh_Sequences $folder"
->     (procedure "Flist_UnseenUpdate" line 4)
+> Mh_Sequences $folder
+>     (procedure Flist_UnseenUpdate line 4)
 >     invoked from within
-> "Flist_UnseenUpdate $folder"
->     (procedure "FolderChange" line 51)
+> Flist_UnseenUpdate $folder
+>     (procedure FolderChange line 51)
 >     invoked from within
-> "FolderChange family {Msg_Show cur}"
+> FolderChange family {Msg_Show cur}
 >     invoked from within
-> "time [list  FolderChange $folder $msgShowProc"
->     (procedure "Folder_Change" line 3)
+> time [list  FolderChange $folder $msgShowProc
+>     (procedure Folder_Change line 3)
 >     invoked from within
-> "Folder_Change $exmh(folder)"
->     (procedure "Exmh" line 101)
+> Folder_Change $exmh(folder)
+>     (procedure Exmh line 101)
 >     invoked from within
-> "Exmh"
->     ("after" script)
+> Exmh
+>     (after script)
 > 
 > 
 > +family is the folder I was in when I quit exmh.

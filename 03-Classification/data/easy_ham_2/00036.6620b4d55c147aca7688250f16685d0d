@@ -61,7 +61,7 @@ hmm. there are versions of OpenBSD that run from a 32M compact flash IIRC.
 
 and antefacto's software ran in 64M.
 
-there are CF->IDE adapters anyway, so get a 256M CF (100¤+), mount it RO,
+there are CF->IDE adapters anyway, so get a 256M CF (100+), mount it RO,
 and use that?
 
 /me is also in the market for one of the 60W fanless PSU's that antefacto had,

@@ -23,11 +23,11 @@ Received: from dennis (c18584.rivrw1.nsw.optusnet.com.au [211.28.44.179])
     for <spamassassin-talk@lists.sourceforge.net>; Wed, 24 Jul 2002 22:47:53
     +1000
 Message-Id: <000b01c23310$5173ebc0$0400a8c0@dennis>
-From: "zenn" <zenn@optushome.com.au>
+From: zenn <zenn@optushome.com.au>
 To: <spamassassin-talk@example.sourceforge.net>
 References: <20020724112504.TFXH23840.mta03-svc.ntlworld.com@[10.137.100.63]>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal

@@ -63,14 +63,14 @@ List-Unsubscribe: <https://listman.spamassassin.taint.org/mailman/listinfo/exmh-
 List-Archive: <https://listman.spamassassin.taint.org/mailman/private/exmh-users/>
 Date: Mon, 9 Sep 2002 22:00:03 -0400 (EDT)
 
-> >  sh -c 'for f in "`folders -recurse -fast`" ; do sortm +"$f" ; done'
+> >  sh -c 'for f in `folders -recurse -fast` ; do sortm +$f ; done'
 
 > Thanks Tom and Jacob. The above works, but without the double quotes: i.e.
 >
-> sh -c 'for f in `folders -recurse -fast` ; do sortm +"$f" ; done'
+> sh -c 'for f in `folders -recurse -fast` ; do sortm +$f ; done'
 
-I may have a different version of "sh" than you do; the double quotes
-around the backticks work for my "sh".
+I may have a different version of sh than you do; the double quotes
+around the backticks work for my sh.
 
 (In the more-than-you-really-wanted-to-know category, you're probably
 safe without the double quotes.  The only reason I put them in is that

@@ -25,7 +25,7 @@ Received: from chcgil2-ar6-4-47-169-072.chcgil2.dsl-verizon.net (HELO
 Message-Id: <5.1.0.14.2.20020724145323.04fe3790@mail.torresen.com>
 X-Sender: christopher@mail.torresen.com@mail.torresen.com
 X-Mailer: QUALCOMM Windows Eudora Version 5.1
-To: "rODbegbie" <rOD@arsecandle.org>
+To: rODbegbie <rOD@arsecandle.org>
 From: Christopher VanOosterhout <chris@torresen.com>
 Subject: Re: [Razor-users] Authentication Error
 Cc: <razor-users@example.sourceforge.net>
@@ -34,7 +34,7 @@ References: <20020711084825.W60740-100000@rockstar.stealthgeeks.net>
     <20020723211828.Y98572-100000@rockstar.stealthgeeks.net>
     <20020724141339.GD3208@fsckit.net>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"; format=flowed
+Content-Type: text/plain; charset=us-ascii; format=flowed
 Sender: razor-users-admin@example.sourceforge.net
 Errors-To: razor-users-admin@example.sourceforge.net
 X-Beenthere: razor-users@example.sourceforge.net
@@ -63,13 +63,13 @@ At 12:26 PM 7/24/02 -0400, rODbegbie wrote:
 >
 >1)  I think the code is still very much pre-beta.
 >
->2)  When you go to the "Download" page, it tells you "Fetch the latest
->versions of razor-agents and razor-agents-sdk packages"  It is not at all
+>2)  When you go to the Download page, it tells you Fetch the latest
+>versions of razor-agents and razor-agents-sdk packages  It is not at all
 >clear that these are development packages.
 >
 >The site is badly designed, and very misleading.  IMO.  The fact that the
->word "beta" appears in the middle of some introductory text on the front
->page is hardly a valid argument.  (Well accepted software design "fact":
+>word beta appears in the middle of some introductory text on the front
+>page is hardly a valid argument.  (Well accepted software design fact:
 >USERS DON'T READ *ANYTHING*)
 >
 >I get the impression that Vipul & co are deliberately trying to mislead

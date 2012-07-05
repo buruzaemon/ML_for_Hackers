@@ -27,13 +27,13 @@ Received: from atlas.bluetree.ie (IDENT:root@atlas.bluetree.ie
 Received: from arafel (arafel.bluetree.ie [192.168.3.42]) by
     atlas.bluetree.ie (8.11.6/8.11.6) with SMTP id g6VFOBd15107 for
     <ilug@linux.ie>; Wed, 31 Jul 2002 16:24:11 +0100
-From: "Kenn Humborg" <kenn@bluetree.ie>
+From: Kenn Humborg <kenn@bluetree.ie>
 To: <ilug@linux.ie>
 Subject: RE: [ILUG] sysctl.conf
 Date: Wed, 31 Jul 2002 16:24:17 +0100
 Message-Id: <NBBBIGEGHIGMPCNKHCECAEFHEAAA.kenn@bluetree.ie>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal

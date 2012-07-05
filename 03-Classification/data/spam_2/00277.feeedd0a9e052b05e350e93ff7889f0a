@@ -6,7 +6,7 @@ Received: from wtnserver (80-25-218-178.uc.nombres.ttd.es [80.25.218.178])
     <aban@taint.org>; Sun, 12 May 2002 09:55:41 +0100
 Received: from EI2 by wtnserver with SMTP (MDaemon.v3.1.2.R) for
     <aban@taint.org>; Sun, 12 May 2002 10:55:04 +0200
-From: "The Financial News" <newsletters@the-financial-news.com>
+From: The Financial News <newsletters@the-financial-news.com>
 Subject: Production Mini-plants in mobile containers. Co-investment Program
 To: aban@taint.org
 MIME-Version: 1.0
@@ -19,12 +19,12 @@ X-Mdaemon-Deliver-To: aban@taint.org
 Reply-To: newsletters@the-financial-news.com
 Message-Id: <MDAEMON-F200205121055.AA550387md50007649758@wtnserver>
 X-Keywords: 
-Content-Type: multipart/alternative; boundary="=_NextPart_2rfkindysadvnqw3nerasdf";
+Content-Type: multipart/alternative; boundary==_NextPart_2rfkindysadvnqw3nerasdf;
 
 This is a multi-part message in MIME format
 
 --=_NextPart_2rfkindysadvnqw3nerasdf
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: quoted-printable
 
 
@@ -61,7 +61,7 @@ If you received this in error or would like to be removed from our list, please 
 =A9 2002 The Financial News. All rights reserved.
 
 --=_NextPart_2rfkindysadvnqw3nerasdf
-Content-Type: text/html; charset="iso-8859-1"
+Content-Type: text/html; charset=iso-8859-1
 Content-Transfer-Encoding: quoted-printable
 
 <HTML>

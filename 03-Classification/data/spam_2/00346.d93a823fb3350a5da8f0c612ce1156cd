@@ -11,10 +11,10 @@ Received: from hkem.com ([212.100.64.82]) by eros.cs.jhu.edu
     (8.11.6/8.11.6) with SMTP id g4H14Z703790 for <dcms-dev@eros-os.org>;
     Thu, 16 May 2002 21:04:37 -0400
 Message-Id: <200205170104.g4H14Z703790@eros.cs.jhu.edu>
-From: "edum" <edum@hkem.com>
+From: edum <edum@hkem.com>
 To: <dcms-dev@eros-os.org>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="ISO-8859-1"
+Content-Type: text/plain; charset=ISO-8859-1
 Subject: [dcms-dev] MY INHERITANCE
 Sender: dcms-dev-admin@eros.cs.jhu.edu
 Errors-To: dcms-dev-admin@eros.cs.jhu.edu

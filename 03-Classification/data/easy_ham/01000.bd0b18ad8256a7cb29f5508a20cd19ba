@@ -35,8 +35,8 @@ X-Mailer: exmh version 2.5 07/13/2001 with nmh-1.0.4
 In-Reply-To: <9996.1031730908@kanga.nu>
 References: <200209102325.g8ANP2KX022602@fsck.intern.waldner.priv.at>
     <9996.1031730908@kanga.nu>
-Comments: In-reply-to J C Lawrence <claw@kanga.nu> message dated "Wed, 11
-    Sep 2002 00:55:08 -0700."
+Comments: In-reply-to J C Lawrence <claw@kanga.nu> message dated Wed, 11
+    Sep 2002 00:55:08 -0700.
 To: exmh-users@spamassassin.taint.org
 Subject: Re: Sorting
 MIME-Version: 1.0
@@ -72,7 +72,7 @@ Date: Wed, 11 Sep 2002 08:27:24 -0500
 Just to throw in another approach to solving the same problem. 
 
 I run two copies of exmh, one at work, one at home.  They both
-display on a "virtual X server" created by vncserver on the home
+display on a virtual X server created by vncserver on the home
 box.  I connect to that virtual X server using vncviewer wherever
 I happen to be.  The VNC connection is tunneled over ssh and is
 carried over the Internet via an IPSEC appliance.

@@ -67,8 +67,8 @@ Daniel Quinlan wrote:
 
 >This is not a big deal, but I think Marc has a good point.  The
 >performance difference is probably insignificant.  On the other hand, we
->continually have errors in regular expressions, often when "excessive
->cleverness" has been applied.
+>continually have errors in regular expressions, often when excessive
+>cleverness has been applied.
 >
 >This seems like a pretty good example of premature/excessive
 >optimization.  There is no data showing that the relevant code is run

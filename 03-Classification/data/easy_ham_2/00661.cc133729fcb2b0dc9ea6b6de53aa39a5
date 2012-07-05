@@ -54,8 +54,8 @@ X-Original-Date: Tue, 20 Aug 2002 16:12:51 -0700
 Date: Tue, 20 Aug 2002 16:12:51 -0700
 
 On Tue, Aug 20, 2002 at 05:47:54PM +0100, Matt Bernstein wrote:
-> http://razor.sourceforge.net/docs/whatsnew.html says "Aggregator will be 
-> released with the next major release of Razor2 agents." I was told "soon" 
+> http://razor.sourceforge.net/docs/whatsnew.html says Aggregator will be 
+> released with the next major release of Razor2 agents. I was told soon 
 > several months ago--has it stalled, or been released? If the former, can I 
 > grab a development snapshot to test for you?
 > 
@@ -70,8 +70,8 @@ vipul.
 
 -- 
 
-Vipul Ved Prakash          |   "The future is here, it's just not 
-Software Design Artist     |    widely distributed."
+Vipul Ved Prakash          |   The future is here, it's just not 
+Software Design Artist     |    widely distributed.
 http://vipul.net/          |              -- William Gibson
 
 

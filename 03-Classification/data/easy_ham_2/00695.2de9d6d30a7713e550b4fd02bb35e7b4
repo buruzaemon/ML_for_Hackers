@@ -33,9 +33,9 @@ List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
 List-Archive: <http://xent.com/pipermail/fork/>
 Date: Mon, 22 Jul 2002 23:00:10 -0700 (PDT)
 
-"This is a very tenuous time for Microsoft," Gartenberg said. "This is
+This is a very tenuous time for Microsoft, Gartenberg said. This is
 not a time in Microsoft's history when it can be seen as trying to do to
-Real what it did to Netscape."   Rrrrrrriiiiiight....
+Real what it did to Netscape.   Rrrrrrriiiiiight....
 
 
 
@@ -60,8 +60,8 @@ Nevertheless, Rob Glaser, a former Microsoft executive who founded
 RealNetworks as Progressive Networks in 1994, said he believed the
 strategy was good for both Microsoft and consumers.
 
-"A rational way for them to respond would be to say, `This is great,' "
-he said. "That would be Microsoft of the future."
+A rational way for them to respond would be to say, `This is great,' 
+he said. That would be Microsoft of the future.
 
 Mr. Glaser said his company, based in Seattle, had developed a version
 of the Microsoft Media Server software that comes with the Windows
@@ -84,12 +84,12 @@ RealNetworks and the America Online unit of AOL Time Warner. But a
 Microsoft executive said that a clean-room copy of the Windows server
 technology could lead to quality and performance issues.
 
-"It's kind of hard to speculate about the technology until we see it,"
+It's kind of hard to speculate about the technology until we see it,
 said Dave Fester, the general manager of the Windows Media division. If
-a company has not licensed the server software, he added, "we would need
-to look at it and see what they're doing."
+a company has not licensed the server software, he added, we would need
+to look at it and see what they're doing.
 
-RealNetworks appears to be endeavoring to avoid being "Netscaped," a
+RealNetworks appears to be endeavoring to avoid being Netscaped, a
 reference to the fate that befell the Netscape Communications
 Corporation when Microsoft decided to make an Internet browser, which
 was pioneered commercially by Netscape, a standard part of the Windows
@@ -120,9 +120,9 @@ analysts.
 Several analysts said the RealNetworks shift in strategy could put
 Microsoft on the defensive.
 
-"Real has got the experience and sophistication to pull this off," said
+Real has got the experience and sophistication to pull this off, said
 Richard Doherty, the president of Envisioneering, a market research and
-consulting firm based in Seaford, N.Y. "It will open up a new horse race."
+consulting firm based in Seaford, N.Y. It will open up a new horse race.
 
 Until now the companies have been engaged in a technology war to rapidly
 increase the power and quality of each of their media players. At the
@@ -190,15 +190,15 @@ principal financial beneficiary in many cases.
 
 RealNetworks is trying to strike a balance between opening up its
 technology to persuade others to participate and innovate and not losing
-control of the technology entirely, Mr. Glaser said. "We think we've
-struck the balance well," he said.
+control of the technology entirely, Mr. Glaser said. We think we've
+struck the balance well, he said.
 
 Analysts said the strategy shift by RealNetworks was likely to shake up
-the industry. "The moment you've open-sourced something you've cornered
-your competitor," said Matthew Berk, an analyst a Jupiter Research. "To
+the industry. The moment you've open-sourced something you've cornered
+your competitor, said Matthew Berk, an analyst a Jupiter Research. To
 date this stuff has been very proprietary. Opening it up makes it
 accessible to creative and gifted programmers who will come up with wild
-stuff that the companies have never considered."
+stuff that the companies have never considered.
 
 Mr. Glaser said he expected other companies to produce technology that
 would rival RealNetworks' commercially as a result of the
@@ -214,14 +214,14 @@ Mr. Glaser said he had struck upon the idea of making his media server
 software open source while visiting with an executive from Nokia, the
 world's largest cellphone maker.
 
-"Taking all of this stuff beyond the PC has been a huge motivation for
-us," he said. When he realized that Nokia was interested in deploying
+Taking all of this stuff beyond the PC has been a huge motivation for
+us, he said. When he realized that Nokia was interested in deploying
 the software technology on as many as 30 to 40 different types of
 phones, he realized that RealNetworks did not have enough programming
 talent to support the effort.
 
-"I told him, `I don't think we have enough engineers even if you guys
-were willing to pay us,' " he said.
+I told him, `I don't think we have enough engineers even if you guys
+were willing to pay us,'  he said.
 
 That touched off a search for an alternative way of having the two
 companies cooperate.
@@ -239,11 +239,11 @@ RealNetworks on Monday unveiled a new open-source version of its
 streaming media technology that supports multiple file formats for audio
 and video, including those that use Microsoft's Windows Media technology. 
 
-The new campaign, dubbed "Helix," and first reported by The New York
+The new campaign, dubbed Helix, and first reported by The New York
 Times, marks one of the most ambitious moves in the company's
 history. RealNetworks is simultaneously releasing technology without
 permission that plugs in to Microsoft's competing software and is
-raising the hood on much of its own software technology to "open source"
+raising the hood on much of its own software technology to open source
 developers or anyone else who wants to look. 
 
 The twin moves raise the risk of lawsuits and renewed competition --
@@ -253,9 +253,9 @@ dramatic, potential way for a company watching its market share diminish
 to regain momentum and support across an industry where many other
 players remain skeptical of Microsoft's power.
 
-"It's a very bold move on the part of Real," said Michael Gartenberg, a
-research director for analyst firm Jupiter Research. "This was a shot
-fired by Real and fired directly at Redmond." 
+It's a very bold move on the part of Real, said Michael Gartenberg, a
+research director for analyst firm Jupiter Research. This was a shot
+fired by Real and fired directly at Redmond. 
 
 The move is the latest in a series of strategic twists and turns that
 has made RealNetworks one of the only companies to survive direct
@@ -283,18 +283,18 @@ server to stream Real's technology, Microsoft files, Apple Computer's
 QuickTime, and others. Most other competing products do not support
 competitors' technology. 
 
-"When you have all these different platforms, and all these different
-protocols, it gets unmanageable," RealNetworks' Rob Glaser said at a
-high-glitz press conference in San Francisco announcing the product. "A
+When you have all these different platforms, and all these different
+protocols, it gets unmanageable, RealNetworks' Rob Glaser said at a
+high-glitz press conference in San Francisco announcing the product. A
 lot of what (this technology) is about is breaking those bottlenecks and
-making convergence really converge." 
+making convergence really converge. 
 
 To make the new product compatible with Microsoft files, however, the
-company pursued a risky strategy known as "reverse engineering," in
+company pursued a risky strategy known as reverse engineering, in
 which developers examine a competitor's product to see how it works and
 try to create something that works just like it. 
 
-Glaser said that engineers worked entirely in a "clean room"
+Glaser said that engineers worked entirely in a clean room
 environment, meaning that they had no access to actual Microsoft
 code. Had they simply copied code, they could be liable for patent
 infringement. The resulting product simply mimics the way that
@@ -304,15 +304,15 @@ player to receive the file.
 Other companies have been sued for simply copying a competitor's code
 and putting it in their own products. But RealNetworks says it's not
 worried about Microsoft lawsuits, because it took precautions to do all
-development in the "clean room" environment. Microsoft itself has
+development in the clean room environment. Microsoft itself has
 engaged in this kind of legal reverse engineering. 
 
 Analysts say Microsoft, which still faces antitrust lawsuits, is in no
 position to sue in any case. 
 
-"This is a very tenuous time for Microsoft," Gartenberg said. "This is
+This is a very tenuous time for Microsoft, Gartenberg said. This is
 not a time in Microsoft's history when it can be seen as trying to do to
-Real what it did to Netscape." 
+Real what it did to Netscape. 
 
 The influential giant?
 
@@ -322,9 +322,9 @@ media technology, something Glaser and Real have often been loathe to do.
 Microsoft was quick to spin Monday's announcement as further validation
 of its strength in the marketplace. 
 
-"It's an admission of RealNetworks that it's important for them to
+It's an admission of RealNetworks that it's important for them to
 support Windows Media and that we're now the leading player among home
-and work users," said Michael Aldridge, lead product manager for
+and work users, said Michael Aldridge, lead product manager for
 Microsoft's Windows Digital Media division. 
 
 Aldridge added that RealNetworks currently has a licensing agreement for
@@ -338,7 +338,7 @@ technology.
 
 In addition to its own new product, Real has promised to give away
 source code to much of the underlying technology for streaming
-media. That stops short of the actual file format, or "codec" itself,
+media. That stops short of the actual file format, or codec itself,
 but will provide the open-source community and other companies with
 powerful new tools to build their own streaming media players or
 software. 
@@ -357,7 +357,7 @@ the bold step of opening its source code to allow software developers to
 help create the next generation of its popular browser. 
 
 James Barksdale, then CEO of Netscape, said the move would allow the
-company to "tap into a virtually unlimited developer talent pool."
+company to tap into a virtually unlimited developer talent pool.
 Instead, the effort, which has evolved into the Mozilla.org project, hit
 considerable roadblocks, and Microsoft overtook Netscape in market
 share. 
@@ -384,8 +384,8 @@ people can rely on to deliver it.
 The problem with SOAP is that it tries to escape from the Web interface.
 It deliberately attempts to suck, mostly because it is deliberately
 trying to supplant CGI-like applications rather than Web-like
-applications.  It is simply a waste of time for folks to say that "HTTP
-allows this because I've seen it used by this common CGI script."  If we
+applications.  It is simply a waste of time for folks to say that HTTP
+allows this because I've seen it used by this common CGI script.  If we
 thought that sucky CGI scripts were the basis for good Web
 architectures, then we wouldn't have needed a Gateway Interface to
 implement them.  In order for SOAP-ng to succeed as a Web protocol, it

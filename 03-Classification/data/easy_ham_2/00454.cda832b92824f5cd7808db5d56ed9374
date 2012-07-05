@@ -52,7 +52,7 @@ Niall O Broin wrote:
 >>>die too) and a bash loop would certainly be faster, but you know how to do
 >>>it with loops :-)
 >>>
->>>PREFIX=seq -s "" $NUMBER|sed "s/./$STRING/g"OA
+>>>PREFIX=seq -s  $NUMBER|sed s/./$STRING/gOA
 >>
 >>clever. A bit more robust is:
 >>#first param is number of
@@ -60,7 +60,7 @@ Niall O Broin wrote:
 >>#
 >>#e.g. quote=`repeat 3 '> '`
 >>repeat() {
->>    seq -s , $1 | sed "s¬[0-9]\{1,\}[,]*¬$2¬g"
+>>    seq -s , $1 | sed s[0-9]\{1,\}[,]*$2g
 >>}
 > 
 > But it's such a crap colution anyway, why would you want to make it more

@@ -26,7 +26,7 @@ Received: from ex-mail-04.ant.amazon.com by honda.amazon.com with ESMTP
     Wed, 14 Aug 2002 14:24:46 -0700
 Content-Class: urn:content-classes:message
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Subject: RE: [Razor-users] many vs one
 X-Mimeole: Produced By Microsoft Exchange V6.0.5762.3
 Message-Id: <1C63DA9F9722C2499FA0475B8B8625E32151EE@ex-mail-04.ant.amazon.com>
@@ -34,8 +34,8 @@ X-MS-Has-Attach:
 X-MS-Tnef-Correlator: 
 Thread-Topic: [Razor-users] many vs one
 Thread-Index: AcJD113LPWCFkGHITKuGwP4zuDlM1QAADfzA
-From: "Oates, Isaac" <ioates@amazon.com>
-To: "Patrick" <patrick@stealthgeeks.net>
+From: Oates, Isaac <ioates@amazon.com>
+To: Patrick <patrick@stealthgeeks.net>
 Cc: <razor-users@example.sourceforge.net>
 Sender: razor-users-admin@example.sourceforge.net
 Errors-To: razor-users-admin@example.sourceforge.net
@@ -56,7 +56,7 @@ Content-Transfer-Encoding: 8bit
 X-MIME-Autoconverted: from quoted-printable to 8bit by dogma.slashnull.org
     id g7ELdX404946
 
-First, 1,000 people will have seen the piece of spam that could've been avoided.  But the other 99,000 will never see that spam.  Evenly distributed, it means that an average user will only see 1% of spam.  That's not realistic, because not everyone will get the same spam, but the basic threshold can be adjusted.  At the very least, 30 people need to "vote" on a given piece of mail to make a realistic decision.  Since there's no "no" vote mechanism (except revocation--and that's after the fact), only a "yes" vote mechanism exists and so if you received 30 "yes" votes then you could safely say that you got a reasonable sample.
+First, 1,000 people will have seen the piece of spam that could've been avoided.  But the other 99,000 will never see that spam.  Evenly distributed, it means that an average user will only see 1% of spam.  That's not realistic, because not everyone will get the same spam, but the basic threshold can be adjusted.  At the very least, 30 people need to vote on a given piece of mail to make a realistic decision.  Since there's no no vote mechanism (except revocation--and that's after the fact), only a yes vote mechanism exists and so if you received 30 yes votes then you could safely say that you got a reasonable sample.
 
 The system could pretend to have never seen the piece of mail until after it determined that it was probably spam.  So instead of a rating going up incrementally, it would take a big leap at the beginning (from undefined to a relatively high number) and then go from there.  So after the first group of people (our samplers, we'll say) have seen the spam, no one else would ever see it.
 
@@ -82,7 +82,7 @@ On Wed, 14 Aug 2002, Oates, Isaac wrote:
 > accounting for edge cases in what should otherwise be a generalized
 > algorithm, general performance begins to degrade exponentially.  The
 > thing that razor should have going for it is numbers.  Say that razor
-> has 100,000 people that actively use it (i.e. click the "Spam" button on
+> has 100,000 people that actively use it (i.e. click the Spam button on
 > their mail reader from time to time.)  If we decide that our objective
 > is to screen 99.0% of spam, it means that we can continue to show what
 > appears to be a piece of spam to 1,000 people and still meet our
@@ -126,14 +126,14 @@ individual message.
 > instead of messing with its rating, why not just put
 > it on the whitelist?  If I want that ZDNet mail, and most people think
 > that ZDNet mail is just plain annoying, then why can't I whitelist it,
-> instead of "arguing" with everyone about whether or not it's spam?
+> instead of arguing with everyone about whether or not it's spam?
 
 You always have that ability.
 
 > Correct me if I'm wrong, but it's not as if all mail from ZDNet will be
 > banned in the future-just that one piece.  So if ZDNet were to change
 > its system to make it easier to opt out, or whatever, people would hopefully
->  start unsubscribing instead of clicking the "Spam" button.
+>  start unsubscribing instead of clicking the Spam button.
 
 It's my opinion that it's not my job to unsubscribe to any list that I
 haven't subscribed to, nor is it necessarily in my best interest given
@@ -143,7 +143,7 @@ address.
 
 > The inherent problem here, of course, is that someone can pretend to be
 > 1,000 people and block anything they choose.  But say you still have a
-> lightweight trust system built in, where when they "agree" with the
+> lightweight trust system built in, where when they agree with the
 > majority (though they couldn't have known because razor hadn't
 > acknowledged anything yet) then your trust rating goes up and vice
 > versa.

@@ -37,10 +37,10 @@ WRT hating HTML, possibilities include:
 3. These are multipart/alternative with a text/plain part, but the
    latter doesn't contain the same text as the text/html part (for
    example, as Anthony reported, perhaps the text/plain part just
-   says something like "This is an HMTL message.").
+   says something like This is an HMTL message.).
 
 If it's #2, it would be easy to add an optional bool argument to tokenize()
-meaning "even if it is pure HTML, strip the tags anyway".  In fact, I'd like
+meaning even if it is pure HTML, strip the tags anyway.  In fact, I'd like
 to do that and default it to True.  The extreme hatred of HTML on tech lists
 strikes me as, umm, extreme <wink>.
 

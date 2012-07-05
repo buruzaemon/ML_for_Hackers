@@ -21,7 +21,7 @@ Received: from mail.lig.net (unknown [204.248.145.126]) by xent.com
 Received: from lig.net (unknown [66.95.227.18]) by mail.lig.net (Postfix)
     with ESMTP id DC07968067; Wed,  7 Aug 2002 21:08:22 -0400 (EDT)
 Message-Id: <3D51CFBC.5080705@lig.net>
-From: "Stephen D. Williams" <sdw@lig.net>
+From: Stephen D. Williams <sdw@lig.net>
 User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.0rc2)
     Gecko/20020512 Netscape/7.0b1
 X-Accept-Language: en-us, en

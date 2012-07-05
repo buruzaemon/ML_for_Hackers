@@ -21,15 +21,15 @@ Received: from med-core07.med.wayne.edu ([146.9.19.23]) by
 X-Mimeole: Produced By Microsoft Exchange V6.0.6249.0
 Content-Class: urn:content-classes:message
 MIME-Version: 1.0
-Content-Type: text/plain; charset="US-ASCII"
+Content-Type: text/plain; charset=US-ASCII
 Subject: RE: [Razor-users] What's wrong with the Razor servers now?
 Message-Id: <D79A56AD131896448D0860DEE07CBE1FA7D8@med-core07.med.wayne.edu>
 X-MS-Has-Attach: 
 X-MS-Tnef-Correlator: 
 Thread-Topic: [Razor-users] What's wrong with the Razor servers now?
 Thread-Index: AcI6NTHhdNlotwjiQEiUizLDYaWgngCdP1sAADxyGsA=
-From: "Rose, Bobby" <brose@med.wayne.edu>
-To: "ML-razor-users" <razor-users@example.sourceforge.net>
+From: Rose, Bobby <brose@med.wayne.edu>
+To: ML-razor-users <razor-users@example.sourceforge.net>
 Sender: razor-users-admin@example.sourceforge.net
 Errors-To: razor-users-admin@example.sourceforge.net
 X-Beenthere: razor-users@example.sourceforge.net

@@ -25,7 +25,7 @@ Received: (qmail 61897 messnum 162506 invoked from
 Received: from p468.as1.drogheda1.eircom.net (HELO there)
     (159.134.159.212) by mail01.svc.cra.dublin.eircom.net (qp 61897) with SMTP;
     19 Jul 2002 17:29:51 -0000
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 From: John Gay <johngay@eircom.net>
 To: ilug@linux.ie
 Subject: Re: [ILUG] CVS question?

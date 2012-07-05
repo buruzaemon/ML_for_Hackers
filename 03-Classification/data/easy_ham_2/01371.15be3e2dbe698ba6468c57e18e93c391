@@ -33,7 +33,7 @@ In this issue:
 |   http://use.perl.org/article.pl?sid=02/08/09/174257               |
 +--------------------------------------------------------------------+
 
-[0]gnat writes "We've set up a mailing list for the monthly Perl
+[0]gnat writes We've set up a mailing list for the monthly Perl
 Foundation newsletters, and [1]the July newsletter went out on Thursday.
 If you donated to YAS and The Perl Foundation, you are already subscribed
 at the email address you provided when you donated. If you haven't
@@ -44,7 +44,7 @@ foundation-newsletter-subscribe@perl.org (and also consider [2]donating
 In other newsletter news, we have a [3]French translation of the July
 newsletter on the web site. Thanks to mirod (Michel Rodriguez) for making
 that happen. Translations into other languages are welcome--please
-contact Kevin Meltzer (kevinm AT yetanother.org)."
+contact Kevin Meltzer (kevinm AT yetanother.org).
 
 I *heart* your translations!
 
@@ -64,11 +64,11 @@ Links:
 |   http://use.perl.org/article.pl?sid=02/08/09/2046256              |
 +--------------------------------------------------------------------+
 
-[0]gbarr writes "Since announcing the [1]search beta site a OSCON we have
+[0]gbarr writes Since announcing the [1]search beta site a OSCON we have
 recieved several feedback messages. Some have suggested changes, which we
 appriciate and most will be implemented. But many of the messages were
 just requesting it to become [2]search.cpan.org. So by popular demand the
-switch will happen this weekend." Sweet!
+switch will happen this weekend. Sweet!
 
 Discuss this story at:
     http://use.perl.org/comments.pl?sid=02/08/09/2046256

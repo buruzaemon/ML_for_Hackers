@@ -9,7 +9,7 @@ Message-ID: <LNBBLJKPBEHFEDALKOLCCEAMBDAB.tim.one@comcast.net>
 [Neil Schemenauer]
 > Woops.  I didn't have the summary files so I regenerated them using a
 > slightly different set of data.  Here are the results of enabling the
-> "received" header processing:
+> received header processing:
 >
 >     false positive percentages
 >         0.707  0.530  won    -25.04%

@@ -32,8 +32,8 @@ Received: (from tony@localhost) by hobbit.linuxworks.com.au
 Message-Id: <200209130231.g8D2VO021580@hobbit.linuxworks.com.au.nospam>
 To: exmh-users@spamassassin.taint.org
 From: Tony Nugent <tony@linuxworks.com.au>
-X-Face: ]IrGs{LrofDtGfsrG!As5=G'2HRr2zt:H>djXb5@v|Dr!jOelxzAZ`!}("]}]
-    Q!)1w#X;)nLlb'XhSu,QL>;)L/l06wsI?rv-xy6%Y1e"BUiV%)mU;]f-5<#U6
+X-Face: ]IrGs{LrofDtGfsrG!As5=G'2HRr2zt:H>djXb5@v|Dr!jOelxzAZ`!}(]}]
+    Q!)1w#X;)nLlb'XhSu,QL>;)L/l06wsI?rv-xy6%Y1eBUiV%)mU;]f-5<#U6
     UthZ0QrF7\_p#q}*Cn}jd|XT~7P7ik]Q!2u%aTtvc;)zfH\:3f<[a:)M
 Organization: Linux Works for network
 X-Mailer: nmh-1.0.4 exmh-2.4
@@ -62,7 +62,7 @@ On Tue Sep 10 2002 at 12:52, Robert Elz wrote:
 
 > Subject: Patch to complete a change...
 
-> I guess that most of us don't use "link" very often ... I noticed it
+> I guess that most of us don't use link very often ... I noticed it
 > last week, but only got time to look and see why today.
 
 I would like to use [Link] a lot more, but is it rather

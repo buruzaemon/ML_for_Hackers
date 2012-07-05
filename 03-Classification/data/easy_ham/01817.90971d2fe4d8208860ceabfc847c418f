@@ -32,11 +32,11 @@ In this issue:
 |   http://use.perl.org/article.pl?sid=02/08/29/193225               |
 +--------------------------------------------------------------------+
 
-[0]Morbus Iff writes "The newest release of Apple's operating system, Mac
+[0]Morbus Iff writes The newest release of Apple's operating system, Mac
 OS X v10.2 (Jaguar) comes with perl 5.6.0, surprisingly old for their
 latest offering. In an [1]Internet Developer article, I walk the Mac OS X
 user through installing perl 5.8.0, and as well provide a brief
-introduction to CPAN."
+introduction to CPAN.
 
 Discuss this story at:
     http://use.perl.org/comments.pl?sid=02/08/29/193225

@@ -19,14 +19,14 @@ Received: from hotmail.com (dav28.law15.hotmail.com [64.4.22.85]) by
 Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
     Sat, 21 Sep 2002 12:03:14 -0700
 X-Originating-Ip: [207.202.171.254]
-From: "Mr. FoRK" <fork_list@hotmail.com>
-To: <fork@spamassassin.taint.org>, "R. A. Hettinga" <rah@shipwright.com>
+From: Mr. FoRK <fork_list@hotmail.com>
+To: <fork@spamassassin.taint.org>, R. A. Hettinga <rah@shipwright.com>
 References: <979BE8FE-CCF6-11D6-817E-000393A46DEA@alumni.caltech.edu>
     <DAV72xvjPkQTGpaoG1V00000fd0@hotmail.com>
     <p05111a27b9b1d842c9fe@[66.149.49.6]>
 Subject: Re: sed /s/United States/Roman Empire/g
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal
@@ -50,11 +50,11 @@ Date: Sat, 21 Sep 2002 12:07:57 -0700
 
 
 ----- Original Message -----
-From: "R. A. Hettinga" <rah@shipwright.com>
+From: R. A. Hettinga <rah@shipwright.com>
 >
 >
-> > "Free trade and free markets have proven their ability to lift whole
-> > societies out of poverty"
+> > Free trade and free markets have proven their ability to lift whole
+> > societies out of poverty
 > > I'm not a socio-political/history buff - does anybody have some clear
 > > examples?
 >

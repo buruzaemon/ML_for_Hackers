@@ -15,7 +15,7 @@ Received: from usw-sf-db2-b.sourceforge.net ([10.3.1.4]
     smtp (Exim 3.31-VA-mm2 #1 (Debian)) id 17f141-00043a-00 for
     <zzz@spamassassin.taint.org>; Wed, 14 Aug 2002 09:32:05 -0700
 From: Mailer <noreply@sourceforge.net>
-To: "" <zzz@spamassassin.taint.org>
+To:  <zzz@spamassassin.taint.org>
 Subject: SOURCEFORGE.NET UPDATE: August 14, 2002
 Message-Id: <E17f141-00043a-00@usw-sf-list2.sourceforge.net>
 Date: Wed, 14 Aug 2002 09:32:05 -0700
@@ -180,7 +180,7 @@ http://sourceforge.net/projects/compiere/
 Smart ERP+CRM solution for small-medium enterprises (SME) in the
 global marketplace covering all areas from customer management,
 supply chain and accounting.  For $2-200M revenue companies looking
-for "brick and click" first tier functionality.
+for brick and click first tier functionality.
 
 3 SquirrelMail
 http://sourceforge.net/projects/squirrelmail/
@@ -243,11 +243,11 @@ http://sourceforge.net/top/mostactive.php?type=week
 EMAIL LIST REMOVAL:
 
 When the SF.NET team sends out a site-wide email, we sometimes see
-replies that look like this:  "Hey!! I didn't subscribe to this list!!!
+replies that look like this:  Hey!! I didn't subscribe to this list!!!
 You spammer. I hate you!  I hate your dog!  (insert other colorful
-phrases here)".  The truth is, when you registered on SourceForge.net
-there was a check box that said "Receive Site-wide updates, low
-volume".  You left it checked when you submitted the registration form,
+phrases here).  The truth is, when you registered on SourceForge.net
+there was a check box that said Receive Site-wide updates, low
+volume.  You left it checked when you submitted the registration form,
 hence you are receiving this email.  We send these updates every 4 to 6
 weeks, so it truly is low volume.  However if you want off, this is not
 a problem.  Simply click on the link below.

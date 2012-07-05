@@ -14,7 +14,7 @@ Date: Fri, 13 Sep 2002 19:35:13 +0100
 Received: from ara by saturn.seed.net.tw with SMTP id
     bE3PbLYKPnP0Jc0fou7Psg6bSznj; Sat, 12 Sep 2015 02:39:57 +0800
 Message-Id: <IaJLg76@tpts6.seed.net.tw>
-From: ¤p§d@dogma.slashnull.org
+From: pd@dogma.slashnull.org
 To: 0913.9.TXT@dogma.slashnull.org, 0913.10.TXT@dogma.slashnull.org,
 	0913.11.TXT@dogma.slashnull.org, 0913.12.TXT@dogma.slashnull.org,
 	0913.13.TXT@dogma.slashnull.org, 0913.14.TXT@dogma.slashnull.org,
@@ -27,18 +27,18 @@ MIME-Version: 1.0
 X-Mailer: AbopIANCYUGKLQUL7
 X-Priority: 3
 X-Msmail-Priority: Normal
-Content-Type: multipart/related; type="multipart/alternative"; boundary="----=_NextPart_vXklypZzzDWWhOFZ5e1rZ"
+Content-Type: multipart/related; type=multipart/alternative; boundary=----=_NextPart_vXklypZzzDWWhOFZ5e1rZ
 
 This is a multi-part message in MIME format.
 
 ------=_NextPart_vXklypZzzDWWhOFZ5e1rZ
 Content-Type: multipart/alternative;
-	boundary="----=_NextPart_vXklypZzzDWWhOFZ5e1rZAA"
+	boundary=----=_NextPart_vXklypZzzDWWhOFZ5e1rZAA
 
 
 ------=_NextPart_vXklypZzzDWWhOFZ5e1rZAA
 Content-Type: text/html;
-	charset="big5"
+	charset=big5
 Content-Transfer-Encoding: base64
 
 PGh0bWw+DQoNCjxoZWFkPg0KPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1MYW5ndWFnZSIgY29u

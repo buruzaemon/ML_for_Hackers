@@ -19,12 +19,12 @@ Received: from Boron.MeepZor.Com (i.meepzor.com [204.146.167.214]) by
 Received: from sashimi (dmz-firewall [206.199.198.4]) by Boron.MeepZor.Com
     (8.11.6/8.11.6) with SMTP id g85EfYE13663 for <fork@xent.com>;
     Thu, 5 Sep 2002 10:41:34 -0400
-From: "Bill Stoddard" <bill@wstoddard.com>
-To: "Fork@Xent.Com" <fork@spamassassin.taint.org>
+From: Bill Stoddard <bill@wstoddard.com>
+To: Fork@Xent.Com <fork@spamassassin.taint.org>
 Subject: RE: Re[2]: Java is for kiddies
 Message-Id: <JHEPKCEMGPKFFDHHDDKDOEDHFEAA.bill@wstoddard.com>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: 8bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal
@@ -76,7 +76,7 @@ Date: Thu, 5 Sep 2002 10:40:04 -0400
 > http://www.netli.com/careers/index.htm
 >
 > >* Along with your resume, please answer this question: What does
-> this C statement do? #define XY(s, m) (&((s *)0)->m)
+> this C statement do? #define XY(s, m) (&((s *)0)->m)
 >
 > Besides provide job security?
 

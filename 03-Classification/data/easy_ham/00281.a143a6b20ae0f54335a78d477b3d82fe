@@ -19,7 +19,7 @@ Received: from tgpsolutions.com (dsl-gte-15882-1.linkline.com
 Received: (qmail 32392 invoked for bounce); 8 Oct 2002 22:13:06 -0000
 Received: from unknown (HELO damocles.turtle-rock) (68.5.247.81) by
     dsl-gte-15882-1.linkline.com with SMTP; 8 Oct 2002 22:13:06 -0000
-Subject: xine cannot play DVDs - "liba52: a52_block error"
+Subject: xine cannot play DVDs - liba52: a52_block error
 From: Jon <jon@tgpsolutions.com>
 To: rpm-zzzlist@freshrpms.net
 Content-Type: text/plain

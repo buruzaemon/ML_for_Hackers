@@ -23,10 +23,10 @@ Received: from mordor (mordor.networksonline.com [65.163.204.19]) by
     <spamassassin-talk@lists.sourceforge.net>; Thu, 22 Aug 2002 10:13:48 -0400
     (EDT)
 Message-Id: <001001c249e6$863c4e00$13cca341@networksonline.com>
-From: "NOI Administrator" <admin@networksonline.com>
+From: NOI Administrator <admin@networksonline.com>
 To: <spamassassin-talk@example.sourceforge.net>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal

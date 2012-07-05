@@ -34,11 +34,11 @@ To: exmh-users@spamassassin.taint.org
 Subject: Re: bad focus/click behaviours
 In-Reply-To: <20020915202900.F294C5D04@ptavv.es.net>
 References: <20020915202900.F294C5D04@ptavv.es.net>
-Comments: In-reply-to "Kevin Oberman" <oberman@es.net> message dated "Sun,
-    15 Sep 2002 13:28:59 -0700."
+Comments: In-reply-to Kevin Oberman <oberman@es.net> message dated Sun,
+    15 Sep 2002 13:28:59 -0700.
 From: Brent Welch <welch@panasas.com>
 X-Url: http://www.panasas.com/
-X-Face: "HxE|?EnC9fVMV8f70H83&{fgLE.|FZ^$>@Q(yb#N,Eh~N]e&]=>r5~UnRml1:4EglY{9B+
+X-Face: HxE|?EnC9fVMV8f70H83&{fgLE.|FZ^$>@Q(yb#N,Eh~N]e&]=>r5~UnRml1:4EglY{9B+
     :'wJq$@c_C!l8@<$t,{YUr4K,QJGHSvS~U]H`<+L*x?eGzSk>XH\W:AK\j?@?c1o<k;j'Ei/UL)!*0
     ILwSR)J\bc)gjz!rrGQ2#i*f:M:ydhK}jp4dWQW?;0{,#iWrCV$4~%e/3)$1/D
 X-Loop: exmh-users@spamassassin.taint.org
@@ -59,7 +59,7 @@ List-Archive: <https://listman.spamassassin.taint.org/mailman/private/exmh-users
 Date: Sun, 22 Sep 2002 22:21:49 -0700
 
 
->>>"Kevin Oberman" said:
+>>>Kevin Oberman said:
  > It did for me, but I am not willing to say it is not a tcl/tk issue as
  > other apps seemed to work OK for cut and paste and Tk does its
  > clipboard stuff a bit differently than most toolkits. So I'm not

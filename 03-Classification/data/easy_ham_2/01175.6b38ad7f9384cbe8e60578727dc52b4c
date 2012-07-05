@@ -25,14 +25,14 @@ Received: from ws4-4.us4.outblaze.com (205-158-62-105.outblaze.com
     15:43:11 GMT
 Received: (qmail 19239 invoked by uid 1001); 30 Jul 2002 15:43:11 -0000
 Message-Id: <20020730154311.19238.qmail@linuxmail.org>
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Disposition: inline
 Content-Transfer-Encoding: 7bit
 MIME-Version: 1.0
 X-Mailer: MIME-tools 5.41 (Entity 5.404)
 Received: from [127.0.0.1] by ws4-4.us4.outblaze.com with http for
     kworthington@linuxmail.org; Tue, 30 Jul 2002 10:43:11 -0500
-From: "Kevin Worthington" <kworthington@linuxmail.org>
+From: Kevin Worthington <kworthington@linuxmail.org>
 To: rpm-zzzlist@freshrpms.net
 Subject: Re: building as non-root / newbie question
 X-Originating-Ip: 127.0.0.1

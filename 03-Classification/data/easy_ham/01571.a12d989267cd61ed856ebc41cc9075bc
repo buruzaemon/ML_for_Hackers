@@ -34,8 +34,8 @@ Message-Id: <20020905203817.GX8101@kluge.net>
 References: <001b01c2551a$9c316a30$2801250a@omers.com>
 MIME-Version: 1.0
 Content-Type: multipart/signed; micalg=pgp-sha1;
-    protocol="application/pgp-signature";
-    boundary="4Ycl1UgPPPgGZoSL"
+    protocol=application/pgp-signature;
+    boundary=4Ycl1UgPPPgGZoSL
 Content-Disposition: inline
 In-Reply-To: <001b01c2551a$9c316a30$2801250a@omers.com>
 User-Agent: Mutt/1.4i
@@ -76,17 +76,17 @@ m line
   8343
 
 It looks like you're running via procmail -- what are the permissions
-on procmail?  "Insecure dependency" screams "I'm in taint mode!", which
+on procmail?  Insecure dependency screams I'm in taint mode!, which
 is a typical problem when procmail is setuid/setgid (the permissions
 should be 755).
 
-If this is in fact the problem, an easy solution is to put "DROPPRIVS=3Dyes"
+If this is in fact the problem, an easy solution is to put DROPPRIVS=3Dyes
 in the procmailrc. :)
 
 --=20
 Randomly Generated Tagline:
-"The bus had no heat, blew over in the wind and used the driver's legs
- as its first line of defense in an accident." - Unknown about the VW Bus
+The bus had no heat, blew over in the wind and used the driver's legs
+ as its first line of defense in an accident. - Unknown about the VW Bus
 
 --4Ycl1UgPPPgGZoSL
 Content-Type: application/pgp-signature

@@ -27,12 +27,12 @@ Received: from nanaimo.island.net (IDENT:rogersd@localhost [127.0.0.1]) by
 Received: (from rogersd@localhost) by nanaimo.island.net
     (8.12.4/8.12.4/Submit) id g7TGHjgQ006949; Thu, 29 Aug 2002 09:17:45 -0700
 From: Daniel Rogers <rogersd@nanaimo.island.net>
-To: "Clayton, Nik [IT]" <nik.clayton@citigroup.com>
-Cc: "'spamassassin-talk@example.sourceforge.net'" <spamassassin-talk@example.sourceforge.net>
+To: Clayton, Nik [IT] <nik.clayton@citigroup.com>
+Cc: 'spamassassin-talk@example.sourceforge.net' <spamassassin-talk@example.sourceforge.net>
 Subject: Re: [SAtalk] UPPERCASE_* rules and foreign character sets
 Message-Id: <20020829091745.A6605@nanaimo.island.net>
-Mail-Followup-To: "Clayton, Nik [IT]" <nik.clayton@citigroup.com>,
-	"'spamassassin-talk@lists.sourceforge.net'" <spamassassin-talk@lists.sourceforge.net>
+Mail-Followup-To: Clayton, Nik [IT] <nik.clayton@citigroup.com>,
+	'spamassassin-talk@lists.sourceforge.net' <spamassassin-talk@lists.sourceforge.net>
 References: <F58968066573D4118FC600508BCF7EDA0786128A@exchuk19.eu.ssmb.com>
 MIME-Version: 1.0
 Content-Type: text/plain; charset=us-ascii

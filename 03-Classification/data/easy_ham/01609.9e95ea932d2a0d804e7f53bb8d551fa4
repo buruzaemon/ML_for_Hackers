@@ -28,8 +28,8 @@ Message-Id: <20021003173813.GE2299@darkridge.com>
 References: <016601c26b00$e23f0c70$f2812d40@landshark>
 MIME-Version: 1.0
 Content-Type: multipart/signed; micalg=pgp-sha1;
-    protocol="application/pgp-signature";
-    boundary="ey/N+yb7u/X9mFhi"
+    protocol=application/pgp-signature;
+    boundary=ey/N+yb7u/X9mFhi
 Content-Disposition: inline
 In-Reply-To: <016601c26b00$e23f0c70$f2812d40@landshark>
 User-Agent: Mutt/1.4i

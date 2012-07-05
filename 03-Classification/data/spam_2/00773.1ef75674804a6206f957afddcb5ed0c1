@@ -21,18 +21,18 @@ MIME-Version: 1.0
 X-Mailer: nobGVzTknRlXjDG2G4To7Uoft
 X-Priority: 3
 X-Msmail-Priority: Normal
-Content-Type: multipart/related; type="multipart/alternative"; boundary="----=_NextPart_HAubnVEDr9lCVFKk0"
+Content-Type: multipart/related; type=multipart/alternative; boundary=----=_NextPart_HAubnVEDr9lCVFKk0
 
 This is a multi-part message in MIME format.
 
 ------=_NextPart_HAubnVEDr9lCVFKk0
 Content-Type: multipart/alternative;
-	boundary="----=_NextPart_HAubnVEDr9lCVFKk0AA"
+	boundary=----=_NextPart_HAubnVEDr9lCVFKk0AA
 
 
 ------=_NextPart_HAubnVEDr9lCVFKk0AA
 Content-Type: text/html;
-	charset="big5"
+	charset=big5
 Content-Transfer-Encoding: base64
 
 PGh0bWw+DQoNCjxoZWFkPg0KPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1MYW5ndWFnZSIgY29u
@@ -101,7 +101,7 @@ rLxzp2k8L2E+KTwvZm9udD48L3A+ICAgDQoNCjwvYm9keT4NCg0KPC9odG1sPg==
 
 ------=_NextPart_HAubnVEDr9lCVFKk0
 Content-Type: image/gif;
-	name="../USER/HOMEPAGE/WGIF/BG03.GIF"
+	name=../USER/HOMEPAGE/WGIF/BG03.GIF
 Content-Transfer-Encoding: base64
 Content-ID: <../USER/HOMEPAGE/WGIF/BG03.GIF>
 

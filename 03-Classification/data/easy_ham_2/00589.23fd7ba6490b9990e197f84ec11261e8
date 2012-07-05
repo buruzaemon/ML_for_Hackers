@@ -23,7 +23,7 @@ Received: from med-core07.med.wayne.edu ([146.9.19.23]) by
     09 Aug 2002 06:35:54 -0700
 Content-Class: urn:content-classes:message
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Subject: RE: [Razor-users] What's wrong with the Razor servers now?
 X-Mimeole: Produced By Microsoft Exchange V6.0.6249.0
 Message-Id: <D79A56AD131896448D0860DEE07CBE1FA81E@med-core07.med.wayne.edu>
@@ -31,7 +31,7 @@ X-MS-Has-Attach:
 X-MS-Tnef-Correlator: 
 Thread-Topic: [Razor-users] What's wrong with the Razor servers now?
 Thread-Index: AcI/XKGClT30eIaQTH+SkPSHcjwROAATQXrQ
-From: "Rose, Bobby" <brose@med.wayne.edu>
+From: Rose, Bobby <brose@med.wayne.edu>
 To: <razor-users@example.sourceforge.net>
 Sender: razor-users-admin@example.sourceforge.net
 Errors-To: razor-users-admin@example.sourceforge.net

@@ -36,7 +36,7 @@ Subject: Phone service                                                          
 Date: Sun, 21 Jul 2002 11:23:59 +1000
 MiME-Version: 1.0
 Content-Type: multipart/mixed;
-	boundary="----=_NextPart_000_00D0_65B52D1A.C4816C13"
+	boundary=----=_NextPart_000_00D0_65B52D1A.C4816C13
 X-Priority: 3 (Normal)
 X-MSMail-Priority: Normal
 X-Mailer: Microsoft Outlook Express 6.00.2600.0000
@@ -45,7 +45,7 @@ Sender: owner-cypherpunks@minder.net
 Precedence: bulk
 
 ------=_NextPart_000_00D0_65B52D1A.C4816C13
-Content-Type: text/html; charset="iso-8859-1"
+Content-Type: text/html; charset=iso-8859-1
 Content-Transfer-Encoding: base64
 
 

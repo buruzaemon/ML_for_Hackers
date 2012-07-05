@@ -20,7 +20,7 @@ Received: from chassid ([4.65.20.230]) by out002.verizon.net (InterMail
     vM.5.01.05.09 201-253-122-126-109-20020611) with ESMTP id
     <20021005195843.LSGV2867.out002.verizon.net@chassid> for
     <rpm-list@freshrpms.net>; Sat, 5 Oct 2002 14:58:43 -0500
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 From: Coy Krill <coy.krill@verizon.net>
 To: rpm-zzzlist@freshrpms.net
 Subject: Re: Problem building lame-3.92-fr5.src.rpm on RH8

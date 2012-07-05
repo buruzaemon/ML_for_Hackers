@@ -65,13 +65,13 @@ with different releases, and a 0.62.
 <matthias@egwn.net> wrote:
 
 > Take for instance xmame : I've been packaging 0.61 pre-releases as
-> "0.61-fr0.x" since the entire source has only "0.61" tags everywhere, no
+> 0.61-fr0.x since the entire source has only 0.61 tags everywhere, no
 > preversion tags whatsoever.
 
 
 
                                     -- \m/ --
-  "...if I seem super human I have been misunderstood." (c) Dream Theater
+  ...if I seem super human I have been misunderstood. (c) Dream Theater
          mark@talios.com - ICQ: 1934853 JID: talios@myjabber.net
 
 

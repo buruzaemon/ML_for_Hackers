@@ -21,13 +21,13 @@ Received: from ns1.apexvoice.com ([64.52.111.15]
 Received: from sthomas (64-52-111-64.apexvoice.com [64.52.111.64]) by
     popeye.apexvoice.com (8.12.3/8.12.3) with SMTP id g8OMPrba011319;
     Tue, 24 Sep 2002 15:25:53 -0700
-From: "Steve Thomas" <sthomas@apexvoice.com>
-To: "Cheryl L. Southard" <cld@astro.caltech.edu>,
+From: Steve Thomas <sthomas@apexvoice.com>
+To: Cheryl L. Southard <cld@astro.caltech.edu>,
 	<spamassassin-talk@lists.sourceforge.net>
 Subject: RE: [SAtalk] user_prefs ignored
 Message-Id: <PIEHJPLNKGMNAHJKHLFCCECJCEAA.sthomas@apexvoice.com>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal
@@ -99,17 +99,17 @@ St-
 | with sendmail.  I use spamc/spamd so that it runs site-wide from
 | /etc/procmailrc.
 |
-| spamd is run as root with the flags "-d -a -c", and spamc isn't run with
+| spamd is run as root with the flags -d -a -c, and spamc isn't run with
 | any flags.
 |
 | When I was testing the program, I deployed spamc from my personal
 | ~/.procmailrc file, my ~/.spamassassin/user_prefs file was read each time.
-| I can see this because I have a non-default "required_hits" value which
-| gets reported in every e-mail on the "X-Spam-Status" line.
+| I can see this because I have a non-default required_hits value which
+| gets reported in every e-mail on the X-Spam-Status line.
 |
 | Now that I run spamc from the global /etc/procmailrc file, my
 | ~/.spamassassin/user_prefs file is no longer being read or processed from
-| e-mails from outside computers.  The "required_hits" value gets set back
+| e-mails from outside computers.  The required_hits value gets set back
 | to the one in /etc/mail/spamassassin/local.cf.  However, if I send local
 | e-mail, my user_prefs file is read and processed correctly.
 |

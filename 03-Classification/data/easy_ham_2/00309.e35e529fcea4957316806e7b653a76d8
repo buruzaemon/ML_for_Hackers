@@ -24,7 +24,7 @@ Received: from matrix (localhost [127.0.0.1]) by matrix.netsoc.tcd.ie
     (Postfix) with ESMTP id AE3003445B for <ilug@linux.ie>; Fri,
     9 Aug 2002 09:52:35 +0100 (IST)
 Date: Fri, 9 Aug 2002 09:52:33 +0100
-To: "'ilug@linux.ie'" <ilug@linux.ie>
+To: 'ilug@linux.ie' <ilug@linux.ie>
 Subject: Re: [ILUG] slashdot EW Dijkstra humor
 Message-Id: <20020809095233.A22778@netsoc.tcd.ie>
 References: <55DA5264CE16D41186F600D0B74D6B09247243@KBS01>
@@ -47,9 +47,9 @@ X-Beenthere: ilug@linux.ie
 On Thu, Aug 08, 2002 at 01:40:30PM +0100, Brian O'Donoghue wrote:
 > One thing that really bugs me is when people say things like.
 > 
-> "On the machies we have these days you don't have to worry about
->  writing optimised code" or "don't worry about writing
->  things inline, just use a function"
+> On the machies we have these days you don't have to worry about
+>  writing optimised code or don't worry about writing
+>  things inline, just use a function
 
 Oops, I tend to feel like that most times! I tend to feel that if we
 have extremely good compilation tools, then those tools should be able

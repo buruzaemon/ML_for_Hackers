@@ -26,7 +26,7 @@ Received: From LOCALHOST.LOCALDOMAIN (148.121.170.2[148.121.170.2
 Received: (from noselasd@localhost) by localhost.localdomain
     (8.11.6/8.11.6) id g6MC0nB29804 for rpm-list@freshrpms.net; Mon,
     22 Jul 2002 14:00:49 +0200
-From: "Nils O. Selåsdal" <noselasd@Utel.no>
+From: Nils O. Selåsdal <noselasd@Utel.no>
 Message-Id: <200207221200.g6MC0nB29804@localhost.localdomain>
 To: rpm-zzzlist@freshrpms.net
 Subject: Re: My Repository...
@@ -58,7 +58,7 @@ Date: Mon, 22 Jul 2002 14:00:49 +0200
 > 
 >     This is why I'm so stubborn about using cut-and-paste; not only is it easy, it's typo-free.  :)
 > 
-> Wouldn't it be nice if there was a way to manage these automagically?  Some central site to make them available to the rest of the world, every time there's a "apt-get update"?  :)
+> Wouldn't it be nice if there was a way to manage these automagically?  Some central site to make them available to the rest of the world, every time there's a apt-get update?  :)
 
 it sure would.
 >Also- I noticed this repo has about an 8K bandwidth.

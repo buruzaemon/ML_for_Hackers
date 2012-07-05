@@ -20,13 +20,13 @@ Received: from smtp013.mail.yahoo.com (smtp013.mail.yahoo.com
 Received: from unknown (HELO mfrenchw2k) (mfrench42@62.254.163.42 with
     login) by smtp.mail.vip.sc5.yahoo.com with SMTP; 6 Aug 2002 08:50:10 -0000
 Message-Id: <001501c23d25$c21ba0b0$3864a8c0@sabeo.ie>
-From: "Matthew French" <mfrench42@yahoo.co.uk>
-To: "Declan Houlihan" <deccy@csn.ul.ie>, <ilug@linux.ie>
+From: Matthew French <mfrench42@yahoo.co.uk>
+To: Declan Houlihan <deccy@csn.ul.ie>, <ilug@linux.ie>
 References: <653270E74A8DD31197AF009027AA4F8B01845F1B@LIMXMMF303>
     <20020805224355.GB26632@csn.ul.ie>
 Date: Tue, 6 Aug 2002 09:46:27 +0100
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal
@@ -57,7 +57,7 @@ And you get a working version of your favourite KDE/Gnome desktop instead of
 DTE, uhm, I mean CDE.
 
 > Basically the whole installation procedure is
-> "boot net - install"
+> boot net - install
 
 Well, you have to add the workstation to the install server first.
 

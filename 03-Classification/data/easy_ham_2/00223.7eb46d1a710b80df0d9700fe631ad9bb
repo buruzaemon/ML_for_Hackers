@@ -50,7 +50,7 @@ any are going to give you problems with a specific distribution/version.
 With Dell just check the support.dell.com site, match the system, look for
 downloadable drivers. From these if there aren't any linux drivers you can
 usually find out the chipset of each device. Plug them into google with
-"linux" and see what people have to say about them. Generally speaking when
+linux and see what people have to say about them. Generally speaking when
 you buy the system you'll be told the make/model of each device rather than
 the chipset, so further investigation is necessary.
 

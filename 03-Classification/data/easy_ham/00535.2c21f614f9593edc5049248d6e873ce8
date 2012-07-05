@@ -52,7 +52,7 @@ where C is an experimentally determined coefficient, p is the density of the
 air, and A is the area of the object. These calculations only work if the
 object is blunt and the airflow is turbulent, blah blah blah. Terminal velocity
 for a skydiver actually varies with how the diver holds themselves -- you go
-faster if you pull yourself into a cannonball. That is the "A", for the
+faster if you pull yourself into a cannonball. That is the A, for the
 most part. 
 
 All else being equal, the terminal velocity is inversely proportional to the

@@ -10,7 +10,7 @@ out using my SF username, but I'm unable to write to the repository.  CVS
 complains:
 
     % cvs add unheader.py
-    cvs [server aborted]: "add" requires write access to the repository
+    cvs [server aborted]: add requires write access to the repository
 
 Any thoughts?
 

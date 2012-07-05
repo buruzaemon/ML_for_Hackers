@@ -35,11 +35,11 @@ Cc: exmh-users@spamassassin.taint.org
 Subject: Re: ARRRGHHH Had GPG working, now it doesnt.
 In-Reply-To: <200209021953.g82Jrerq003365@orion.dwf.com>
 References: <200209021953.g82Jrerq003365@orion.dwf.com>
-Comments: In-reply-to Reg Clemens <reg@dwf.com> message dated "Mon, 02 Sep
-    2002 13:53:40 -0600."
+Comments: In-reply-to Reg Clemens <reg@dwf.com> message dated Mon, 02 Sep
+    2002 13:53:40 -0600.
 From: Brent Welch <welch@panasas.com>
 X-Url: http://www.panasas.com/
-X-Face: "HxE|?EnC9fVMV8f70H83&{fgLE.|FZ^$>@Q(yb#N,Eh~N]e&]=>r5~UnRml1:4EglY{9B+
+X-Face: HxE|?EnC9fVMV8f70H83&{fgLE.|FZ^$>@Q(yb#N,Eh~N]e&]=>r5~UnRml1:4EglY{9B+
     :'wJq$@c_C!l8@<$t,{YUr4K,QJGHSvS~U]H`<+L*x?eGzSk>XH\W:AK\j?@?c1o<k;j'Ei/UL)!*0
     ILwSR)J\bc)gjz!rrGQ2#i*f:M:ydhK}jp4dWQW?;0{,#iWrCV$4~%e/3)$1/D
 X-Loop: exmh-users@spamassassin.taint.org
@@ -62,7 +62,7 @@ Date: Mon, 02 Sep 2002 19:01:49 -0700
 2 things - first, the switch parser changed in a subtle way with 8.4 -
 byte-code compilation was added, and it is slightly more strict in
 its parsing than the original parser.  You can only have a comment where
-Tcl would expect to find a command.  Switch has a "pattern - body"
+Tcl would expect to find a command.  Switch has a pattern - body
 strucutre, so if you goof and put a comment where it is trying to find
 a pattern, both of you will be confused with the results.  The
 subtlty arises with extra whitespace and newlines. I can't give you

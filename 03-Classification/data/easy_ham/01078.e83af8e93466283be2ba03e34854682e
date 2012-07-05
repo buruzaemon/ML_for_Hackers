@@ -67,8 +67,8 @@ On Sat, 2002-02-02 at 06:08, Matthias Saou wrote:
 > > E: Sub-process /bin/rpm returned an error code (1)
 > > [root@localhost root]# 
 > 
-> I'd say that the file apt downloaded is corrupted. Maybe trying "apt-get
-> clean" to remove all downloaded files first would solve the problem.
+> I'd say that the file apt downloaded is corrupted. Maybe trying apt-get
+> clean to remove all downloaded files first would solve the problem.
 > 
 > Matthias
 > 

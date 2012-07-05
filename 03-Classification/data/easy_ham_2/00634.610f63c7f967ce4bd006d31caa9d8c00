@@ -29,7 +29,7 @@ To: Patrick <patrick@stealthgeeks.net>
 From: Justin Shore <listuser@neo.pittstate.edu>
 Subject: Re: [Razor-users] Stripping the SpamAssassin report
 Cc: razor-users@example.sourceforge.net
-Content-Type: text/plain; charset="us-ascii" ; format="flowed"
+Content-Type: text/plain; charset=us-ascii ; format=flowed
 Sender: razor-users-admin@example.sourceforge.net
 Errors-To: razor-users-admin@example.sourceforge.net
 X-Beenthere: razor-users@example.sourceforge.net

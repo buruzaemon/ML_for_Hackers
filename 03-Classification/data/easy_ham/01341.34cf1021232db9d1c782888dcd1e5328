@@ -22,12 +22,12 @@ Received: from winxp (lsanca1-ar16-4-46-103-175.lsanca1.dsl-verizon.net
     [4.46.103.175]) (authenticated bits=0) by popeye.apexvoice.com
     (8.12.3/8.12.3) with ESMTP id g7SEjLEE008972 for
     <spamassassin-talk@lists.sourceforge.net>; Wed, 28 Aug 2002 07:45:21 -0700
-From: "Steve Thomas" <sthomas@apexvoice.com>
+From: Steve Thomas <sthomas@apexvoice.com>
 To: <spamassassin-talk@example.sourceforge.net>
 Subject: RE: [SAtalk] Too funny
 Message-Id: <000801c24ea1$8a8023f0$af672e04@winxp>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal

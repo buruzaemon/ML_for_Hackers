@@ -19,12 +19,12 @@ Received: from cats.ucsc.edu (cats-mx1.ucsc.edu [128.114.129.36]) by
 Received: from Tycho (dhcp-60-118.cse.ucsc.edu [128.114.60.118]) by
     cats.ucsc.edu (8.10.1/8.10.1) with SMTP id g6O0g9819409 for
     <FoRK@xent.com>; Tue, 23 Jul 2002 17:42:09 -0700 (PDT)
-From: "Jim Whitehead" <ejw@cse.ucsc.edu>
-To: "FoRK" <FoRK@xent.com>
+From: Jim Whitehead <ejw@cse.ucsc.edu>
+To: FoRK <FoRK@xent.com>
 Subject: SimPastry
 Message-Id: <AMEPKEBLDJJCCDEJHAMIOENGFCAA.ejw@cse.ucsc.edu>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal

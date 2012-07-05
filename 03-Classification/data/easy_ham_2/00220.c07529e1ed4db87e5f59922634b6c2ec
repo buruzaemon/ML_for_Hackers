@@ -30,8 +30,8 @@ Received: from oasis006.msc.ie (oasis006.msc.ie [192.168.125.245]) by
 Received: by oasis006.msc.ie with Internet Mail Service (5.5.2653.19) id
     <PP38BQQV>; Fri, 2 Aug 2002 09:41:53 +0100
 Message-Id: <D0A7D6543169D3119B3E00902789397E044219E7@oasis006.msc.ie>
-From: "Gregory McRandal (ext 722)" <Gregory.McRandal@fineos.com>
-To: "Irish Linux User's Group (E-mail)" <ilug@linux.ie>
+From: Gregory McRandal (ext 722) <Gregory.McRandal@fineos.com>
+To: Irish Linux User's Group (E-mail) <ilug@linux.ie>
 Date: Fri, 2 Aug 2002 09:41:52 +0100
 MIME-Version: 1.0
 X-Mailer: Internet Mail Service (5.5.2653.19)
@@ -52,7 +52,7 @@ soon as the graphics start it bails out.  It complains that there is an
 error in sis_drv.o,  the line before this says that it is starting Quake in
 24 bit depth, now from http://www.winischhofer.net/linuxsis630.shtml I
 understand that the sis630 won't do 24 bit depth.  So is there a way to make
-Quake start up in 16 bit depth?  I've done some "google"ing but drawn a
+Quake start up in 16 bit depth?  I've done some googleing but drawn a
 blank.....
 
 Thanks

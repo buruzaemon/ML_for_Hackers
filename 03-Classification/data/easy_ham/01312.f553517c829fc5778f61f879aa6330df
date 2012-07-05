@@ -25,12 +25,12 @@ MIME-Version: 1.0
 Message-Id: <p04310112b98ad76ff998@[198.248.208.11]>
 In-Reply-To: <B624EDE6-B5F7-11D6-A91E-00039396ECF2@deersoft.com>
 References: <B624EDE6-B5F7-11D6-A91E-00039396ECF2@deersoft.com>
-To: "Craig R.Hughes" <craig@deersoft.com>,
+To: Craig R.Hughes <craig@deersoft.com>,
 	jm@jmason.org (Justin Mason)
 From: Justin Shore <listuser@neo.pittstate.edu>
 Subject: Re: [SAtalk] Highest-scoring false positive
 Cc: SpamAssassin List <spamassassin-talk@example.sourceforge.net>
-Content-Type: text/plain; charset="us-ascii" ; format="flowed"
+Content-Type: text/plain; charset=us-ascii ; format=flowed
 Sender: spamassassin-talk-admin@example.sourceforge.net
 Errors-To: spamassassin-talk-admin@example.sourceforge.net
 X-Beenthere: spamassassin-talk@example.sourceforge.net
@@ -73,7 +73,7 @@ At 10:50 AM -0700 8/22/02, Craig R.Hughes wrote:
 >>
 >>To date, the scores evolved by SpamAssassin are very biased towards
 >>non-HTML, non-newsletter-ish mail.  This release should be different, as
->>I've been spending the last month signing up a "nonspamtrap" to every
+>>I've been spending the last month signing up a nonspamtrap to every
 >>legit newsletter I can find ;)
 >>
 >>This should mean that tests which match common-enough newsletter practices

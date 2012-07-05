@@ -53,7 +53,7 @@ BTW Ken Shan suggested making a set of corpus data publically available,
 so that different classification algos can be tried out.
 
 I'd be happy to do that -- providing the nonspam.log and spam.log files
-from my mass-check output (ie. the "matrix of test results" in Ken's
+from my mass-check output (ie. the matrix of test results in Ken's
 terms).  Along with the default scores, this is the entire input data set
 for the SpamAssassin GA system.
 

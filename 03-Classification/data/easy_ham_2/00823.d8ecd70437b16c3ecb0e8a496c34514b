@@ -22,11 +22,11 @@ Received: from unknown (HELO techdirt) (12.236.16.241) by t2.serverbox.net
 Message-Id: <3.0.32.20020723231125.03bc2cf0@techdirt.com>
 X-Sender: mike@techdirt.com
 X-Mailer: Windows Eudora Pro Version 3.0 (32) -- [Cornell Modified]
-To: "Gordon Mohr" <gojomo@usa.net>, <fork@spamassassin.taint.org>
+To: Gordon Mohr <gojomo@usa.net>, <fork@spamassassin.taint.org>
 From: Mike Masnick <mike@techdirt.com>
-Subject: Re: Mossberg on 'ChoiceMail': "In my tests, it cut my spam to zero."
+Subject: Re: Mossberg on 'ChoiceMail': In my tests, it cut my spam to zero.
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Sender: fork-admin@xent.com
 Errors-To: fork-admin@xent.com
 X-Beenthere: fork@spamassassin.taint.org
@@ -48,7 +48,7 @@ At 10:46 PM 7/23/02 -0700, Gordon Mohr wrote:
 >request passage through your whitelist-based mailwall.
 
 Lately, a fairly large % of the spam I've been getting has been coming from
-spam systems that forge my own address as the "from" address... Those spam
+spam systems that forge my own address as the from address... Those spam
 messages would get through any whitelist I set up (especially since I email
 stuff to myself all the time).  If whitelists become more popular, I
 imagine spammers will resort to doing that for the majority of their spams,

@@ -16,12 +16,12 @@ Received: (from vipul@localhost)
 	Wed, 14 Aug 2002 18:00:16 -0700
 From: Vipul Ved Prakash <mail@vipul.net>
 To: Patrick <patrick@stealthgeeks.net>
-Cc: "Craig R . Hughes" <craig@deersoft.com>, razor-users@example.sourceforge.net
+Cc: Craig R . Hughes <craig@deersoft.com>, razor-users@example.sourceforge.net
 Subject: Re: [Razor-users] Re: What's wrong with the Razor servers now?
 Message-ID: <20020814180016.A24501@rover.vipul.net>
 Reply-To: mail@vipul.net
 Mail-Followup-To: Patrick <patrick@stealthgeeks.net>,
-	"Craig R . Hughes" <craig@deersoft.com>,
+	Craig R . Hughes <craig@deersoft.com>,
 	razor-users@lists.sourceforge.net
 References: <20020812203326.A1211@rover.vipul.net> <20020814141317.Q68104-100000@rockstar.stealthgeeks.net>
 Mime-Version: 1.0
@@ -65,8 +65,8 @@ vipul.
 
 -- 
 
-Vipul Ved Prakash          |   "The future is here, it's just not 
-Software Design Artist     |    widely distributed."
+Vipul Ved Prakash          |   The future is here, it's just not 
+Software Design Artist     |    widely distributed.
 http://vipul.net/          |              -- William Gibson
 
 

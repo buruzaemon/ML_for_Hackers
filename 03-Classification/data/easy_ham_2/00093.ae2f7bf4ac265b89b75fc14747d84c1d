@@ -50,9 +50,9 @@ Brian Foster claiming to think:
 >  but, like the classic techniques, there is no rolling
 >  back of accidental overwrites.
 > 
->  ( rolling back overwrites reminds me of the "snapshot"
+>  ( rolling back overwrites reminds me of the snapshot
 >   facility on NetWork Appliance fileservers.  and of the
->   various "versioning" filesystems which appeared --- and
+>   various versioning filesystems which appeared --- and
 >   then vanished? --- over the years.... )
 > 
 and it's in FreeBSD 5.0-CURRENT AFAIK...

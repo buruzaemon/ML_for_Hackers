@@ -19,13 +19,13 @@ Received: from hotmail.com (oe34.law12.hotmail.com [64.4.18.91]) by
 Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
     Wed, 28 Aug 2002 06:39:56 -0700
 X-Originating-Ip: [66.92.145.79]
-Reply-To: "Bill Kearney" <wkearney99@hotmail.com>
-From: "Bill Kearney" <wkearney99@hotmail.com>
+Reply-To: Bill Kearney <wkearney99@hotmail.com>
+From: Bill Kearney <wkearney99@hotmail.com>
 To: <fork@spamassassin.taint.org>
 References: <20020828132525.19031.23950.Mailman@lair.xent.com>
 Subject: Re: DataPower announces XML-in-silicon
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal
@@ -67,7 +67,7 @@ about 20x bloat.
 What gives you the impression that's what they're doing?  That's not what the
 text says.  It's largely fluff anyway.
 
-> > "Our XG3 execution core converts XML to machine code," said Kelly,
+> > Our XG3 execution core converts XML to machine code, said Kelly,
 > Mmmmmmmmmmm, machine code, never a good idea ;)
 
 Uhhh, fundamentally it's all machine code.  Kelly's comment seems more like

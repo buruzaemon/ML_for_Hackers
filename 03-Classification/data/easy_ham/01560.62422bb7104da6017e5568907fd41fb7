@@ -22,11 +22,11 @@ Received: from Ariel (unverified [198.6.50.33]) by
     gwpmail01.corp.vipmail.com (Vircom SMTPRS 5.3.228) with ESMTP id
     <B0001379876@gwpmail01.corp.vipmail.com> for
     <razor-users@lists.sourceforge.net>; Wed, 4 Sep 2002 11:35:53 -0700
-From: "Bill Sobel" <bsobel@vipmail.com>
+From: Bill Sobel <bsobel@vipmail.com>
 To: <razor-users@example.sourceforge.net>
 Message-Id: <001101c25441$bdcd7000$7099409b@evergreen.local>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal

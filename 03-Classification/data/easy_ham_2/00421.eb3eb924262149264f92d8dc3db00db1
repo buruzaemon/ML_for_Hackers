@@ -20,14 +20,14 @@ X-Authentication-Warning: lugh.tuatha.org: Host oe76.law4.hotmail.com
 Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
     Fri, 16 Aug 2002 05:54:56 -0700
 X-Originating-Ip: [213.121.187.98]
-From: "David Crozier" <davidcrozier@hotmail.com>
-To: "Kenn Humborg" <kenn@bluetree.ie>
+From: David Crozier <davidcrozier@hotmail.com>
+To: Kenn Humborg <kenn@bluetree.ie>
 Cc: <ilug@linux.ie>
 References: <NBBBIGEGHIGMPCNKHCECOEHBEAAA.kenn@bluetree.ie>
 Subject: Re: [ILUG] Autorun CDs
 Date: Fri, 16 Aug 2002 13:52:42 +0100
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal
@@ -47,8 +47,8 @@ was for a windows machine.
 
 
 ----- Original Message -----
-From: "Kenn Humborg" <kenn@bluetree.ie>
-To: "David Crozier" <davidcrozier@hotmail.com>
+From: Kenn Humborg <kenn@bluetree.ie>
+To: David Crozier <davidcrozier@hotmail.com>
 Cc: <ilug@linux.ie>
 Sent: Friday, August 16, 2002 1:51 PM
 Subject: RE: [ILUG] Autorun CDs

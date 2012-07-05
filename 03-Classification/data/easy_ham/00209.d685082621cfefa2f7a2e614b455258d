@@ -23,7 +23,7 @@ Received: from jlooney.jinny.ie (fw.jinny.ie [193.120.171.2]) by
 Received: by jlooney.jinny.ie (Postfix, from userid 500) id B797C9A1;
     Wed, 28 Aug 2002 09:11:21 +0100 (IST)
 Date: Wed, 28 Aug 2002 09:11:21 +0100
-From: "John P. Looney" <valen@tuatha.org>
+From: John P. Looney <valen@tuatha.org>
 To: ilug@linux.ie
 Subject: Re: [ILUG] Using Normal IDE Device with a Dell Latitude CPx laptop
 Message-Id: <20020828081121.GI1696@jinny.ie>
@@ -46,13 +46,13 @@ List-Id: Irish Linux Users' Group <ilug.linux.ie>
 X-Beenthere: ilug@linux.ie
 
 On Tue, Aug 27, 2002 at 11:38:00PM +0100, Vincent Cunniffe mentioned:
-> There is absolutely no way to use a conventional 3.5" drive with a
+> There is absolutely no way to use a conventional 3.5 drive with a
 > laptop directly. However, you can get an external firewire or USB
-> cradle and attach it to the laptop like that, and any 3.5" drive
+> cradle and attach it to the laptop like that, and any 3.5 drive
 > will work in that case.
 
  Ah, they told me that about my A1200. Just got a video box, cut air holes
-and a hole for the cables, then got an extra-long 2.5" to 3.5" IDE cable,
+and a hole for the cables, then got an extra-long 2.5 to 3.5 IDE cable,
 and connected it up. Had to make a few holes in the A1200 case for the
 IDE cable too.
 

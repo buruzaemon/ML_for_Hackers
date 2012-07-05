@@ -56,7 +56,7 @@ Hi.
 
 Matthias Saou <matthias@egwn.net> wrote:
 > My main concern is that when rebuilding the recent packages I've made
-> for Psyche on Valhalla, I'd need to lower the "Release:" tag (to keep an
+> for Psyche on Valhalla, I'd need to lower the Release: tag (to keep an
 > upgrade working), and that would f*ck up my CVS repository which is on
 > my Valhalla box
 

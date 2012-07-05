@@ -26,7 +26,7 @@ Received: From LOCALHOST.LOCALDOMAIN (148.121.170.2[148.121.170.2
 Received: (from noselasd@localhost) by localhost.localdomain
     (8.11.6/8.11.6) id g6M7gIe29136 for rpm-list@freshrpms.net; Mon,
     22 Jul 2002 09:42:18 +0200
-From: "Nils O. Selåsdal" <noselasd@Utel.no>
+From: Nils O. Selåsdal <noselasd@Utel.no>
 Message-Id: <200207220742.g6M7gIe29136@localhost.localdomain>
 To: rpm-zzzlist@freshrpms.net
 Subject: My Repository...

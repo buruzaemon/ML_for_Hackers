@@ -20,12 +20,12 @@ Received: (qmail 15673 invoked from network); 23 Sep 2002 22:22:40 -0000
 Received: from dsl.206.191.151.102.evergo.net (HELO JMHALL)
     (206.191.151.102) by mail.evergo.net with SMTP; 23 Sep 2002 22:22:40 -0000
 Reply-To: <johnhall@evergo.net>
-From: "John Hall" <johnhall@evergo.net>
-To: "FoRK" <fork@spamassassin.taint.org>
+From: John Hall <johnhall@evergo.net>
+To: FoRK <fork@spamassassin.taint.org>
 Subject: RE: Re[2]: Goodbye Global Warming
 Message-Id: <001a01c2634f$bb54d3a0$0200a8c0@JMHALL>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal

@@ -49,7 +49,7 @@ X-Beenthere: ilug@linux.ie
 On Fri, Jul 26, 2002 at 11:24:30PM +0100, John Gay wrote:
 > A while ago I asked what other packages I should optomize for Pentium. One 
 > person answered GlibC. This got me thinking about GCC itself, so I asked on 
-> another list and got a few answers, most were "don't even think about it" but 
+> another list and got a few answers, most were don't even think about it but 
 > a few suggested GCC and one pointed me to Linux From Scratch.
 
 why?

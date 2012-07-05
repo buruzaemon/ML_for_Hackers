@@ -34,7 +34,7 @@ X-Mailer: exmh version 2.5 07/13/2001 with nmh-1.0.4
 In-Reply-To: <200209130231.g8D2VO021580@hobbit.linuxworks.com.au.nospam>
 References: <200209130231.g8D2VO021580@hobbit.linuxworks.com.au.nospam>
 Comments: In-reply-to Tony Nugent <tony@linuxworks.com.au> message dated
-    "Fri, 13 Sep 2002 12:31:24 +1000."
+    Fri, 13 Sep 2002 12:31:24 +1000.
 To: Tony Nugent <tony@linuxworks.com.au>
 Cc: exmh-users@spamassassin.taint.org
 Subject: Re: Linking message [was: Re: Patch to complete a change...]
@@ -62,7 +62,7 @@ Date: Thu, 12 Sep 2002 23:26:33 -0500
 
 
 
->>>>> On Fri, 13 Sep 2002, "Tony" == Tony Nugent wrote:
+>>>>> On Fri, 13 Sep 2002, Tony == Tony Nugent wrote:
 
   Tony> (In essence: is there a way to mark a destination folder
   Tony> for a message link or move without actually doing a move
@@ -70,14 +70,14 @@ Date: Thu, 12 Sep 2002 23:26:33 -0500
 
 1) Right click on the folder label in the folder list
 
-2) In the main window, the "+" key puts you into a "change 
-   folder" mode (the first time you use it after starting exmh),
-   hit a second + and you go to "set a target" mode.  Type a few
+2) In the main window, the + key puts you into a change 
+   folder mode (the first time you use it after starting exmh),
+   hit a second + and you go to set a target mode.  Type a few
    characters of the folder name and hit space for autocomplete.
 
 --Hal
 
-How's spring shaping up "down under"?
+How's spring shaping up down under?
 
 
 

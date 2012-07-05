@@ -20,7 +20,7 @@ Received: (qmail 13138 invoked from network); 1 Oct 2002 02:02:59 -0000
 Received: from unknown (HELO there) ([216.212.1.217]) (envelope-sender
     <signa@birch.net>) by mailserver.birch.net (qmail-ldap-1.03) with SMTP for
     <fork@xent.com>; 1 Oct 2002 02:02:59 -0000
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 From: Steve Nordquist <signa@birch.net>
 To: fork@spamassassin.taint.org
 Subject: Re: EBusiness Webforms: cluetrain has left the station
@@ -49,12 +49,12 @@ X-MIME-Autoconverted: from quoted-printable to 8bit by dogma.slashnull.org
 On Saturday 28 September 2002 04:37 pm, you struggled free to say:
 &> > Although it's like a total shock to 99.999% (5nines) of all the
 &> > employed website designers out there, the truth is webforms /can/
-&> > accept "U.S. of A" as a country.  Incredible, but true.  Web forms can
+&> > accept U.S. of A as a country.  Incredible, but true.  Web forms can
 &> > also accept /multiple/ or even /free-form/ telephone numbers and can
 &> > even be partitioned into manageable steps. All this can also be done
 &> > without selling exclusive rights to your wallet to the World's
 &> > Second-Richest Corporation (assuming Cisco is still #1) and vendor
-&> > locking your business into their "small transaction fee" tithe.
+&> > locking your business into their small transaction fee tithe.
 
 Think of all the people and places that would not get unsolicited mail
 if we hadn't invented them.  Though perhaps ordering a free Enron mug

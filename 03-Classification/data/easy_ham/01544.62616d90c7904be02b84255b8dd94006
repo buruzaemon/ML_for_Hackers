@@ -32,7 +32,7 @@ To: Craig Hughes <craig@deersoft.com>
 Cc: spamassassin-talk@example.sourceforge.net
 Subject: Re: [SAtalk] Re: fully-public corpus of mail available
 In-Reply-To: Message from Craig Hughes <craig@deersoft.com> of
-    "Wed, 09 Oct 2002 08:37:09 PDT."
+    Wed, 09 Oct 2002 08:37:09 PDT.
     <F91994C4-DB9C-11D6-8933-00039396ECF2@deersoft.com>
 From: yyyy@spamassassin.taint.org (Justin Mason)
 X-GPG-Key-Fingerprint: 0A48 2D8B 0B52 A87D 0E8A  6ADD 4137 1B50 6E58 EF0A
@@ -67,7 +67,7 @@ Craig Hughes said:
 
 > >   - All headers are reproduced in full.  Some address obfuscation has
 > >   taken place; hostnames in some cases have been replaced with
-> >   "spamassassin.taint.org", which should have a valid MX record (if I recall
+> >   spamassassin.taint.org, which should have a valid MX record (if I recall
 > >   correctly).  In > most cases though, the headers appear as they were
 > >   received.
 > 

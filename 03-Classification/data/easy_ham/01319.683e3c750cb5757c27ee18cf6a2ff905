@@ -27,7 +27,7 @@ X-Sender: lceglia@pop.terenet.com.br
 Message-Id: <p05100307b98c296c91aa@[200.255.3.123]>
 To: spamassassin-talk@example.sourceforge.net
 From: Luiz Felipe Ceglia <lceglia@terenet.com.br>
-Content-Type: text/plain; charset="us-ascii" ; format="flowed"
+Content-Type: text/plain; charset=us-ascii ; format=flowed
 Subject: [SAtalk] help with postfix + spamassassin
 Sender: spamassassin-talk-admin@example.sourceforge.net
 Errors-To: spamassassin-talk-admin@example.sourceforge.net
@@ -55,7 +55,7 @@ applying it to the wole site.
 I configured just as in the INSTALL file:
 
 	5. Create a .forward...
-	"|IFS=' ' && exec /usr/bin/procmail -f- || exit 75 #user"
+	|IFS=' ' && exec /usr/bin/procmail -f- || exit 75 #user
 	6. create a .procmailrc
 	:0fw
 	| /usr/bin/spamassassin -c 

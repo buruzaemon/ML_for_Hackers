@@ -23,7 +23,7 @@ Received: from enterprise.wasptech.com (mail.wasptech.com [217.75.2.106])
 X-Mimeole: Produced By Microsoft Exchange V6.0.5762.3
 Content-Class: urn:content-classes:message
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Subject: RE: [ILUG] Sun Solaris..
 Date: Thu, 22 Aug 2002 17:13:01 +0100
 Message-Id: <45130FBE2F203649A4BABDB848A9C9D00E9C8A@enterprise.wasptech.com>
@@ -31,8 +31,8 @@ X-MS-Has-Attach:
 X-MS-Tnef-Correlator: 
 Thread-Topic: [ILUG] Sun Solaris..
 Thread-Index: AcJJ9p29v19nVAypRv25aSssWGeNQAAABtrw
-From: "Fergal Moran" <fergal.moran@wasptech.com>
-To: "Kiall Mac Innes" <kiall@redpie.com>, "ILUG" <ilug@linux.ie>
+From: Fergal Moran <fergal.moran@wasptech.com>
+To: Kiall Mac Innes <kiall@redpie.com>, ILUG <ilug@linux.ie>
 Content-Transfer-Encoding: 8bit
 X-MIME-Autoconverted: from quoted-printable to 8bit by lugh.tuatha.org id
     RAA09917

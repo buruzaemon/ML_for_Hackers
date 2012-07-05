@@ -26,7 +26,7 @@ Received: from 194.125.173.10 (SquirrelMail authenticated user yyyymail) by
     jmason.org with HTTP; Thu, 29 Aug 2002 00:34:17 +0100 (IST)
 Message-Id: <32978.194.125.173.10.1030577657.squirrel@spamassassin.taint.org>
 Subject: Re: [SAdev] 2.40: ready for release?
-From: "Justin Mason" <yyyy@spamassassin.taint.org>
+From: Justin Mason <yyyy@spamassassin.taint.org>
 To: felicity@kluge.net
 In-Reply-To: <20020828230545.GB6877@kluge.net>
 References: <20020828230545.GB6877@kluge.net>
@@ -52,8 +52,8 @@ X-Original-Date: Thu, 29 Aug 2002 00:34:17 +0100 (IST)
 Date: Thu, 29 Aug 2002 00:34:17 +0100 (IST)
 
 
-> t/db_based_whitelist.Use of bare << to mean <<"" is deprecated at
-> ../lib/Mail/SpamAssassin/HTML.pm line 1. Use of bare << to mean <<"" is
+> t/db_based_whitelist.Use of bare << to mean << is deprecated at
+> ../lib/Mail/SpamAssassin/HTML.pm line 1. Use of bare << to mean << is
 > deprecated at ../lib/Mail/SpamAssassin/HTML.pm line 6. Unquoted string
 
 hmm, could you check your installation?  those chars aren't in my

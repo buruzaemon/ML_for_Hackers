@@ -59,18 +59,18 @@ Peter
 
 On Thu, 2002-09-19 at 23:28, Angles Puglisi wrote:
 > Matthias Saou (matthias@rpmforge.net) wrote*:
-> >- I've rebuilt a new "alsaplayer" package based on Angle's one.
+> >- I've rebuilt a new alsaplayer package based on Angle's one.
 > 
 > Cool, one less package to maintain :)
 > 
 > One interesting thing about alsaplayer is that RedHat's XMMS package in RH8 will
-> probably not play mp3 files. But alsaplayer does play mp3s "out of the box".
+> probably not play mp3 files. But alsaplayer does play mp3s out of the box.
 > 
 > Also, they are developing rapidly in their CVS and looks like their next version
 > of alsaplaer will be pretty cool, but I have no idea when it will be ready.
 > 
 > --
-> That's "angle" as in geometry.
+> That's angle as in geometry.
 > 
 > 
 > 

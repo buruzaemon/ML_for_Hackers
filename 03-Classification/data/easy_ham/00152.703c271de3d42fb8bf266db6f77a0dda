@@ -25,7 +25,7 @@ Received: from docaoimh.tradesignals.com (localhost.localdomain
 Received: from localhost (localhost [[UNIX: localhost]]) by
     docaoimh.tradesignals.com (8.12.5/8.12.5/Submit) id g98AgdeN002390;
     Tue, 8 Oct 2002 11:42:39 +0100
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 From: Donncha O Caoimh <donncha.ocaoimh@tradesignals.com>
 To: <aj.mckee@nmtbmedia.com>, <webdev@linux.ie>
 Subject: Re: [Webdev] mod_usertrack
@@ -52,7 +52,7 @@ Content-Transfer-Encoding: 8bit
 X-MIME-Autoconverted: from quoted-printable to 8bit by dogma.slashnull.org
     id g98AjNK11667
 
-Thanks for the info AJ, I found "weblog" at 
+Thanks for the info AJ, I found weblog at 
 http://awsd.com/scripts/weblog/index.shtml which has some click-path 
 reporting. It's simple, but works. Report generation takes a bit though, even 
 with dns resolution turned off..

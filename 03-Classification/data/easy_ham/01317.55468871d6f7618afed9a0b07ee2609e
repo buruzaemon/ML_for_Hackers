@@ -30,7 +30,7 @@ Content-Type: text/plain; charset=US-ASCII; format=flowed
 MIME-Version: 1.0 (Apple Message framework v482)
 Cc: SAtalk <spamassassin-talk@example.sourceforge.net>
 To: yyyy@spamassassin.taint.org (Justin Mason)
-From: "Craig R.Hughes" <craig@deersoft.com>
+From: Craig R.Hughes <craig@deersoft.com>
 In-Reply-To: <20020822163653.7246343F99@phobos.labs.netnoteinc.com>
 Message-Id: <62593AC6-B5FB-11D6-A91E-00039396ECF2@deersoft.com>
 Content-Transfer-Encoding: 7bit
@@ -55,11 +55,11 @@ Date: Thu, 22 Aug 2002 11:17:14 -0700
 On Thursday, August 22, 2002, at 09:36  AM, Justin Mason wrote:
 
 >
-> "Craig R.Hughes" said:
+> Craig R.Hughes said:
 >
 >> I thought we'd sort of decided that after 2.40 we'd switch the
->> meaning of the "lang" prefix to actually mean "run these rules
->> if language matches", where "language" is what TextCat spits out
+>> meaning of the lang prefix to actually mean run these rules
+>> if language matches, where language is what TextCat spits out
 >> for a message, as opposed to using the locale which is how
 >> things currently work.
 >

@@ -30,7 +30,7 @@ Received: from msquadrat by usw-pr-cvs1.sourceforge.net with local (Exim
     -0700
 To: spamassassin-commits@example.sourceforge.net
 Message-Id: <E17jch9-00063J-00@usw-pr-cvs1.sourceforge.net>
-From: "Malte S. Stretz" <msquadrat@users.sourceforge.net>
+From: Malte S. Stretz <msquadrat@users.sourceforge.net>
 Subject: [SACVS] CVS: spamassassin/debian spamassassin.README.Debian,1.1,1.2
 Sender: spamassassin-commits-admin@example.sourceforge.net
 Errors-To: spamassassin-commits-admin@example.sourceforge.net

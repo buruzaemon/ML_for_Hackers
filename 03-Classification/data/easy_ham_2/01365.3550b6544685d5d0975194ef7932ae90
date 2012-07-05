@@ -24,12 +24,12 @@ Received: from [216.40.247.31] (helo=host.yrex.com) by
 Received: (qmail 17893 invoked from network); 9 Aug 2002 04:56:44 -0000
 Received: from mgm.dsl.xmission.com (HELO opus) (204.228.152.186) by
     216.40.247.31 with SMTP; 9 Aug 2002 04:56:44 -0000
-From: "Michael Moncur" <mgm@starlingtech.com>
+From: Michael Moncur <mgm@starlingtech.com>
 To: <spamassassin-talk@example.sourceforge.net>
 Subject: RE: [SAtalk] How'd this one slip through?
 Message-Id: <NEBBKLEDELIODOCJHLPCMEJMMOAA.mgm@starlingtech.com>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="US-ASCII"
+Content-Type: text/plain; charset=US-ASCII
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal
@@ -67,7 +67,7 @@ it's spam.
 
 --
 Michael Moncur  mgm at starlingtech.com  http://www.starlingtech.com/
-"Mustard's no good without roast beef." --Chico Marx
+Mustard's no good without roast beef. --Chico Marx
 
 
 

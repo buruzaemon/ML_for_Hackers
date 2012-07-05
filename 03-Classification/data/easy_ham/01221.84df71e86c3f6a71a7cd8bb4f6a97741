@@ -52,7 +52,7 @@ Hi,
 
 This has been hashed over a few times on various lists, now I finally got 
 around to doing something about it... You can now add
-"rpm http://koti.welho.com/pmatilai/ redhat/8.0 task" to your sources.list 
+rpm http://koti.welho.com/pmatilai/ redhat/8.0 task to your sources.list 
 and after apt-get update you can find out what's available with 
 'apt-cache search ^task-'
 

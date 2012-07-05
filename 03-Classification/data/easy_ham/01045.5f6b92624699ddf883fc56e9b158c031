@@ -40,7 +40,7 @@ References: <20020828004215.4bca2588.matthias@rpmforge.net>
     <20020829000606.5906404a.matthias@egwn.net>
     <1030574318.1651.30.camel@bobcat.ods.org>
     <20020829005025.160073af.matthias@egwn.net>
-Content-Type: multipart/mixed; boundary="------------090303060407010605030507"
+Content-Type: multipart/mixed; boundary=------------090303060407010605030507
 X-Mailscanner: Found to be clean, Found to be clean
 Sender: rpm-zzzlist-admin@freshrpms.net
 Errors-To: rpm-zzzlist-admin@freshrpms.net
@@ -71,7 +71,7 @@ Matthias Saou wrote:
  > fixed in the current packages.
  >
  > Oh, it's maybe also worth pointing out : I've implemented at last sorting
- > by both last change date and alphabetically for my "build list" in the php
+ > by both last change date and alphabetically for my build list in the php
  > code : http://freshrpms.net/builds/
  >
  > And yes, I accept patches/comments/suggestions about all those spec files!
@@ -87,7 +87,7 @@ build time if one wishes to, so is's possible to do a
 is not supported :( yet, and I'm too lazy to recompile the kernel :)).
 
 Also, having the kernel compiled by me, I have no kernel-source package
-installed.  I've added a flag "kernsrc", that also can be used
+installed.  I've added a flag kernsrc, that also can be used
 --without, to remove the dependency for kernel-source at build time.  It
 would be nice to check the correct kernel include files actually exist
 (/lib/modules/`uname -r`/build/include/linux/*.h), though; however, I'm
@@ -176,10 +176,10 @@ Oh, and I think I've forgot to mention, I'm running beta-null :).
 
 --------------090303060407010605030507
 Content-Type: text/plain;
- name="alsa-driver.spec.patch"
+ name=alsa-driver.spec.patch
 Content-Transfer-Encoding: 7bit
 Content-Disposition: inline;
- filename="alsa-driver.spec.patch"
+ filename=alsa-driver.spec.patch
 
 6a7,17
 >

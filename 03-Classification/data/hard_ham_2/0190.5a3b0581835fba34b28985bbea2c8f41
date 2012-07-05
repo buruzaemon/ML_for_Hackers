@@ -58,7 +58,7 @@ X-UID: 19
 
 <!-- Executing: CssStyles_GetAllStylesByPaperID 101 -->
 
-<style type="text/css">
+<style type=text/css>
     .articleBody  {
       font-family:verdana, arial, helvetica;
       font-size:13px;
@@ -619,19 +619,19 @@ X-UID: 19
 </head>
 
 <body>
-<DIV align="center">To unsubscribe, use the link at foot of this page.<BR><a href="http://www.berkshireeagle.com"><img src="http://63.147.65.2/images/eagle1.gif" width="299" height="34" border="0" alt="Berkshire Eagle Home Page"></a></DIV>
+<DIV align=center>To unsubscribe, use the link at foot of this page.<BR><a href=http://www.berkshireeagle.com><img src=http://63.147.65.2/images/eagle1.gif width=299 height=34 border=0 alt=Berkshire Eagle Home Page></a></DIV>
 
-<DIV align="center"><table border="0" width="98%"
-cellpadding="5" cellspacing="5"><tr valign=top><td
-align="center"><a href="http://www.landmark-cu.com"><img
-src="http://63.147.65.2/images/landmarkcu.jpg"
-border="0" width=456 height=48  alt="Landmark Credit
-Union"></a></td></tr></table></DIV>
+<DIV align=center><table border=0 width=98%
+cellpadding=5 cellspacing=5><tr valign=top><td
+align=center><a href=http://www.landmark-cu.com><img
+src=http://63.147.65.2/images/landmarkcu.jpg
+border=0 width=456 height=48  alt=Landmark Credit
+Union></a></td></tr></table></DIV>
 
 <table align=center width=460><tr><td>
 
 
-			<table align="right" valign="top" width="120">
+			<table align=right valign=top width=120>
 			<tr>
 				<td>
 					<!-- BEGIN BREAKING-NEWS BOX --><a class='breakNewsBox'><table cellspacing='2' cellpadding='2'><tr><td class='breakNewsHead'>Breaking News</td></tr><tr><td><a class='breakNewsSection' href='http://www.berkshireeagle.com/Stories/0,1413,101%257E6282%257E,00.html'>Local Headlines</a></td></tr><tr><td><span class='breakNewsDot'>&#149;&nbsp;</span><a class='breakNewsLink' href='http://www.berkshireeagle.com/Stories/0,1413,101%257E6282%257E833793,00.html'>Car with young driver said to swerve near police cruiser</a><br><span class='breakNewsDot'>&#149;&nbsp;</span><a class='breakNewsLink' href='http://www.berkshireeagle.com/Stories/0,1413,101%257E6282%257E833795,00.html'>Foundation wins grant to plan rink</a><br><span class='breakNewsDot'>&#149;&nbsp;</span><a class='breakNewsLink' href='http://www.berkshireeagle.com/Stories/0,1413,101%257E6282%257E833794,00.html'>Illustrator writes a book on bridge</a><br></td></tr><tr><td><a class='breakNewsSection' href='http://www.berkshire
@@ -647,12 +647,12 @@ agle.com/Stories/0,1413,101%257E6295%257E,00.html'>Sports Headlines</a></td></tr
 	<!-- // Hide from older browsers
 	function openEnlarged(url, width, height) 
 	{
-		wid = window.open(url, "EnlargedImage", "toolbar=no,status=yes,directories=no,location=no,scrollbars=yes,width="+ width +",height="+ height +",resizable=yes");
+		wid = window.open(url, EnlargedImage, toolbar=no,status=yes,directories=no,location=no,scrollbars=yes,width=+ width +,height=+ height +,resizable=yes);
 		wid.focus();
 	}
 
 	function showVideo(url, width, height) {
-		wid = window.open(url + '?path=', "EnlargedImage", "toolbar=no,status=yes,directories=no,location=no,scrollbars=yes,width="+ width +",height="+ height +",resizable=yes");
+		wid = window.open(url + '?path=', EnlargedImage, toolbar=no,status=yes,directories=no,location=no,scrollbars=yes,width=+ width +,height=+ height +,resizable=yes);
 		wid.focus();
 	}
 	
@@ -663,12 +663,12 @@ agle.com/Stories/0,1413,101%257E6295%257E,00.html'>Sports Headlines</a></td></tr
 	<!-- // Hide from older browsers
 	function openEnlarged(url, width, height) 
 	{
-		wid = window.open(url, "EnlargedImage", "toolbar=no,status=yes,directories=no,location=no,scrollbars=yes,width="+ width +",height="+ height +",resizable=yes");
+		wid = window.open(url, EnlargedImage, toolbar=no,status=yes,directories=no,location=no,scrollbars=yes,width=+ width +,height=+ height +,resizable=yes);
 		wid.focus();
 	}
 
 	function showVideo(url, width, height) {
-		wid = window.open(url + '?path=', "EnlargedImage", "toolbar=no,status=yes,directories=no,location=no,scrollbars=yes,width="+ width +",height="+ height +",resizable=yes");
+		wid = window.open(url + '?path=', EnlargedImage, toolbar=no,status=yes,directories=no,location=no,scrollbars=yes,width=+ width +,height=+ height +,resizable=yes);
 		wid.focus();
 	}
 	
@@ -679,12 +679,12 @@ agle.com/Stories/0,1413,101%257E6295%257E,00.html'>Sports Headlines</a></td></tr
 	<!-- // Hide from older browsers
 	function openEnlarged(url, width, height) 
 	{
-		wid = window.open(url, "EnlargedImage", "toolbar=no,status=yes,directories=no,location=no,scrollbars=yes,width="+ width +",height="+ height +",resizable=yes");
+		wid = window.open(url, EnlargedImage, toolbar=no,status=yes,directories=no,location=no,scrollbars=yes,width=+ width +,height=+ height +,resizable=yes);
 		wid.focus();
 	}
 
 	function showVideo(url, width, height) {
-		wid = window.open(url + '?path=', "EnlargedImage", "toolbar=no,status=yes,directories=no,location=no,scrollbars=yes,width="+ width +",height="+ height +",resizable=yes");
+		wid = window.open(url + '?path=', EnlargedImage, toolbar=no,status=yes,directories=no,location=no,scrollbars=yes,width=+ width +,height=+ height +,resizable=yes);
 		wid.focus();
 	}
 	
@@ -695,12 +695,12 @@ agle.com/Stories/0,1413,101%257E6295%257E,00.html'>Sports Headlines</a></td></tr
 	<!-- // Hide from older browsers
 	function openEnlarged(url, width, height) 
 	{
-		wid = window.open(url, "EnlargedImage", "toolbar=no,status=yes,directories=no,location=no,scrollbars=yes,width="+ width +",height="+ height +",resizable=yes");
+		wid = window.open(url, EnlargedImage, toolbar=no,status=yes,directories=no,location=no,scrollbars=yes,width=+ width +,height=+ height +,resizable=yes);
 		wid.focus();
 	}
 
 	function showVideo(url, width, height) {
-		wid = window.open(url + '?path=', "EnlargedImage", "toolbar=no,status=yes,directories=no,location=no,scrollbars=yes,width="+ width +",height="+ height +",resizable=yes");
+		wid = window.open(url + '?path=', EnlargedImage, toolbar=no,status=yes,directories=no,location=no,scrollbars=yes,width=+ width +,height=+ height +,resizable=yes);
 		wid.focus();
 	}
 	
@@ -708,59 +708,59 @@ agle.com/Stories/0,1413,101%257E6295%257E,00.html'>Sports Headlines</a></td></tr
 </SCRIPT>
 <a href='http://www.berkshireeagle.com/Stories/0,1413,101%257E6267%257E833790,00.html' class='homeArticleTitle'>Emily Post evolves</a><br><span class='homeArticleBlurb'>The New York Times announcement last month that the paper will add same-sex unions to its wedding announcements provides a nice boost to the cause of gay rights. The Times, however, is only acknowledging a healthy social phenomenon that's been building fo... </span><a href='http://www.berkshireeagle.com/Stories/0,1413,101%257E6267%257E833790,00.html'  class='homeArticleLinkText'>More</a><br clear='left'/><br>
 			<p>
-			<table cellspacing="1" cellpadding="4" border="0" align="center">
+			<table cellspacing=1 cellpadding=4 border=0 align=center>
 <tr>
-<td colspan="4" height="30"> </td>
+<td colspan=4 height=30></td>
 </tr>
 		<tr>
-		    <td colspan="2" class="pageBottomTitle">Special Sections</td>
-		    <td colspan="2" class="pageBottomTitle">Entertainment</td>
+		    <td colspan=2 class=pageBottomTitle>Special Sections</td>
+		    <td colspan=2 class=pageBottomTitle>Entertainment</td>
 		</tr>
 		<tr>
-		    <td valign="top">
-		    		<a href="http://63.147.65.2/antiques" class="pageBottomLinks">Antiques Guide</a><br>
-				<a href="http://63.147.65.2/showcase" class="pageBottomLinks">Auto Showcase</a><br>
-				<a href="http://63.147.65.2/chamber" class="pageBottomLinks">Berkshire</a><br>
-				<a href="http://63.147.65.2/chamber" class="pageBottomLinks">Business</a><br>
-				<a href="http://www.berkshiresweek.com/" class="pageBottomLinks">Berkshires Week</a><br>
+		    <td valign=top>
+		    		<a href=http://63.147.65.2/antiques class=pageBottomLinks>Antiques Guide</a><br>
+				<a href=http://63.147.65.2/showcase class=pageBottomLinks>Auto Showcase</a><br>
+				<a href=http://63.147.65.2/chamber class=pageBottomLinks>Berkshire</a><br>
+				<a href=http://63.147.65.2/chamber class=pageBottomLinks>Business</a><br>
+				<a href=http://www.berkshiresweek.com/ class=pageBottomLinks>Berkshires Week</a><br>
 
-<a href="http://63.147.65.2/berkshires2030" class="pageBottomLinks">Berkshires 2030</a><br>
-				<a href="http://www.berkshirecommunity.com" class="pageBottomLinks">Community</a><BR>
+<a href=http://63.147.65.2/berkshires2030 class=pageBottomLinks>Berkshires 2030</a><br>
+				<a href=http://www.berkshirecommunity.com class=pageBottomLinks>Community</a><BR>
 		    </td>
-		    <td valign="top">
-		    		<a href="http://63.147.65.2/dotcom/bottom.htm" class="pageBottomLinks">Dot Com Directory</a><br>
-				<a href="http://63.147.65.2/golden" class="pageBottomLinks">Golden Years</a><br>
-				<a href="http://www.healthquarterly.com" class="pageBottomLinks">Health Quarterly</a><br>
-				<a href="http://63.147.65.2/homeimprovement/spring" class="pageBottomLinks">Home Improvement</a><br>
-				<a href="http://63.147.65.2/summerpreview" class="pageBottomLinks">Summer Preview</a><br>
-				<a href="http://63.147.65.2/outdoor" class="pageBottomLinks">Outdoor Living</a><br>
-				<a href="http://63.147.65.2/weddingplanner" class="pageBottomLinks">Wedding Planner</a><BR>
+		    <td valign=top>
+		    		<a href=http://63.147.65.2/dotcom/bottom.htm class=pageBottomLinks>Dot Com Directory</a><br>
+				<a href=http://63.147.65.2/golden class=pageBottomLinks>Golden Years</a><br>
+				<a href=http://www.healthquarterly.com class=pageBottomLinks>Health Quarterly</a><br>
+				<a href=http://63.147.65.2/homeimprovement/spring class=pageBottomLinks>Home Improvement</a><br>
+				<a href=http://63.147.65.2/summerpreview class=pageBottomLinks>Summer Preview</a><br>
+				<a href=http://63.147.65.2/outdoor class=pageBottomLinks>Outdoor Living</a><br>
+				<a href=http://63.147.65.2/weddingplanner class=pageBottomLinks>Wedding Planner</a><BR>
 		    </td>
-		    <td valign="top">
-		    		<a href="http://www.berkshireeagle.comhttp://www.berkshireeagle.com/Stories/0,1413,101%7E6335%7E,00.html" class="pageBottomLinks">Arts/Entertainment</a><br>
-				<a href="http://www.berkshireeagle.comhttp://www.berkshireeagle.com/Stories/0,1413,101%7E6337%7E,00.html" class="pageBottomLinks">Books</a><br>
-				<a href="http://www.berkshireeagle.comhttp://www.berkshireeagle.com/Stories/0,1413,101%257E6345%257E,00.html" class="pageBottomLinks">Movie Schedules</a><br>
-				<a href="http://www.berkshireeagle.comhttp://www.berkshireeagle.com/Stories/0,1413,101%7E6346%7E,00.html" class="pageBottomLinks">Movie Reviews</a><br>
-				<a href="http://63.147.65.2/theater.htm" class="pageBottomLinks">Theater Reviews</a><br>
-				<a href="http://www.berkshireeagle.comhttp://www.berkshireeagle.com/Stories/0,1413,101%7E6273%7E,00.html" class="pageBottomLinks">Columnists</a><br>
-				<a href="http://www.berkshireeagle.comhttp://www.berkshireeagle.com/Stories/0,1413,101%257E23929%257E776687,00.html" class="pageBottomLinks">Lotteries</a><BR>
+		    <td valign=top>
+		    		<a href=http://www.berkshireeagle.comhttp://www.berkshireeagle.com/Stories/0,1413,101%7E6335%7E,00.html class=pageBottomLinks>Arts/Entertainment</a><br>
+				<a href=http://www.berkshireeagle.comhttp://www.berkshireeagle.com/Stories/0,1413,101%7E6337%7E,00.html class=pageBottomLinks>Books</a><br>
+				<a href=http://www.berkshireeagle.comhttp://www.berkshireeagle.com/Stories/0,1413,101%257E6345%257E,00.html class=pageBottomLinks>Movie Schedules</a><br>
+				<a href=http://www.berkshireeagle.comhttp://www.berkshireeagle.com/Stories/0,1413,101%7E6346%7E,00.html class=pageBottomLinks>Movie Reviews</a><br>
+				<a href=http://63.147.65.2/theater.htm class=pageBottomLinks>Theater Reviews</a><br>
+				<a href=http://www.berkshireeagle.comhttp://www.berkshireeagle.com/Stories/0,1413,101%7E6273%7E,00.html class=pageBottomLinks>Columnists</a><br>
+				<a href=http://www.berkshireeagle.comhttp://www.berkshireeagle.com/Stories/0,1413,101%257E23929%257E776687,00.html class=pageBottomLinks>Lotteries</a><BR>
 		    </td>
-		    <td valign="top">
-		    		<a href="http://www.headbonezone.com" class="pageBottomLinks">Headbone Zone</a><br>
-				<a href="http://www.berkshirecommunity.com/sports/" class="pageBottomLinks">SportZone</a><br>
-				<a href="http://www.datemaker.com/pittsfield" class="pageBottomLinks">Personals</a><br>
-				<a href="http://www.berkshireeagle.comhttp://www.berkshireeagle.com/Stories/0,1413,101%7E6309%7E,00.html" class="pageBottomLinks">What's Doing?</a><br>
-				<a href="http://www.berkshireeagle.comhttp://www.berkshireeagle.com/Stories/0,1413,101%7E6308%7E,00.html" class="pageBottomLinks">Week's Calendar</a><br>
-				<a href="http://63.147.65.2/forms/phoorder.asp" class="pageBottomLinks">Photo Reprints</a><BR>
+		    <td valign=top>
+		    		<a href=http://www.headbonezone.com class=pageBottomLinks>Headbone Zone</a><br>
+				<a href=http://www.berkshirecommunity.com/sports/ class=pageBottomLinks>SportZone</a><br>
+				<a href=http://www.datemaker.com/pittsfield class=pageBottomLinks>Personals</a><br>
+				<a href=http://www.berkshireeagle.comhttp://www.berkshireeagle.com/Stories/0,1413,101%7E6309%7E,00.html class=pageBottomLinks>What's Doing?</a><br>
+				<a href=http://www.berkshireeagle.comhttp://www.berkshireeagle.com/Stories/0,1413,101%7E6308%7E,00.html class=pageBottomLinks>Week's Calendar</a><br>
+				<a href=http://63.147.65.2/forms/phoorder.asp class=pageBottomLinks>Photo Reprints</a><BR>
 		    </td>
 		</tr>
 		<tr>
-			<td align="center" colspan="4">
-				<table cellpadding="5" cellspacing="0" border="0">
+			<td align=center colspan=4>
+				<table cellpadding=5 cellspacing=0 border=0>
 				<tr>
-					<td><a href="http://www.thetranscript.com" style="border: 0px"><img src="http://media.mnginteractive.com/media/paper101/transcript.gif" border="0" alt="North Adams Transcript"></a></td>
-					<td align="center"><a href="http://www.reformer.com" style="border: 0px"><img src="http://media.mnginteractive.com/media/paper101/reformer.gif" border="0" alt="Brattleboro Reformer"></a></td>
-					<td align="right"><a href="http://www.benningtonbanner.com" style="border: 0px"><img src="http://media.mnginteractive.com/media/paper101/bbanner.gif" border="0" alt="Bennington Banner"></a></td>
+					<td><a href=http://www.thetranscript.com style=border: 0px><img src=http://media.mnginteractive.com/media/paper101/transcript.gif border=0 alt=North Adams Transcript></a></td>
+					<td align=center><a href=http://www.reformer.com style=border: 0px><img src=http://media.mnginteractive.com/media/paper101/reformer.gif border=0 alt=Brattleboro Reformer></a></td>
+					<td align=right><a href=http://www.benningtonbanner.com style=border: 0px><img src=http://media.mnginteractive.com/media/paper101/bbanner.gif border=0 alt=Bennington Banner></a></td>
 				</tr>
 				</table>
 			</td>
@@ -770,4 +770,4 @@ agle.com/Stories/0,1413,101%257E6295%257E,00.html'>Sports Headlines</a></td></tr
 			
 
 </tr></td></table>
-</body><br><div align=center><a href="http://63.147.65.2/newsletter"><font face=arial size=1>click to unsubscribe from newsletter or change format</font></a></div>
+</body><br><div align=center><a href=http://63.147.65.2/newsletter><font face=arial size=1>click to unsubscribe from newsletter or change format</font></a></div>

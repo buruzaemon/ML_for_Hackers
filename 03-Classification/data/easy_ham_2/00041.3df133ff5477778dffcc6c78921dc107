@@ -24,11 +24,11 @@ Received: from IENAVSERVER ([10.1.1.50]) by exchsrv.cr2 with SMTP
     (Microsoft Exchange Internet Mail Service Version 5.5.2653.13) id 3W35TGCR;
     Thu, 25 Jul 2002 10:59:55 +0100
 Message-Id: <000801c233c1$fc0adbf0$3201010a@ienavserver>
-From: "Ulysees" <Ulysees@ulysees.com>
+From: Ulysees <Ulysees@ulysees.com>
 To: <social@linux.ie>
 Date: Thu, 25 Jul 2002 10:59:36 +0100
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal

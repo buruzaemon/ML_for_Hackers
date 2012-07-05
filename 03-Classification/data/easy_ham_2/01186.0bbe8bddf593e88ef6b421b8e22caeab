@@ -52,15 +52,15 @@ Date: Wed, 31 Jul 2002 19:01:56 +0200
 
 Once upon a time, Matthias wrote :
 
-> For that n°2, it's simple : They've been pulled out from the upstream
-> xine source. I guess I should make a "xine-skins" package if there is
+> For that n2, it's simple : They've been pulled out from the upstream
+> xine source. I guess I should make a xine-skins package if there is
 > enough demand for it ;-)
 
 Well, replying to my own post, sorry ;-)
 There is now a 1.3MB xine-skins package that includes all the available
 skins that can be found on the xine website.
 
-Time to "apt-get install xine-skins" for those who started to miss xinetic
+Time to apt-get install xine-skins for those who started to miss xinetic
 or lcd ;-)
 
 Matthias

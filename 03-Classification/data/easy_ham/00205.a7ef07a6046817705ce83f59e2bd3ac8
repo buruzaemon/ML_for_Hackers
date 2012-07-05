@@ -20,13 +20,13 @@ Received: from smtp02do.de.uu.net (smtp02do.de.uu.net [192.76.144.69]) by
 Received: from mayhem ([195.238.44.248]) by smtp02do.de.uu.net
     (5.5.5/5.5.5) with ESMTP id WAA04757; Tue, 27 Aug 2002 22:39:02 +0200 (MET
     DST)
-From: "Spam" <spam@bite-ltd.com>
-To: "'Ronan Waide'" <waider@waider.ie>, "'ILUG list'" <ilug@linux.ie>
+From: Spam <spam@bite-ltd.com>
+To: 'Ronan Waide' <waider@waider.ie>, 'ILUG list' <ilug@linux.ie>
 Subject: RE: [ILUG] doolin
 Date: Tue, 27 Aug 2002 21:38:40 +0100
 Message-Id: <003f01c24e09$bfbd1f70$f82ceec3@mayhem>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="US-ASCII"
+Content-Type: text/plain; charset=US-ASCII
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal
@@ -63,9 +63,9 @@ Cheers,
 Waider. Just back.
 -- 
 waider@waider.ie / Yes, it /is/ very personal of me.
-"...we are in fact well and truly doomed. She says that if I leave now, 
+...we are in fact well and truly doomed. She says that if I leave now, 
  I can probably get a good head start before they realize that I'm
-gone."
+gone.
                                                     - Jamie Zawinski
 
 -- 

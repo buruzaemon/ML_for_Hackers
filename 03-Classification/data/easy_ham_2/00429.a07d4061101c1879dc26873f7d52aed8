@@ -20,13 +20,13 @@ X-Authentication-Warning: lugh.tuatha.org: Host [213.190.156.48] claimed
 Received: by KBS01 with Internet Mail Service (5.5.2653.19) id <Q4V0G672>;
     Fri, 16 Aug 2002 15:28:59 +0100
 Message-Id: <55DA5264CE16D41186F600D0B74D6B09247289@KBS01>
-From: "Brian O'Donoghue" <Brian.ODonoghue@kbs.ie>
-To: "'ilug@linux.ie'" <ilug@linux.ie>
+From: Brian O'Donoghue <Brian.ODonoghue@kbs.ie>
+To: 'ilug@linux.ie' <ilug@linux.ie>
 Subject: RE: [ILUG] Backup solutions
 Date: Fri, 16 Aug 2002 15:28:51 +0100
 MIME-Version: 1.0
 X-Mailer: Internet Mail Service (5.5.2653.19)
-Content-Type: text/plain; charset="ISO-8859-15"
+Content-Type: text/plain; charset=ISO-8859-15
 Sender: ilug-admin@linux.ie
 Errors-To: ilug-admin@linux.ie
 X-Mailman-Version: 1.1

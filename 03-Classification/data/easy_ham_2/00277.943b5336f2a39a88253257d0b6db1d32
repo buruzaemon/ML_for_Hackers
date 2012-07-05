@@ -16,14 +16,14 @@ Received: from smtp015.mail.yahoo.com (smtp015.mail.yahoo.com
 Received: from unknown (HELO mfrenchw2k) (mfrench42@62.254.163.42 with
     login) by smtp.mail.vip.sc5.yahoo.com with SMTP; 6 Aug 2002 15:02:05 -0000
 Message-Id: <006601c23d59$b7795100$3864a8c0@sabeo.ie>
-From: "Matthew French" <mfrench42@yahoo.co.uk>
-To: "Albert White - SUN Ireland"
+From: Matthew French <mfrench42@yahoo.co.uk>
+To: Albert White - SUN Ireland
     <albert.white@ireland.sun.com>, <ilug@linux.ie>
 References: <200208061310.g76DA3fE009664@sionnach.ireland.sun.com>
 Subject: Re: [ILUG] Sparc Solaris (was: Dell GX260 V Redhat 7.3)
 Date: Tue, 6 Aug 2002 15:58:19 +0100
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal
@@ -68,7 +68,7 @@ would not prompt for selection but would boot straight through. From there
 it is a matter of tftp'ing the correct config file and the install would be
 automatic from there on.
 
-> I don't see why this should be a _major problem. The prom (ie the "ok"
+> I don't see why this should be a _major problem. The prom (ie the ok
 > prompt)
 > is almost at the hardware level and hence dosent depend on the os so you
 > should be able to connect to that easily enough. Once the machine is

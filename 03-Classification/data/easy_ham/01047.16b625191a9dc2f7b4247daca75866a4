@@ -76,16 +76,16 @@ Cool :)
 Yes, it is...  But then alsa-driver requires alsa-kernel, and I don't quite 
 like --nodeps...
 
-> This would be a tricky one since to use the "--with <name>" feature of
+> This would be a tricky one since to use the --with <name> feature of
 > rpmbuild, I think you'd need to add individual handling of each and every
 > card :-/
 
 That's ok.  I was only considering it for the sake of tweaking anyway, not 
 for some real-world need :).
 
-> That's what the "alsa-driver" is there for, create all the base files
+> That's what the alsa-driver is there for, create all the base files
 > excluding the kernel drivers. What I would suggest for dependency reasons
-> it to install an "alsa-kernel" for the original kernel (you've kept it,
+> it to install an alsa-kernel for the original kernel (you've kept it,
 > right? ;-)) and install ALSA modules from source for custom kernels built
 > from source.
 

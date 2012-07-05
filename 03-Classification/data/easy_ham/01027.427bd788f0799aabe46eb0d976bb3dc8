@@ -61,12 +61,12 @@ updates to the PGP code in EXMH that I should know about?
 
 My current problem is that if I get a PGP signed message, I first
 get a button that reads:
-	"Check the signature with GnuPG"
+	Check the signature with GnuPG
 If I punch the button, and I dont have the signature on my keyring
 then I get a message saying just that, and the message:
-	"Can't check signature: public key not found"
+	Can't check signature: public key not found
 along with a button with the inscription
-	"Query keyserver"
+	Query keyserver
 If I punch the button then EXMH just hangs.  Forever.
 
 If instead of punching the button, I go out to the keyserver myself

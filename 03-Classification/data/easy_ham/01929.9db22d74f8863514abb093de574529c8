@@ -12,7 +12,7 @@ Received: from dogma.slashnull.org (localhost [127.0.0.1]) by
     <jm@jmason.org>; Thu, 26 Sep 2002 16:27:41 +0100
 Message-Id: <200209261527.g8QFRfg24223@dogma.slashnull.org>
 To: yyyy@spamassassin.taint.org
-From: "hyatt@mozilla" <rssfeeds@spamassassin.taint.org>
+From: hyatt@mozilla <rssfeeds@spamassassin.taint.org>
 Subject: A Line in the Sand
 Date: Thu, 26 Sep 2002 15:27:41 -0000
 Content-Type: text/plain; encoding=utf-8
@@ -27,7 +27,7 @@ and his code finally landed. It naturally spiked startup time and window time
 slightly, and so it ended up being backed out because of Mozilla's no tolerance 
 policy for regressions.
 
-While this "line in the sand" policy is in many ways a good one, I feel like it 
+While this line in the sand policy is in many ways a good one, I feel like it 
 misses the point. There is a natural tendency when designing applications to 
 add features in every new version of the software. Only rarely do you see 
 features removed. With each passing version, you get more and more bloated, 
@@ -37,8 +37,8 @@ feature since version 1.0, so no customers can possibly be dissatisfied!
 
 You can really only cram so many features into a product before its size 
 requirements and performance requirements have to change. This is an obvious 
-rule. It's like you start with an empty elevator that says "Capacity: 10 
-people." The elevator stops at the first floor (version 1.0) and a bunch of 
+rule. It's like you start with an empty elevator that says Capacity: 10 
+people. The elevator stops at the first floor (version 1.0) and a bunch of 
 people (features) get on. Continuing on its journey, the elevator stops at the 
 second floor, and still more people get on. The elevator is now full, and it 
 continues to the third floor (version 3.0). Unfortunately the elevator is full, 

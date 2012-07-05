@@ -50,9 +50,9 @@ Date: Wed, 9 Oct 2002 11:03:11 +0200
 Once upon a time, Brian wrote :
 
 >      OK, it's now time to work out the PGP securing of apt repository
->      traffic. I've never gotten anything but "sitename.whatever will not
->      be authenticated" until running Redhat 8.0 when I get something
->      about having "No Key" for various files.
+>      traffic. I've never gotten anything but sitename.whatever will not
+>      be authenticated until running Redhat 8.0 when I get something
+>      about having No Key for various files.
 
 I don't think gpg signing my repositories will help anything, as it will
 just ensure that my passphrase was typed to confirm the md5 signatures of
@@ -60,7 +60,7 @@ all pgklists and srclists. Basically, you'll then just be sure that it's me
 who generated the files, and this will of course prevent automating the
 process of updating the apt repository when Red Hat updates show up.
 
-In Red Hat Linux 8.0 though, the warnings about "No Key" appear until you
+In Red Hat Linux 8.0 though, the warnings about No Key appear until you
 import the right gpg public keys directly with rpm, for example :
 rpm --import /usr/share/doc/apt-0.5.4cnc7/RPM-GPG-KEY
 (this will import my key, which is used to sign all freshrpms.net packages)

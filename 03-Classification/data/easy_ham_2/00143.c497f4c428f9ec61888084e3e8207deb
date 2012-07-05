@@ -22,13 +22,13 @@ Received: from [193.203.146.252] (helo=proxyplus.pro.ie) by weasel with
     29 Jul 2002 10:57:52 +0100
 Received: from shakespear [192.168.0.2] by Proxy+; Mon, 29 Jul 2002
     10:50:04 +0100 for <ilug@linux.ie>
-From: "William Harrison - Protocol" <wharrison@pro.ie>
+From: William Harrison - Protocol <wharrison@pro.ie>
 To: <ilug@linux.ie>
 Subject: RE: [ILUG] BBC suggest using Linux over MS software
 Date: Mon, 29 Jul 2002 10:50:04 +0100
 Message-Id: <NFBBKGICNJAKAMHIOPMBAEHBDMAA.wharrison@pro.ie>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal
@@ -56,11 +56,11 @@ Subject: [ILUG] BBC suggest using Linux over MS software
 
 
 Near the top :
-"One of the easiest ways to avoid many common [security] problems is to stop
-using Microsoft software. "
+One of the easiest ways to avoid many common [security] problems is to stop
+using Microsoft software. 
 
 And further on :
-"The ultimate step would be to use a Mac or install Linux on your PC..."
+The ultimate step would be to use a Mac or install Linux on your PC...
 
 cool !
 

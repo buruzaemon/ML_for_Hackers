@@ -19,11 +19,11 @@ Received: from hotmail.com (dav60.law15.hotmail.com [64.4.22.195]) by
 Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
     Tue, 10 Sep 2002 23:41:15 -0700
 X-Originating-Ip: [207.202.171.254]
-From: "Mr. FoRK" <fork_list@hotmail.com>
+From: Mr. FoRK <fork_list@hotmail.com>
 To: <fork@spamassassin.taint.org>
 Subject: Microsoft buys XDegress - more of a p2p/distributed data thing...
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal
@@ -49,7 +49,7 @@ I like this part - sounds like httpd on the client...
 
 http://www.openp2p.com/pub/a/p2p/2001/04/27/xdegrees.html
 
-"Once the Client Component is installed, a server can order a program to run
+Once the Client Component is installed, a server can order a program to run
 on the client. Any CGI script, Java servlet, ASP component, etc. could be
 run on the client. This is like breaking the Web server into two parts.
 Originally, Web servers just understood HTTP and sent pages. Then the field
@@ -62,26 +62,26 @@ loaded, as JavaScript functions do.
 
 And because XDegrees uses Web-compatible technology, users can access
 XDegrees resources without installing any software, simply by using their
-browser."
+browser.
 
 ===
-"Scaling is the main question that comes to mind when somebody describes a
+Scaling is the main question that comes to mind when somebody describes a
 new naming and searching system. CEO Michael Tanne claims to have figured
 out mathematically that the system can scale up to millions of users and
 billions of resources. Scaling is facilitated by the careful location of
 servers (XDegrees will colocate servers at key routing points, as Akamai
 does), and by directing clients to the nearest server as their default
-"home" server. Enterprise customers can use own servers to manage in-house
-applications."
+home server. Enterprise customers can use own servers to manage in-house
+applications.
 
-"Files can be cached on multiple systems randomly scattered around the
+Files can be cached on multiple systems randomly scattered around the
 Internet, as with Napster or Freenet. In fact, the caching in XDegrees is
 more sophisticated than it is on those systems: users with high bandwidth
-connections can download portions, or "stripes," of a file from several
+connections can download portions, or stripes, of a file from several
 cached locations simultaneously. The XDegrees software then reassembles
 these stripes into the whole file and uses digital signatures to verify that
 the downloaded file is the same as the original. A key component of this
 digital signature is a digest of the file, which is stored as an HTTP header
-for the file."
+for the file.
 
 

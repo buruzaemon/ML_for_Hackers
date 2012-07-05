@@ -37,7 +37,7 @@ X-Mailer: exmh version 2.5_20020826 01/15/2001 with nmh-1.0.4
 To: exmh-workers@spamassassin.taint.org
 Subject: Re: Exmh && speed
 In-Reply-To: Message from Valdis.Kletnieks@vt.edu of
-    "Mon, 26 Aug 2002 14:22:46 EDT."
+    Mon, 26 Aug 2002 14:22:46 EDT.
     <200208261822.g7QIMk7P005756@turing-police.cc.vt.edu>
 MIME-Version: 1.0
 Content-Type: text/plain; charset=us-ascii
@@ -81,7 +81,7 @@ cwg-dated-1030817858.a49b7e@DeepEddy.Com said:
 > Anybody have any ideas where performance disappeared?
 > Most likely in the added overhead of managing more sequences.
 > I'm sure it can be tuned a bunch, but as I'm leaving for a vacation on
-> Friday,  and have plenty of "real work" to do, I won't be able to do
+> Friday,  and have plenty of real work to do, I won't be able to do
 > much until I get  back.
 
 > I *will* look at all this when I get back, but if you want to check

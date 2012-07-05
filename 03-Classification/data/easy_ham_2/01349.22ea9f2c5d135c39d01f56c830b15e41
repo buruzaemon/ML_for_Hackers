@@ -81,7 +81,7 @@ the target system to lock up.
 
 IV.  Workaround
 
-1) Disable the NFS server: set the nfs_server_enable variable to "NO"
+1) Disable the NFS server: set the nfs_server_enable variable to NO
    in /etc/rc.conf, and reboot.
 
    Alternatively, if there are no active NFS clients (as listed by the

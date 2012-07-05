@@ -20,7 +20,7 @@ Received: from Intellistation ([66.31.2.27]) by rwcrmhc52.attbi.com
     (InterMail vM.4.01.03.27 201-229-121-127-20010626) with ESMTP id
     <20020829080009.BFJC1186.rwcrmhc52.attbi.com@Intellistation> for
     <FoRK@xent.com>; Thu, 29 Aug 2002 08:00:09 +0000
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 From: Eirikur Hallgrimsson <eh@mad.scientist.com>
 Organization: Electric Brain
 To: FoRK <FoRK@xent.com>

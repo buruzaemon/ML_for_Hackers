@@ -57,15 +57,15 @@ About apt.conf there are these lines:
 RPM 
 {
    // Leave list empty to disable
-   AllowedDupPkgs {"^kernel$"; "kernel-smp"; "kernel-enterprise"; };
-   HoldPkgs {"kernel-source"; "kernel-headers"; };
+   AllowedDupPkgs {^kernel$; kernel-smp; kernel-enterprise; };
+   HoldPkgs {kernel-source; kernel-headers; };
 }
 --</snip>--
 
 How do I tell apt hold all kernel packages? Can I use syntax like 
-"kernel*"; ? 
+kernel*; ? 
 
-And I don't quite understand what the part "^kernel$"; means?
+And I don't quite understand what the part ^kernel$; means?
 
 -- 
 Peter

@@ -23,11 +23,11 @@ List-Subscribe: <mailto:secprog-subscribe@securityfocus.com>
 Delivered-To: mailing list secprog@securityfocus.com
 Delivered-To: moderator for secprog@securityfocus.com
 Received: (qmail 1068 invoked from network); 20 Sep 2002 00:36:36 -0000
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 From: Alex Russell <alex@netWindows.org>
 Organization: netWindows.org
-To: "Michael McKay" <mmckay@iscubed.com>,
-	"'Bryan Feir'" <bryan@sgl.crestech.ca>, <secprog@securityfocus.com>,
+To: Michael McKay <mmckay@iscubed.com>,
+	'Bryan Feir' <bryan@sgl.crestech.ca>, <secprog@securityfocus.com>,
 	<strange@nsk.yi.org>
 Subject: Re: Secure Sofware Key
 Date: Thu, 19 Sep 2002 19:56:55 -0500
@@ -61,19 +61,19 @@ faster than general purpose processors clocked at ten times the speed.
 That said, clock rate has nothing with how trustworthy a card is. As Michael 
 pointed out, there's something of an arms-race between manufacturers and 
 attackers which has nothing to do with clock rate, and time and time again 
-what we've seen is that it's not a question of "is it secure", it's a 
-question of "who is it secure from and for how long?" Security is rarely a 
+what we've seen is that it's not a question of is it secure, it's a 
+question of who is it secure from and for how long? Security is rarely a 
 question of absolutes (despite the often boolean nature of a break), rather 
 it's a question of assessing, quantifying, and managing risk. SmartCards are 
 designed to address threats in which the cost of protection cannot exceed the 
 $1-20 range (depending on the application).
 
-As whether or not they are "trusted hardware", the question again revolves 
+As whether or not they are trusted hardware, the question again revolves 
 around attacker and timeframe. One might expect a bored undergrad EE student 
 to have more trouble revealing the contents of a pilfered smartcard than, 
 say, a governtment intelligence service. If your goal is to keep undergrad 
 EEs from perpetrating mass fraud in the caffeteria, then a smartcard is 
-likely "trustworthy" enough for your application. If your aim is to protect 
+likely trustworthy enough for your application. If your aim is to protect 
 ICBM launch codes, then it's probably the wrong tool. In either application, 
 a risk/cost ratio must justify the use of the protection measure in question.
 

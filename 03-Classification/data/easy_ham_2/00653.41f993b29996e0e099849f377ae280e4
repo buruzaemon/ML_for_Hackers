@@ -31,8 +31,8 @@ References: <20020814180016.A24501@rover.vipul.net>
     <002c01c24482$762a8310$5201020a@brianmay>
 MIME-Version: 1.0
 Content-Type: multipart/signed; micalg=pgp-sha1;
-    protocol="application/pgp-signature";
-    boundary="J2SCkAp4GZ/dPZZf"
+    protocol=application/pgp-signature;
+    boundary=J2SCkAp4GZ/dPZZf
 Content-Disposition: inline
 In-Reply-To: <002c01c24482$762a8310$5201020a@brianmay>
 User-Agent: Mutt/1.4i
@@ -64,7 +64,7 @@ On Thu, Aug 15, 2002 at 10:37:37AM -0700, Brian May wrote:
 
 # Isn't eBays trust the feedback?
 
-Sure, but one can surmise that the "Star Rating" or feedback isn't an
+Sure, but one can surmise that the Star Rating or feedback isn't an
 exact correlation to their internal metrics.
 
 

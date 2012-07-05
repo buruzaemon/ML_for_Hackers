@@ -21,9 +21,9 @@ Received: from mail.pbp.net ([66.81.103.70]) by
 Received: from kelter (dhcp177.pbp.net [192.168.10.177]) by mail.pbp.net
     (Postfix) with SMTP id CFA9D3684F; Tue,  3 Sep 2002 14:45:42 -0700 (PDT)
 Message-Id: <006301c25393$398af0a0$b10aa8c0@pbp.net>
-Reply-To: "Jonathan Nichols" <jnichols@pbp.net>
-From: "Jonathan Nichols" <jnichols@pbp.net>
-To: "Fox" <lds0062@cdc.net>, <razor-users@example.sourceforge.net>
+Reply-To: Jonathan Nichols <jnichols@pbp.net>
+From: Jonathan Nichols <jnichols@pbp.net>
+To: Fox <lds0062@cdc.net>, <razor-users@example.sourceforge.net>
 References: <3D74593D.2050608@sciences.univ-nantes.fr>
     <002901c25369$fe004fe0$7c640f0a@mfc.corp.mckee.com>
     <003401c2536a$853f4470$7c640f0a@mfc.corp.mckee.com>
@@ -33,7 +33,7 @@ References: <3D74593D.2050608@sciences.univ-nantes.fr>
 Subject: Re: [Razor-users] Razor v2 effectiveness stats - HTML table - Take 2
 Organization: pbp.net
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal
@@ -69,7 +69,7 @@ spam
 >
 >
 > ----- Original Message -----
-> From: "Jonathan Nichols" <jnichols@pbp.net>
+> From: Jonathan Nichols <jnichols@pbp.net>
 > To: <razor-users@example.sourceforge.net>
 > Sent: Tuesday, September 03, 2002 2:07 PM
 > Subject: Re: [Razor-users] Razor v2 effectiveness stats - HTML table -
@@ -80,8 +80,8 @@ Take
 > > How do you make up graphs like that, anyway? :-)
 > >
 > > ----- Original Message -----
-> > From: "Daniel Higgins" <dhiggins@netc.net>
-> > To: "Fox" <lds0062@cdc.net>; <razor-users@example.sourceforge.net>
+> > From: Daniel Higgins <dhiggins@netc.net>
+> > To: Fox <lds0062@cdc.net>; <razor-users@example.sourceforge.net>
 > > Sent: Tuesday, September 03, 2002 10:57 AM
 > > Subject: Re: [Razor-users] Razor v2 effectiveness stats - HTML table -
 > Take
@@ -105,7 +105,7 @@ get
 non-GUI
 > >   clients.  I don't have time to post it as text.
 > >
-> >   The "Spam Count" is the total of all spam detected by the various
+> >   The Spam Count is the total of all spam detected by the various
 > filters.
 > >
 > >   Jammed is a custom phrase ranking system.

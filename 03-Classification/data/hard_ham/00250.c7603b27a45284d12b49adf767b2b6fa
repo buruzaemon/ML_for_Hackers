@@ -15,20 +15,20 @@ Received: from fuckedcompany.com (66-108-219-157.nyc.rr.com
     Server 1.0) with SMTP id g9ULPO0O017336 for <jm-fc@jmason.org>;
     Wed, 30 Oct 2002 16:25:28 -0500 (EST)
 Message-Id: <200210302125.g9ULPO0O017336@nycsmtp3out.rdc-nyc.rr.com>
-From: "pud" <sporadic@fuckedcompany.com>
+From: pud <sporadic@fuckedcompany.com>
 To: <yyyy-fc@spamassassin.taint.org>
 Subject: FC Sporadic for Wednesday, October 30, 2002
-Sender: "pud" <sporadic@fuckedcompany.com>
+Sender: pud <sporadic@fuckedcompany.com>
 MIME-Version: 1.0
 Content-Type: multipart/alternative;
-    boundary="= Multipart Boundary 1030021620"
+    boundary== Multipart Boundary 1030021620
 Date: Wed, 30 Oct 2002 16:20:30 -0500
 
 This is a multipart MIME message.
 
 --= Multipart Boundary 1030021620
 Content-Type: text/plain;
-	charset="ISO-8859-1"
+	charset=ISO-8859-1
 Content-Transfer-Encoding: 8bit
 
 <head>
@@ -48,11 +48,11 @@ TABLE.subtable {
 <body bgcolor=ffffff link=0000ff alink=0000ff vlink=0000ff>
 <font size=2 face=verdana,arial>Hi,<br>
 
-<table align="right" border=0 class=subtable width=270>
+<table align=right border=0 class=subtable width=270>
 	<tr>
 		<td>
 		<font size=1 face=verdana,arial>Check out my new site,<br>
-		<a href=http://www.internalmemos.com/ target=_blank><font size=+1 color=blue><b><span style="text-decoration:none;">InternalMemos.com</span></b></font></a>
+		<a href=http://www.internalmemos.com/ target=_blank><font size=+1 color=blue><b><span style=text-decoration:none;>InternalMemos.com</span></b></font></a>
 		<br>
 		Over 980 internal memos, updated daily.
 		<br>
@@ -98,18 +98,18 @@ Anyway, thanks for being there. <br>
 Rock on,<br>
 pud<br>
 <br>
-ps- man, this new Sporadic layout is a little too cheery, don't you think?  blah, i'll fix it later.<br>
+ps- man, this new Sporadic layout is a little too cheery, don't you think?  blah, i'll fix it later.<br>
 pps- if you need web hosting or are a hosting provider, check out my new site <a target=_blank href=http://www.bizient.com/>Bizient.com</a>
 <br><br>
 <hr noshade size=1><br>
 Here are some of today's newest fucks.  As usual, more new ones on the site daily.<br>
 <a target=_blank href=http://www.fuckedcompany.com/>http://www.fuckedcompany.com/</a>
 <p>
-<span class="headline">Booyah</span><br>
+<span class=headline>Booyah</span><br>
 							
-							<span class="article">Wowwwww..... <a href=http://www.internalmemos.com:8080/memos/memodetails.php?memo_id=1027>this internal memo</a> sent to Clifford 
-Chance LLP employees lists a ton of "problem areas", complaints and comments... Highlights include, "If the assigning system isn't corrupt, ask yourself: why aren't attractive female associates ever out of work?" and "Not only is he 
-dishonest, but he behaves completely inappropriately with female associates working under him".. and so on.<br>
+							<span class=article>Wowwwww..... <a href=http://www.internalmemos.com:8080/memos/memodetails.php?memo_id=1027>this internal memo</a> sent to Clifford 
+Chance LLP employees lists a ton of problem areas, complaints and comments... Highlights include, If the assigning system isn't corrupt, ask yourself: why aren't attractive female associates ever out of work? and Not only is he 
+dishonest, but he behaves completely inappropriately with female associates working under him.. and so on.<br>
 							
 							When: 10/30/2002<br>
 							Company: Clifford Chance LLP<br>
@@ -121,13 +121,13 @@ dishonest, but he behaves completely inappropriately with female associates work
 						<tr>
 							<td>
 							
-							<span class="headline">Grrr</span><br>
+							<span class=headline>Grrr</span><br>
 							
-							<span class="article">Vignette to Acquire Epicentric.  Here's the <a target=_blank href=http://biz.yahoo.com/prnews/021029/datu058_1.html>news</a>, and of 
-course here's the <a href=http://www.internalmemos.com/memos/memodetails.php?memo_id=1025>internal memo</a> that was sent to employees.  From one FC reader and pissed-off employee who worked hard for his options, "Here's 
+							<span class=article>Vignette to Acquire Epicentric.  Here's the <a target=_blank href=http://biz.yahoo.com/prnews/021029/datu058_1.html>news</a>, and of 
+course here's the <a href=http://www.internalmemos.com/memos/memodetails.php?memo_id=1025>internal memo</a> that was sent to employees.  From one FC reader and pissed-off employee who worked hard for his options, Here's 
 my favorite one.  Q. What will happen to my Epicentric employee stock options?
 
-A.  Once the purchase of Epicentric is complete, Epicentric stock options will be cancelled."<br>
+A.  Once the purchase of Epicentric is complete, Epicentric stock options will be cancelled.<br>
 							
 							When: 10/30/2002<br>
 							Company: Epicentric<br>
@@ -144,15 +144,15 @@ A.  Once the purchase of Epicentric is complete, Epicentric stock options will b
 						<tr>
 							<td>
 							
-							<span class="headline">Limb</span><br>
+							<span class=headline>Limb</span><br>
 							
-							<span class="article">Bausch and Lomb CEO <a target=_blank href=http://biz.yahoo.com/rb/021029/health_bauschandlomb_1.html>denied</a> $1.1 million bonus 
+							<span class=article>Bausch and Lomb CEO <a target=_blank href=http://biz.yahoo.com/rb/021029/health_bauschandlomb_1.html>denied</a> $1.1 million bonus 
 for falsely claiming to have completed a masters degree.  What a fuckbasket cock-socket he is.<br>
 							
 							When: 10/30/2002<br>
 							Company: Bausch & Lomb <A
-HREF="javascript:popUp('profile.cfm?newsID=95027')"><img border=0
-src=http://www.fuckedcompany.com/images/profile.gif align=middle alt="Profile"></a><br>
+HREF=javascript:popUp('profile.cfm?newsID=95027')><img border=0
+src=http://www.fuckedcompany.com/images/profile.gif align=middle alt=Profile></a><br>
 							Points: 115<br>
 							
 							
@@ -167,9 +167,9 @@ src=http://www.fuckedcompany.com/images/profile.gif align=middle alt="Profile"><
 						<tr>
 							<td>
 							
-							<span class="headline">Cleanup, isle four</span><br>
+							<span class=headline>Cleanup, isle four</span><br>
 							
-							<span class="article">Salary and hiring freeze at <a target=_blank href=http://www.aptea.com/>A&P</a> supermarkets, here's the <a 
+							<span class=article>Salary and hiring freeze at <a target=_blank href=http://www.aptea.com/>A&P</a> supermarkets, here's the <a 
 href=http://www.internalmemos.com/memos/memodetails.php?memo_id=1026>internal memo</a> sent to employees.<br>
 							
 							When: 10/30/2002<br>
@@ -187,9 +187,9 @@ href=http://www.internalmemos.com/memos/memodetails.php?memo_id=1026>internal me
 						<tr>
 							<td>
 							
-							<span class="headline">CyaNow</span><br>
+							<span class=headline>CyaNow</span><br>
 							
-							<span class="article">Okee I reported yesterday that <a target=_blank href=http://www.cdnow.com/>CDNow</a> was set to layoff 60 people... well rumor has it the 
+							<span class=article>Okee I reported yesterday that <a target=_blank href=http://www.cdnow.com/>CDNow</a> was set to layoff 60 people... well rumor has it the 
 axe just fell and the *entire* programming staff was let go.  Whether this means the company is shutting down or they're just being replaced by cheaper consultants remains to be seen...<br>
 							
 							When: 10/30/2002<br>
@@ -207,9 +207,9 @@ axe just fell and the *entire* programming staff was let go.  Whether this means
 						<tr>
 							<td>
 							
-							<span class="headline">Sore</span><br>
+							<span class=headline>Sore</span><br>
 							
-							<span class="article">Rumor has it <a target=_blank href=http://www.kestrelsolutions.com/>Kestrel Solutions</a> filed Chapter 11 today.  Anyone need a sweet deal 
+							<span class=article>Rumor has it <a target=_blank href=http://www.kestrelsolutions.com/>Kestrel Solutions</a> filed Chapter 11 today.  Anyone need a sweet deal 
 on a bit-rate independent multiplexer?  uhh.. didnt think so.<br>
 							
 							When: 10/30/2002<br>
@@ -227,15 +227,15 @@ on a bit-rate independent multiplexer?  uhh.. didnt think so.<br>
 						<tr>
 							<td>
 							
-							<span class="headline">XXX</span><br>
+							<span class=headline>XXX</span><br>
 							
-							<span class="article">Rumor has it massive layoffs in the pipline at <a target=_blank href=http://www.xerox.com/>Xerox</a>.  Word is high-ranking managers are 
+							<span class=article>Rumor has it massive layoffs in the pipline at <a target=_blank href=http://www.xerox.com/>Xerox</a>.  Word is high-ranking managers are 
 having assignments removed, work load reduced, etc... Sometime mid-next week is said to be d-day. <br>
 							
 							When: 10/30/2002<br>
 							Company: Xerox <A
-HREF="javascript:popUp('profile.cfm?newsID=95035')"><img border=0
-src=http://www.fuckedcompany.com/images/profile.gif align=middle alt="Profile"></a><br>
+HREF=javascript:popUp('profile.cfm?newsID=95035')><img border=0
+src=http://www.fuckedcompany.com/images/profile.gif align=middle alt=Profile></a><br>
 							Points: 143<br>
 							
 							
@@ -248,7 +248,7 @@ Copyright 2002.  too tired to think of anything creative.  thanks for reading th
 
 --= Multipart Boundary 1030021620
 Content-Type: text/html;
-	charset="ISO-8859-1"
+	charset=ISO-8859-1
 Content-Transfer-Encoding: 8bit
 
 <head>
@@ -269,13 +269,13 @@ color:000000; font-weight:bold}
 <body bgcolor=ffffff link=0000ff alink=0000ff vlink=0000ff>
 <font size=2 face=verdana,arial>Hi,<br>
 
-<table align="right" border=0 class=subtable width=270>
+<table align=right border=0 class=subtable width=270>
 	<tr>
 		<td>
 		<font size=1 face=verdana,arial>Check out my new site,<br>
 		<a href=http://www.internalmemos.com/ target=_blank><font size=+1
 color=blue><b><span
-style="text-decoration:none;">InternalMemos.com</span></b></font></a>
+style=text-decoration:none;>InternalMemos.com</span></b></font></a>
 		<br>
 		Over 980 internal memos, updated daily.
 		<br>
@@ -361,7 +361,7 @@ Rock on,<br>
 pud<br>
 <br>
 ps- man, this new Sporadic layout is a little too cheery, don't you think?
- blah, i'll fix it later.<br>
+ blah, i'll fix it later.<br>
 pps- if you need web hosting or are a hosting provider, check out my new
 site <a target=_blank href=http://www.bizient.com/>Bizient.com</a>
 <br><br>
@@ -371,17 +371,17 @@ site daily.<br>
 <a target=_blank
 href=http://www.fuckedcompany.com/>http://www.fuckedcompany.com/</a>
 <p>
-<span class="headline">Booyah</span><br>
+<span class=headline>Booyah</span><br>
 							
-							<span class="article">Wowwwww..... <a
+							<span class=article>Wowwwww..... <a
 href=http://www.internalmemos.com:8080/memos/memodetails.php?memo_id=1027>th
 is internal memo</a> sent to Clifford 
-Chance LLP employees lists a ton of "problem areas", complaints and
-comments... Highlights include, "If the assigning system isn't corrupt,
-ask yourself: why aren't attractive female associates ever out of work?"
-and "Not only is he 
+Chance LLP employees lists a ton of problem areas, complaints and
+comments... Highlights include, If the assigning system isn't corrupt,
+ask yourself: why aren't attractive female associates ever out of work?
+and Not only is he 
 dishonest, but he behaves completely inappropriately with female
-associates working under him".. and so on.<br>
+associates working under him.. and so on.<br>
 							
 							When: 10/30/2002<br>
 							Company: Clifford Chance LLP<br>
@@ -393,20 +393,20 @@ associates working under him".. and so on.<br>
 						<tr>
 							<td>
 							
-							<span class="headline">Grrr</span><br>
+							<span class=headline>Grrr</span><br>
 							
-							<span class="article">Vignette to Acquire Epicentric.  Here's the
+							<span class=article>Vignette to Acquire Epicentric.  Here's the
 <a target=_blank
 href=http://biz.yahoo.com/prnews/021029/datu058_1.html>news</a>, and of 
 course here's the <a
 href=http://www.internalmemos.com/memos/memodetails.php?memo_id=1025>interna
 l memo</a> that was sent to employees.  From one FC reader and pissed-off
-employee who worked hard for his options, "Here's 
+employee who worked hard for his options, Here's 
 my favorite one.  Q. What will happen to my Epicentric employee stock
 options?
 
 A.  Once the purchase of Epicentric is complete, Epicentric stock options
-will be cancelled."<br>
+will be cancelled.<br>
 							
 							When: 10/30/2002<br>
 							Company: Epicentric<br>
@@ -423,9 +423,9 @@ will be cancelled."<br>
 						<tr>
 							<td>
 							
-							<span class="headline">Limb</span><br>
+							<span class=headline>Limb</span><br>
 							
-							<span class="article">Bausch and Lomb CEO <a target=_blank
+							<span class=article>Bausch and Lomb CEO <a target=_blank
 href=http://biz.yahoo.com/rb/021029/health_bauschandlomb_1.html>denied</a>
 $1.1 million bonus 
 for falsely claiming to have completed a masters degree.  What a
@@ -433,9 +433,9 @@ fuckbasket cock-socket he is.<br>
 							
 							When: 10/30/2002<br>
 							Company: Bausch & Lomb <A
-HREF="javascript:popUp('profile.cfm?newsID=95027')"><img border=0
+HREF=javascript:popUp('profile.cfm?newsID=95027')><img border=0
 src=http://www.fuckedcompany.com/images/profile.gif align=middle
-alt="Profile"></a><br>
+alt=Profile></a><br>
 							Points: 115<br>
 							
 							
@@ -450,9 +450,9 @@ alt="Profile"></a><br>
 						<tr>
 							<td>
 							
-							<span class="headline">Cleanup, isle four</span><br>
+							<span class=headline>Cleanup, isle four</span><br>
 							
-							<span class="article">Salary and hiring freeze at <a target=_blank
+							<span class=article>Salary and hiring freeze at <a target=_blank
 href=http://www.aptea.com/>A&P</a> supermarkets, here's the <a 
 href=http://www.internalmemos.com/memos/memodetails.php?memo_id=1026>interna
 l memo</a> sent to employees.<br>
@@ -472,9 +472,9 @@ l memo</a> sent to employees.<br>
 						<tr>
 							<td>
 							
-							<span class="headline">CyaNow</span><br>
+							<span class=headline>CyaNow</span><br>
 							
-							<span class="article">Okee I reported yesterday that <a
+							<span class=article>Okee I reported yesterday that <a
 target=_blank href=http://www.cdnow.com/>CDNow</a> was set to layoff 60
 people... well rumor has it the 
 axe just fell and the *entire* programming staff was let go.  Whether this
@@ -496,9 +496,9 @@ cheaper consultants remains to be seen...<br>
 						<tr>
 							<td>
 							
-							<span class="headline">Sore</span><br>
+							<span class=headline>Sore</span><br>
 							
-							<span class="article">Rumor has it <a target=_blank
+							<span class=article>Rumor has it <a target=_blank
 href=http://www.kestrelsolutions.com/>Kestrel Solutions</a> filed Chapter
 11 today.  Anyone need a sweet deal 
 on a bit-rate independent multiplexer?  uhh.. didnt think so.<br>
@@ -518,9 +518,9 @@ on a bit-rate independent multiplexer?  uhh.. didnt think so.<br>
 						<tr>
 							<td>
 							
-							<span class="headline">XXX</span><br>
+							<span class=headline>XXX</span><br>
 							
-							<span class="article">Rumor has it massive layoffs in the pipline
+							<span class=article>Rumor has it massive layoffs in the pipline
 at <a target=_blank href=http://www.xerox.com/>Xerox</a>.  Word is
 high-ranking managers are 
 having assignments removed, work load reduced, etc... Sometime mid-next
@@ -528,9 +528,9 @@ week is said to be d-day. <br>
 							
 							When: 10/30/2002<br>
 							Company: Xerox <A
-HREF="javascript:popUp('profile.cfm?newsID=95035')"><img border=0
+HREF=javascript:popUp('profile.cfm?newsID=95035')><img border=0
 src=http://www.fuckedcompany.com/images/profile.gif align=middle
-alt="Profile"></a><br>
+alt=Profile></a><br>
 							Points: 143<br>
 							
 							

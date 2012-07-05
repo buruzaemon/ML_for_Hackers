@@ -19,12 +19,12 @@ Received: from hotmail.com (dav39.law15.hotmail.com [64.4.22.96]) by
 Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
     Mon, 2 Sep 2002 17:43:50 -0700
 X-Originating-Ip: [207.202.171.254]
-From: "Mr. FoRK" <fork_list@hotmail.com>
+From: Mr. FoRK <fork_list@hotmail.com>
 To: <fork@spamassassin.taint.org>
 References: <Pine.LNX.4.33.0209021612290.7820-100000@watcher.mithral.com>
 Subject: Re: Java is for kiddies
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal
@@ -48,7 +48,7 @@ Date: Mon, 2 Sep 2002 17:47:44 -0700
 
 
 ----- Original Message -----
-From: "Adam L. Beberg" <beberg@mithral.com>
+From: Adam L. Beberg <beberg@mithral.com>
 >
 > Memory management is a non-issue for anyone that has any idea at all how
 the

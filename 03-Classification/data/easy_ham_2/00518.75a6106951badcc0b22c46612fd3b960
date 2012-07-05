@@ -50,7 +50,7 @@ IIRC, if the query string contains
 
 varname=FIRST&varname=SECOND
 
-then PHP will create a variable called "varname" with result SECOND. 
+then PHP will create a variable called varname with result SECOND. 
 However, if the query string contains
 
 varname[]=FIRST&varname[]=SECOND
@@ -59,7 +59,7 @@ then PHP will create an array with varname[1]==FIRST and varname[2]==SECOND
 
 There are other ways to get the data from the HTTP request, and I guess 
 I'll do that if it turns out to simplify the script that creates the 
-form; but as i understand it that's the "official" way to get data from 
+form; but as i understand it that's the official way to get data from 
 a SELECT MULTIPLE using PHP.
 
 Dave

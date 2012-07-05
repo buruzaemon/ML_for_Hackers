@@ -45,12 +45,12 @@ Quoting cout@eircom.net (cout@eircom.net):
 As Kevin said, the problem can reputedly be solved using Donald Becker's 
 Linux-native utilities for the 3C5X9 series.  Turn off PnP, and then set 
 the IRQ and I/O base address as required.  Make sure those are also
-made available in the motherboard BIOS Setup program to "Legacy ISA
-devices" or whatever it's called, there.
+made available in the motherboard BIOS Setup program to Legacy ISA
+devices or whatever it's called, there.
 
 -- 
-Cheers,              "It ain't so much the things we don't know that get us
-Rick Moen            in trouble.  It's the things we know that ain't so."
+Cheers,              It ain't so much the things we don't know that get us
+Rick Moen            in trouble.  It's the things we know that ain't so.
 rick@linuxmafia.com             -- Artemus Ward (1834-67), U.S. journalist
 
 -- 

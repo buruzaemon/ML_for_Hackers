@@ -56,8 +56,8 @@ Once upon a time, Doug wrote :
 > up-to-date KDE3 repositories are available and 2)
 > where all the Xine skins went.
 
-For that n°2, it's simple : They've been pulled out from the upstream xine
-source. I guess I should make a "xine-skins" package if there is enough
+For that n2, it's simple : They've been pulled out from the upstream xine
+source. I guess I should make a xine-skins package if there is enough
 demand for it ;-)
 
 Matthias

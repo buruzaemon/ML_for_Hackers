@@ -19,12 +19,12 @@ Received: from cats.ucsc.edu (cats-mx2.ucsc.edu [128.114.129.35]) by
 Received: from Tycho (dhcp-63-177.cse.ucsc.edu [128.114.63.177]) by
     cats.ucsc.edu (8.10.1/8.10.1) with SMTP id g86HQXT03756; Fri,
     6 Sep 2002 10:26:33 -0700 (PDT)
-From: "Jim Whitehead" <ejw@cse.ucsc.edu>
-To: "Eugen Leitl" <eugen@leitl.org>, <fork@spamassassin.taint.org>
+From: Jim Whitehead <ejw@cse.ucsc.edu>
+To: Eugen Leitl <eugen@leitl.org>, <fork@spamassassin.taint.org>
 Subject: RE: Re[2]: Selling Wedded Bliss (was Re: Ouch...)
 Message-Id: <AMEPKEBLDJJCCDEJHAMICEGPFGAA.ejw@cse.ucsc.edu>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal

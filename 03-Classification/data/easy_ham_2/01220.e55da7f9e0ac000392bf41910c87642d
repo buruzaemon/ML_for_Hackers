@@ -22,7 +22,7 @@ Received: from localhost (localhost.localdomain [127.0.0.1]) by
 Received: from zoe (D5760A9D.kabel.telenet.be [213.118.10.157]) by
     tartarus.telenet-ops.be (Postfix) with ESMTP id 4F0ECDCA7E for
     <rpm-list@freshrpms.net>; Tue, 13 Aug 2002 21:45:49 +0200 (CEST)
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 From: Nick Verhaegen <nick@permflux.org>
 To: rpm-zzzlist@freshrpms.net
 Subject: xine problems

@@ -20,12 +20,12 @@ Received: (qmail 21197 invoked from network); 19 Aug 2002 05:33:26 -0000
 Received: from dsl.206.191.151.102.evergo.net (HELO JMHALL)
     (206.191.151.102) by mail.evergo.net with SMTP; 19 Aug 2002 05:33:26 -0000
 Reply-To: <johnhall@evergo.net>
-From: "John Hall" <johnhall@evergo.net>
+From: John Hall <johnhall@evergo.net>
 Cc: <fork@spamassassin.taint.org>
 Subject: RE: Al'Qaeda's fantasy ideology: Policy Review no. 114
 Message-Id: <001601c24741$ef121060$0200a8c0@JMHALL>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="US-ASCII"
+Content-Type: text/plain; charset=US-ASCII
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal
@@ -64,7 +64,7 @@ Gary
 > Cc: fork@spamassassin.taint.org
 > Subject: Re: Al'Qaeda's fantasy ideology: Policy Review no. 114
 > 
-> >>>>> "R" == Robert Harley <harley@argote.ch> writes:
+> >>>>> R == Robert Harley <harley@argote.ch> writes:
 > 
 >     R> Well IIRC, Cortez arrived in 1519, and DeSoto was born circa
 >     R> 1500.  You do the math.
@@ -79,7 +79,7 @@ Gary
 Inc
 >  Business Advantage through Community Software :
 http://www.teledyn.com
-> "Computers are useless.  They can only give you answers."(Pablo
+> Computers are useless.  They can only give you answers.(Pablo
 Picasso)
 > 
 > http://xent.com/mailman/listinfo/fork

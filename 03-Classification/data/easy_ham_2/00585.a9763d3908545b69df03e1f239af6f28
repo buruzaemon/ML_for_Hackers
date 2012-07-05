@@ -21,8 +21,8 @@ Received: from netcom.netc.net ([205.205.40.8] helo=netc.net) by
 Received: from dhiggins ([::ffff:205.233.198.35]) (IDENT: nnzrjkx) by
     netc.net with esmtp; Wed, 07 Aug 2002 10:55:31 -0400
 Message-Id: <054c01c23e22$625a2400$6600a8c0@dhiggins>
-From: "Daniel Higgins" <dhiggins@netc.net>
-To: "ML-razor-users" <razor-users@example.sourceforge.net>
+From: Daniel Higgins <dhiggins@netc.net>
+To: ML-razor-users <razor-users@example.sourceforge.net>
 References: <D79A56AD131896448D0860DEE07CBE1FA7E3@med-core07.med.wayne.edu>
     <051301c23e1d$d32c1350$6600a8c0@dhiggins>
     <20020807143957.GB24689@fsckit.net>
@@ -61,9 +61,9 @@ Daniel Higgins
 Administrateur Système
 Netcommunications Inc.
 ----- Original Message -----
-From: "Tabor J. Wells" <razor-users@fsckit.net>
-To: "Daniel Higgins" <dhiggins@netc.net>
-Cc: <mail@vipul.net>; "ML-razor-users" <razor-users@example.sourceforge.net>
+From: Tabor J. Wells <razor-users@fsckit.net>
+To: Daniel Higgins <dhiggins@netc.net>
+Cc: <mail@vipul.net>; ML-razor-users <razor-users@example.sourceforge.net>
 Sent: Wednesday, August 07, 2002 10:39 AM
 Subject: Re: [Razor-users] What's wrong with the Razor servers now?
 

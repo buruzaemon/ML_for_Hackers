@@ -23,7 +23,7 @@ List-Subscribe: <mailto:secprog-subscribe@securityfocus.com>
 Delivered-To: mailing list secprog@securityfocus.com
 Delivered-To: moderator for secprog@securityfocus.com
 Received: (qmail 11511 invoked from network); 4 Sep 2002 00:48:18 -0000
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 From: Yannick Gingras <ygingras@ygingras.net>
 To: secprog@securityfocus.com
 Subject: Re: Secure Sofware Key
@@ -37,7 +37,7 @@ MIME-Version: 1.0
 Content-Transfer-Encoding: 8bit
 Message-Id: <200209032103.44905.ygingras@ygingras.net>
 
-> > Is the use of "trusted hardware" really worth it ?
+> > Is the use of trusted hardware really worth it ?
 >
 > Answering that requires fairly complete knowledge of the business
 > model. But, in all probability: no, it isn't usually worth it. So, it
@@ -51,7 +51,7 @@ Message-Id: <200209032103.44905.ygingras@ygingras.net>
 This make me wonder about the relative protection of smart cards.  They have 
 an internal procession unit around 4MHz.  Can we consider them as trusted 
 hardware ?  The ability to ship smart cards periodicaly uppon cashing of a 
-monthly subscription fee would not raise too much the cost of "renting" the 
+monthly subscription fee would not raise too much the cost of renting the 
 system.  Smart card do their own self encryption.  Can they be used to 
 decrypt data needed by the system ?  The input of the system could me mangled 
 and the would keep a reference of how long it was in service.

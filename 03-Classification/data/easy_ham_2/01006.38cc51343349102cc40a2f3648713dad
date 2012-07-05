@@ -23,9 +23,9 @@ MIME-Version: 1.0
 X-Sender: rahettinga@pop.earthlink.net (Unverified)
 Message-Id: <p05111a35b97c510c3503@[66.149.49.6]>
 To: Digital Bearer Settlement List <dbs@philodox.com>, fork@spamassassin.taint.org
-From: "R. A. Hettinga" <rah@shipwright.com>
+From: R. A. Hettinga <rah@shipwright.com>
 Subject: Fwd: [camram-spam] another framework hashcash related framework
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Sender: fork-admin@xent.com
 Errors-To: fork-admin@xent.com
 X-Beenthere: fork@spamassassin.taint.org
@@ -48,7 +48,7 @@ Date: Sun, 11 Aug 2002 13:02:48 +0100
 To: usual@espace.net
 From: Fearghas McKay <fearghas@mac.com>
 Subject: Fwd: [camram-spam] another framework hashcash related framework
-Reply-To: "Usual People List" <usual@espace.net>
+Reply-To: Usual People List <usual@espace.net>
 Sender: <usual@espace.net>
 
 
@@ -69,7 +69,7 @@ Subject: [camram-spam] another framework hashcash related framework
 There is a framework for using a hashcash like proof of work function
 as a way to frustrate junk mailers in this paper:
 
-"Curbing Junk E-Mail via Secure Classification"
+Curbing Junk E-Mail via Secure Classification
 
 by E. Gabber, M. Jakobsson, Y. Matias, A. Mayer Bell
 
@@ -99,7 +99,7 @@ it will still work, you can forward the email address to someone else
 and it will still work etc.
 
 They have some software architecture diagrams and suggestions for
-installing some of the proxies on a corporate gateway -- "gatekeeper"
+installing some of the proxies on a corporate gateway -- gatekeeper
 they call it.
 
 Adam
@@ -118,9 +118,9 @@ For additional commands, e-mail: camram-spam-help@camram.org
 R. A. Hettinga <mailto: rah@ibuc.com>
 The Internet Bearer Underwriting Corporation <http://www.ibuc.com/>
 44 Farquhar Street, Boston, MA 02131 USA
-"... however it may deserve respect for its usefulness and antiquity,
+... however it may deserve respect for its usefulness and antiquity,
 [predicting the end of the world] has not been found agreeable to
-experience." -- Edward Gibbon, 'Decline and Fall of the Roman Empire'
+experience. -- Edward Gibbon, 'Decline and Fall of the Roman Empire'
 http://xent.com/mailman/listinfo/fork
 
 

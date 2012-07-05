@@ -13,7 +13,7 @@ Received: from smtp.easydns.com (smtp.easydns.com [205.210.42.30])
 Received: from localhst1042.com (host-66-133-58-202.verestar.net [66.133.58.202])
 	by smtp.easydns.com (Postfix) with SMTP id 3CFD42CE3A
 	for <jm@netnoteinc.com>; Fri,  2 Aug 2002 07:07:46 -0400 (EDT)
-From: "Abdul Fadi" <abdulfadi1@netscape.net>
+From: Abdul Fadi <abdulfadi1@netscape.net>
 Reply-To: abdulfadi1@netscape.net
 Date: Fri, 2 Aug 2002 13:07:56 +0200
 Subject: please I need your assistance
@@ -21,10 +21,10 @@ X-Mailer: Microsoft Outlook Express 5.00.2919.6900 DM
 MIME-Version: 1.0
 Message-Id: <20020802110746.3CFD42CE3A@smtp.easydns.com>
 To: undisclosed-recipients: ;
-Content-Type: multipart/mixed; boundary="===_SecAtt_000_1fdcynbjtbpkdh"
+Content-Type: multipart/mixed; boundary====_SecAtt_000_1fdcynbjtbpkdh
 
 --===_SecAtt_000_1fdcynbjtbpkdh
-Content-Type: text/plain; charset="windows-1252"
+Content-Type: text/plain; charset=windows-1252
 Content-Transfer-Encoding: quoted-printable
 
 MY NAME IS ABDUL FADI=2EI AM 65 YEARS OLD MAN=2EI WAS ONCE MARRIED WITH TWO CHILDREN=2EMY WIFE AND TWO CHILDREN DIED IN A CAR ACCIDENT SIX YEARS AGO=2EPRESENTLY=2C I AM IN NIGERIA RECEIVING TREATMENT RIGHT NOW=2E
@@ -52,8 +52,8 @@ N=3AB IF YOU CAN HELP ME=2EMAIL ME SO THAT I WILL GIVE YOU THE SECURITY COMPANY 
 
 
 --===_SecAtt_000_1fdcynbjtbpkdh
-Content-Type: application/octet-stream; name="1.txt"
+Content-Type: application/octet-stream; name=1.txt
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="1.txt"
+Content-Disposition: attachment; filename=1.txt
 
 

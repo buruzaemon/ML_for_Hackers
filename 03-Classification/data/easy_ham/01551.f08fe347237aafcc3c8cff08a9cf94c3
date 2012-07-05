@@ -62,7 +62,7 @@ occasion. The machine is then REALLY slow.
 I noticed that my /etc/procmailrc file had had no arguments associated
 with the call to razor-check. There was something in the log, though,
 to make me suspicious that it was possibly not seeing all my razor
-files. So I have just added "-home /etc/razor" as an argument. I
+files. So I have just added -home /etc/razor as an argument. I
 haven't had any down time since then so I cannot comment on whether
 this change has sped up my razor processing a noticable amount. (This
 paragraph may be an aside to my real problem, the first paragraph
@@ -79,9 +79,9 @@ Joe
 ---
 Joe Berry
 joe@topshot.com
-AIM "joe topshot"
-Yahoo Msgr "joetopshot"
-jabber "joetopshot@topshot.com"
+AIM joe topshot
+Yahoo Msgr joetopshot
+jabber joetopshot@topshot.com
 Baltimore, MD
 
 

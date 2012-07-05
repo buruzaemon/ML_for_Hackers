@@ -16,7 +16,7 @@ Received: from mail pickup service by mail1.insuranceiq.com with Microsoft
 Subject: Your Gateway to Wealth
 To: <zzzz@spamassassin.taint.org>
 Date: Wed, 11 Sep 2002 18:50:19 -0400
-From: "IQ - Jefferson Pilot" <jp@insiq.us>
+From: IQ - Jefferson Pilot <jp@insiq.us>
 Message-Id: <12144501c259e5$9ac94620$6b01a8c0@insuranceiq.com>
 X-Mailer: Microsoft CDO for Windows 2000
 MIME-Version: 1.0
@@ -24,13 +24,13 @@ Thread-Index: AcJZ0VENHpGqe53NTfKiQqkBj3zvwg==
 X-Mimeole: Produced By Microsoft MimeOLE V5.50.4522.1200
 Content-Class: urn:content-classes:message
 X-Originalarrivaltime: 11 Sep 2002 22:50:20.0109 (UTC) FILETIME=[9AE83FD0:01C259E5]
-Content-Type: multipart/alternative; boundary="----=_NextPart_000_1034F3_01C259AF.CA052980"
+Content-Type: multipart/alternative; boundary=----=_NextPart_000_1034F3_01C259AF.CA052980
 
 This is a multi-part message in MIME format.
 
 ------=_NextPart_000_1034F3_01C259AF.CA052980
 Content-Type: text/plain;
-	charset="Windows-1252"
+	charset=Windows-1252
 Content-Transfer-Encoding: 7bit
 
  Welcome to Jefferson Pilot's
@@ -52,7 +52,7 @@ This software not only provides exceptional analysis, but excels in
 providing simple as well as comprehensive presentation pages. By
 uncovering multiple needs, producers sell more products.	 
  Deferral+	
- Concept	An internet-based "sales-enabling" service, which allows
+ Concept	An internet-based sales-enabling service, which allows
 users to quickly become successful in the deferred compensation (COLI)
 market. 	
  Market	Focus on mid-market businesses. In the area of executive
@@ -97,47 +97,47 @@ Legal Notice <http://www.insuranceiq.com/legal.htm>
 
 ------=_NextPart_000_1034F3_01C259AF.CA052980
 Content-Type: text/html;
-	charset="iso-8859-1"
+	charset=iso-8859-1
 Content-Transfer-Encoding: quoted-printable
 
 <html>
 <head>
 <title>Your Gateway to Wealth</title>
-<meta http-equiv=3D"Content-Type" content=3D"text/html; =
-charset=3Diso-8859-1">
+<meta http-equiv=3DContent-Type content=3Dtext/html; =
+charset=3Diso-8859-1>
 </head>
 
-<body bgcolor=3D"#FFFFFF" text=3D"#000000">
-<p align=3D"center">=20
-  <table width=3D"550" border=3D"3" cellspacing=3D"0" cellpadding=3D"0" =
-bordercolor=3D"#003333">
+<body bgcolor=3D#FFFFFF text=3D#000000>
+<p align=3Dcenter>=20
+  <table width=3D550 border=3D3 cellspacing=3D0 cellpadding=3D0 =
+bordercolor=3D#003333>
     <tr>
       <td>
-        <table width=3D"550" border=3D"0" cellspacing=3D"0" =
-cellpadding=3D"0">
+        <table width=3D550 border=3D0 cellspacing=3D0 =
+cellpadding=3D0>
           <tr>=20
-            <td align=3D"center"><img =
-src=3D"http://iiq.us/images/jefferson/top.jpg" width=3D"550" =
-height=3D"81" alt=3D"Welcome to Jefferson Pilot's"><br>
-              <img src=3D"http://iiq.us/images/jefferson/mid.jpg" =
-width=3D"550" height=3D"134" alt=3D'Gateway to Wealth'><br>
-              <img src=3D"http://iiq.us/images/jefferson/tag.jpg" =
-width=3D"550" height=3D"94" alt=3D"As one of the industry's premier =
+            <td align=3Dcenter><img =
+src=3Dhttp://iiq.us/images/jefferson/top.jpg width=3D550 =
+height=3D81 alt=3DWelcome to Jefferson Pilot's><br>
+              <img src=3Dhttp://iiq.us/images/jefferson/mid.jpg =
+width=3D550 height=3D134 alt=3D'Gateway to Wealth'><br>
+              <img src=3Dhttp://iiq.us/images/jefferson/tag.jpg =
+width=3D550 height=3D94 alt=3DAs one of the industry's premier =
 producers, you must continually seek qualified cutting edge =
-services."><br>
-              <img src=3D"http://iiq.us/images/jefferson/financial.gif" =
-width=3D"159" height=3D"30" alt=3D'Financial Profiles'>
+services.><br>
+              <img src=3Dhttp://iiq.us/images/jefferson/financial.gif =
+width=3D159 height=3D30 alt=3D'Financial Profiles'>
             </td>
           </tr>
         </table>
-        <table width=3D"550" border=3D"0" cellspacing=3D"0" =
-cellpadding=3D"5">
+        <table width=3D550 border=3D0 cellspacing=3D0 =
+cellpadding=3D5>
           <tr>=20
-            <td width=3D"88" valign=3D"top" align=3D"right"><img =
-src=3D"http://iiq.us/images/jefferson/concept.gif" width=3D"70" =
-height=3D"23" alt=3D'Concept'></td>
-            <td width=3D"462"><font face=3D"Arial, Helvetica, =
-sans-serif" size=3D"2">Profiles+=20
+            <td width=3D88 valign=3Dtop align=3Dright><img =
+src=3Dhttp://iiq.us/images/jefferson/concept.gif width=3D70 =
+height=3D23 alt=3D'Concept'></td>
+            <td width=3D462><font face=3DArial, Helvetica, =
+sans-serif size=3D2>Profiles+=20
               Professional is a personal and business analysis tool that =
 analyzes=20
               a client's insurance, investment and financial planning =
@@ -147,14 +147,14 @@ objectives.=20
               </font> </td>
           </tr>
         </table>
-        <table width=3D"550" border=3D"0" cellspacing=3D"0" =
-cellpadding=3D"5" height=3D"21">
+        <table width=3D550 border=3D0 cellspacing=3D0 =
+cellpadding=3D5 height=3D21>
           <tr>=20
-            <td width=3D"88" valign=3D"top" align=3D"right"><img =
-src=3D"http://iiq.us/images/jefferson/market.gif" width=3D"70" =
-height=3D"23" alt=3D'Market'></td>
-            <td width=3D"462"><font face=3D"Arial, Helvetica, =
-sans-serif" size=3D"2">Profiles+=20
+            <td width=3D88 valign=3Dtop align=3Dright><img =
+src=3Dhttp://iiq.us/images/jefferson/market.gif width=3D70 =
+height=3D23 alt=3D'Market'></td>
+            <td width=3D462><font face=3DArial, Helvetica, =
+sans-serif size=3D2>Profiles+=20
               Professional is an ideal tool for true financial planning. =
 It not=20
               only provides a thorough analysis, including asset =
@@ -166,15 +166,15 @@ needs, as well=20
               as more comprehensive planning. </font></td>
           </tr>
         </table>
-        <table width=3D"550" border=3D"0" cellspacing=3D"0" =
-cellpadding=3D"5">
+        <table width=3D550 border=3D0 cellspacing=3D0 =
+cellpadding=3D5>
           <tr>=20
-            <td width=3D"88" valign=3D"top" align=3D"right"><img =
-src=3D"http://iiq.us/images/jefferson/benefit.gif" width=3D"71" =
-height=3D"23" alt=3D'Benefits'></div>
+            <td width=3D88 valign=3Dtop align=3Dright><img =
+src=3Dhttp://iiq.us/images/jefferson/benefit.gif width=3D71 =
+height=3D23 alt=3D'Benefits'></div>
             </td>
-            <td width=3D"462"><font face=3D"Arial, Helvetica, =
-sans-serif" size=3D"2">This=20
+            <td width=3D462><font face=3DArial, Helvetica, =
+sans-serif size=3D2>This=20
               software not only provides exceptional analysis, but =
 excels in providing=20
               simple as well as comprehensive presentation pages. By =
@@ -182,22 +182,22 @@ uncovering=20
               multiple needs, producers sell more products.</font></td>
           </tr>
         </table>
-        <table width=3D"550" border=3D"0" cellspacing=3D"0" =
-cellpadding=3D"5">
+        <table width=3D550 border=3D0 cellspacing=3D0 =
+cellpadding=3D5>
           <tr>=20
-            <td align=3D"center"><img =
-src=3D"http://iiq.us/images/jefferson/deferral.gif" width=3D"105" =
-height=3D"31" alt=3D'Deferral+'></td>
+            <td align=3Dcenter><img =
+src=3Dhttp://iiq.us/images/jefferson/deferral.gif width=3D105 =
+height=3D31 alt=3D'Deferral+'></td>
           </tr>
         </table>
-        <table width=3D"550" border=3D"0" cellspacing=3D"0" =
-cellpadding=3D"5">
+        <table width=3D550 border=3D0 cellspacing=3D0 =
+cellpadding=3D5>
           <tr>=20
-            <td width=3D"88" valign=3D"top" align=3D"right"><img =
-src=3D"http://iiq.us/images/jefferson/concept.gif" width=3D"70" =
-height=3D"23" alt=3D'Concept'></td>
-            <td width=3D"462"><font face=3D"Arial, Helvetica, =
-sans-serif" size=3D"2">An=20
+            <td width=3D88 valign=3Dtop align=3Dright><img =
+src=3Dhttp://iiq.us/images/jefferson/concept.gif width=3D70 =
+height=3D23 alt=3D'Concept'></td>
+            <td width=3D462><font face=3DArial, Helvetica, =
+sans-serif size=3D2>An=20
               internet-based &quot;sales-enabling&quot; service, which =
 allows=20
               users to quickly become successful in the deferred =
@@ -205,14 +205,14 @@ compensation=20
               (COLI) market. </font></td>
           </tr>
         </table>
-        <table width=3D"550" border=3D"0" cellspacing=3D"0" =
-cellpadding=3D"5" height=3D"21">
+        <table width=3D550 border=3D0 cellspacing=3D0 =
+cellpadding=3D5 height=3D21>
           <tr>=20
-            <td width=3D"88" valign=3D"top" align=3D"right"><img =
-src=3D"http://iiq.us/images/jefferson/market.gif" width=3D"70" =
-height=3D"23" alt=3D'Market'></td>
-            <td width=3D"462"><font face=3D"Arial, Helvetica, =
-sans-serif" size=3D"2">=20
+            <td width=3D88 valign=3Dtop align=3Dright><img =
+src=3Dhttp://iiq.us/images/jefferson/market.gif width=3D70 =
+height=3D23 alt=3D'Market'></td>
+            <td width=3D462><font face=3DArial, Helvetica, =
+sans-serif size=3D2>=20
               Focus on mid-market businesses. In the area of executive =
 benefits,=20
               the mid-market opportunity should be defined by either the =
@@ -223,14 +223,14 @@ number=20
 company.</font></td>
           </tr>
         </table>
-        <table width=3D"550" border=3D"0" cellspacing=3D"0" =
-cellpadding=3D"5">
+        <table width=3D550 border=3D0 cellspacing=3D0 =
+cellpadding=3D5>
           <tr>=20
-            <td width=3D"88" valign=3D"top" align=3D"right"><img =
-src=3D"http://iiq.us/images/jefferson/benefit.gif" width=3D"71" =
-height=3D"23" alt=3D'Benefits'></div>
-            <td width=3D"462"><font face=3D"Arial, Helvetica, =
-sans-serif" size=3D"2">=20
+            <td width=3D88 valign=3Dtop align=3Dright><img =
+src=3Dhttp://iiq.us/images/jefferson/benefit.gif width=3D71 =
+height=3D23 alt=3D'Benefits'></div>
+            <td width=3D462><font face=3DArial, Helvetica, =
+sans-serif size=3D2>=20
               A turnkey program that includes qualification of prospect, =
 marketing=20
               and sales support, case design, plan documents and =
@@ -238,22 +238,22 @@ administration.=20
               </font></td>
           </tr>
         </table>
-        <table width=3D"550" border=3D"0" cellspacing=3D"0" =
-cellpadding=3D"5">
+        <table width=3D550 border=3D0 cellspacing=3D0 =
+cellpadding=3D5>
           <tr>
-            <td align=3D"center"><img =
-src=3D"http://iiq.us/images/jefferson/gift_blink.gif" width=3D"82" =
-height=3D"27" alt=3D'G.I.F.T.'></td>
+            <td align=3Dcenter><img =
+src=3Dhttp://iiq.us/images/jefferson/gift_blink.gif width=3D82 =
+height=3D27 alt=3D'G.I.F.T.'></td>
           </tr>
         </table>
-        <table width=3D"550" border=3D"0" cellspacing=3D"0" =
-cellpadding=3D"5">
+        <table width=3D550 border=3D0 cellspacing=3D0 =
+cellpadding=3D5>
           <tr>=20
-            <td width=3D"88" valign=3D"top" align=3D"right"><img =
-src=3D"http://iiq.us/images/jefferson/concept.gif" width=3D"70" =
-height=3D"23" alt=3D'Concept'></td>
-            <td width=3D"462"> <font face=3D"Arial, Helvetica, =
-sans-serif" size=3D"2">Global=20
+            <td width=3D88 valign=3Dtop align=3Dright><img =
+src=3Dhttp://iiq.us/images/jefferson/concept.gif width=3D70 =
+height=3D23 alt=3D'Concept'></td>
+            <td width=3D462> <font face=3DArial, Helvetica, =
+sans-serif size=3D2>Global=20
               Insurance Funding Transaction (G.I.F.T.) is a =
 sophisticated premium-financing=20
               program that provides an alternative funding mechanism for =
@@ -263,14 +263,14 @@ liabilities.=20
               </font></td>
           </tr>
         </table>
-        <table width=3D"550" border=3D"0" cellspacing=3D"0" =
-cellpadding=3D"5" height=3D"21">
+        <table width=3D550 border=3D0 cellspacing=3D0 =
+cellpadding=3D5 height=3D21>
           <tr>=20
-            <td width=3D"88" valign=3D"top" align=3D"right"><img =
-src=3D"http://iiq.us/images/jefferson/market.gif" width=3D"70" =
-height=3D"23" alt=3D'Market'></td>
-            <td width=3D"462"><font face=3D"Arial, Helvetica, =
-sans-serif" size=3D"2">=20
+            <td width=3D88 valign=3Dtop align=3Dright><img =
+src=3Dhttp://iiq.us/images/jefferson/market.gif width=3D70 =
+height=3D23 alt=3D'Market'></td>
+            <td width=3D462><font face=3DArial, Helvetica, =
+sans-serif size=3D2>=20
               Clients with a high net worth of at least $10 million who =
 have an=20
               insurance need and believe their existing portfolio of =
@@ -280,14 +280,14 @@ to pay=20
               on loan interest expenses. </font></td>
           </tr>
         </table>
-        <table width=3D"550" border=3D"0" cellspacing=3D"0" =
-cellpadding=3D"5">
+        <table width=3D550 border=3D0 cellspacing=3D0 =
+cellpadding=3D5>
           <tr>=20
-            <td width=3D"88" valign=3D"top" align=3D"right"><img =
-src=3D"http://iiq.us/images/jefferson/benefit.gif" width=3D"71" =
-height=3D"23" alt=3D'Benefits'></div>
-            <td width=3D"462"><font face=3D"Arial, Helvetica, =
-sans-serif" size=3D"2">=20
+            <td width=3D88 valign=3Dtop align=3Dright><img =
+src=3Dhttp://iiq.us/images/jefferson/benefit.gif width=3D71 =
+height=3D23 alt=3D'Benefits'></div>
+            <td width=3D462><font face=3DArial, Helvetica, =
+sans-serif size=3D2>=20
               G.I.F.T. offers compelling sales solutions, comprehensive =
 supplemental=20
               illustrations and access to a consortium of established =
@@ -297,90 +297,90 @@ both U.S.=20
               dollars and Japanese Yen. </font></td>
           </tr>
         </table>
-        <table width=3D"550" border=3D"0" cellspacing=3D"0" =
-cellpadding=3D"0">
+        <table width=3D550 border=3D0 cellspacing=3D0 =
+cellpadding=3D0>
           <tr>=20
             <td>=20
-              <table width=3D"100%">
+              <table width=3D100%>
                 <tr>=20
-                  <form method=3D"post" =
-action=3D"http://65.217.159.103/response/response.asp">
+                  <form method=3Dpost =
+action=3Dhttp://65.217.159.103/response/response.asp>
                     <td>=20
-                      <table width=3D"100%" border=3D"0" =
-cellspacing=3D"0" cellpadding=3D"2" align=3D"center" =
-bgcolor=3D"#ffffff">
-                        <tr bgcolor=3D"#003333">=20
-                          <td colspan=3D"6" align=3D"center"><font =
-face=3D"Arial, Helvetica, sans-serif" size=3D"2" =
-color=3D"#FFFFFF"><b>Please fill out the form below for more =
+                      <table width=3D100% border=3D0 =
+cellspacing=3D0 cellpadding=3D2 align=3Dcenter =
+bgcolor=3D#ffffff>
+                        <tr bgcolor=3D#003333>=20
+                          <td colspan=3D6 align=3Dcenter><font =
+face=3DArial, Helvetica, sans-serif size=3D2 =
+color=3D#FFFFFF><b>Please fill out the form below for more =
 information</b></font></td>
                         </tr>
                         <tr>=20
-                          <td width=3D"32%" align=3D"right"><font =
-size=3D"2" face=3D"Arial, Helvetica, sans-serif">Name:</font></td>
-                          <td colspan=3D"5"><input type=3D"text" =
-name=3D"contactname" size=3D"50"></td>
+                          <td width=3D32% align=3Dright><font =
+size=3D2 face=3DArial, Helvetica, sans-serif>Name:</font></td>
+                          <td colspan=3D5><input type=3Dtext =
+name=3Dcontactname size=3D50></td>
                         </tr>
                         <tr>=20
-                          <td width=3D"32%" align=3D"right"><font =
-size=3D"2" face=3D"Arial, Helvetica, sans-serif">E-mail:</font></td>
-                          <td colspan=3D"5"><input type=3D"text" =
-name=3D"email" size=3D"50"></td>
+                          <td width=3D32% align=3Dright><font =
+size=3D2 face=3DArial, Helvetica, sans-serif>E-mail:</font></td>
+                          <td colspan=3D5><input type=3Dtext =
+name=3Demail size=3D50></td>
                         </tr>
                         <tr>=20
-                          <td width=3D"32%" align=3D"right"><font =
-size=3D"2" face=3D"Arial, Helvetica, sans-serif">Phone:</font></td>
-                          <td colspan=3D"5"><input type=3D"text" =
-name=3D"phone" size=3D"50"></td>
+                          <td width=3D32% align=3Dright><font =
+size=3D2 face=3DArial, Helvetica, sans-serif>Phone:</font></td>
+                          <td colspan=3D5><input type=3Dtext =
+name=3Dphone size=3D50></td>
                         </tr>
                         <tr>=20
-                          <td width=3D"32%" align=3D"right"><font =
-size=3D"2" face=3D"Arial, Helvetica, sans-serif">City:</font></td>
-                          <td width=3D"20%"><input type=3D"text" =
-name=3D"city" size=3D"20"></td>
-                          <td width=3D"7%" align=3D"right"><font =
-size=3D"2" face=3D"Arial, Helvetica, sans-serif">State:</font></td>
-                          <td width=3D"4%"><input type=3D"text" =
-name=3D"state" size=3D"2"></td>
-                          <td valign=3D"middle" width=3D"5%" =
-align=3D"right"><font face=3D"Arial, Helvetica, sans-serif" =
-size=3D"2">Zip:</font></td>
-                          <td valign=3D"middle" width=3D"32%"><input =
-type=3D"text" name=3D"ZIP" size=3D"9"></td>
+                          <td width=3D32% align=3Dright><font =
+size=3D2 face=3DArial, Helvetica, sans-serif>City:</font></td>
+                          <td width=3D20%><input type=3Dtext =
+name=3Dcity size=3D20></td>
+                          <td width=3D7% align=3Dright><font =
+size=3D2 face=3DArial, Helvetica, sans-serif>State:</font></td>
+                          <td width=3D4%><input type=3Dtext =
+name=3Dstate size=3D2></td>
+                          <td valign=3Dmiddle width=3D5% =
+align=3Dright><font face=3DArial, Helvetica, sans-serif =
+size=3D2>Zip:</font></td>
+                          <td valign=3Dmiddle width=3D32%><input =
+type=3Dtext name=3DZIP size=3D9></td>
                         </tr>
                       </table>
-                      <table width=3D"550" border=3D"0" =
-cellspacing=3D"0" cellpadding=3D"2">
+                      <table width=3D550 border=3D0 =
+cellspacing=3D0 cellpadding=3D2>
                         <tr>=20
-                          <td width=3D"153" align=3D"right"><font =
-face=3D"Arial, Helvetica, sans-serif" size=3D"2">Primary Insurance =
+                          <td width=3D153 align=3Dright><font =
+face=3DArial, Helvetica, sans-serif size=3D2>Primary Insurance =
 Carrier:</font></td>
-                          <td width=3D"389"><input type=3D"text" =
-name=3D"Ins Carrier" size=3D"50"></td>
+                          <td width=3D389><input type=3Dtext =
+name=3DIns Carrier size=3D50></td>
                         </tr>
                         <tr>=20
-                          <td width=3D"153" align=3D"right"><font =
-face=3D"Arial, Helvetica, sans-serif" =
-size=3D"2">Broker-Dealer:</font></td>
-                          <td width=3D"389"><input type=3D"text" =
-name=3D"Broker-Dealer" size=3D"50"></td>
+                          <td width=3D153 align=3Dright><font =
+face=3DArial, Helvetica, sans-serif =
+size=3D2>Broker-Dealer:</font></td>
+                          <td width=3D389><input type=3Dtext =
+name=3DBroker-Dealer size=3D50></td>
                         </tr>
                       </table>
-                      <table width=3D"550" border=3D"0" =
-cellspacing=3D"0" cellpadding=3D"0">
+                      <table width=3D550 border=3D0 =
+cellspacing=3D0 cellpadding=3D0>
                         <tr>=20
-                          <td width=3D"234" align=3D"right">=20
-                              <input type=3D"submit" name=3D"Submit" =
-value=3D"Submit">
+                          <td width=3D234 align=3Dright>=20
+                              <input type=3Dsubmit name=3DSubmit =
+value=3DSubmit>
                           </td>
-                          <td width=3D"205">=20
-                            <input type=3D"hidden" =
-name=3D"hdnRecipientTxt" value=3D"wendy.quigg@jpfinancial.com">
-                            <input type=3D"hidden" =
-name=3D"hdnSubjectTxt" value=3D"Jefferson Pilot Inquiry">
+                          <td width=3D205>=20
+                            <input type=3Dhidden =
+name=3DhdnRecipientTxt value=3Dwendy.quigg@jpfinancial.com>
+                            <input type=3Dhidden =
+name=3DhdnSubjectTxt value=3DJefferson Pilot Inquiry>
                           </td>
-                          <td width=3D"111"><img =
-src=3D"http://iiq.us/images/q2.gif" width=3D"43" height=3D"50"></td>
+                          <td width=3D111><img =
+src=3Dhttp://iiq.us/images/q2.gif width=3D43 height=3D50></td>
                         </tr>
                       </table>
                     </td>
@@ -392,19 +392,19 @@ value=3D'304704'>
             </td>
           </tr>
         </table>
-        <table width=3D"550" border=3D"0" cellspacing=3D"0" =
-cellpadding=3D"0">
+        <table width=3D550 border=3D0 cellspacing=3D0 =
+cellpadding=3D0>
           <tr>=20
-            <td width=3D"138" align=3D"center"><img =
-src=3D"http://iiq.us/images/jefferson/logo.gif" width=3D"131" =
-height=3D"87"></td>
-            <td width=3D"412">=20
-              <p align=3D"center"><font face=3D"Verdana, Arial, =
-Helvetica, sans-serif" size=3D"2"><b>
+            <td width=3D138 align=3Dcenter><img =
+src=3Dhttp://iiq.us/images/jefferson/logo.gif width=3D131 =
+height=3D87></td>
+            <td width=3D412>=20
+              <p align=3Dcenter><font face=3DVerdana, Arial, =
+Helvetica, sans-serif size=3D2><b>
                 If you are currently contracted with any of the <br>
                 Jefferson Pilot Financial family of companies, <br>
                 please disregard this ad.</b></font><font =
-face=3D"Verdana, Arial, Helvetica, sans-serif" size=3D"1"><br>
+face=3DVerdana, Arial, Helvetica, sans-serif size=3D1><br>
                 We don't want anybody to receive our mailing who does =
 not wish=20
                 to receive them. This is a professional communication =
@@ -412,9 +412,9 @@ sent to=20
                 insurance professionals. To be removed from this mailing =
 list,=20
                 DO NOT REPLY to this message. Instead, go here: <a =
-href=3D"http://www.insuranceiq.com/optout">http://www.insuranceiq.com/opt=
+href=3Dhttp://www.insuranceiq.com/optout>http://www.insuranceiq.com/opt=
 out</a><br>
-                <a href=3D"http://www.insuranceiq.com/legal.htm">Legal =
+                <a href=3Dhttp://www.insuranceiq.com/legal.htm>Legal =
 Notice</a></font></p>
             </td>
           </tr>

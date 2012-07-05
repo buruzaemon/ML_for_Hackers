@@ -41,7 +41,7 @@ X-Mailer: exmh version 2.5 07/13/2001 (debian 2.5-1) with nmh-1.0.4+dev
 To: exmh-users@spamassassin.taint.org
 Subject: Re: From
 In-Reply-To: Your message of
-    "Wed, 09 Oct 2002 14:43:32 EDT."
+    Wed, 09 Oct 2002 14:43:32 EDT.
     <200210091843.OAA01268@hippolyta.crd.ge.com>
 From: Robert Waldner <waldner@waldner.priv.at>
 X-Organization: Bah. Speaking only for me humble self.
@@ -50,9 +50,9 @@ X-GPG-Fingerprint: 406F 241A 9E21 CF92 1DED  A0A8 1343 7348 9AF9 DE82
 X-GPG-Keyid: 0x9AF9DE82
 MIME-Version: 1.0
 Content-Type: multipart/signed;
-    boundary="----------=_1034191516-429-0";
-    micalg="pgp-sha1";
-    protocol="application/pgp-signature"
+    boundary=----------=_1034191516-429-0;
+    micalg=pgp-sha1;
+    protocol=application/pgp-signature
 X-Loop: exmh-users@spamassassin.taint.org
 Sender: exmh-users-admin@spamassassin.taint.org
 Errors-To: exmh-users-admin@spamassassin.taint.org
@@ -84,7 +84,7 @@ On Wed, 09 Oct 2002 14:43:32 EDT, Kevin Kenny writes:
 >Can this be done via .forward?
 
 make your .forward contain only the following line:
-"|/usr/bin/procmail"
+|/usr/bin/procmail
  (incl. the quotes, your procmail binary may be in another path)
 
 cheers,
@@ -96,8 +96,8 @@ cheers,
 
 
 ------------=_1034191516-429-0
-Content-Type: application/pgp-signature; name="signature.ng"
-Content-Disposition: inline; filename="signature.ng"
+Content-Type: application/pgp-signature; name=signature.ng
+Content-Disposition: inline; filename=signature.ng
 Content-Transfer-Encoding: 7bit
 
 -----BEGIN PGP SIGNATURE-----

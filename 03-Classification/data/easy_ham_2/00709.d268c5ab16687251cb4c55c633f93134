@@ -19,12 +19,12 @@ Received: from cats.ucsc.edu (cats-mx2.ucsc.edu [128.114.129.35]) by
 Received: from Tycho (dhcp-63-177.cse.ucsc.edu [128.114.63.177]) by
     cats.ucsc.edu (8.10.1/8.10.1) with SMTP id g6NKSl015727 for
     <FoRK@xent.com>; Tue, 23 Jul 2002 13:28:47 -0700 (PDT)
-From: "Jim Whitehead" <ejw@cse.ucsc.edu>
-To: "FoRK" <FoRK@xent.com>
+From: Jim Whitehead <ejw@cse.ucsc.edu>
+To: FoRK <FoRK@xent.com>
 Subject: AOL scaling back IM interoperability
 Message-Id: <AMEPKEBLDJJCCDEJHAMIIEMGFCAA.ejw@cse.ucsc.edu>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal
@@ -102,14 +102,14 @@ AOL hasn't yet introduced video features, even though rivals Microsoft and
 Yahoo Inc. (YHOO, news, msgs) did so last year.
 
 Specifically, the FCC said America Online would have to implement a
-technology known as "server-to-server interoperability" before it could
+technology known as server-to-server interoperability before it could
 offer video. The technology would allow users of non-America Online services
 to detect when AOL users are online, and to trade messages. It would do so
 via communications between the computer servers operated by each messaging
 provider, using a common language.
 
 But in the progress report filed with the FCC last week, America Online said
-it will "focus its efforts" on alternatives to server-to-server
+it will focus its efforts on alternatives to server-to-server
 interoperability. They are more limited in scope than server-to-sever.
 
 As an example of an alternative, America Online cited a recent agreement to
@@ -123,19 +123,19 @@ involve server-to-server interoperability. Instead, the actual exchange of
 messages will occur only on America Online's servers, even as IChat
 customers use Apple software.
 
-"We believe this kind of hosted IM solution provides, at least in the short
+We believe this kind of hosted IM solution provides, at least in the short
 term, a secure, reliable and cost-effective means to provide
-interoperability between AOL, IM and unaffiliated IM communities," Steven
+interoperability between AOL, IM and unaffiliated IM communities, Steven
 Teplitz, AOL's associate general counsel, wrote in the progress report to
 the FCC.
 
 As to the apparent change in strategy, company spokeswoman Kathy McKiernan
-said Tuesday: "It's a recognition that server-to-server has proven a hard
-nut to crack for the entire industry." Indeed, users of America Online's
+said Tuesday: It's a recognition that server-to-server has proven a hard
+nut to crack for the entire industry. Indeed, users of America Online's
 rival services can't directly communicate with each other, either.
 
-The alternative solution "was something that we could implement now to
-provide for IM communities to communicate," said Ms. McKiernan, adding
+The alternative solution was something that we could implement now to
+provide for IM communities to communicate, said Ms. McKiernan, adding
 America Online would explore partnerships with other messaging providers,
 similar to the Apple deal. None has been announced so far.
 
@@ -147,9 +147,9 @@ technology in the past, including a server-to-server last year with Lotus
 Development, a unit of International Business Machines Corp. (IBM, news,
 msgs).
 
-But America Online's interoperability test with Lotus was "limited in scope
-and functionality." True server-to-server technology "would require further
-significant expenditures of time and resources to develop," wrote Mr.
+But America Online's interoperability test with Lotus was limited in scope
+and functionality. True server-to-server technology would require further
+significant expenditures of time and resources to develop, wrote Mr.
 Teplitz.
 
 The Internet Engineering Task Force, a group devoted to developing Internet
@@ -161,8 +161,8 @@ The company's strategy shift means that true interoperability in instant
 messaging is still a couple of years away, according to Michael Gartenberg,
 analyst with Jupiter Research.
 
-"It's still something the market wants," he said. "At some point, it'll
-happen, but maybe a couple of years down the road."
+It's still something the market wants, he said. At some point, it'll
+happen, but maybe a couple of years down the road.
 
 Mr. Gartenberg and other analysts believe America Online hasn't actively
 pursued true interoperability because it wants to protect its large user

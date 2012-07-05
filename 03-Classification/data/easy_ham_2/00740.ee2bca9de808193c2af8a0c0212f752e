@@ -50,9 +50,9 @@ X-Url: http://www.DeepEddy.Com/~cwg
 X-Image-Url: http://www.DeepEddy.Com/~cwg/chris.gif
 MIME-Version: 1.0
 Content-Type: multipart/signed;
-    boundary="==_Exmh_13609133P";
+    boundary===_Exmh_13609133P;
     micalg=pgp-sha1;
-    protocol="application/pgp-signature"
+    protocol=application/pgp-signature
 Content-Transfer-Encoding: 7bit
 Message-Id: <1027890339.17546.TMDA@deepeddy.vircio.com>
 From: Chris Garrigues <cwg-exmh@DeepEddy.Com>
@@ -81,9 +81,9 @@ Content-Type: text/plain; charset=us-ascii
 > Date:  Fri, 26 Jul 2002 15:00:57 -0700
 >
 > Can anyone access the CVS server for exmh?
-> The last thing I was able to do was try a "cvs commit", but
-> I got an "up-to-date check failed" for a couple files,
-> exmh.CHANGES and lib/msg.tcl, I think, so I then tried "cvs update".
+> The last thing I was able to do was try a cvs commit, but
+> I got an up-to-date check failed for a couple files,
+> exmh.CHANGES and lib/msg.tcl, I think, so I then tried cvs update.
 > I get a password prompt, and then it just hangs.
 > 
 > cat CVS/Root

@@ -24,7 +24,7 @@ Received: from 10.0.0.4 ( [10.0.0.4]) as user ajacoutot@linuxfr.dyndns.org
     by linuxfr.dyndns.org with HTTP; Fri, 16 Aug 2002 13:09:14 +0200
 Message-Id: <1029496154.3d5cdd5a870d5@linuxfr.dyndns.org>
 From: Antoine Jacoutot <ajacoutot@linuxfr.dyndns.org>
-To: "rpm-zzzlist@freshrpms.net" <rpm-zzzlist@freshrpms.net>
+To: rpm-zzzlist@freshrpms.net <rpm-zzzlist@freshrpms.net>
 Subject: request ?
 MIME-Version: 1.0
 Content-Type: text/plain; charset=ISO-8859-15

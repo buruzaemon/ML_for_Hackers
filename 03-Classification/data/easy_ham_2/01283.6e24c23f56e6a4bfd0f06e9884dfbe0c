@@ -36,7 +36,7 @@ User-Agent: Mutt/1.4i
 X-Disclaimer: Any views expressed in this message,where not explicitly
     attributed otherwise, are mine alone!.
 X-Fortune: People need good lies. There are too many bad ones. -- Bokonon,
-    "Cat's Cradle" by Kurt Vonnegut, Jr.
+    Cat's Cradle by Kurt Vonnegut, Jr.
 X-Operating-System: FreeBSD 4.5-STABLE i386
 X-Best-Window-Manager: Blackbox
 X-Designation: Systems Administrator, Wananchi Online Ltd.
@@ -68,7 +68,7 @@ in my procmail log:
 
 
 <cut>
-procmail: Executing " ~/bin/SpamAssassin/spamassassin -P -c ~/bin/SpamAssassin/rules"
+procmail: Executing  ~/bin/SpamAssassin/spamassassin -P -c ~/bin/SpamAssassin/rules
 dccproc: not found
 dccproc: not found
 <cut>
@@ -89,7 +89,7 @@ The problem is that the site-wide setup does NOT seem to work. Why?
 My local.cf contains:
 
 ENABLED=1
-OPTIONS="-F 0"
+OPTIONS=-F 0
 
 #
 rewrite_subject         0
@@ -115,8 +115,8 @@ PERTINENT: I also run a Virus Scanner called DRWEB via Exim's system filter and 
 that I have applied are:
 
 if not first_delivery or
-    $received_protocol is "drweb-scanned" or
-    $received_protocol is "spam-scanned"
+    $received_protocol is drweb-scanned or
+    $received_protocol is spam-scanned
 then
   finish
 endif
@@ -131,13 +131,13 @@ Thanks
 -Wash
 
 -- 
-Odhiambo Washington  <wash@wananchi.com>    "The box said 'Requires
+Odhiambo Washington  <wash@wananchi.com>    The box said 'Requires
 Wananchi Online Ltd.  www.wananchi.com      Windows 95, NT, or better,'
-Tel: 254 2 313985-9   Fax: 254 2 313922     so I installed FreeBSD."   
+Tel: 254 2 313985-9   Fax: 254 2 313922     so I installed FreeBSD.   
 GSM: 254 72 743 223   GSM: 254 733 744 121  This sig is McQ!  :-)
 
 
-"We demand rigidly defined areas of doubt and uncertainty!"
+We demand rigidly defined areas of doubt and uncertainty!
 		-- Vroomfondel
 
 

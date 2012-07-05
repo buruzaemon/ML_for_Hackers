@@ -47,7 +47,7 @@ Received: from u-8-cvn2uto (61-223-155-181.HINET-IP.hinet.net
 Received: from hotmail by titan.seed.net.tw with SMTP id
     jb2ADScSzwzK56cd1mrXamf4; Sat, 13 Jul 2002 14:27:03 +0800
 Message-Id: <QmaozXNd@tpts8.seed.net.tw>
-From: £«¼e@mx.serv.net
+From: e@mx.serv.net
 To: new-10@mx.serv.net, new-11@mx.serv.net
 MIME-Version: 1.0
 X-Mailer: WA9c2D478J2W9yTmQNRm
@@ -69,18 +69,18 @@ List-Unsubscribe: <https://example.sourceforge.net/lists/listinfo/spamassassin-s
 List-Archive: <http://www.geocrawler.com/redir-sf.php3?list=spamassassin-sightings>
 X-Original-Date: Fri, 12 Jul 2002 23:32:15 -0700 (PDT)
 Date: Fri, 12 Jul 2002 23:32:15 -0700 (PDT)
-Content-Type: multipart/related; type="multipart/alternative"; boundary="----=_NextPart_dO8zJ9VZJNgvpKVZoFA"
+Content-Type: multipart/related; type=multipart/alternative; boundary=----=_NextPart_dO8zJ9VZJNgvpKVZoFA
 
 This is a multi-part message in MIME format.
 
 ------=_NextPart_dO8zJ9VZJNgvpKVZoFA
 Content-Type: multipart/alternative;
-	boundary="----=_NextPart_dO8zJ9VZJNgvpKVZoFAAA"
+	boundary=----=_NextPart_dO8zJ9VZJNgvpKVZoFAAA
 
 
 ------=_NextPart_dO8zJ9VZJNgvpKVZoFAAA
 Content-Type: text/html;
-	charset="big5"
+	charset=big5
 Content-Transfer-Encoding: base64
 
 PGh0bWw+DQoNCjxoZWFkPg0KPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50

@@ -43,13 +43,13 @@ List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
 List-Archive: <http://xent.com/pipermail/fork/>
 Date: Sun, 08 Sep 2002 16:54:09 -0700
 
-On 9/8/02 3:16 PM, "Gary Lawrence Murphy" <garym@canada.com> wrote:
->>>>>> "J" == James Rogers <jamesr@best.com> writes:
+On 9/8/02 3:16 PM, Gary Lawrence Murphy <garym@canada.com> wrote:
+>>>>>> J == James Rogers <jamesr@best.com> writes:
 > 
 >   J> An example: Being able to model RF propagation in three
 >   J> dimensions for a metro area when deploying wireless networks.
 >   J> By having every single tree and building detail and similar,
->   J> you can "see" even tiny dead spots due to physical blockage and
+>   J> you can see even tiny dead spots due to physical blockage and
 >   J> signal attenuation.
 > 
 > Hmmm, just as I thought.  In other words, it has no practical uses
@@ -57,10 +57,10 @@ On 9/8/02 3:16 PM, "Gary Lawrence Murphy" <garym@canada.com> wrote:
 > are really going to shell out /their/ money to find a house or two
 > they can't reach?  Experience suggests (a) they won't care and (b)
 > they will even sign up that errant house and then give them a
-> run-around blaming the dead-spot on "unsupported vendor equipment".
+> run-around blaming the dead-spot on unsupported vendor equipment.
 
 
-Errrr....the biz guys in my office don't care what the "WISPs" want to do
+Errrr....the biz guys in my office don't care what the WISPs want to do
 with their little WiFi networks.  And the bandwidth shadows in most cities
 are surprisingly large and common.  They aren't selling the software, which
 is pretty pricy as it happens.  They are using it to optimize next

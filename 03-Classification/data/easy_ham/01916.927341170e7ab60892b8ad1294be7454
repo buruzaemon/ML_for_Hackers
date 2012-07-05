@@ -13,7 +13,7 @@ Received: from dogma.slashnull.org (localhost [127.0.0.1]) by
 Message-Id: <200209260801.g8Q81TC06444@dogma.slashnull.org>
 To: yyyy@spamassassin.taint.org
 From: scripting <rssfeeds@spamassassin.taint.org>
-Subject: Jon Hanna, on the RSS-DEV list, says that RSS, was "not designed
+Subject: Jon Hanna, on the RSS-DEV list, says that RSS, was not designed
     to be of a
 Date: Thu, 26 Sep 2002 08:01:29 -0000
 Content-Type: text/plain; encoding=utf-8
@@ -21,8 +21,8 @@ Content-Type: text/plain; encoding=utf-8
 URL: http://scriptingnews.userland.com/backissues/2002/09/25#When:6:25:23AM
 Date: Wed, 25 Sep 2002 13:25:23 GMT
 
-Jon Hanna, on the RSS-DEV list, says[1] that RSS, was "not designed to be of 
-any particular use to bloggers, aggregators, or metadata providers." This is 
+Jon Hanna, on the RSS-DEV list, says[1] that RSS, was not designed to be of 
+any particular use to bloggers, aggregators, or metadata providers. This is 
 not true. Half of RSS 0.91 was scriptingNews format[2], which was totally 
 designed to model a weblog in XML. 
 

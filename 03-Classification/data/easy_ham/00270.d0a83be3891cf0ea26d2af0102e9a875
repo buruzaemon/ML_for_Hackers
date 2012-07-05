@@ -56,8 +56,8 @@ I don't think so: it should be getting a stream of PS from stdin,
 but it's not. The printing/spooling system is executing gs but
 somehow failing to provide it with input.
 
-> Try tweaking the scripts to run "gs" with the ps file on
-> the command line instead of as "-".
+> Try tweaking the scripts to run gs with the ps file on
+> the command line instead of as -.
 
 That might clarify that the later part of the system works, but I
 suspect the problem is earlier.

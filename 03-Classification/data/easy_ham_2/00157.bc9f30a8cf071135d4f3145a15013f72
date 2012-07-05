@@ -27,7 +27,7 @@ Message-Id: <20020730114016.A21006@fiachra.ucd.ie>
 Reply-To: Irish Linux Users Group <ilug@linux.ie>
 Mail-Followup-To: ilug@linux.ie
 References: <20020730112811.A32231@wanadoo.fr>
-    <"from <20020730110032.A19970@fiachra.ucd.ie>
+    <from <20020730110032.A19970@fiachra.ucd.ie>
 MIME-Version: 1.0
 Content-Type: text/plain; charset=us-ascii
 Content-Disposition: inline
@@ -47,12 +47,12 @@ Hi,
 
 On Tue, 30 Jul 2002, Gavin McCullagh wrote:
 
-> set alternates = "kbeditor@linuxcare.com|coolapps@linuxcare.com"
+> set alternates = kbeditor@linuxcare.com|coolapps@linuxcare.com
 > set reverse_name
 
 PS Make sure not to have a line like this:
 
-	send-hook .  'my_hdr From: Gavin McCullagh <gav......>"
+	send-hook .  'my_hdr From: Gavin McCullagh <gav......>
 
 which will only override it and cause pain and suffering.
 

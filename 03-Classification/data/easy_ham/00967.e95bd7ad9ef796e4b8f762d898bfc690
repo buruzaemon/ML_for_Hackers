@@ -38,10 +38,10 @@ Subject: Re: New Sequences Window
 In-Reply-To: <1030562749.28110.TMDA@deepeddy.vircio.com>
 References: <1030562749.28110.TMDA@deepeddy.vircio.com>
 Comments: In-reply-to Chris Garrigues <cwg-dated-1030994748.7b01dd@DeepEddy.Com>
-    message dated "Wed, 28 Aug 2002 15:25:47 -0400."
+    message dated Wed, 28 Aug 2002 15:25:47 -0400.
 From: Brent Welch <welch@panasas.com>
 X-Url: http://www.panasas.com/
-X-Face: "HxE|?EnC9fVMV8f70H83&{fgLE.|FZ^$>@Q(yb#N,Eh~N]e&]=>r5~UnRml1:4EglY{9B+
+X-Face: HxE|?EnC9fVMV8f70H83&{fgLE.|FZ^$>@Q(yb#N,Eh~N]e&]=>r5~UnRml1:4EglY{9B+
     :'wJq$@c_C!l8@<$t,{YUr4K,QJGHSvS~U]H`<+L*x?eGzSk>XH\W:AK\j?@?c1o<k;j'Ei/UL)!*0
     ILwSR)J\bc)gjz!rrGQ2#i*f:M:ydhK}jp4dWQW?;0{,#iWrCV$4~%e/3)$1/D
 X-Loop: exmh-workers@spamassassin.taint.org
@@ -70,7 +70,7 @@ stick in some time calls to find out how expensive things are.
 
 Someone asked about increasing the time resolution in the exmh log.
 We could make that conditional on some support available in 8.3 -
-Tcl has had "clock seconds" (like gettimeofday) and "clock clicks"
+Tcl has had clock seconds (like gettimeofday) and clock clicks
 (high resolution timer) for some time.  But in 8.3 we've calibrated
 clock clicks values to microseconds.  It is still only useful for
 relative times, but each call to Exmh_Log could emit the microsecond

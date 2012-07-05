@@ -33,9 +33,9 @@ List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
 List-Archive: <http://xent.com/pipermail/fork/>
 Date: Mon, 22 Jul 2002 22:06:49 -0700 (PDT)
 
-"In fact, Caltech says that it actually spun out the same number of
+In fact, Caltech says that it actually spun out the same number of
 startups in 2001 -- a poor time, needless to say, for new ventures -- as
-it did in the boom year of 1999."  Oookaaaay...
+it did in the boom year of 1999.  Oookaaaay...
 
 
 http://www.fulcrummicro.com/press/article_eeTimes_05-08-02.shtml
@@ -53,8 +53,8 @@ clocks are for wimps.
 The Fulcrum Microsystems Inc. design team isn't the first to propose an
 asynchronous processor, but president and chief executive officer Robert
 Nunn wants to be the first to take a clockless, fire-breathing processor
-mainstream. "We really deal with an asynchronous world," he said. "We
-only make it synchronous for our own convenience."
+mainstream. We really deal with an asynchronous world, he said. We
+only make it synchronous for our own convenience.
 
 This is the kind of stuff that many in the processor industry would
 consider lunatic fringe, too weird for conservative embedded-systems
@@ -100,10 +100,10 @@ interface instead of HyperTransport, which has been favored by MIPS vendors.
 
 Good fit 
 
-"It's a nice, clean architecture and has an open model that allows us to
-add instructions," said Paul Nixon, chief executive officer of
-Intrinsity.  "You also get all the third-party tools that very easily
-fit into our base of platforms."
+It's a nice, clean architecture and has an open model that allows us to
+add instructions, said Paul Nixon, chief executive officer of
+Intrinsity.  You also get all the third-party tools that very easily
+fit into our base of platforms.
 
 There was a time when this openness was seen as a liability for MIPS. In
 the mid-1990s, before MIPS was spun out from Silicon Graphics Inc., the
@@ -112,19 +112,19 @@ took it upon themselves to create their own. The problem was that this
 broke many of the development tools, causing headaches for compiler
 vendors like Green Hills Software Inc.
 
-"We went to MIPS and said we have 20 different compiler variants and
-it's embarrassing," said Craig Franklin, vice president of engineering
+We went to MIPS and said we have 20 different compiler variants and
+it's embarrassing, said Craig Franklin, vice president of engineering
 at Green Hills and a respected microprocessor industry veteran. Franklin
 also wasn't shy about telling MIPS it needed to revamp its embedded
-application binary interface. "We went to MIPS and said we've done a
-dozen EABIs, let's clean up yours," he said.
+application binary interface. We went to MIPS and said we've done a
+dozen EABIs, let's clean up yours, he said.
 
 MIPS took the advice and wasted little time clamping down on
 architectural deviations, observers said. But the MIPS camp still has to
-live with a legacy of incompatible chips in the field. "To its credit,
-MIPS quickly caught on," said Jim Turley, a microprocessor industry
-analyst. "Going forward, MIPS is maintaining good control but they are
-still haunted by incompatibility among multiples."
+live with a legacy of incompatible chips in the field. To its credit,
+MIPS quickly caught on, said Jim Turley, a microprocessor industry
+analyst. Going forward, MIPS is maintaining good control but they are
+still haunted by incompatibility among multiples.
 
 If the biggest risk to the MIPS camp is fragmentation, then the PowerPC
 camp has the opposite problem: architectural confinement. Though the
@@ -134,16 +134,16 @@ PowerPCs. It's not for lack of interest. Rather, the companies have been
 reluctant to cede control over the architecture. This could wind up
 hurting the PowerPC cause, though.
 
-"To get a PowerPC license is impossible or very expensive," Green Hills'
-Franklin said. "Tactically this may have been a mistake. If you're a
+To get a PowerPC license is impossible or very expensive, Green Hills'
+Franklin said. Tactically this may have been a mistake. If you're a
 Japanese company, all things being equal, you'd rather buy from another
-Japanese company."
+Japanese company.
 
 Analyst Turley, too, thinks the PowerPC camp will only stand to gain by
-licensing the architecture. "It's all about software compatibility and
+licensing the architecture. It's all about software compatibility and
 tool support. The more you can proliferate the architecture the better
-you're going to do," he said. "I don't think Motorola and IBM can
-address the entire market by themselves."
+you're going to do, he said. I don't think Motorola and IBM can
+address the entire market by themselves.
 
 There's a chance that this could change. IBM, for its part, is in the
 process of planning an expansion strategy for PowerPC that may involve
@@ -151,17 +151,17 @@ more licensing. Though it's unlikely the PowerPC camp will ever have the
 open licensing model of MIPS Technologies, MIPS processor vendors may
 have more than just two competitors to worry about.
 
-"We're certainly not averse to [licensing]," said Lisa Su, director of
-PowerPC products at IBM. "The question is, how much do we do and who do
+We're certainly not averse to [licensing], said Lisa Su, director of
+PowerPC products at IBM. The question is, how much do we do and who do
 we license to. There are various ways you could go, whether it's a hard
-core, soft core or licensing the ISA."
+core, soft core or licensing the ISA.
 
-But the fear of architectural fragmentation still looms large. "We know
+But the fear of architectural fragmentation still looms large. We know
 that if we have different microarchitectures we have to do work on
-software compatibility," Su said. "With MIPS there's a degree of
+software compatibility, Su said. With MIPS there's a degree of
 fracturing. That may not always be a big problem, but if you go to other
 markets -- like consumer -- it becomes big. Our belief is there is a
-happy medium."
+happy medium.
 
 Whatever path IBM takes it will act in its own best interest as a chip
 provider, not as a company that wants to hawk intellectual
@@ -169,8 +169,8 @@ property. This is why the Xilinx licensing deal works for IBM: Big Blue
 is not so much interested in the royalties and fees it collects from
 Xilinx, but in the dual benefit of widening the appeal of the
 architecture and the revenue IBM generates from manufacturing the FPGAs
-for Xilinx in its own fabs. "We're not trying to make money off of
-licensing," Su said.
+for Xilinx in its own fabs. We're not trying to make money off of
+licensing, Su said.
 
 Manufacturing is probably one of the most powerful weapons that PowerPC
 vendors IBM and Motorola wield. Both have gussied up their high-end
@@ -181,8 +181,8 @@ shipping today. IBM did it using 0.13-micron design rules and a
 four-stage pipeline; Motorola is using 0.18-micron design rules and a
 seven-stage pipe.
 
-The companies say there's more performance headroom in store. "When we
-get to 0.13 micron we'll get substantially faster," said Raj Handa,
+The companies say there's more performance headroom in store. When we
+get to 0.13 micron we'll get substantially faster, said Raj Handa,
 PowerPC and PowerQuicc marketing manager at Motorola.
 
 Proprietary processes 
@@ -199,10 +199,10 @@ chops at the high end. It should become clear in the next year or so how
 some of the newer players measure up.
 
 Intrinsity hopes to field its 2-GHz processors by the end of the
-year. Fulcrum is shooting for an early 2003 introduction. "We're going
+year. Fulcrum is shooting for an early 2003 introduction. We're going
 to shock the industry in terms of raw performance and speed-vs.-power
-performance," Fulcrum's Nunn said. "We really want to change the way the
-world designs semiconductors."
+performance, Fulcrum's Nunn said. We really want to change the way the
+world designs semiconductors.
 
 
 
@@ -229,19 +229,19 @@ most campuses, Caltech has blossomed into a robust new-company machine.
 
 This didn't happen by accident. During the past seven years, Caltech's
 Office of Technology Transfer has carefully developed a strategy for
-cultivating commerce. "We focus on nurturing entrepreneurs
-scientifically more than other schools do," says Rich Wolfe, the
+cultivating commerce. We focus on nurturing entrepreneurs
+scientifically more than other schools do, says Rich Wolfe, the
 office's associate director. That is, the university focuses more on the
 science itself than on the ensuing commercial opportunity.
 
 That's what grabbed Uri Cummings and Andrew Lines, two PhD students at
-Caltech who founded Fulcrum Microsystems in 2000. "There is a pervasive
-philosophy at Caltech that no problem is unsolvable," Cummings
-says. "There's a focus on scientific ingenuity that is thrilling to be
+Caltech who founded Fulcrum Microsystems in 2000. There is a pervasive
+philosophy at Caltech that no problem is unsolvable, Cummings
+says. There's a focus on scientific ingenuity that is thrilling to be
 around. Caltech has so many entrepreneurs because the school doesn't
 make it about business or focus on how much money they'll get out of
 it. Caltech is a catalyst, moving technology from the university out
-into industry, and students are thrilled to be a part of it."
+into industry, and students are thrilled to be a part of it.
 
 Before starting Fulcrum, Cummings and Lines worked for six years with
 Caltech computer-science professor Alain Martin on an
@@ -257,13 +257,13 @@ spare. Instead, the school typically takes equity stakes in startups,
 and it defers collection of patent payments until fledgling companies
 are financially secure.
 
-For Caltech, it's a long-term bet. "The reality is that universities
+For Caltech, it's a long-term bet. The reality is that universities
 rely far more on their endowments than they could on any fees to be
-collected from the initial licensing process," Wolfe says. "So we seek a
+collected from the initial licensing process, Wolfe says. So we seek a
 bite of the apple -- and we hope that if one of these entrepreneurs
 founds the next Intel, he'll not only share the equity but also bestow a
 gift on the university in remembrance that we took care of him when he
-was just getting started."
+was just getting started.
 
 Cummings and Lines may be in a position to do just that. Fulcrum has won
 about $20 million in venture funding amid the toughest venture market in
@@ -273,7 +273,7 @@ their alma mater. And they've garnered rave reviews of their chip design
 from technology journals.
 
 One thing that Cummings and Lines haven't done yet: finished their
-degrees. Officially, both are now "on leave." They may not be back.
+degrees. Officially, both are now on leave. They may not be back.
 
 
 

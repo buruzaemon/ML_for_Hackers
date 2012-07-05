@@ -45,7 +45,7 @@ X-MIME-Autoconverted: from quoted-printable to 8bit by dogma.slashnull.org
     id g989KUK08679
 
 Why am I so passionate about decentralization? Because I believe some of 
-today’s most profound problems with networked applications are caused by 
+todays most profound problems with networked applications are caused by 
 centralization.
 
 Generically, a centralized political or economic system permits only one 
@@ -55,7 +55,7 @@ context of software, centralized variables can only contain one valid
 value at a time. That limits us to only representing information A) 
 according to the beliefs of a single agency, and B) that changes more 
 slowly than it takes to propagate. Nevertheless, centralization is the 
-basis for today’s most popular architectural style for developing 
+basis for todays most popular architectural style for developing 
 network applications: client-server interaction using request-response 
 communication protocols.
 

@@ -30,7 +30,7 @@ Message-Id: <B98ABFA4.1F87%dh@uptime.at>
 MIME-Version: 1.0
 X-Trusted: YES
 X-From-Laptop: YES
-Content-Type: text/plain; charset="US-ASCII"
+Content-Type: text/plain; charset=US-ASCII
 Content-Transfer-Encoding: 7bit
 X-Mailscanner: Nothing found, baby
 Subject: [SAdev] Interesting approach to Spam handling..
@@ -55,7 +55,7 @@ Hello, have you seen and discussed this article and his approach?
 Thank you
 
 http://www.paulgraham.com/spam.html
--- "Hell, there are no rules here-- we're trying to accomplish something."
+-- Hell, there are no rules here-- we're trying to accomplish something.
 -- Thomas Alva Edison
 
 

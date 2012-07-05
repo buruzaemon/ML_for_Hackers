@@ -15,14 +15,14 @@ Received: from unknown (HELO RAGING) ([66.92.72.213]) (envelope-sender
     <rOD@arsecandle.org>) by mail16.speakeasy.net (qmail-ldap-1.03) with SMTP
     for <jm@jmason.org>; 30 Jul 2002 17:36:27 -0000
 Message-Id: <014501c237ef$96258d30$b554a8c0@RAGING>
-From: "rODbegbie" <rOD@arsecandle.org>
-To: "Justin Mason" <yyyy@spamassassin.taint.org>
+From: rODbegbie <rOD@arsecandle.org>
+To: Justin Mason <yyyy@spamassassin.taint.org>
 References: <20020730172908.5BC0A4406D@phobos.labs.netnoteinc.com>
 Subject: Re: [SAdev] Alternatives to the GA
 Date: Tue, 30 Jul 2002 13:36:06 -0400
 Organization: Arsecandle Industries, Inc.
 MIME-Version: 1.0
-Content-Type: text/plain; charset="Windows-1252"
+Content-Type: text/plain; charset=Windows-1252
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal
@@ -31,7 +31,7 @@ X-Mimeole: Produced By Microsoft MimeOLE V6.00.2800.1050
 
 Justin Mason wrote:
 > I'd be happy to do that -- providing the nonspam.log and spam.log files
-> from my mass-check output (ie. the "matrix of test results" in Ken's
+> from my mass-check output (ie. the matrix of test results in Ken's
 > terms).  Along with the default scores, this is the entire input data set
 > for the SpamAssassin GA system.
 
@@ -44,7 +44,7 @@ rOD.
 
 
 --
-"I would also have accepted 'Snacktacular'"
+I would also have accepted 'Snacktacular'
 
 >> Doing the blogging thang again at http://www.groovymother.com/ <<
 

@@ -19,12 +19,12 @@ X-Authentication-Warning: lugh.tuatha.org: Host [67.104.83.251] claimed to
     be email.qves.com
 Received: from qvp0091 ([169.254.6.22]) by email.qves.com with Microsoft
     SMTPSVC(5.0.2195.2966); Thu, 22 Aug 2002 06:18:18 -0600
-From: "Slim Down" <taylor@s3.serveimage.com>
+From: Slim Down <taylor@s3.serveimage.com>
 To: <ilug@linux.ie>
 Date: Thu, 22 Aug 2002 06:18:18 -0600
 Message-Id: <59e6301c249d5$ffb7ea20$1606fea9@freeyankeedom.com>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Mailer: Microsoft CDO for Windows 2000
 Thread-Index: AcJJ1f+3FWdz11AmR6uWbmQN5gGxxw==

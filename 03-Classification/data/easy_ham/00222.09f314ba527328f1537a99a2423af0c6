@@ -22,7 +22,7 @@ Received: FROM barge.dsg.cs.tcd.ie BY webshield ; Wed Aug 28 10:45:49 2002
 Received: (from david@localhost) by barge.dsg.cs.tcd.ie (8.11.2/8.11.2) id
     g7S9mDY03689 for ilug@linux.ie; Wed, 28 Aug 2002 10:48:13 +0100
 Date: Wed, 28 Aug 2002 10:48:13 +0100
-From: "David O'Callaghan" <ocalladw@tcd.ie>
+From: David O'Callaghan <ocalladw@tcd.ie>
 To: ilug@linux.ie
 Subject: Re: [ILUG] Newbie seeks advice - Suse 7.2
 Message-Id: <20020828104813.C1470@barge.tcd.ie>

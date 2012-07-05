@@ -11,7 +11,7 @@ Message-ID: <LNBBLJKPBEHFEDALKOLCEEOJBCAB.tim.one@comcast.net>
 > I'd prefer to strip HTML tags from everything, but last time I
 > tried that it still had bad effects on the error rates in my
 > corpora (the full test results with and without HTML tag stripping
-> is included in the "What about HTML?" comment block).  But as the
+> is included in the What about HTML? comment block).  But as the
 > comment block also says,
 >
 > # XXX So, if another way is found to slash the f-n rate, the decision here

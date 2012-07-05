@@ -20,13 +20,13 @@ X-Authentication-Warning: lugh.tuatha.org: Host [209.115.42.142] claimed
 Received: from dialup-0542.dublin.iol.ie ([193.203.146.30] helo=nmtbmedia)
     by orion.jtlnet.com with smtp (Exim 3.35 #1) id 17fnUi-0004yY-00 for
     ilug@linux.ie; Fri, 16 Aug 2002 16:14:52 -0400
-From: "AJ McKee" <aj.mckee@nmtbmedia.com>
+From: AJ McKee <aj.mckee@nmtbmedia.com>
 To: <ilug@linux.ie>
 Subject: RE: [ILUG] ADSL, routers and firewalls
 Date: Fri, 16 Aug 2002 21:14:14 +0100
 Message-Id: <LAEAIGLCKFNPNHBDGGEGMEKJCEAA.aj.mckee@nmtbmedia.com>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal

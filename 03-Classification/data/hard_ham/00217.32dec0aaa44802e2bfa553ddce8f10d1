@@ -17,14 +17,14 @@ Received: by en5.engelschall.com (Sendmail 8.9.2) via ESMTP for <openssl-users@o
 Received: from AE3130LW (ae-3130-lw.ucdavis.edu [169.237.57.172])
 	by gordy.ucdavis.edu (8.9.3/8.9.3) with SMTP id QAA16776
 	for <openssl-users@openssl.org>; Fri, 13 Sep 2002 16:05:16 -0700 (PDT)
-From: "Laurie Warren" <laurie@primal.ucdavis.edu>
+From: Laurie Warren <laurie@primal.ucdavis.edu>
 To: <openssl-users@openssl.org>
 Subject: Securing multiple virtual hosts
 Date: Fri, 13 Sep 2002 16:07:47 -0700
 Message-ID: <EBEDJOALNPEIOACFPPNLEEIACJAA.laurie@primal.ucdavis.edu>
 MIME-Version: 1.0
 Content-Type: text/plain;
-	charset="iso-8859-1"
+	charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-MSMail-Priority: Normal
@@ -34,7 +34,7 @@ Importance: Normal
 Sender: owner-openssl-users@openssl.org
 Precedence: bulk
 Reply-To: openssl-users@openssl.org
-X-Sender: "Laurie Warren" <laurie@primal.ucdavis.edu>
+X-Sender: Laurie Warren <laurie@primal.ucdavis.edu>
 X-List-Manager: OpenSSL Majordomo [version 1.94.4]
 X-List-Name: openssl-users
 X-Virus-Scanned: by amavisd-milter (http://amavis.org/)

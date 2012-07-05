@@ -24,10 +24,10 @@ Received: by skynet.csn.ul.ie (Postfix, from userid 2196) id 45411E508;
     Fri,  2 Aug 2002 10:39:12 +0100 (IST)
 Date: Fri, 2 Aug 2002 10:39:12 +0100
 From: Stephen Shirley <diamond@skynet.ie>
-To: "Irish Linux User's Group (E-mail)" <ilug@linux.ie>
+To: Irish Linux User's Group (E-mail) <ilug@linux.ie>
 Subject: Re: [ILUG] Quake 3
 Message-Id: <20020802093912.GA19703@skynet.ie>
-Mail-Followup-To: "Irish Linux User's Group (E-mail)" <ilug@linux.ie>
+Mail-Followup-To: Irish Linux User's Group (E-mail) <ilug@linux.ie>
 References: <D0A7D6543169D3119B3E00902789397E044219E7@oasis006.msc.ie>
 MIME-Version: 1.0
 Content-Type: text/plain; charset=us-ascii
@@ -47,7 +47,7 @@ On Fri, Aug 02, 2002 at 09:41:52AM +0100, Gregory McRandal (ext 722) wrote:
 > error in sis_drv.o,  the line before this says that it is starting Quake in
 > 24 bit depth, now from http://www.winischhofer.net/linuxsis630.shtml I
 > understand that the sis630 won't do 24 bit depth.  So is there a way to make
-> Quake start up in 16 bit depth?  I've done some "google"ing but drawn a
+> Quake start up in 16 bit depth?  I've done some googleing but drawn a
 > blank.....
 
 Hmm. Check to see what colour-depth your X session is running in. Try
@@ -56,7 +56,7 @@ Letting us know what distro you're using would help too.
 
 Steve
 -- 
-"Oh look, it's the Pigeon of Love."
+Oh look, it's the Pigeon of Love.
 
 -- 
 Irish Linux Users' Group: ilug@linux.ie

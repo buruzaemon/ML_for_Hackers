@@ -32,7 +32,7 @@ To: SpamTalk <SpamTalk@US.NET56.net>
 Cc: spamassassin-talk@example.sourceforge.net
 Subject: Re: [SAtalk] URL blacklist
 In-Reply-To: Message from SpamTalk <SpamTalk@US.NET56.net> of
-    "Mon, 30 Sep 2002 19:38:24 CDT."
+    Mon, 30 Sep 2002 19:38:24 CDT.
     <0FCA00EE04CDD3119C910050041FBA703A68A0@ilpostoffice.main.net56.net>
 From: yyyy@spamassassin.taint.org (Justin Mason)
 X-GPG-Key-Fingerprint: 0A48 2D8B 0B52 A87D 0E8A  6ADD 4137 1B50 6E58 EF0A
@@ -64,7 +64,7 @@ Date: Tue, 01 Oct 2002 10:51:56 +0100
 
 
 SpamTalk said:
-> Probably better than the "spam phrases" approach would be the database
+> Probably better than the spam phrases approach would be the database
 > approach as currently used for white/black listing.
 > Any way to tie that to an XML retrieval from a list of central repositories?
 > Does mySQL do replication? A properly done XML would let us eyeball the list
@@ -80,7 +80,7 @@ A good plan, needs an implementation though:
 
 hmm. seems down to me.  Basically it's a plan to store hash sums of
 URLs/phone numbers found in spam in a DNSBL, for apps like SpamAssassin to
-look up.  A little like spamcop's "spamvertized URL" list...
+look up.  A little like spamcop's spamvertized URL list...
 
 --j.
 

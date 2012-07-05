@@ -28,13 +28,13 @@ Received: by spamassassin.taint.org (Postfix, from userid 500) id C3E6C16F03;
     Thu,  3 Oct 2002 21:23:09 +0100 (IST)
 Received: from spamassassin.taint.org (localhost [127.0.0.1]) by spamassassin.taint.org (Postfix)
     with ESMTP id C0200F7B1; Thu,  3 Oct 2002 21:23:09 +0100 (IST)
-To: "Malte S. Stretz" <msquadrat.nospamplease@gmx.net>
+To: Malte S. Stretz <msquadrat.nospamplease@gmx.net>
 Cc: spamassassin-talk@example.sourceforge.net
 Subject: Re: [SAtalk] 2.42: est release?
 In-Reply-To: Message from
-    "Malte S. Stretz"
+    Malte S. Stretz
     <msquadrat.nospamplease@gmx.net> of
-    "Wed, 02 Oct 2002 20:31:49 +0200."
+    Wed, 02 Oct 2002 20:31:49 +0200.
     <200210022031.49748@malte.stretz.eu.org>
 From: yyyy@spamassassin.taint.org (Justin Mason)
 X-GPG-Key-Fingerprint: 0A48 2D8B 0B52 A87D 0E8A  6ADD 4137 1B50 6E58 EF0A

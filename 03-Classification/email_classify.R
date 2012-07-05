@@ -134,10 +134,8 @@ classify.email <- function(path, training.df, prior = 0.5, c = 1e-6)
 # First, we create document corpus for spam messages
 
 # Get all the SPAM-y email into a single vector
-spam.docs <- dir(spam.path)
-spam.docs <- spam.docs[which(spam.docs != "cmds")]
-all.spam <- sapply(spam.docs,
-                   function(p) get.msg(file.path(spam.path, p)))
+spam.docs <- dir(spam.path, '^[0-9]{5}.[a-z0-9]{32}$')
+all.spam <- sapply(spam.docs, function(p) get.msg(file.path(spam.path, p)))
 
 # Create a DocumentTermMatrix from that vector
 spam.tdm <- get.tdm(all.spam)
@@ -147,11 +145,11 @@ spam.matrix <- as.matrix(spam.tdm)
 spam.counts <- rowSums(spam.matrix)
 spam.df <- data.frame(cbind(names(spam.counts),
                             as.numeric(spam.counts)),
-                      stringsAsFactors = FALSE)
+                            stringsAsFactors = FALSE)
 names(spam.df) <- c("term", "frequency")
 spam.df$frequency <- as.numeric(spam.df$frequency)
 spam.occurrence <- sapply(1:nrow(spam.matrix),
-                          function(i)
+                          function(i) 
                           {
                             length(which(spam.matrix[i, ] > 0)) / ncol(spam.matrix)
                           })
@@ -162,11 +160,12 @@ spam.df <- transform(spam.df,
                      density = spam.density,
                      occurrence = spam.occurrence)
 
+# Confirm the contents of spam.df
+head(spam.df[with(spam.df, order(-occurrence)),])
+
 # Now do the same for the EASY HAM email
-easyham.docs <- dir(easyham.path)
-easyham.docs <- easyham.docs[which(easyham.docs != "cmds")]
-all.easyham <- sapply(easyham.docs[1:length(spam.docs)],
-                      function(p) get.msg(file.path(easyham.path, p)))
+easyham.docs <- dir(easyham.path, '^[0-9]{5}.[a-z0-9]{32}$')
+all.easyham <- sapply(easyham.docs[1:length(spam.docs)], function(p) get.msg(file.path(easyham.path, p)))
 
 easyham.tdm <- get.tdm(all.easyham)
 
@@ -174,7 +173,7 @@ easyham.matrix <- as.matrix(easyham.tdm)
 easyham.counts <- rowSums(easyham.matrix)
 easyham.df <- data.frame(cbind(names(easyham.counts),
                                as.numeric(easyham.counts)),
-                         stringsAsFactors = FALSE)
+                               stringsAsFactors = FALSE)
 names(easyham.df) <- c("term", "frequency")
 easyham.df$frequency <- as.numeric(easyham.df$frequency)
 easyham.occurrence <- sapply(1:nrow(easyham.matrix),
@@ -188,9 +187,11 @@ easyham.df <- transform(easyham.df,
                         density = easyham.density,
                         occurrence = easyham.occurrence)
 
+# Confirm the contents of easyham.df
+head(easyham.df[with(easyham.df, order(-occurrence)),])
+
 # Run classifer against HARD HAM
-hardham.docs <- dir(hardham.path)
-hardham.docs <- hardham.docs[which(hardham.docs != "cmds")]
+hardham.docs <- dir(hardham.path, '^[0-9]{5}.[a-z0-9]{32}$')
 
 hardham.spamtest <- sapply(hardham.docs,
                            function(p) classify.email(file.path(hardham.path, p), training.df = spam.df))
@@ -257,14 +258,11 @@ spam.classifier <- function(path)
 }
 
 # Get lists of all the email messages
-easyham2.docs <- dir(easyham2.path)
-easyham2.docs <- easyham2.docs[which(easyham2.docs != "cmds")]
+easyham2.docs <- dir(easyham2.path, '^[0-9]{5}.[a-z0-9]{32}$')
 
-hardham2.docs <- dir(hardham2.path)
-hardham2.docs <- hardham2.docs[which(hardham2.docs != "cmds")]
+hardham2.docs <- dir(hardham2.path, '^[0-9]{4}.[a-z0-9]{32}$')
 
-spam2.docs <- dir(spam2.path)
-spam2.docs <- spam2.docs[which(spam2.docs != "cmds")]
+spam2.docs <- dir(spam2.path, '^[0-9]{5}.[a-z0-9]{32}$')
 
 # Classify them all!
 easyham2.class <- suppressWarnings(lapply(easyham2.docs,
@@ -311,7 +309,7 @@ class.plot <- ggplot(class.df, aes(x = Pr.HAM, Pr.SPAM)) +
                                   "HARDHAM" = 2,
                                   "SPAM" = 3),
                        name = "Email Type") +
-    scale_alpha(legend = FALSE) +
+    scale_alpha(guide="none") +
     xlab("log[Pr(HAM)]") +
     ylab("log[Pr(SPAM)]") +
     theme_bw() +

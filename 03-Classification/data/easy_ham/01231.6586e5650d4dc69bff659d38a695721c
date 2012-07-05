@@ -20,7 +20,7 @@ Received: from leenx.co.za ([10.1.1.130]) by zeus.scania.co.za
     (8.11.6/8.11.2) with ESMTP id g93B2U826023 for <rpm-list@freshrpms.net>;
     Thu, 3 Oct 2002 13:02:35 +0200
 Message-Id: <3D9C23C5.9090203@leenx.co.za>
-From: "C.Lee Taylor" <leet@leenx.co.za>
+From: C.Lee Taylor <leet@leenx.co.za>
 Organization: LeeNX
 User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.0.0) Gecko/20020607
 X-Accept-Language: en-us, en
@@ -57,16 +57,16 @@ Date: Thu, 03 Oct 2002 13:02:29 +0200
  >> running kernel.
  >>
  >> So I've attached a patch to specify an alternate kernel by setting the
- >> "TARGET_KERNEL" environment variable before running rpmbuild. You
+ >> TARGET_KERNEL environment variable before running rpmbuild. You
  >> still need to have the rpm for the specified kernel installed, but at
  >> least it doesn't have to be currently running. It's kinda hackish, so
  >> if someone has a better way to do this, let me know.
  >
  >That idea looks good although it maybe needs to be tweaked a bit more (what
- >you sent doesn't support packages named "kernel-smp"). I'd also prefer a
+ >you sent doesn't support packages named kernel-smp). I'd also prefer a
  >cleaner way than the env variable, and preferrably not editing the spec...
- >probably "--define 'target 2.4.xx-xx' --with smp". Sound good enough?
- >The BuildRequires on "kernel-source" will also need to be removed because
+ >probably --define 'target 2.4.xx-xx' --with smp. Sound good enough?
+ >The BuildRequires on kernel-source will also need to be removed because
  >it won't necessarily need to be true, and that does bug me a bit :-/
 
 	Me and my kernel rpm builds ... this all works along the same idea I have 

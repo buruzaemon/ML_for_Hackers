@@ -21,7 +21,7 @@ Received: from matrix (localhost [127.0.0.1]) by matrix.netsoc.tcd.ie
     (Postfix) with ESMTP id DCD403445A for <ilug@linux.ie>; Wed,
     14 Aug 2002 19:42:59 +0100 (IST)
 Date: Wed, 14 Aug 2002 19:42:58 +0100
-To: "'ilug@linux.ie'" <ilug@linux.ie>
+To: 'ilug@linux.ie' <ilug@linux.ie>
 Subject: POTW (Was Re: [ILUG] mirroring on a running system)
 Message-Id: <20020814194258.B19685@netsoc.tcd.ie>
 References: <0D443C91DCE9CD40B1C795BA222A729E018855D0@milexc01.maxtor.com>

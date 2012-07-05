@@ -30,14 +30,14 @@ ways encouraged.
 *Tools:*
 1 PowerBook G4 with slot-loading DVD drive (any model should work)
 1 Monsters, Inc. Collector's Edition DVD (any DVD should work)
-1 copy of Mac OS X 10.2 "Jaguar" 
+1 copy of Mac OS X 10.2 Jaguar 
 
 *Process:*
 1. Insert DVD into drive. Notice how Jaguar helpfully loads the DVD Player for 
 you.
 2. Open the DVD (it appears on the desktop) and drag the VIDEO_TS folder to 
 your hard drive. Ejct the DVD.
-3. In DVD Player, select "Open VIDEO_TS Folder..." from the File menu. Use the 
+3. In DVD Player, select Open VIDEO_TS Folder... from the File menu. Use the 
 dialog that appears to select the VIDEO_TS folder on your hard drive. 
 
 Now the DVD plays just like it would were the DVD in the drive. By extension, I 

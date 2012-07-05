@@ -6,11 +6,11 @@ Received: by spamassassin.taint.org (Postfix, from userid 500)
 Received: from spamassassin.taint.org (localhost [127.0.0.1])
 	by jmason.org (Postfix) with ESMTP
 	id 28435F7B1; Wed, 18 Sep 2002 12:36:24 +0100 (IST)
-To: "Fox" <lds0062@cdc.net>
-Cc: "Justin Mason" <yyyy@spamassassin.taint.org>, razor-users@example.sourceforge.net
+To: Fox <lds0062@cdc.net>
+Cc: Justin Mason <yyyy@spamassassin.taint.org>, razor-users@example.sourceforge.net
 Subject: Re: [Razor-users] HTML Table - Razor Stats using -lm 4 
-In-Reply-To: Message from "Fox" <lds0062@cdc.net> 
-   of "Tue, 17 Sep 2002 18:01:40 EDT." <003d01c25e95$ccf547c0$7c640f0a@mfc.corp.mckee.com> 
+In-Reply-To: Message from Fox <lds0062@cdc.net> 
+   of Tue, 17 Sep 2002 18:01:40 EDT. <003d01c25e95$ccf547c0$7c640f0a@mfc.corp.mckee.com> 
 From: yyyy@spamassassin.taint.org (Justin Mason)
 X-GPG-Key-Fingerprint: 0A48 2D8B 0B52 A87D 0E8A  6ADD 4137 1B50 6E58 EF0A
 X-Habeas-Swe-1: winter into spring
@@ -27,7 +27,7 @@ Sender: yyyy@spamassassin.taint.org
 Message-Id: <20020918113624.2B27716F18@spamassassin.taint.org>
 
 
-"Fox" said:
+Fox said:
 
 > Before or after I whitelisted all the legit mailing lists that Razor is
 > tagging?  I had one false positive in the last four days.  Razor tagged some
@@ -37,7 +37,7 @@ Message-Id: <20020918113624.2B27716F18@spamassassin.taint.org>
 > understand it correctly.
 
 Razor folks: is -lm documented anywhere?   BTW, I notice all my *.conf
-files in ~/.razor use "lm = 4" by default anyway.
+files in ~/.razor use lm = 4 by default anyway.
 
 > No, I am not keeping official tally of false positives.  I need to write a
 > html interface to do it, and then it would be easy.  I imagine you want
@@ -45,8 +45,8 @@ files in ~/.razor use "lm = 4" by default anyway.
 > week I will have some stats for false positives.
 
 Yeah, that'd be cool -- much appreciated!   comparing text classifiers
-like spam filters, without tracking FPs, is not good.   After all, "cat >
-/dev/null" gets a 100% hit rate, but without the FP rate figure of, let's
+like spam filters, without tracking FPs, is not good.   After all, cat >
+/dev/null gets a 100% hit rate, but without the FP rate figure of, let's
 say 90%, you'd never know it was a bad thing to do ;)
 
 --j.

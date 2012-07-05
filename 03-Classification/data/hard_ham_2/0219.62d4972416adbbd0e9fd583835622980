@@ -131,7 +131,7 @@ http://www.mindview.net/Seminars/ThinkingInJava/
 
 Created by Bruce Eckel, taught by Andrea Provaglio. We believe this
 is the best in-depth introduction to Java that you'll find.  It's
-based on the book "Thinking in Java," which was created as the
+based on the book Thinking in Java, which was created as the
 seminar evolved.
 
 Please note the early registration discount: 
@@ -167,13 +167,13 @@ Please note the early registration discount:
 ===================================
 * New seminars
 
-Bill Venners and I just finished giving the last "Objects &
-Patterns" seminar, and everyone (especially us) had a great time.
+Bill Venners and I just finished giving the last Objects &
+Patterns seminar, and everyone (especially us) had a great time.
 
 We are now beginning to work towards the two new seminars spawned
 by Objects & Patterns, which Bill and I plan to teach together:
 Design Patterns in Java
-(Drawing primarily from "Thinking in Patterns")
+(Drawing primarily from Thinking in Patterns)
 
 Designing Objects & Systems
 This will include a lot of material from Bill's upcoming book on
@@ -267,7 +267,7 @@ Subject: Linux Gazette #82 (September 2002) available
 Date: 8 Sep 2002 01:25:35 GMT
 Reply-To: gazette@ssc.com
 
-"Linux Gazette...Making Linux just a little more fun!"
+Linux Gazette...Making Linux just a little more fun!
 
 Linux Gazette is a freely available, WWW e-zine that includes short articles
 giving tips and tricks, ideas and suggestions for customizing and running
@@ -294,7 +294,7 @@ Topics in this issue include:
      * The Answer Gang
      * News Bytes
      * Ecol , by Javier Malonda at escomposlinux.org
-     * Qubism , by Jon "Sir Flakey" Harsem
+     * Qubism , by Jon Sir Flakey Harsem
      * Writing your own Toy OS - Part III , by Raghu and Chitkala
      * Kerberos: The watchdog of the Ether , by Raj Shekhar
      * My Guide To Digital Photography , by Rob Tougher
@@ -323,7 +323,7 @@ Date: 8 Sep 2002 01:25:38 GMT
 Greetings to all,
 
 'bigtwo' is an cross-platform (tho' it's meant to run on linux) object oriented
-game engine for the card game of "cho dai di" with integrated artificial
+game engine for the card game of cho dai di with integrated artificial
 intelligence to simplify the job of developing game servers/clients for the
 card game.
 
@@ -356,7 +356,7 @@ card game.
 regards,
 
 -- 
-const char *me[] = { "Bernard", "http://www.codenetic.net/" };
+const char *me[] = { Bernard, http://www.codenetic.net/ };
 
 pain, n.: One thing, at least it proves that you're alive!
 
@@ -436,12 +436,12 @@ movement in relation with UNESCO fields of competence -- education, science
 and culture.
 
 It zeroed in particularly on those coming from the Third World (also called
-the 'South' countries) who could could make propositions for "revising,
-updating and extending the UNESCO Free Software Portal" as well as for
+the 'South' countries) who could could make propositions for revising,
+updating and extending the UNESCO Free Software Portal as well as for
 including new basic documents. 
 
-"This work could be done using a fee or consultant contract and the fee can
-be discussed depending on the amount of work described in the contract,"
+This work could be done using a fee or consultant contract and the fee can
+be discussed depending on the amount of work described in the contract,
 said Dauphin. 
 
 Check out the sites at
@@ -471,12 +471,12 @@ based in Kuala Lumpur, Malaysia, is also learnt to be thinking seriously
 about organizing some kind of a consultation on open source, GNU/Linux and
 related issues.
 
-"We want to see how we can further this cause in the region," APDIP's Shahid
+We want to see how we can further this cause in the region, APDIP's Shahid
 Akhtar told this correspondent.
 
 Niranjan Rajani <niranjan.rajani@maailma.net>, of Pakistani origin but based
 in the birthplace of Linux, Finland, is now working on a research project on
-"Significance of Free/OpenSource Software for Developing Countries".
+Significance of Free/OpenSource Software for Developing Countries.
 
 This project is financed by the Finnish Foreign Ministry, and he has
 undertaken to write the paper by the end of November this year, for
@@ -522,16 +522,16 @@ news.
 GNU/Linux is a suitable tool in organising too, as it was recently pointed
 out. (See http://www.lincproject.org)
 
-"The Low Income Networking and Communication (LINC) Project of the Welfare
+The Low Income Networking and Communication (LINC) Project of the Welfare
 Law Center has helped many low-income led organizing groups acquire access
-to the Internet and use technology more effectively," says Dirk Slater
+to the Internet and use technology more effectively, says Dirk Slater
 <dirk@welfarelaw.org>. 
 
 While these groups have increased their abilities to communicate with one
 another and their allies by using the Internet, one communication hurdle
 remains -- communicating with their leadership via the Internet. 
 
-Despite many "digital divide" initiatives addressing access to the Internet
+Despite many digital divide initiatives addressing access to the Internet
 in low-income communities, access is still an issue. 
 
 Public Internet access points, such as libraries and schools, are not
@@ -543,26 +543,26 @@ LINC argues that the need for Internet communication is particularly great
 for rural groups whose members live far apart and cannot have frequent
 face-to-face meetings because of distance, time and money constraints.
 
-"We began to explore the idea of using Linux, a free operating system that
+We began to explore the idea of using Linux, a free operating system that
 works well on older computers, when we learned of Microsoft's decision to
 discontinue support of its older operating systems like Windows 95<
 according to Slater, who is 'senior circuit rider' for the Low-Income
 Networking and Communications (LINC) Project at the Welfare Law Center.
 
-LINC protagonists say they had also been "troubled" by the frequent problems
-that occur for Windows users just by having Windows run on its own. "Giving
+LINC protagonists say they had also been troubled by the frequent problems
+that occur for Windows users just by having Windows run on its own. Giving
 a person who lives in a rural area an older computer with Windows seemed
 like we were just asking for trouble. We also attempted to identify similar
-projects but had limited success," says Slater. 
+projects but had limited success, says Slater. 
 
 LINC wanted to increase its ability to provide stable desktop systems using
 donated computers for board members and leaders of low-income led
 organizations that LINC serves. 
 
-"Our goal is to increase the ability of LINC Project partner groups to use
+Our goal is to increase the ability of LINC Project partner groups to use
 open-source software to support their organizing work. We also wanted to
 document the project as much as we possibly could, so we could provide
-details of our experiences for others doing similar projects," LINC
+details of our experiences for others doing similar projects, LINC
 explains.
 
 LINC identified a partner in Grass Roots Organizing in Mexico, MO, and
@@ -573,10 +573,10 @@ computer to work as the main computer in the GRO office.
 Links were built with the Mizzou Linux Users Group for ongoing local
 support.
 
-"We still have a long way to go before we can call this a completely
+We still have a long way to go before we can call this a completely
 successful project. After a period of a few months we will assess whether
 the board members are actually using the computers to communicate more
-effectively," said Slater.
+effectively, said Slater.
 
 To view the daily journals on the project with GRO please visit the LINC
 Project Linux pages at <http://www.lincproject.org/toolkit/linux>
@@ -589,29 +589,29 @@ Sydney-Australia, is founder of Tamil Innaiyam (http://www.tamil.net), an
 organisation to promote the Tamil language worldwide. He points to the
 impact GNU/Linux is making in some distant areas of the Third World.
 
-Says Pillai: "The most interactive open source/Linux community in our time
+Says Pillai: The most interactive open source/Linux community in our time
 zone/Asia springs out of the Philippines. Primarily because the Filipino
 psyche is a more secure psyche, a more self-confident psyche. 
 
-"Folks who are self-confident worry about the future less, and allocate more
+Folks who are self-confident worry about the future less, and allocate more
 time diagnosing and solving problems rather than echoing and re-echoing it.
 Filipinos are also more into sharing and online sharing -- we should look to
-more symbiosis with them," says he. 
+more symbiosis with them, says he. 
 
 Pillai also notes that the Manila-based Miguel Paraz, whom he interacted
 with since 1996, is a key catalyst in the Filipino Linux community.
-"http://www.q-linux.com is a good starting point to get a feel for the key
-Open Source catalysts in the Philippines," says he. 
+http://www.q-linux.com is a good starting point to get a feel for the key
+Open Source catalysts in the Philippines, says he. 
 
 Kuala Lumpur, Malaysia-based Dinesh who runs http://www.alphaque.com is
-another lead Open Source catalyst from the region, explains Pillai. "Do look
-for symbiosis opportunities there too," he suggests. 
+another lead Open Source catalyst from the region, explains Pillai. Do look
+for symbiosis opportunities there too, he suggests. 
 
-"I see lots of room for us to symbiosis together. For example, there is
+I see lots of room for us to symbiosis together. For example, there is
 likely to be areas where we diagnosing, documenting, analyzing, coding or
 publicizing where there is over-duplication. If we coordinated ourselves and
 found out where our circles and priorities intersect , we could share this
-work and get fruits out faster," he adds.
+work and get fruits out faster, he adds.
 --
 Frederick Noronha * Freelance Journalist * Goa * India 832.409490 / 409783
 BYTESFORALL www.bytesforall.org  * GNU-LINUX http://linuxinindia.pitas.com

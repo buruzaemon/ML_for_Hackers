@@ -29,8 +29,8 @@ References: <003b01c2536b$1e40e250$7c640f0a@mfc.corp.mckee.com>
     <C6981F7A-BF72-11D6-B2A3-00039396ECF2@deersoft.com>
 MIME-Version: 1.0
 Content-Type: multipart/signed; micalg=pgp-sha1;
-    protocol="application/pgp-signature";
-    boundary="aT9PWwzfKXlsBJM1"
+    protocol=application/pgp-signature;
+    boundary=aT9PWwzfKXlsBJM1
 Content-Disposition: inline
 In-Reply-To: <C6981F7A-BF72-11D6-B2A3-00039396ECF2@deersoft.com>
 User-Agent: Mutt/1.4i
@@ -76,10 +76,10 @@ Fortunately, Razor2/SpamNet isa network of content people DON'T want
 
 On Tue, Sep 03, 2002 at 12:24:33PM -0700, Craig R.Hughes wrote:
 
-# "Free" is a relative concept if you actually read the EULA.  No
+# Free is a relative concept if you actually read the EULA.  No
 # commercial use, and anything you submit to razor becomes entirely
-# their intellectual property.  Better not accidentally hit "This is
-# spam" on anything you want to retain IP rights to.
+# their intellectual property.  Better not accidentally hit This is
+# spam on anything you want to retain IP rights to.
 
 --aT9PWwzfKXlsBJM1
 Content-Type: application/pgp-signature

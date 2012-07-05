@@ -28,7 +28,7 @@ There are many ways to do this.  Some ideas:
   anything is ham that you don't say is spam within 48 hours.
 
 - A server with a custom protocol that you send a copy of a message
-  and that answers "spam" or "ham".  Then you have a little program
+  and that answers spam or ham.  Then you have a little program
   that is invoked e.g. by procmail that talks to the server.  (The
   server exists so that it doesn't have to load the pickle with the
   scoring database for each message.  I don't know how big that pickle

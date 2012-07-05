@@ -24,7 +24,7 @@ Received: from 70.muca.bstn.bstnmaco.dsl.att.net ([12.98.14.70]
 Received: from twells by pulse.fsckit.net with local (Exim) id
     17cyk9-0002fi-00 for razor-users@lists.sourceforge.net; Thu,
     08 Aug 2002 21:39:09 -0400
-From: "Tabor J. Wells" <razor-users@fsckit.net>
+From: Tabor J. Wells <razor-users@fsckit.net>
 To: razor-users@example.sourceforge.net
 Subject: Re: [Razor-users] What's wrong with the Razor servers now?
 Message-Id: <20020809013908.GA10032@fsckit.net>
@@ -60,7 +60,7 @@ On Fri, Aug 09, 2002 at 10:05:29AM +1000,
 Adam Goryachev <mailinglists@websitemanagers.com.au> is thought to have said:
 
 > > Now I get some opt-in mail which looks to me like
-> > spam.  I hit "this is spam".  My trust rating plummets --
+> > spam.  I hit this is spam.  My trust rating plummets --
 > 
 > Good! Your opinion of what is spam is unreliable, and therefore, I don't
 > *want* to trust you. IMHO, that is exactly the case that the trust system is

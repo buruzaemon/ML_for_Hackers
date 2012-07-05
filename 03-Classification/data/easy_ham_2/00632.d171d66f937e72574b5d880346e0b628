@@ -68,8 +68,8 @@ does its work (including razor-check invocations).
 Fair warning: It'll be far more resource-intensive than simply denying
 relaying privileges to everyone except the folks you trust.  To find
 out how to do that, go to <http://www.qmail.org/> (which, incidentally,
-should be your first stop for all things qmail) and search for "qmail
-newbie's guide to relaying".
+should be your first stop for all things qmail) and search for qmail
+newbie's guide to relaying.
 
 - Adrian
 

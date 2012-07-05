@@ -25,12 +25,12 @@ Received: by ALTAEXCHANGE with Internet Mail Service (5.5.2655.55) id
     <NCZ3JMSN>; Tue, 30 Jul 2002 11:01:51 +0100
 Message-Id: <5F33D8B6C1DCD511B5940010B5C520F0175ABB@ALTAEXCHANGE>
 From: Gavin Costello <GCostello@altamedius.com>
-To: "'dneary@wanadoo.fr'" <dneary@wanadoo.fr>
-Cc: "'ilug@linux.ie'" <ilug@linux.ie>
+To: 'dneary@wanadoo.fr' <dneary@wanadoo.fr>
+Cc: 'ilug@linux.ie' <ilug@linux.ie>
 Date: Tue, 30 Jul 2002 11:01:50 +0100
 MIME-Version: 1.0
 X-Mailer: Internet Mail Service (5.5.2655.55)
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Subject: [ILUG] mutt replies
 Sender: ilug-admin@linux.ie
 Errors-To: ilug-admin@linux.ie
@@ -41,7 +41,7 @@ X-Beenthere: ilug@linux.ie
 
 Hi David,
 
-Try putting "set reverse_name" in your .muttrc.
+Try putting set reverse_name in your .muttrc.
 
 Regards,
 

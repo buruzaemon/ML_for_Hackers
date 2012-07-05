@@ -21,12 +21,12 @@ Received: from [198.69.163.205] (helo=mars.alphacomm.net) by
 Received: (qmail 27295 invoked from network); 13 Aug 2002 15:42:28 -0000
 Received: from unknown (HELO MIKEH) (198.69.163.13) by 198.69.163.205 with
     SMTP; 13 Aug 2002 15:42:28 -0000
-From: "Michael J Humphries" <adminmjh@alphacomm.net>
+From: Michael J Humphries <adminmjh@alphacomm.net>
 To: <razor-users@example.sourceforge.net>
 Subject: RE: [Razor-users] FW: intigration with qmail
 Message-Id: <00ad01c242df$35220f40$1c01a8c0@UPTEL.LOCAL>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal
 X-Mailer: Microsoft Outlook, Build 10.0.2605
@@ -98,7 +98,7 @@ Fax: 450-346-3587
 dhiggins@netc.net
 http://www.netc.net
 ----- Original Message -----
-From: "Michael J Humphries" <adminmjh@alphacomm.net>
+From: Michael J Humphries <adminmjh@alphacomm.net>
 To: <razor-users@example.sourceforge.net>
 Sent: Tuesday, August 13, 2002 10:44 AM
 Subject: [Razor-users] FW: intigration with qmail

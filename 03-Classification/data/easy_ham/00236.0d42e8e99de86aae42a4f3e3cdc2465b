@@ -25,12 +25,12 @@ Received: from 15.145.8.186 by fowey.BR.ITC.HP.COM (InterScan E-Mail
 Received: by fowey.br.itc.hp.com with Internet Mail Service (5.5.2655.55)
     id <RV1HA6Q5>; Wed, 28 Aug 2002 13:52:35 +0100
 Message-Id: <253B1BDA4E68D411AC3700D0B77FC5F807C0F1CE@patsydan.dublin.hp.com>
-From: "HAMILTON,DAVID (HP-Ireland,ex2)" <david_hamilton3@hp.com>
-To: "'ilug@linux.ie'" <ilug@linux.ie>
+From: HAMILTON,DAVID (HP-Ireland,ex2) <david_hamilton3@hp.com>
+To: 'ilug@linux.ie' <ilug@linux.ie>
 Date: Wed, 28 Aug 2002 13:52:32 +0100
 MIME-Version: 1.0
 X-Mailer: Internet Mail Service (5.5.2655.55)
-Content-Type: text/plain; charset="windows-1251"
+Content-Type: text/plain; charset=windows-1251
 Content-Transfer-Encoding: 8bit
 X-MIME-Autoconverted: from quoted-printable to 8bit by lugh.tuatha.org id
     NAA26233
@@ -44,7 +44,7 @@ X-Beenthere: ilug@linux.ie
 
 Does anyone know if this is supported under 2.4.18 kernels or higher?
 
-I need to buy an ISDN TA quick, and PC World have these in stock for ˆ65.
+I need to buy an ISDN TA quick, and PC World have these in stock for 65.
 
 Thanks,
 	David.

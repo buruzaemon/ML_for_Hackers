@@ -42,7 +42,7 @@ X-Mailer: exmh version 2.5 07/13/2001 (debian 2.5-1) with nmh-1.0.4+dev
 To: exmh-users@spamassassin.taint.org
 Subject: Re: Sorting
 In-Reply-To: Your message of
-    "Tue, 10 Sep 2002 09:27:12 PDT."
+    Tue, 10 Sep 2002 09:27:12 PDT.
     <1528.1031675232@kanga.nu>
 From: Robert Waldner <waldner@waldner.priv.at>
 X-Organization: Bah. Speaking only for me humble self.
@@ -51,9 +51,9 @@ X-GPG-Fingerprint: 406F 241A 9E21 CF92 1DED  A0A8 1343 7348 9AF9 DE82
 X-GPG-Keyid: 0x9AF9DE82
 MIME-Version: 1.0
 Content-Type: multipart/signed;
-    boundary="----------=_1031700302-417-36";
-    micalg="pgp-sha1";
-    protocol="application/pgp-signature"
+    boundary=----------=_1031700302-417-36;
+    micalg=pgp-sha1;
+    protocol=application/pgp-signature
 X-Loop: exmh-users@spamassassin.taint.org
 Sender: exmh-users-admin@spamassassin.taint.org
 Errors-To: exmh-users-admin@spamassassin.taint.org
@@ -89,8 +89,8 @@ On Tue, 10 Sep 2002 09:27:12 PDT, J C Lawrence writes:
 So you have 4 copies (1+1 per desktop) of exmh running?
 
 That's what I usually do, but what I'd really like would be some 
- automagism to tell them "Flist", "Rescan Folder", which I now do 
- manually whenever I'm going to work at the "other" machine.
+ automagism to tell them Flist, Rescan Folder, which I now do 
+ manually whenever I'm going to work at the other machine.
 
 cheers,
 &rw
@@ -102,8 +102,8 @@ cheers,
 
 
 ------------=_1031700302-417-36
-Content-Type: application/pgp-signature; name="signature.ng"
-Content-Disposition: inline; filename="signature.ng"
+Content-Type: application/pgp-signature; name=signature.ng
+Content-Disposition: inline; filename=signature.ng
 Content-Transfer-Encoding: 7bit
 
 -----BEGIN PGP SIGNATURE-----

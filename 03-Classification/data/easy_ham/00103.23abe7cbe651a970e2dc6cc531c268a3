@@ -21,7 +21,7 @@ Received: from enterprise.wasptech.com (mail.wasptech.com [217.75.2.106])
     <ilug@linux.ie>; Mon,  7 Oct 2002 08:35:44 +0000 (AZOST)
 Content-Class: urn:content-classes:message
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Subject: RE: [ILUG] Drop in replacement for Ingres Database?
 X-Mimeole: Produced By Microsoft Exchange V6.0.5762.3
 Message-Id: <45130FBE2F203649A4BABDB848A9C9D0032D4D@enterprise.wasptech.com>
@@ -29,8 +29,8 @@ X-MS-Has-Attach:
 X-MS-Tnef-Correlator: 
 Thread-Topic: [ILUG] Drop in replacement for Ingres Database?
 Thread-Index: AcJr4AXtAf+q9LoESn2UoGgwDFTbZQB+OAjQ
-From: "Fergal Moran" <fergal.moran@wasptech.com>
-To: "ILUG" <ilug@linux.ie>
+From: Fergal Moran <fergal.moran@wasptech.com>
+To: ILUG <ilug@linux.ie>
 Sender: ilug-admin@linux.ie
 Errors-To: ilug-admin@linux.ie
 X-Beenthere: ilug@linux.ie

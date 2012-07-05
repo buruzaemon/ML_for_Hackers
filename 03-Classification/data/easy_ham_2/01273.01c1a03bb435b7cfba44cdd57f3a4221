@@ -31,7 +31,7 @@ Received: from phobos (localhost [127.0.0.1]) by
 To: spamassassin-talk@example.sourceforge.net
 Subject: Re: [SAtalk] need to restart mass-checks (was: Re: 2.40 release procedure)
 In-Reply-To: Message from Bart Schaefer <schaefer@zanshin.com> of
-    "Wed, 21 Aug 2002 08:16:48 PDT."
+    Wed, 21 Aug 2002 08:16:48 PDT.
     <Pine.LNX.4.44.0208210815190.12231-100000@aztec.zanshin.com>
 From: yyyy@spamassassin.taint.org (Justin Mason)
 X-GPG-Key-Fingerprint: 0A48 2D8B 0B52 A87D 0E8A  6ADD 4137 1B50 6E58 EF0A
@@ -135,10 +135,10 @@ and, for completeness, the relevant changes since Saturday:
 
   - raise some negative scores that are way too low
 
-  - remove "Friend" from DEAR_SOMETHING since it overlaps with DEAR_FRIEND
-    and can match "dear friend" in middle of sentence too much
+  - remove Friend from DEAR_SOMETHING since it overlaps with DEAR_FRIEND
+    and can match dear friend in middle of sentence too much
 
-  - require "Dear Friend" to start the paragraph
+  - require Dear Friend to start the paragraph
 
   - add new HTML tests for font colors and faces, reduce number of
     different eval functions needed for HTML tests

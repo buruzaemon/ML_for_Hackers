@@ -21,13 +21,13 @@ Received: from med-core07.med.wayne.edu ([146.9.19.23]) by
 X-Mimeole: Produced By Microsoft Exchange V6.0.6249.0
 Content-Class: urn:content-classes:message
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Message-Id: <D79A56AD131896448D0860DEE07CBE1F3BADEA@med-core07.med.wayne.edu>
 X-MS-Has-Attach:
 X-MS-Tnef-Correlator:
 Thread-Topic: Fire.cloudmark.com is having issues
 Thread-Index: AcJqYq67m17NyZhYQJ+UtliQ471QSQABBryQ
-From: "Rose, Bobby" <brose@med.wayne.edu>
+From: Rose, Bobby <brose@med.wayne.edu>
 To: <razor-users@example.sourceforge.net>
 Subject: [Razor-users] Fire.cloudmark.com is having issues
 Sender: razor-users-admin@example.sourceforge.net

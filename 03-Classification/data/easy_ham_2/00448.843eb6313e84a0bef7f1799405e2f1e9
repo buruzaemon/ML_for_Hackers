@@ -52,7 +52,7 @@ kevin lyda wrote:
 >>>>
 >>>>I.E. I'm missing the repeat in the following:
 >>>>
->>>>STRING="> "
+>>>>STRING=> 
 >>>>NUMBER=3
 >>>>PREFIX=repeat $STRING $NUMBER
 >>>>echo $PREFIX
@@ -63,7 +63,7 @@ kevin lyda wrote:
 > the string repeated over and over, but with linebreaks in between,
 > this works:
 > 
->     yes "$STRING" | head -"$NUMBER"
+>     yes $STRING | head -$NUMBER
 > 
 > use sed to remove the newline i guess if you want.  the utilities yes,
 > head and sed are on pretty much every unix.

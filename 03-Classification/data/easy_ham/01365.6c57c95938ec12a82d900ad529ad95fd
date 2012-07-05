@@ -26,7 +26,7 @@ Cc: spamassassin-talk@example.sourceforge.net
 Subject: Re: [SAtalk] custom score for a given domain?
 References: <3D6CE817.20608@sciences.univ-nantes.fr>
 From: Daniel Quinlan <quinlan@pathname.com>
-In-Reply-To: Arnaud Abelard's message of "Wed, 28 Aug 2002 17:11:19 +0200"
+In-Reply-To: Arnaud Abelard's message of Wed, 28 Aug 2002 17:11:19 +0200
 Message-Id: <yf2ptw2k4ge.fsf@proton.pathname.com>
 X-Mailer: Gnus v5.7/Emacs 20.7
 Sender: spamassassin-talk-admin@example.sourceforge.net

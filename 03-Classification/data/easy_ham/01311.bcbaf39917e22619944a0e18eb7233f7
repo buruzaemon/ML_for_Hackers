@@ -26,15 +26,15 @@ Received: by phobos.labs.netnoteinc.com (Postfix, from userid 500) id
 Received: from phobos (localhost [127.0.0.1]) by
     phobos.labs.netnoteinc.com (Postfix) with ESMTP id 197A733D8C;
     Thu, 22 Aug 2002 18:58:06 +0100 (IST)
-To: "Craig R.Hughes" <craig@deersoft.com>
+To: Craig R.Hughes <craig@deersoft.com>
 Cc: yyyy@spamassassin.taint.org (Justin Mason),
 	Justin Shore <listuser@neo.pittstate.edu>,
 	SpamAssassin List <spamassassin-talk@lists.sourceforge.net>
 Subject: Re: [SAtalk] Highest-scoring false positive
 In-Reply-To: Message from
-    "Craig R.Hughes"
+    Craig R.Hughes
     <craig@deersoft.com> of
-    "Thu, 22 Aug 2002 10:50:57 PDT."
+    Thu, 22 Aug 2002 10:50:57 PDT.
     <B624EDE6-B5F7-11D6-A91E-00039396ECF2@deersoft.com>
 From: yyyy@spamassassin.taint.org (Justin Mason)
 X-GPG-Key-Fingerprint: 0A48 2D8B 0B52 A87D 0E8A  6ADD 4137 1B50 6E58 EF0A
@@ -56,14 +56,14 @@ X-Original-Date: Thu, 22 Aug 2002 18:58:01 +0100
 Date: Thu, 22 Aug 2002 18:58:01 +0100
 
 
-"Craig R.Hughes" said:
+Craig R.Hughes said:
 
 > Are you filtering the nonspamtrap for spam when those 
 > newsletters sold your address to someone you didn't sign up 
 > with?  You should probably manually verify that all the mail in 
 > the trap is in fact nonspam!
 
-Yep.  so far it's all opt-in stuff, no "affiliate deals" etc.
+Yep.  so far it's all opt-in stuff, no affiliate deals etc.
 
 --j.
 

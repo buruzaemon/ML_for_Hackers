@@ -34,10 +34,10 @@ In this issue:
 |   http://use.perl.org/article.pl?sid=02/09/16/1243234              |
 +--------------------------------------------------------------------+
 
-[0]davorg writes "Leon Brocard has been working hard to update the
+[0]davorg writes Leon Brocard has been working hard to update the
 [1]Perl Mongers web site. We're still going thru the process of cleaning
 up the data about the Perl Monger groups, so if you see something that
-isn't quite right then please [2]let us know."
+isn't quite right then please [2]let us know.
 
 Discuss this story at:
     http://use.perl.org/comments.pl?sid=02/09/16/1243234
@@ -55,12 +55,12 @@ Links:
 +--------------------------------------------------------------------+
 
 It seems the older Perl gets, the more willing people are to believe that
-it sucks, without any reasonable facts. [0]davorg writes "You may have
+it sucks, without any reasonable facts. [0]davorg writes You may have
 seen the article [1]Can Java technology beat Perl on its home turf with
 pattern matching in large files? that there has been some debate about on
 both #perl and comp.lang.perl.misc today. One of the biggest criticisms
 of the article was that the author hasn't published the Perl code that he
-is comparing his Java with."
+is comparing his Java with.
 
 This story continues at:
     http://use.perl.org/article.pl?sid=02/09/16/1448246

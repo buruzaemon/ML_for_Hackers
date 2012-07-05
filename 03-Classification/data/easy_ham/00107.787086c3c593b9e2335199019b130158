@@ -25,7 +25,7 @@ Received: from cacher2-ext.wise.edt.ericsson.se ([194.237.142.13])
     +0100 (BST)
 Message-Id: <35767.194.237.142.13.1033980191.squirrel@mail.nologic.org>
 Subject: Re: [ILUG] Interesting article on free software licences
-From: "Ciaran Johnston" <cj@nologic.org>
+From: Ciaran Johnston <cj@nologic.org>
 To: <ilug@linux.ie>
 In-Reply-To: <20021007101909.A16074@wanadoo.fr>
 References: <20021007101909.A16074@wanadoo.fr>
@@ -81,7 +81,7 @@ David Neary said:
 
 My French is a bit iffy these days, but if this is true, does it not also
 nullify Microsoft, Adobe and WinZip licences amongst most others? These all
-claim no liability, no guarantees (M$ say delivered "with all faults", so
+claim no liability, no guarantees (M$ say delivered with all faults, so
 at least they are honest).
 
 /Ciaran.

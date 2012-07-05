@@ -21,8 +21,8 @@ URL: http://diveintomark.org/archives/2002/09/24.html#light_reading
 Date: 2002-09-24T10:46:15-05:00
 
 - _Phil Ringnalda_: Putting on the brakes[1]. &#8220;So, the answer to the 
-question that started this whole project, "what is the RDF in RSS 1.0 good 
-for?" is two things: it's good for someone who has an infinitely large database 
+question that started this whole project, what is the RDF in RSS 1.0 good 
+for? is two things: it's good for someone who has an infinitely large database 
 that can be queried infinitely fast by a schema-aware program, or it's good for 
 writing a schema-aware aggregator that can try to figure out what it should do 
 with new elements that it hasn't seen before. That's actually an interesting 

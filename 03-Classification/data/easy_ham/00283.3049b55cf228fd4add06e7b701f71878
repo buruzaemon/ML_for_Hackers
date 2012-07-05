@@ -85,7 +85,7 @@ end_of_the_world problems, and easily fixed.
 My biggest beef with automatically setting /dev/dvd is that I always
 seem to have a CD-Burner and a DVD drive (or DVD burner) in the same
 box, and I usually have the DVD as the second drive /dev/cdrom1 in
-"kudzu-speak". I agree that the %description is the best place for the
+kudzu-speak. I agree that the %description is the best place for the
 tip. Unless someone can come up with a way to probe CD/DVD drives to
 divulge their largest supported media size without loading ide-scsi or
 having that media currently in the drive.

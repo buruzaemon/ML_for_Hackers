@@ -17,7 +17,7 @@ Received: from mithral.com (watcher.mithral.com [204.153.244.1]) by
     xent.com (Postfix) with SMTP id E4ED229409E for <fork@xent.com>;
     Mon, 26 Aug 2002 20:12:14 -0700 (PDT)
 Received: (qmail 6353 invoked by uid 1111); 27 Aug 2002 03:13:53 -0000
-From: "Adam L. Beberg" <beberg@mithral.com>
+From: Adam L. Beberg <beberg@mithral.com>
 To: Geege <grlygrl201@aol.com>
 Cc: <fork@spamassassin.taint.org>
 Subject: Re: Rambus, Man
@@ -50,7 +50,7 @@ On Mon, 26 Aug 2002, Geege wrote:
 > ha ha ha harley.  rambus earns it.
 > ------------------------------------------------------------
 
-"Expect a 3 percent to 5 percent boost with PC1066"
+Expect a 3 percent to 5 percent boost with PC1066
 
 5% faster for only 4 times [pricewatch at 7:55PM - 93 vs 379] the cost.
 
@@ -65,7 +65,7 @@ benches at fp:460 int:400... If it's not a polygon fill the thing is
 useless. There will be no beowolf cluster of these. It is 3x faster then
 the iPaq tho at 1/13 :)
 
-- Adam L. "Duncan" Beberg
+- Adam L. Duncan Beberg
   http://www.mithral.com/~beberg/
   beberg@mithral.com
 

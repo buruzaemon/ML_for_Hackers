@@ -59,7 +59,7 @@ Once upon a time, Lance wrote :
 > packages selected for deletion.
 
 I think that's simply because Sylpheed isn't a GNOME application, but a
-"simple" gtk+ one. It needs no GNOME libs at all, so upgrading to GNOME 2
+simple gtk+ one. It needs no GNOME libs at all, so upgrading to GNOME 2
 but keeping gtk+ 1.2 will let you keep Sylpheed with no problem.
 
 Matthias

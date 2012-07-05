@@ -47,10 +47,10 @@ On Tue, Aug 20, 2002 at 03:07:35PM +0100, Anthony wrote:
 > > > will only happen twice a year. How to stop it, I have not checked (I
 > > > just switch the clock back an hour from within windows after such a
 > > > reboot).  Is there a GMT windows timezone?
-> > 
+> > 
 > 
 > > Start->Settings->Control Panel->Date/Time->Time Zone tab-> Uncheck
-> > "Automatically adjust clock for daylight saving change".
+> > Automatically adjust clock for daylight saving change.
 > > 
 > 
 > Ah, that's grand. I knew about that aspect and had already unchecked the

@@ -35,9 +35,9 @@ Received: from ptavv (localhost [127.0.0.1]) by ptavv.es.net (Postfix)
 To: exmh-users@spamassassin.taint.org
 Subject: Re: bad focus/click behaviours
 In-Reply-To: Your message of
-    "Sat, 14 Sep 2002 13:20:58 +1000."
+    Sat, 14 Sep 2002 13:20:58 +1000.
     <200209140320.g8E3Kww29126@hobbit.linuxworks.com.au.nospam>
-From: "Kevin Oberman" <oberman@es.net>
+From: Kevin Oberman <oberman@es.net>
 Message-Id: <20020915202900.F294C5D04@ptavv.es.net>
 X-Loop: exmh-users@spamassassin.taint.org
 Sender: exmh-users-admin@spamassassin.taint.org
@@ -60,9 +60,9 @@ Date: Sun, 15 Sep 2002 13:28:59 -0700
 > Sender: exmh-users-admin@spamassassin.taint.org
 > Date: Sat, 14 Sep 2002 13:20:58 +1000
 > 
-> On Fri Sep 13 2002 at 07:46, "Kevin Oberman" wrote:
+> On Fri Sep 13 2002 at 07:46, Kevin Oberman wrote:
 > 
-> > > > What is an example of an "anything else" that it fails for for you?
+> > > > What is an example of an anything else that it fails for for you?
 > > >
 > > > Everything else :)  I can't even mark text in an exmh message window
 > > > and then paste it into a terminal window, the cut buffer seems to be

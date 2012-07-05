@@ -27,7 +27,7 @@ X-Mailer: QUALCOMM Windows Eudora Version 5.1
 To: razor-users@example.sourceforge.net
 From: Rob <rob@darkphyber.com>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"; format=flowed
+Content-Type: text/plain; charset=us-ascii; format=flowed
 X-Authenticated-Sender: rob@darkphyber.com
 X-Mdremoteip: 205.139.198.39
 X-Return-Path: rob@darkphyber.com
@@ -52,7 +52,7 @@ Date: Mon, 09 Sep 2002 17:10:23 -0400
 I just set up razor and spamassassin, but I keep getting this error in my 
 mail log file
 
-razor2 check skipped: No such file or directory Can't call method "log" on 
+razor2 check skipped: No such file or directory Can't call method log on 
 unblessed reference at 
 /usr/local/lib/perl5/site_perl/5.8.0/Razor2/Client/Agent.pm line 212.
 

@@ -27,7 +27,7 @@ Date: Thu, 05 Sep 2002 04:38:48 -0700
 Message-Id: <receipt-6628399@mx1.yipes.com>
 MIME-Version: 1.0
 Content-Type: multipart/report; report-type=delivery-status;
-    boundary="_===6628399====mx1.yipes.com===_"
+    boundary=_===6628399====mx1.yipes.com===_
 Sender: spamassassin-talk-owner@example.sourceforge.net
 Errors-To: spamassassin-talk-owner@example.sourceforge.net
 X-Beenthere: spamassassin-talk@example.sourceforge.net
@@ -89,7 +89,7 @@ From: Matt Sergeant <msergeant@startechgroup.co.uk>
 User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.1b) Gecko/20020901
 X-Accept-Language: en-us, en
 MIME-Version: 1.0
-To: "Rose, Bobby" <brose@med.wayne.edu>
+To: Rose, Bobby <brose@med.wayne.edu>
 CC: Justin Mason <yyyy@spamassassin.taint.org>, 
  spamassassin-talk@lists.sourceforge.net
 Subject: Re: [SAtalk] [OT] Perl problem and 2.40 released

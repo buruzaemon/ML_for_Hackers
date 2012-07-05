@@ -47,19 +47,19 @@ list of 410 0.01 clues and 125 0.99 clues!  Yikes.
 the
 > HTML.  It was heavily marked-up HTML, with ads in the sidebar, but the
 body
-> text was a serious discussion of "OO and soft coding" with lots of highly
+> text was a serious discussion of OO and soft coding with lots of highly
 > technical words as clues (including Zope and ZEO).
 
 No matter how often it says Zope, it gets only one 0.01 clue from doing so.
-Ditto for ZEO.  In contrast, HTML markup has many unique "words" that get
+Ditto for ZEO.  In contrast, HTML markup has many unique words that get
 0.99.  BTW, this is a clear case where the assumption of
 conditionally-independent word probabilities is utterly bogus -- e.g., the
-probability that "<body>" appears in a message is highly correlated with the
-prob of "<br>" appearing.  By treating them as independent, naive Bayes
+probability that <body> appears in a message is highly correlated with the
+prob of <br> appearing.  By treating them as independent, naive Bayes
 grossly misjudges the probability that both appear, and the only thing you
 get in return is something that can actually be computed <wink>.
 
-Read the "What about HTML?" section in tokenizer.py.  From the very start,
+Read the What about HTML? section in tokenizer.py.  From the very start,
 I've been investigating what would work best for the mailing lists hosted at
 python.org, and HTML decorations have so far been too strong a clue to
 justify ignoring it in that specific context.  I haven't done anything
@@ -68,8 +68,8 @@ that happens to go through python.org.
 
 I'd prefer to strip HTML tags from everything, but last time I tried that it
 still had bad effects on the error rates in my corpora (the full test
-results with and without HTML tag stripping is included in the "What about
-HTML?" comment block).  But as the comment block also says,
+results with and without HTML tag stripping is included in the What about
+HTML? comment block).  But as the comment block also says,
 
 # XXX So, if another way is found to slash the f-n rate, the decision here
 # XXX not to strip HTML from HTML-only msgs should be revisited.
@@ -92,7 +92,7 @@ the data is a Mortal Sin and I haven't changed a byte so far), and my spam
 too polluted with header clues about the fellow who collected it.  In
 particular I have to skip To and Received headers now, and I suspect they're
 going to be very valuable in real life (for example, I don't even catch
-"undisclosed recipients" in the To header now!).
+undisclosed recipients in the To header now!).
 
 > ...
 > No, sorry.  These were all of the following structure:
@@ -147,7 +147,7 @@ This is the code:
 
 where
 
-    word_re = re.compile(r"[\w$\-\x80-\xff]+")
+    word_re = re.compile(r[\w$\-\x80-\xff]+)
 
 This at least doubled the process size over what's done now.  It helped the
 f-n rate significantly, but probably hurt the f-p rate (the f-p rate is too

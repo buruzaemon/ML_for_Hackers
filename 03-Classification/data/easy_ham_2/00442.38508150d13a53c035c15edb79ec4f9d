@@ -50,7 +50,7 @@ Kevin O' Riordan's [kor@compsoc.com] 30 lines of wisdom included:
 > >
 > > I.E. I'm missing the repeat in the following:
 > >
-> > STRING="> "
+> > STRING=> 
 > > NUMBER=3
 > > PREFIX=repeat $STRING $NUMBER
 > > echo $PREFIX
@@ -59,9 +59,9 @@ Kevin O' Riordan's [kor@compsoc.com] 30 lines of wisdom included:
 > 
 > perl ?
 > 
->   STRING="> "
+>   STRING=> 
 >   NUMBER=3
->   PREFIX=`perl -e "print '$STRING' x $NUMBER;"`
+>   PREFIX=`perl -e print '$STRING' x $NUMBER;`
 >   echo $PREFIX
 > 
 > I'm pretty sure the bsd 'jot' utility can do this too, but I don't
@@ -72,7 +72,7 @@ so from the tone of Padraigs mail that's not what he wanted,
 however, if I'm incorrect (don't have a Linux system to hand) the
 following is the syntax.
 
-jot -b "string" 3
+jot -b string 3
 
 Phil.
 -- 

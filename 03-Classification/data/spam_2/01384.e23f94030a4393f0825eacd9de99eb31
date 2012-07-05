@@ -21,7 +21,7 @@ Subject: =?iso-8859-1?B?SXQnc6BUaW1loHRvoEludmVzdKB5b3VyoFdheQ==?=
 Date: Mon, 2 Dec 2002 12:06:20 +0800
 MIME-Version: 1.0
 Content-Type: multipart/alternative;
-    boundary="----=_NextPart_000_76F4_01C299FB.39D33820"
+    boundary=----=_NextPart_000_76F4_01C299FB.39D33820
 X-Mimeole: Produced By Microsoft MimeOLE V6.00.2600.0000
 Message-Id: <WEBSERVERZjUqPsV9Lv00001dc9@webserver>
 X-Originalarrivaltime: 02 Dec 2002 04:06:20.0765 (UTC) FILETIME=[2BCC80D0:01C299B8]
@@ -30,7 +30,7 @@ This is a multi-part message in MIME format.
 
 ------=_NextPart_000_76F4_01C299FB.39D33820
 Content-Type: text/plain;
-	charset="iso-8859-1"
+	charset=iso-8859-1
 Content-Transfer-Encoding: quoted-printable
 
  <http://www.e-frsecurities.com/advise.asp>=20
@@ -67,7 +67,7 @@ advise_AD&f=3D=00> .
 
 ------=_NextPart_000_76F4_01C299FB.39D33820
 Content-Type: text/html;
-	charset="iso-8859-1"
+	charset=iso-8859-1
 Content-Transfer-Encoding: quoted-printable
 
 <html> <head> <title>Time is running out</title> <meta =

@@ -9,7 +9,7 @@ Received: from server ([202.88.149.167])
 	for <ler@lerctr.org>; Wed, 4 Sep 2002 16:54:03 +0530
 Received: from 10.0.0.6 by server ([10.0.0.1] running VPOP3) with SMTP for <ler@lerctr.org>; Wed, 4 Sep 2002 16:50:10 +0530
 To: <ler@lerctr.org>
-From: "Deepak Nagpal" <exhibitionsindia@vsnl.com>
+From: Deepak Nagpal <exhibitionsindia@vsnl.com>
 Subject: 11th Convergence India 2003 exhibition & conference
 Date: Wed, 04 Sep 2002 16:55:29 +0530
 Message-Id: <37503.705196875002000.233756@localhost>
@@ -22,9 +22,9 @@ X-Status:
 X-Keywords: 
 
 <HTML><HEAD>
-<META http-equiv=Content-Type content="text/html;
-charset=iso-8859-1">
-<META content="MSHTML 5.50.4134.600" name=GENERATOR>
+<META http-equiv=Content-Type content=text/html;
+charset=iso-8859-1>
+<META content=MSHTML 5.50.4134.600 name=GENERATOR>
 <STYLE></STYLE>
 </HEAD>
 <BODY bgColor=#ffffff>
@@ -75,10 +75,10 @@ Colony<BR>New
 Delhi 110 024<BR>Tel:&nbsp; +91 11 463 8680-84<BR>Fax: +91 11
 463 3506, 462 
 3320<BR>email: <A 
-href="mailto:exhibitionsindia@vsnl.com">exhibitionsindia@vsnl
+href=mailto:exhibitionsindia@vsnl.com>exhibitionsindia@vsnl
 .com</A><BR>website: 
 <A 
-href="http://www.exhibitionsindia.org">www.exhibitionsindia.o
+href=http://www.exhibitionsindia.org>www.exhibitionsindia.o
 rg</A></FONT></DIV>
 <DIV><FONT face=Arial size=2></FONT>&nbsp;</DIV>
 <DIV><FONT face=Arial size=2></FONT>&nbsp;</DIV>
@@ -220,7 +220,7 @@ sqm&nbsp;(minimum 18
 sqm)</FONT></STRONG></DIV>
 <DIV align=justify><FONT face=Arial></FONT>&nbsp;</DIV>
 <DIV><STRONG><FONT face=Arial>Please visit our website (<A 
-href="http://www.exhibitionsindia.org">www.exhibitionsindia.o
+href=http://www.exhibitionsindia.org>www.exhibitionsindia.o
 rg</A>) for further 
 details.&nbsp;</FONT></STRONG></DIV>
 <DIV><STRONG><FONT

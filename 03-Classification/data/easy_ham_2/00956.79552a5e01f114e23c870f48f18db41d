@@ -20,12 +20,12 @@ Received: from damien (66-108-144-106.nyc.rr.com [66.108.144.106]) by
     nycsmtp1out.rdc-nyc.rr.com (8.12.1/Road Runner SMTP Server 1.0) with ESMTP
     id g72FBGZa002289 for <fork@xent.com>; Fri, 2 Aug 2002 11:11:16 -0400
     (EDT)
-From: "Damien Morton" <damien.morton@acm.org>
+From: Damien Morton <damien.morton@acm.org>
 To: <fork@spamassassin.taint.org>
 Subject: W3C approves HTML 4 'emotitags' - Now you'll be able to say it with feeling
 Message-Id: <001101c23a36$d2a6d8b0$6a906c42@damien>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal
@@ -81,7 +81,7 @@ government ministerial pronouncement is thus rendered immediately
 transparent:
 
 <spin>Tony Blair was quick to defend transport secretary Byers, calling
-him "the most honest man it has been my privilege to know".</spin>
+him the most honest man it has been my privilege to know.</spin>
 
 And, in a much-needed boost to satire sites, W3C has formally ratified
 the controversial <nolibel>. This guarantees any text contained within
@@ -98,10 +98,10 @@ effect on the reader could be catastrophic:
 
 <wot><iht><spin>In response to reports that the Queen Mother had fallen
 victim to Sadaam Hussein's Axis of EvilT chemical weapons programme,
-Stephen Byers noted: "She was everybody's favourite grandmother who
+Stephen Byers noted: She was everybody's favourite grandmother who
 touched the lives of billions. The only consolation we can gain from
 this tragedy is that all of the UK's trains will be running on time by
-next Monday. And you can quote me on that."</spin></iht></wot>
+next Monday. And you can quote me on that.</spin></iht></wot>
 
 http://xent.com/mailman/listinfo/fork
 

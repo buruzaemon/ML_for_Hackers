@@ -452,10 +452,10 @@ Changes: A new, lighter, and easier to use administration interface
 (related to the internal table manager) is now available. The form now has
 a better layout, and all the fields are correctly aligned, including
 dates. All the translations are now up-to-date. It is now possible, for
-select_single fields, to choose "other" during an insert and fill a
+select_single fields, to choose other during an insert and fill a
 textbox by hand with an alternative value. That value will update the
 select options, unless the option has been driven with a custom query
-("SQL:......"). It is now possible to choose whether a field has to be
+(SQL:......). It is now possible to choose whether a field has to be
 displayed on the details page. Other changes and bugfixes have been added.
 
 
@@ -515,10 +515,10 @@ About: Distributed Checksum Clearinghouse (DCC) is a system of clients and
 servers that collect and count checksums related to mail messages. The
 counts can be used by SMTP servers and mail user agents to detect and
 reject bulk mail. DCC servers can exchange common checksums. The checksums
-include values that are "fuzzy", or constant across common variations in
+include values that are fuzzy, or constant across common variations in
 bulk messages. 
 
-Changes: A fix for "invalid database address" problems on SPARC systems,
+Changes: A fix for invalid database address problems on SPARC systems,
 and other changes. 
 
 License: Freely Distributable
@@ -1154,7 +1154,7 @@ Scientific/Engineering :: Mathematics
 Text Processing :: General
 
 About: Lindenmayer Systems in Python provides a simple implementation of
-Lindenmayer systems (also called "L-systems" or "substitution systems").
+Lindenmayer systems (also called L-systems or substitution systems).
 In basic form, a Lindenmayer system consists of a starting string of
 symbols from an alphabet which has repeated transitions applied to it,
 specified by a list of transition search-and-replace rules. In addition to
@@ -1326,7 +1326,7 @@ About: Oww (One-Wire Weather) is a client program for Dallas Semiconductor
 / AAG 1-wire weather station kits, providing a graphical (animated)
 display to monitor outside temperature, wind speed and direction,
 rainfall, and humidity. Extra temperature sensors may be added. A 1-wire
-"hub" may be used for improved reliability and range. Weather data may be
+hub may be used for improved reliability and range. Weather data may be
 logged to CSV files, parsed to command line programs, sent to the
 Henriksen Windows client, or uploaded to Web servers at Dallas, The
 Weather Underground, and HAMweather.
@@ -2200,10 +2200,10 @@ unaddressable memory to system calls, and mismatched use of malloc/new/new
 [] vs. free/delete/delete []. 
 
 Changes: Support for the x86 fldenv instruction, a fix for an obscure
-optimiser bug causing failures like this: "insane instruction 27: PUTFL
-%ecx", a fix for dying with bus errors running programs which mess with
+optimiser bug causing failures like this: insane instruction 27: PUTFL
+%ecx, a fix for dying with bus errors running programs which mess with
 the x86 AC (alignment-check) flag, fixes to make it compile and run on Red
-Hat "Limbo" (7.3.92), a fix for a possible assert failure having to do
+Hat Limbo (7.3.92), a fix for a possible assert failure having to do
 with free() when running cachegrind (not valgrind), and final manual
 adjustments. 
 
@@ -2279,7 +2279,7 @@ Software Development :: Libraries
 About: Vstr is a string library designed for network communication, but
 applicable in a number of other areas. It works on the idea of separate
 nodes of information, and works on the length/ptr model and not the
-termination model a la "C strings". It can also do automatic referencing
+termination model a la C strings. It can also do automatic referencing
 for mmap() areas of memory, and includes a portable version of a
 printf-like function.
 
@@ -2307,8 +2307,8 @@ modular firewalling application based on Netfilter or any kind of
 low-level framework. Wfconvert is a tool which imports/translates rules
 from/to any supported firewalling language.
 
-Changes: This release adds support for service "macros" in WallFire's
-native language, a "disabled" flag for a rule, and MAC addresses class
+Changes: This release adds support for service macros in WallFire's
+native language, a disabled flag for a rule, and MAC addresses class
 handling. Man pages now install properly, and the whole thing compiles
 under g++-3.1. 
 
@@ -2398,10 +2398,10 @@ Changes: A security hole that allowed authorized users to view any file on
 the system has been fixed. The security certificate has been extended.
 Support has been added for 29 more OS types. The find function now works
 for non-root, jailed users. A new option controls whether or not a user
-can "click" outside their home directory tree. The AllowRootUser parameter
+can click outside their home directory tree. The AllowRootUser parameter
 can now disable the 'root' user. A bug that prevented non-root, jailed
-users from creating subdirectories, a "group" permissions access problem,
-and a bug in the "Command Line" box which prevented using the asterisk
+users from creating subdirectories, a group permissions access problem,
+and a bug in the Command Line box which prevented using the asterisk
 wildcard have all been fixed.
 
 License: GNU General Public License (GPL)
@@ -2450,7 +2450,7 @@ animation, realtime interaction and multimedia (image, movie, sound). Dune
 can read VRML97 files, display and let the user change the
 scenegraph/fields, and load and store x3d (next generation VRML xml
 format) files if configured to work with the nist.gov x3d translators. It
-also has support for stereoscopic view via "quadbuffer"-capable stereo
+also has support for stereoscopic view via quadbuffer-capable stereo
 visuals. 
 
 Changes: A crash when creating NurbsSurface has been fixed.

@@ -23,11 +23,11 @@ Received: by mis-exchange.mv.timesten.com with Internet Mail Service
     (5.5.2653.19) id <SJF7CJ6C>; Wed, 4 Sep 2002 19:58:36 -0700
 Message-Id: <80CE2C46294CD61198BA00508BADCA830FD384@mis-exchange.mv.timesten.com>
 From: Sherry Listgarten <sherry@timesten.com>
-To: "'fork@spamassassin.taint.org'" <fork@spamassassin.taint.org>
+To: 'fork@spamassassin.taint.org' <fork@spamassassin.taint.org>
 Subject: RE: Java is for kiddies
 MIME-Version: 1.0
 X-Mailer: Internet Mail Service (5.5.2653.19)
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Sender: fork-admin@xent.com
 Errors-To: fork-admin@xent.com
 X-Beenthere: fork@spamassassin.taint.org
@@ -50,10 +50,10 @@ Okay, hmm, I thought twice about this, but what the hey, jobs are hard to
 come by. There's a company hiring in Mountain View, looking for a few good
 hackers, no Java, no GUI, not even C++ -- just C and Linux and networking
 and good old stuff like that. They just raised a wad of money and they're
-looking for a few "really good programmers", says the CTO. I know him --
+looking for a few really good programmers, says the CTO. I know him --
 very smart guy. Drives too fast, though, for what that's worth.
 
-Joe Bob says "check it out". I'd be happy to pass on your resume, or you can
+Joe Bob says check it out. I'd be happy to pass on your resume, or you can
 send it straight to them. Probably won't matter if I pass it on, since I
 don't know you guys anyway...
 
@@ -133,7 +133,7 @@ http://www.netli.com
 > 
 > I wish you best of luck, and I apologies for being a bitch.
 > But God DAMN, you piss me off sometimes. My son occasionally
-> displays your "can't-do" attitude and I do my damnest to
+> displays your can't-do attitude and I do my damnest to
 > get him to reverse course.
 > 
 > - Joe

@@ -61,9 +61,9 @@ Once upon a time, Brian wrote :
 >     lived on dialup for so long.  Now I'm on fiber optic and it's a whole
 >     other world...
 
-Sure, just use "os" and "updates" from apt.freshrpms.net for instance then
+Sure, just use os and updates from apt.freshrpms.net for instance then
 add the lines for that repository with only the module you want/need (here
-it's "testing73" I guess).
+it's testing73 I guess).
 
 Matthias
 

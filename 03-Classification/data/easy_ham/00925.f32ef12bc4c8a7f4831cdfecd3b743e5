@@ -29,7 +29,7 @@ To: yyyy@spamassassin.taint.org (Justin Mason)
 From: Justin Shore <listuser@neo.pittstate.edu>
 Subject: Re: [SAtalk] Highest-scoring false positive
 Cc: SpamAssassin List <spamassassin-talk@example.sourceforge.net>
-Content-Type: text/plain; charset="us-ascii" ; format="flowed"
+Content-Type: text/plain; charset=us-ascii ; format=flowed
 Sender: spamassassin-talk-admin@example.sourceforge.net
 Errors-To: spamassassin-talk-admin@example.sourceforge.net
 X-Beenthere: spamassassin-talk@example.sourceforge.net
@@ -60,7 +60,7 @@ an address to see a FP to.
 
 >To date, the scores evolved by SpamAssassin are very biased towards
 >non-HTML, non-newsletter-ish mail.  This release should be different, as
->I've been spending the last month signing up a "nonspamtrap" to every
+>I've been spending the last month signing up a nonspamtrap to every
 >legit newsletter I can find ;)
 
 That's understandable.  HTML mail is the worst thing since female 

@@ -68,8 +68,8 @@ diff -b -w -u -d -r1.1.2.2 -r1.1.2.3
 @@ -28,6 +28,7 @@
  
  if (!defined $outputfile) {
-   $outputfile = "./tmp/rules.pl";
-+  mkdir ("tmp", 0755);
+   $outputfile = ./tmp/rules.pl;
++  mkdir (tmp, 0755);
  }
  
  my $rules = { };

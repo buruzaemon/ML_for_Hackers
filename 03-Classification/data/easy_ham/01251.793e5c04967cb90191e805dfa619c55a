@@ -60,8 +60,8 @@ Matthias Haase wrote:
 Red Hat 8.0 ships with the bytecode hinter enabled; I think 7.3 may have 
 as well.
 
-The enabling change to "ftoption.h" is made by Red Hat's SRPM before 
-building.  Take a look at "freetype-2.1.1-enable-ft2-bci.patch" from the 
+The enabling change to ftoption.h is made by Red Hat's SRPM before 
+building.  Take a look at freetype-2.1.1-enable-ft2-bci.patch from the 
 SRPM; it's pretty clear that this does exactly what needs to be done.
 
 So if your fonts look ugly, lack of bytecode hinting is *not* the cause.

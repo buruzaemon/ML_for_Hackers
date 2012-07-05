@@ -24,10 +24,10 @@ Received: from [199.108.103.232] (account kiosk@f1online.de
 User-Agent: Microsoft-Entourage/10.1.0.2006
 From: Gunnar Lieb <kiosk@f1online.de>
 To: <spamassassin-talk@example.sourceforge.net>,
-	"(CommuniGate Pro Discussions)" <CGatePro@mail.stalker.com>
+	(CommuniGate Pro Discussions) <CGatePro@mail.stalker.com>
 Message-Id: <B95DE879.F91B%kiosk@f1online.de>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="US-ASCII"
+Content-Type: text/plain; charset=US-ASCII
 Content-Transfer-Encoding: 7bit
 Subject: [SAtalk] Spamassassin webinterface for Communigate using PHP released
 Sender: spamassassin-talk-admin@example.sourceforge.net

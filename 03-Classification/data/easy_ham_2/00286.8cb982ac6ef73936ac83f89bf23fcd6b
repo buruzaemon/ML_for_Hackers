@@ -31,7 +31,7 @@ Organization: Corvil Networks
 User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:0.9.9) Gecko/20020408
 X-Accept-Language: en-us, en
 MIME-Version: 1.0
-To: "'ilug@linux.ie'" <ilug@linux.ie>
+To: 'ilug@linux.ie' <ilug@linux.ie>
 Content-Type: text/plain; charset=ISO-8859-15; format=flowed
 Content-Transfer-Encoding: 8bit
 Subject: [ILUG] slashdot EW Dijkstra humor
@@ -51,7 +51,7 @@ GOTO Heaven
        Re:GOTO Heaven
        I'll bet he gets there by the shortest path.
 
-Referring to his "Goto considered harmful" etc.
+Referring to his Goto considered harmful etc.
 
 Sad to see these people go. 3 others I've
 noticed lately were: Richard Stevens, Jim Ellis

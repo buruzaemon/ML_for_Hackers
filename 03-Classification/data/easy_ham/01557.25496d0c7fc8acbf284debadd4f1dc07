@@ -22,13 +22,13 @@ Received: (qmail 17967 invoked from network); 3 Sep 2002 11:38:35 -0000
 Received: from unknown (HELO belvoir) (208.7.1.202) by 208.7.1.205 with
     SMTP; 3 Sep 2002 11:38:35 -0000
 Message-Id: <002001c25368$f39de270$7c640f0a@mfc.corp.mckee.com>
-From: "Fox" <lds0062@cdc.net>
-To: "Arnaud Abelard" <arnaud.abelard@sciences.univ-nantes.fr>,
+From: Fox <lds0062@cdc.net>
+To: Arnaud Abelard <arnaud.abelard@sciences.univ-nantes.fr>,
 	<razor-users@lists.sourceforge.net>
 References: <3D74593D.2050608@sciences.univ-nantes.fr>
 Subject: Re: [Razor-users] razor plugins for mozilla?
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 8bit
 X-Priority: 3
 X-Msmail-Priority: Normal
@@ -54,7 +54,7 @@ No, please post a link!
 
 Fox
 ----- Original Message -----
-From: "Arnaud Abelard" <arnaud.abelard@sciences.univ-nantes.fr>
+From: Arnaud Abelard <arnaud.abelard@sciences.univ-nantes.fr>
 To: <razor-users@example.sourceforge.net>
 Sent: Tuesday, September 03, 2002 2:39 AM
 Subject: [Razor-users] razor plugins for mozilla?
@@ -63,7 +63,7 @@ Subject: [Razor-users] razor plugins for mozilla?
 > Hello,
 >
 > did any of you hear about a a razor plugin for mozilla?
-> a plugin that would add a "report as spam" button somewhere for the user
+> a plugin that would add a report as spam button somewhere for the user
 > to report a mail as spam on a server?
 >
 > Arnaud

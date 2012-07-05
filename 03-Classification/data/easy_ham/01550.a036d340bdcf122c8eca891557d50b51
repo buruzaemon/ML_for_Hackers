@@ -58,8 +58,8 @@ Bonjour,
  whith qmailq UID (503) :
 
  I've got 13 has exit status, and in my mail log :
- "Can't call method "log" on unblessed reference at
-  /usr/lib/perl5/site_perl/5.6.0/Razor2/Client/Agent.pm line 211."
+ Can't call method log on unblessed reference at
+  /usr/lib/perl5/site_perl/5.6.0/Razor2/Client/Agent.pm line 211.
 
   My log file is in /home/user/.razor/razor-agent.log
   and have write permission for qmailq user.

@@ -21,7 +21,7 @@ Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
 Received: from 216.30.74.2 by lw15fd.law15.hotmail.msn.com with HTTP;
     Sun, 11 Aug 2002 17:37:14 GMT
 X-Originating-Ip: [216.30.74.2]
-From: "Russell Turpin" <deafbox@hotmail.com>
+From: Russell Turpin <deafbox@hotmail.com>
 To: fork@spamassassin.taint.org
 Subject: Re: Forged whitelist spam
 MIME-Version: 1.0

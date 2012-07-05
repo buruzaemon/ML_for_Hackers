@@ -18,12 +18,12 @@ Received: from puma.dub0.ie.cp.net (unknown [62.17.137.8]) by
     Mon,  2 Dec 2002 08:57:47 +0000 (GMT)
 Received: from McBoyle (10.41.4.5) by puma.dub0.ie.cp.net (7.0.008) id
     3DDE057D0000AD7B for ilug@linux.ie; Mon, 2 Dec 2002 08:57:47 +0000
-From: "James McBoyle" <james.mcboyle@cp.net>
+From: James McBoyle <james.mcboyle@cp.net>
 To: <ilug@linux.ie>
 Subject: RE: [ILUG] eircom mail
 Message-Id: <000301c299e0$debf53c0$0504290a@McBoyle>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="US-ASCII"
+Content-Type: text/plain; charset=US-ASCII
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal

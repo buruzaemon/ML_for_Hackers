@@ -21,10 +21,10 @@ Received: from relay.dub-t3-1.nwcgroup.com
 Received: from consultant.com (unknown [208.227.137.80]) by
     relay.dub-t3-1.nwcgroup.com (Postfix) with SMTP id EA86D7003F for
     <ilug@linux.ie>; Tue, 10 Sep 2002 16:13:23 +0100 (IST)
-From: "Eseimoku K.Anderson(Chief)" <k_u2_1999@consultant.com>
+From: Eseimoku K.Anderson(Chief) <k_u2_1999@consultant.com>
 To: <ilug@linux.ie>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="ISO-8859-1"
+Content-Type: text/plain; charset=ISO-8859-1
 Date: Tue, 10 Sep 2002 16:17:30 +0200
 Content-Transfer-Encoding: 8bit
 Message-Id: <20020910151323.EA86D7003F@relay.dub-t3-1.nwcgroup.com>

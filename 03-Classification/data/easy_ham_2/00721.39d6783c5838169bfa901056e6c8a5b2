@@ -48,11 +48,11 @@ Cc: exmh-workers@spamassassin.taint.org
 Subject: Re: [fwd: error exmh 2.5 07/13/2001 ]
 Reply-To: Kevin.Christian@lsil.com
 In-Reply-To: Your message of
-    "Wed, 24 Jul 2002 16:31:40 CDT."
+    Wed, 24 Jul 2002 16:31:40 CDT.
     <1027546301.610.TMDA@deepeddy.vircio.com>
 References: <1027546301.610.TMDA@deepeddy.vircio.com>
 MIME-Version: 1.0
-Content-Type: multipart/mixed ; boundary="==_Exmh_9973050780"
+Content-Type: multipart/mixed ; boundary===_Exmh_9973050780
 Message-Id: <4687.1027546864@bhuta>
 X-Loop: exmh-workers@spamassassin.taint.org
 Sender: exmh-workers-admin@spamassassin.taint.org
@@ -96,9 +96,9 @@ In message <1027546301.610.TMDA@deepeddy.vircio.com>, Chris Garrigues writes:
 
 
 --==_Exmh_9973050780
-Content-Type: message/rfc822 ; name="5637"
+Content-Type: message/rfc822 ; name=5637
 Content-Description: 5637
-Content-Disposition: attachment; filename="5637"
+Content-Disposition: attachment; filename=5637
 
 Return-Path: exmh-workers-admin@spamassassin.taint.org
 Delivery-Date: Tue, 02 Oct 2001 15:02:08 -0600

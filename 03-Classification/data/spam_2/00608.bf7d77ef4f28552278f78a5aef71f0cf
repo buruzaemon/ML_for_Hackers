@@ -9,19 +9,19 @@ Received: from fso.daewoo.com.pl (h171n2fls32o836.telia.com
     OAA25687; Wed, 5 Jun 2002 14:34:36 +0900
 Message-Id: <0000631876f1$000051ec$00004b4b@fso.daewoo.com.pl>
 To: <WebConference@ananzi.co.za>
-From: "E-Business Update" <WebConference@ananzi.co.za>
+From: E-Business Update <WebConference@ananzi.co.za>
 Subject: Pay nothing for your conference calls!
 Date: Tue, 04 Jun 2002 23:41:03 -1900
 MIME-Version: 1.0
 X-Mailer: Microsoft Outlook Express
 X-Keywords: 
-Content-Type: text/html; charset="iso-8859-1"
+Content-Type: text/html; charset=iso-8859-1
 Content-Transfer-Encoding: quoted-printable
 
 <HTML><HEAD><TITLE>Take Control Of Your Conference Calls</TITLE>
-<META http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-12=
-52">
-<META content=3D"MSHTML 5.50.4134.600" name=3DGENERATOR></HEAD>
+<META http-equiv=3DContent-Type content=3Dtext/html; charset=3Dwindows-12=
+52>
+<META content=3DMSHTML 5.50.4134.600 name=3DGENERATOR></HEAD>
 <BODY vLink=3D#c0c0c0 link=3D#c0c0c0 bgColor=3D#FFFFFF leftMargin=3D0><FON=
 T 
 face=3DTimes, New Roman>
@@ -76,76 +76,76 @@ borderColorLight=3D#ffffcc>
       <FORM action=3Dmailto:inbocks2_6@yahoo.com?subject=3DConference_Inqu=
 iry 
       method=3Dpost encType=3Dtext/plain>
-      <TABLE width=3D"100%">
+      <TABLE width=3D100%>
         <TBODY>
         <TR>
-          <TD align=3Dright width=3D"50%"><FONT 
-            face=3D"Arial, Helvetica, sans-serif" color=3D#000066
+          <TD align=3Dright width=3D50%><FONT 
+            face=3DArial, Helvetica, sans-serif color=3D#000066
           size=3D2>Name</FONT><FONT 
-            face=3D"Arial, Helvetica, sans-serif" color=3D#666600 
+            face=3DArial, Helvetica, sans-serif color=3D#666600 
             size=3D2>*</FONT></TD>
           <TD><INPUT name=3DNAME></TD></TR>
         <TR>
-          <TD align=3Dright width=3D"50%"><FONT 
-            face=3D"Arial, Helvetica, sans-serif" color=3D#000066 size=3D2=
+          <TD align=3Dright width=3D50%><FONT 
+            face=3DArial, Helvetica, sans-serif color=3D#000066 size=3D2=
 >Web 
             Address</FONT></TD>
           <TD><INPUT value=3Dhttp:// name=3DURL></TD></TR>
         <TR>
-          <TD align=3Dright width=3D"50%"><FONT 
-            face=3D"Arial, Helvetica, sans-serif" color=3D#000066 size=3D2=
+          <TD align=3Dright width=3D50%><FONT 
+            face=3DArial, Helvetica, sans-serif color=3D#000066 size=3D2=
 >Company 
             Name</FONT><FONT 
-            face=3D"Arial, Helvetica, sans-serif" color=3D#666600
+            face=3DArial, Helvetica, sans-serif color=3D#666600
             size=3D2>*</FONT></TD>
           <TD><INPUT name=3DCOMPANY_NAME></TD></TR>
         <TR>
-          <TD align=3Dright width=3D"50%"><FONT 
-            face=3D"Arial, Helvetica, sans-serif" color=3D#000066 size=3D2=
+          <TD align=3Dright width=3D50%><FONT 
+            face=3DArial, Helvetica, sans-serif color=3D#000066 size=3D2=
 >
             State</FONT><FONT 
-            face=3D"Arial, Helvetica, sans-serif" color=3D#666600 
+            face=3DArial, Helvetica, sans-serif color=3D#666600 
             size=3D2>*</FONT></TD>
           <TD><INPUT size=3D2 name=3DSTATE></TD></TR>
         <TR>
-          <TD align=3Dright width=3D"50%"><FONT 
-            face=3D"Arial, Helvetica, sans-serif" color=3D#000066 size=3D2=
+          <TD align=3Dright width=3D50%><FONT 
+            face=3DArial, Helvetica, sans-serif color=3D#000066 size=3D2=
 >Business 
             Phone</FONT><FONT 
-            face=3D"Arial, Helvetica, sans-serif" color=3D#666600 
+            face=3DArial, Helvetica, sans-serif color=3D#666600 
             size=3D2>*</FONT></TD>
           <TD><INPUT name=3DBUS_PHONE></TD></TR>
         <TR>
-          <TD align=3Dright width=3D"50%"><FONT 
-            face=3D"Arial, Helvetica, sans-serif" color=3D#000066 size=3D2=
+          <TD align=3Dright width=3D50%><FONT 
+            face=3DArial, Helvetica, sans-serif color=3D#000066 size=3D2=
 >Home 
             Phone</FONT></TD>
           <TD><INPUT name=3DHOME_PHONE></TD></TR>
         <TR>
-          <TD align=3Dright width=3D"50%"><FONT 
-            face=3D"Arial, Helvetica, sans-serif" color=3D#000066 size=3D2=
+          <TD align=3Dright width=3D50%><FONT 
+            face=3DArial, Helvetica, sans-serif color=3D#000066 size=3D2=
 >Email 
             Address</FONT><FONT 
-            face=3D"Arial, Helvetica, sans-serif" color=3D#666600 
+            face=3DArial, Helvetica, sans-serif color=3D#666600 
             size=3D2>*</FONT></TD>
           <TD><INPUT name=3DEMAIL></TD></TR>
         <TR>
-          <TD align=3Dright width=3D"50%"><FONT 
-            face=3D"Arial, Helvetica, sans-serif" color=3D#000066 size=3D2=
+          <TD align=3Dright width=3D50%><FONT 
+            face=3DArial, Helvetica, sans-serif color=3D#000066 size=3D2=
 >Type of 
             Business</FONT></TD>
           <TD><INPUT name=3DTYPE_OF_BUSINESS></TD></TR></TBODY></TABLE>
-      <P><INPUT type=3Dsubmit value=3D"Submit Information" name=3Dsubmit> 
+      <P><INPUT type=3Dsubmit value=3DSubmit Information name=3Dsubmit> 
     </FORM></P></TD></TR></TBODY></TABLE>
 <BR><BR>
 <TABLE width=3D500>
   <TBODY>
   <TR>
-    <TD align=3Dmiddle><FONT face=3D"Arial, Helvetica, sans-serif"><font c=
+    <TD align=3Dmiddle><FONT face=3DArial, Helvetica, sans-serif><font c=
 olor=3D#666600
       size=3D1>To be removed from our list, please  
-      <A href=3D"mailto:d_lete179@eudoramail.com?subject=3DRemove_Conferen=
-cing">Click 
+      <A href=3Dmailto:d_lete179@eudoramail.com?subject=3DRemove_Conferen=
+cing>Click 
       here.<FONT color=3D#666600></A></FONT>.</FONT></TD></TR></TBODY></TA=
 BLE></P></CENTER></BODY></HTML>
 

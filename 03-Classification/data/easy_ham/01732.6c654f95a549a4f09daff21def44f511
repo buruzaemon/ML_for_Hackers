@@ -25,7 +25,7 @@ the code maximally clumsy for me to use on the c.l.py task <wink>.
 > save and throw away selectively (much more so than in the past :-).
 
 Yup, the system picks up on *everything* in the tokens.  Graham's proposed
-"delete as ham" and "delete as spam" keys would probably work very well for
+delete as ham and delete as spam keys would probably work very well for
 motivated geeks.  But Paul Svensson has pointed out here that they probably
 wouldn't work nearly so well for real people.
 
@@ -41,7 +41,7 @@ I'll soon check in this change:
 
     def tokenize_body(self, msg, retain_pure_html_tags=False):
                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-        """Generate a stream of tokens from an email Message.
+        Generate a stream of tokens from an email Message.
 
         If a multipart/alternative section has both text/plain and text/html
         sections, the text/html section is ignored.  This may not be a good
@@ -54,7 +54,7 @@ I'll soon check in this change:
         comp.lang.python tests (where HTML-only messages are almost never
         legitimate traffic).  If optional argument retain_pure_html_tags
         is specified and True, HTML tags are retained in text/html sections.
-        """
+        
 
 You should do a cvs up and establish a new baseline first, as I checked in a
 pure-win change in the wee hours that cut the fp and fn rates in my tests.

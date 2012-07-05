@@ -25,8 +25,8 @@ To: rpm-zzzlist@freshrpms.net
 In-Reply-To: <1810000.1033647373@spawn.se7en.org>
 References: <1810000.1033647373@spawn.se7en.org>
 Content-Type: multipart/signed; micalg=pgp-sha1;
-    protocol="application/pgp-signature";
-    boundary="=-ITC4wxYrfSWQCmQFalKh"
+    protocol=application/pgp-signature;
+    boundary==-ITC4wxYrfSWQCmQFalKh
 X-Mailer: Ximian Evolution 1.0.3 (1.0.3-6)
 Message-Id: <1033651236.19916.1.camel@opus>
 MIME-Version: 1.0

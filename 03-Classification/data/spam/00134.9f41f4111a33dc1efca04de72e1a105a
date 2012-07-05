@@ -23,17 +23,17 @@ MIME-Version: 1.0
 Content-Type: text/html; charset=us-ascii
 
 
-<html xmlns:v="urn:schemas-microsoft-com:vml"
-xmlns:o="urn:schemas-microsoft-com:office:office"
-xmlns:w="urn:schemas-microsoft-com:office:word"
-xmlns="http://www.w3.org/TR/REC-html40">
+<html xmlns:v=urn:schemas-microsoft-com:vml
+xmlns:o=urn:schemas-microsoft-com:office:office
+xmlns:w=urn:schemas-microsoft-com:office:word
+xmlns=http://www.w3.org/TR/REC-html40>
 
 <head>
-<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta http-equiv=Content-Type content=text/html; charset=windows-1252>
 <meta name=ProgId content=Word.Document>
-<meta name=Generator content="Microsoft Word 9">
-<meta name=Originator content="Microsoft Word 9">
-<link rel=File-List href="./Illinois%20flyer_files/filelist.xml">
+<meta name=Generator content=Microsoft Word 9>
+<meta name=Originator content=Microsoft Word 9>
+<link rel=File-List href=./Illinois%20flyer_files/filelist.xml>
 <title>THE CONVIENENCE OF</title>
 <!--[if gte mso 9]><xml>
  <o:DocumentProperties>
@@ -87,13 +87,13 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	mso-font-signature:553679495 -2147483648 8 0 66047 0;}
  /* Style Definitions */
 p.MsoNormal, li.MsoNormal, div.MsoNormal
-	{mso-style-parent:"";
+	{mso-style-parent:;
 	margin:0in;
 	margin-bottom:.0001pt;
 	mso-pagination:widow-orphan;
 	font-size:10.0pt;
-	font-family:"Times New Roman";
-	mso-fareast-font-family:"Times New Roman";}
+	font-family:Times New Roman;
+	mso-fareast-font-family:Times New Roman;}
 h1
 	{mso-style-next:Normal;
 	margin:0in;
@@ -182,7 +182,7 @@ p.MsoHeading7, li.MsoHeading7, div.MsoHeading7
 	font-size:16.0pt;
 	mso-bidi-font-size:10.0pt;
 	font-family:Tahoma;
-	mso-fareast-font-family:"Times New Roman";}
+	mso-fareast-font-family:Times New Roman;}
 p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
 	{margin:0in;
 	margin-bottom:.0001pt;
@@ -190,7 +190,7 @@ p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
 	font-size:20.0pt;
 	mso-bidi-font-size:10.0pt;
 	font-family:Tahoma;
-	mso-fareast-font-family:"Times New Roman";}
+	mso-fareast-font-family:Times New Roman;}
 a:link, span.MsoHyperlink
 	{color:blue;
 	text-decoration:underline;
@@ -227,10 +227,10 @@ ul
 -->
 </style>
 <!--[if gte mso 9]><xml>
- <o:shapedefaults v:ext="edit" spidmax="2050"/>
+ <o:shapedefaults v:ext=edit spidmax=2050/>
 </xml><![endif]--><!--[if gte mso 9]><xml>
- <o:shapelayout v:ext="edit">
-  <o:idmap v:ext="edit" data="1"/>
+ <o:shapelayout v:ext=edit>
+  <o:idmap v:ext=edit data=1/>
  </o:shapelayout></xml><![endif]-->
 </head>
 
@@ -260,71 +260,71 @@ Chicago-Northshore</span></p>
 
 <p class=MsoNormal style='margin-left:.5in;text-indent:-.25in;mso-list:l0 level1 lfo1;
 tab-stops:list .5in'><![if !supportLists]><span style='font-size:20.0pt;
-mso-bidi-font-size:10.0pt;font-family:Symbol;mso-bidi-font-family:Tahoma'>·<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+mso-bidi-font-size:10.0pt;font-family:Symbol;mso-bidi-font-family:Tahoma'><span
+style='font:7.0pt Times New Roman'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
 style='font-size:20.0pt;mso-bidi-font-size:10.0pt;font-family:Tahoma'>Great
 location just 8 miles north of Downtown Chicago off I-94 Expressway<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:.5in;text-indent:-.25in;mso-list:l0 level1 lfo1;
 tab-stops:list .5in'><![if !supportLists]><span style='font-size:20.0pt;
-mso-bidi-font-size:10.0pt;font-family:Symbol;mso-bidi-font-family:Tahoma'>·<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+mso-bidi-font-size:10.0pt;font-family:Symbol;mso-bidi-font-family:Tahoma'><span
+style='font:7.0pt Times New Roman'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
 style='font-size:20.0pt;mso-bidi-font-size:10.0pt;font-family:Tahoma'>$85 State
 Government Rate with only 6% Sales Tax (Chicago 14.9%, Rosemont 12%)<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:.5in;text-indent:-.25in;mso-list:l0 level1 lfo1;
 tab-stops:list .5in'><![if !supportLists]><span style='font-size:20.0pt;
-mso-bidi-font-size:10.0pt;font-family:Symbol;mso-bidi-font-family:Tahoma'>·<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
-style='font-size:20.0pt;mso-bidi-font-size:10.0pt;font-family:Tahoma'>O’Hare
+mso-bidi-font-size:10.0pt;font-family:Symbol;mso-bidi-font-family:Tahoma'><span
+style='font:7.0pt Times New Roman'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+style='font-size:20.0pt;mso-bidi-font-size:10.0pt;font-family:Tahoma'>OHare
 Shuttle Service Available<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:.5in;text-indent:-.25in;mso-list:l0 level1 lfo1;
 tab-stops:list .5in'><![if !supportLists]><span style='font-size:20.0pt;
-mso-bidi-font-size:10.0pt;font-family:Symbol;mso-bidi-font-family:Tahoma'>·<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+mso-bidi-font-size:10.0pt;font-family:Symbol;mso-bidi-font-family:Tahoma'><span
+style='font:7.0pt Times New Roman'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
 style='font-size:20.0pt;mso-bidi-font-size:10.0pt;font-family:Tahoma'>Free High
 Speed Internet Access<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:.5in;text-indent:-.25in;mso-list:l0 level1 lfo1;
 tab-stops:list .5in'><![if !supportLists]><span style='font-size:20.0pt;
-mso-bidi-font-size:10.0pt;font-family:Symbol;mso-bidi-font-family:Tahoma'>·<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+mso-bidi-font-size:10.0pt;font-family:Symbol;mso-bidi-font-family:Tahoma'><span
+style='font:7.0pt Times New Roman'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
 style='font-size:20.0pt;mso-bidi-font-size:10.0pt;font-family:Tahoma'>Free
 Ample Parking<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:.5in;text-indent:-.25in;mso-list:l0 level1 lfo1;
 tab-stops:list .5in'><![if !supportLists]><span style='font-size:20.0pt;
-mso-bidi-font-size:10.0pt;font-family:Symbol;mso-bidi-font-family:Tahoma'>·<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+mso-bidi-font-size:10.0pt;font-family:Symbol;mso-bidi-font-family:Tahoma'><span
+style='font:7.0pt Times New Roman'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
 style='font-size:20.0pt;mso-bidi-font-size:10.0pt;font-family:Tahoma'>State
 Certified Minority Business Enterprise (MBE) #363778006<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:.5in;text-indent:-.25in;mso-list:l0 level1 lfo1;
 tab-stops:list .5in'><![if !supportLists]><span style='font-size:20.0pt;
-mso-bidi-font-size:10.0pt;font-family:Symbol;mso-bidi-font-family:Tahoma'>·<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+mso-bidi-font-size:10.0pt;font-family:Symbol;mso-bidi-font-family:Tahoma'><span
+style='font:7.0pt Times New Roman'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
 style='font-size:20.0pt;mso-bidi-font-size:10.0pt;font-family:Tahoma'>18000+
 Square Feet of Flexible Meeting Space<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:.5in;text-indent:-.25in;mso-list:l0 level1 lfo1;
 tab-stops:list .5in'><![if !supportLists]><span style='font-size:20.0pt;
-mso-bidi-font-size:10.0pt;font-family:Symbol;mso-bidi-font-family:Tahoma'>·<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+mso-bidi-font-size:10.0pt;font-family:Symbol;mso-bidi-font-family:Tahoma'><span
+style='font:7.0pt Times New Roman'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
 style='font-size:20.0pt;mso-bidi-font-size:10.0pt;font-family:Tahoma'>#3 Rated
 Hotel for Customer Service in Entire Radisson Chain Worldwide*<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:.5in;text-indent:-.25in;mso-list:l0 level1 lfo1;
 tab-stops:list .5in'><![if !supportLists]><span style='font-size:20.0pt;
-mso-bidi-font-size:10.0pt;font-family:Symbol;mso-bidi-font-family:Tahoma'>·<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+mso-bidi-font-size:10.0pt;font-family:Symbol;mso-bidi-font-family:Tahoma'><span
+style='font:7.0pt Times New Roman'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
 style='font-size:20.0pt;mso-bidi-font-size:10.0pt;font-family:Tahoma'>Great
 Restaurants, Shopping &amp; Activities<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:.5in;text-indent:-.25in;mso-list:l0 level1 lfo1;
 tab-stops:list .5in'><![if !supportLists]><span style='font-size:20.0pt;
-mso-bidi-font-size:10.0pt;font-family:Symbol;mso-bidi-font-family:Tahoma'>·<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
+mso-bidi-font-size:10.0pt;font-family:Symbol;mso-bidi-font-family:Tahoma'><span
+style='font:7.0pt Times New Roman'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><span
 style='font-size:20.0pt;mso-bidi-font-size:10.0pt;font-family:Tahoma'>FEMA
 #IL-0458 and ADA Compliant<o:p></o:p></span></p>
 
@@ -337,7 +337,7 @@ ext. 6884 or</h5>
 <h6>Donald Bae @ 1847-677-1234 ext. 6880</h6>
 
 <p class=MsoHeading7>Take a virtual tour of our hotel @ <a
-href="http://www.radisson-chicago.com/">www.radisson-chicago.com</a></p>
+href=http://www.radisson-chicago.com/>www.radisson-chicago.com</a></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span
 style='font-size:16.0pt;mso-bidi-font-size:10.0pt;font-family:Tahoma'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p>

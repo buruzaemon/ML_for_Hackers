@@ -38,10 +38,10 @@ References: <200209092111.g89LBH703076@lin12.triumf.ca>
     <Pine.GSO.4.30L.0209091538070.29646-100000@multics.mit.edu>
     <200209092354.g89Ns8g04304@lin12.triumf.ca>
 Comments: In-reply-to Rick Baartman <baartman@lin12.triumf.ca> message
-    dated "Mon, 09 Sep 2002 16:54:08 -0700."
+    dated Mon, 09 Sep 2002 16:54:08 -0700.
 From: Brent Welch <welch@panasas.com>
 X-Url: http://www.panasas.com/
-X-Face: "HxE|?EnC9fVMV8f70H83&{fgLE.|FZ^$>@Q(yb#N,Eh~N]e&]=>
+X-Face: HxE|?EnC9fVMV8f70H83&{fgLE.|FZ^$>@Q(yb#N,Eh~N]e&]=>
     r5~UnRml1:4EglY{9B+ :'wJq$@c_C!l8@<$t,{YUr4K,QJGHSvS~U]H`<+L*x?eGzSk>XH\W:AK\j?@?c1o<k;j'Ei/UL)!*0
     ILwSR)J\bc)gjz!rrGQ2#i*f:M:ydhK}jp4dWQW?;0{,#iWrCV$4~%e/3)$1/D
 MIME-Version: 1.0
@@ -63,7 +63,7 @@ List-Unsubscribe: <https://listman.spamassassin.taint.org/mailman/listinfo/exmh-
 List-Archive: <https://listman.spamassassin.taint.org/mailman/private/exmh-users/>
 Date: Tue, 10 Sep 2002 14:31:48 -0700
 
-There is an "Update all scan caches" menu entry that rescans your
+There is an Update all scan caches menu entry that rescans your
 folders similar to the short scripts folks have shared around.  It
 runs in the background.
 
@@ -73,7 +73,7 @@ runs in the background.
 i.e.
       
  > > 
- > > sh -c 'for f in `folders -recurse -fast` ; do sortm +"$f" ; done'
+ > > sh -c 'for f in `folders -recurse -fast` ; do sortm +$f ; done'
  > > 
  > But there is a problem with making changes outside of exmh: the 
 .xmhcache fi

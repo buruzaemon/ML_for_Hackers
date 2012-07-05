@@ -51,10 +51,10 @@ Niall O Broin thought:
 > be honest, is best appreciated if you have access to a HP DesignJet or
 
 Speaking of HP Designjets, has anyone managed to utilise the full width of
-the paper on a HP Designjet 750c under RH7.x?  The HP can take a 24" wide
+the paper on a HP Designjet 750c under RH7.x?  The HP can take a 24 wide
 roll while the driver (dnj650c) lists a paper size of 16x24.
-Unfortunately, this will print only in protrait mode so I get a 24"x24"
-page with an unused 8" strip down one side!  I'd like to be able to print
+Unfortunately, this will print only in protrait mode so I get a 24x24
+page with an unused 8 strip down one side!  I'd like to be able to print
 24x<infinity> or whatever (even 24x30!) but I don't seem able to do so.
 
 Any thoughts?

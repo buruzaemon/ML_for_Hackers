@@ -19,12 +19,12 @@ Received: from homer.perfectpresence.com (unknown [209.123.207.194]) by
 Received: from adsl-154-230-120.jax.bellsouth.net ([68.154.230.120]
     helo=regina) by homer.perfectpresence.com with smtp (Exim 3.36 #1) id
     18Ifux-0007bX-00; Sun, 01 Dec 2002 21:02:39 -0500
-From: "Geege Schuman" <geege@barrera.org>
-To: "Joseph S. Barrera III" <joe@barrera.org>, <fork@spamassassin.taint.org>
+From: Geege Schuman <geege@barrera.org>
+To: Joseph S. Barrera III <joe@barrera.org>, <fork@spamassassin.taint.org>
 Subject: RE: Mercedes-Benz G55
 Message-Id: <ILEHJNJFPDLMDEKNIAKCOELACCAA.geege@barrera.org>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal

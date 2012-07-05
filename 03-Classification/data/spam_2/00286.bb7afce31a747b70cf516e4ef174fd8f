@@ -15,13 +15,13 @@ Received: from [192.168.2.1] ([192.168.2.1]) by mail.sepyc.gob.mx
     (envelope-from ehbzk@371.net)
 Date: Mon, 13 May 2002 00:43:42 GMT
 Message-Id: <200205130043.AAA55290@mail.sepyc.gob.mx>
-From: "Joyce" <ehbzk@371.net>
-To: "bpsglzei@aol.com" <bpsglzei@aol.com>
+From: Joyce <ehbzk@371.net>
+To: bpsglzei@aol.com <bpsglzei@aol.com>
 Received: from dai-tx3-57.rasserver.net ([204.32.146.57]) by [192.168.2.1]
     via smtpd (for [192.168.1.3]) with SMTP; 13 May 2002 05:22:15 UT
 Subject: It will work for you
-Content-Type: text/plain; charset="us-ascii";format=flowed
-X-Eagle-Notice: Dubious characters removed from 'To: \"bpsglzei@aol.com\r\"
+Content-Type: text/plain; charset=us-ascii;format=flowed
+X-Eagle-Notice: Dubious characters removed from 'To: \bpsglzei@aol.com\r\
     <bpsglzei@aol.com\r>'
 X-Keywords: 
 Content-Transfer-Encoding: 7bit

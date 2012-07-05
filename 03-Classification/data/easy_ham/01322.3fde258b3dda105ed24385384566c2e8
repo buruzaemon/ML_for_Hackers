@@ -67,7 +67,7 @@ Justin Mason wrote:
 >>>>  1.582    2.226    1.279    0.64    0.39  GAPPY_TEXT
 >>>
 >>>Gappy text in a non-spam?  It must be a  H E A D L I N E  or something.  
->>>Maybe just remove space from the list of "gap" characters?
+>>>Maybe just remove space from the list of gap characters?
 >>
 >>For 2.50, we could try to figure out which nonspams are hitting and
 >>improve the rule.

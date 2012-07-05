@@ -21,12 +21,12 @@ Received: from p232-46.as1.cbr.castlebar.eircom.net (HELO oemcomputer)
     (159.134.232.46) by mail04.svc.cra.dublin.eircom.net (qp 57937) with SMTP;
     3 Aug 2002 20:48:28 -0000
 Message-Id: <005f01c23b2f$320fe780$c4e9869f@oemcomputer>
-From: "Brian O'Brien" <obrienbrian@eircom.net>
+From: Brian O'Brien <obrienbrian@eircom.net>
 To: <iiu@taint.org>
 References: <5.1.0.14.0.20020803213144.02fd5860@127.0.0.1>
 Subject: Re: [IIU] spyware calling home?
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 8bit
 X-Priority: 3
 X-Msmail-Priority: Normal
@@ -53,7 +53,7 @@ time. It just blocks the outward access and warns me that the attempt
 occurred.
 Brian
 ----- Original Message -----
-From: "Martin Whelan" <mwhelan@deisedesign.com>
+From: Martin Whelan <mwhelan@deisedesign.com>
 To: <iiu@taint.org>
 Sent: Saturday, August 03, 2002 9:32 PM
 Subject: Re: [IIU] spyware calling home?
@@ -90,7 +90,7 @@ being
 > ========================================================================
 > Martin Whelan | Déise Design | www.deisedesign.com | Tel : 086-8888975
 >
-> " Our core product Déiseditor © allows organisations to publish
+>  Our core product Déiseditor  allows organisations to publish
 information
 > to their web site in a fast and cost effective manner. There is no need
 for
@@ -99,9 +99,9 @@ for
 > Instant updates to keep site information fresh. Sites which are updated
 > regularly bring users back. Visit www.deisedesign.com/deiseditor.html for
 a
-> demonstration "
+> demonstration 
 >
-> Déiseditor © " Managing Your Information "
+> Déiseditor   Managing Your Information 
 > ========================================================================
 >
 > _______________________________________________

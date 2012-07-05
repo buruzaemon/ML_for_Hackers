@@ -19,14 +19,14 @@ Received: from ex02.idirect.net (ex02.idirect.net [208.226.76.48]) by
 X-Mimeole: Produced By Microsoft Exchange V6.0.4417.0
 Content-Class: urn:content-classes:message
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Subject: RE: Documentation about built-in RPM macros?
 Message-Id: <BADF3C947A1BD54FBA75C70C241B0B9E10AA97@ex02.idirect.net>
 X-MS-Has-Attach: 
 X-MS-Tnef-Correlator: 
 Thread-Topic: Documentation about built-in RPM macros?
 Thread-Index: AcJEjYzDuVbFyMvQTtimZrgVK0GviAAAaRAw
-From: "Harig, Mark A." <maharig@idirect.net>
+From: Harig, Mark A. <maharig@idirect.net>
 To: <rpm-zzzlist@freshrpms.net>
 X-Mailscanner: Found to be clean, Found to be clean
 Content-Transfer-Encoding: 8bit
@@ -62,14 +62,14 @@ Date: Thu, 15 Aug 2002 15:30:40 -0400
 > 
 > Dave Cridland <dave@cridland.net> wrote:
 > 
-> > > recommends *against* using '%configure' ("We will try to 
+> > > recommends *against* using '%configure' (We will try to 
 > support users
 > > > who accidentally type the leading % but this should not be relied
-> > > upon."), and yet
+> > > upon.), and yet
 > 
 > [snip]
 > 
-> > They're just suggesting people use "./configure" instead.
+> > They're just suggesting people use ./configure instead.
 > 
 > No, they do not (what would be the use of that, anyway?). 
 > They say that
@@ -80,7 +80,7 @@ Date: Thu, 15 Aug 2002 15:30:40 -0400
 Hmm.  1. The quote is not suggesting that people use './configure'.
 2. The quote is not saying that rpm will _try_ to eval macros even
 if the user forgot to pass the leading '%'.  It is saying the opposite:
-rpm will try to support users who "forgot" to _leave off_ the leading
+rpm will try to support users who forgot to _leave off_ the leading
 '%'.  That is what the documentation _says_, but rpm does not follow
 the documentation.  If you leave off the '%', then rpm will not eval
 the macro, at least for rpm 4.0.4.
@@ -89,7 +89,7 @@ Confused?
 
 Anyway, back to my original problem: what about documentation for
 the macros '%post', '%postun', and '%files'?  Here's some of what
-I found "documented" in the the CHANGES file that 'rpm' includes:
+I found documented in the the CHANGES file that 'rpm' includes:
 
 Line 46:
 	- macro for %files, always include %defattr(), redhat config
@@ -101,8 +101,8 @@ Line 49:
 Hmm.  So, there is no %files macro?
 
 Line 172-174:
-	- add "rpmlib(ScriptletInterpreterArgs)" to track
-	    %post -p "/sbin/ldconfig -n /usr/lib"
+	- add rpmlib(ScriptletInterpreterArgs) to track
+	    %post -p /sbin/ldconfig -n /usr/lib
 	  incompatibilities.
 
 I'm unable to find a corresponding description for %postun, but it

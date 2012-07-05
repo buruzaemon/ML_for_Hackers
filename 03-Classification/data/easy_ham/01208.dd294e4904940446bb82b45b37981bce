@@ -59,9 +59,9 @@ version.  That doesn't mean it can't work, it means nobody tried it, they
 sure didn't test it or fix anything to make it work, and you're on your 
 own.
 
-second, historically a new .0 numbers mostly means "so much has been 
+second, historically a new .0 numbers mostly means so much has been 
 changed that you might have problems upgrading from any previous release 
-anyway".  So, historically, most users installing a .0 release do this 
+anyway.  So, historically, most users installing a .0 release do this 
 from scratch anyway, doing upgrades throughout x.0->x.y.
 
 If you want to avoid problems, bite the bullet and reinstall ;)

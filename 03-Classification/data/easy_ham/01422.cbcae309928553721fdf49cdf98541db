@@ -15,7 +15,7 @@ ekit/ekno/ISIConnect websites, so they get a LOT of spam.
 As well as the usual spam, it also has customers complaining about 
 credit card charges, it has people interested in the service and 
 asking questions about long distance rates, &c &c &c. Lots and lots 
-of "commercial" speech, in other words. Stuff that SA gets pretty 
+of commercial speech, in other words. Stuff that SA gets pretty 
 badly wrong.
 
 I'm currently mangling it by feeding all parts (text, html, whatever 
@@ -27,7 +27,7 @@ X-uidl that stoopid spammers blindly copy into their messages.
 I did have Received in there, but it's out for the moment, as it causes
 rates to drop.
 
-I'm also stripping out HTML tags, except for href="" and src="" - there's
+I'm also stripping out HTML tags, except for href= and src= - there's
 so so much goodness in them (note that I'm only keeping the contents of
 the attributes). 
 

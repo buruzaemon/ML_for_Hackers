@@ -28,13 +28,13 @@ Received: from mx0.emailqueue.net (localhost.daemonmail.net [127.0.0.1])
 Received: from brianmay (brianmay [64.52.135.194]) by mail.unearthed.com
     with ESMTP id F4G0l8M2 Thu, 05 Sep 2002 10:51:01 -0700 (PDT)
 Message-Id: <00c701c25504$da88e530$8801020a@brianmay>
-From: "Brian May" <brian@unearthed.com>
-To: "SpamAssassin Users' list" <spamassassin-talk@example.sourceforge.net>
+From: Brian May <brian@unearthed.com>
+To: SpamAssassin Users' list <spamassassin-talk@example.sourceforge.net>
 References: <00c201c254ff$bc2acb30$8801020a@brianmay>
 Subject: Re: [SAtalk] [OT] SpamAssassin figures...
 Organization: UnEarthed.Com
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal

@@ -23,7 +23,7 @@ Received: from kabul.ad.skymv.com ([192.168.1.70]) by kabul.ad.skymv.com
 Content-Class: urn:content-classes:message
 Subject: RE: [SAtalk] O.T. Habeus -- Why?
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Priority: normal
 Importance: normal
 X-Mimeole: Produced By Microsoft MimeOLE V5.50.4807.1700
@@ -32,7 +32,7 @@ X-MS-Has-Attach:
 X-MS-Tnef-Correlator:
 Thread-Topic: [SAtalk] O.T. Habeus -- Why?
 Thread-Index: AcJO7qte24+xcf7ESLmrGiiIRFMj4wAGlwww
-From: "Dan Kohn" <dan@dankohn.com>
+From: Dan Kohn <dan@dankohn.com>
 To: <spamassassin-talk@example.sourceforge.net>
 X-Originalarrivaltime: 29 Aug 2002 03:09:49.0231 (UTC) FILETIME=[890B3BF0:01C24F09]
 X-Habeas-Swe-1: winter into spring
@@ -82,7 +82,7 @@ business is about finding them and putting them out of business
 
 Habeas has the incentive to pursue spammers (that use our warrant mark)
 in a way that no one ever has had before.  Given that our whole business
-plan relies on Habeas becoming synonymous with "not spam", I can't
+plan relies on Habeas becoming synonymous with not spam, I can't
 understand why you would assume ahead of time that we will be
 unsuccessful, plan for that failure, and in so doing, remove the
 potential of success, which is anti-spam filters like SA acting on the
@@ -126,7 +126,7 @@ Just a few notes:
 
  - It will be difficult to find, prosecute, and win money from someone
    in various non-friendly countries where spam originates (China is a
-   good example) even if they do officially "respect" copyright law.
+   good example) even if they do officially respect copyright law.
 
  - Law suits take time. Between now and conclusion of the first court
    case, we could have years of spam in our mail boxes!
@@ -137,7 +137,7 @@ Just a few notes:
  - Spammers do not always remember to include contact information!  I
    don't understand it either, but nobody said they were bright.  Also,
    some spam is non-commercial or sent by a third-party (for example,
-   "pump and dump" stock scams), so contact information is not strictly
+   pump and dump stock scams), so contact information is not strictly
    required for the spammer to get their way.
 
 Dan

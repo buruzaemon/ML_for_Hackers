@@ -32,7 +32,7 @@ References: <LCEPIIGDJPKCOIHOBJEPGEGPHOAA.mhammond@skippinet.com.au>
     <KFDCKI53GFCALK829664VTA5074OJYX.3de2d94d@riven>
     <15842.62697.829412.348546@slothrop.zope.com>
     <15843.39397.770235.412408@montanaro.dyndns.org>
-X-Mailer: VM 7.00 under 21.4 (patch 6) "Common Lisp" XEmacs Lucid
+X-Mailer: VM 7.00 under 21.4 (patch 6) Common Lisp XEmacs Lucid
 X-Mailscanner: Found to be clean
 Cc: Spambayes <spambayes@python.org>
 X-Beenthere: spambayes@python.org
@@ -50,7 +50,7 @@ List-Unsubscribe: <http://mail.python.org/mailman/listinfo/spambayes>,
 Sender: spambayes-bounces@python.org
 Errors-To: spambayes-bounces@python.org
 
->>>>> "SM" == Skip Montanaro <skip@pobox.com> writes:
+>>>>> SM == Skip Montanaro <skip@pobox.com> writes:
 
   Jeremy> Put another way, I'd be interested to hear why you don't
   Jeremy> want to use ZODB.

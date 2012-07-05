@@ -24,13 +24,13 @@ MIME-Version: 1.0
 X-Mailer: guSNkATxxis4eMSP7EFMnNTcbQal
 X-Priority: 3
 X-Msmail-Priority: Normal
-Content-Type: multipart/mixed; boundary="----=_NextPart_w06gnvwSMBJCZhhJJKsn0sSgc1kn"
+Content-Type: multipart/mixed; boundary=----=_NextPart_w06gnvwSMBJCZhhJJKsn0sSgc1kn
 
 This is a multi-part message in MIME format.
 
 ------=_NextPart_w06gnvwSMBJCZhhJJKsn0sSgc1kn
 Content-Type: multipart/alternative;
-	boundary="----=_NextPart_w06gnvwSMBJCZhhJJKsn0sSgc1knAA"
+	boundary=----=_NextPart_w06gnvwSMBJCZhhJJKsn0sSgc1knAA
 
 
 ------=_NextPart_w06gnvwSMBJCZhhJJKsn0sSgc1knAA
@@ -68,16 +68,16 @@ gomansiu@filmcapacitor-st.com
 
 
 We apologize for any inconvenience cause by this e-mail.
-If you would like to be removed from our mailing list, please reply this mail with "unsubscribe+ your e-mail address" in the Subject.
+If you would like to be removed from our mailing list, please reply this mail with unsubscribe+ your e-mail address in the Subject.
 
 ------=_NextPart_w06gnvwSMBJCZhhJJKsn0sSgc1knAA--
 
 ------=_NextPart_w06gnvwSMBJCZhhJJKsn0sSgc1kn
 Content-Type: application/octet-stream;
-	name="J:\Shun Tai-Cap\Filter Cap.JPG"
+	name=J:\Shun Tai-Cap\Filter Cap.JPG
 Content-Transfer-Encoding: base64
 Content-Disposition: attachment;
-	filename="Filter Cap.JPG"
+	filename=Filter Cap.JPG
 
 /9j/4AAQSkZJRgABAQEASABIAAD/4Re0RXhpZgAASUkqAAgAAAALAA4BAgAgAAAAkgAAAA8BAgAY
 AAAAsgAAABABAgAMAAAAygAAABIBAwABAAAAAQAAABoBBQABAAAA2AAAABsBBQABAAAA4AAAACgB

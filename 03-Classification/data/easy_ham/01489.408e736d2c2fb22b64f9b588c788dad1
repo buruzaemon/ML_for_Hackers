@@ -6,12 +6,12 @@ Received: by spamassassin.taint.org (Postfix, from userid 500)
 Received: from spamassassin.taint.org (localhost [127.0.0.1])
 	by jmason.org (Postfix) with ESMTP
 	id 8EBC1F7B1; Wed, 18 Sep 2002 12:45:20 +0100 (IST)
-To: "Gary Funck" <gary@Intrepid.Com>
-Cc: "Spamassassin List" <spamassassin-talk@example.sourceforge.net>,
-	"Justin Mason" <jm@jmason.org>
+To: Gary Funck <gary@Intrepid.Com>
+Cc: Spamassassin List <spamassassin-talk@example.sourceforge.net>,
+	Justin Mason <jm@jmason.org>
 Subject: Re: [SAtalk] checking out Razor2 (and SA 2.41) install - Net::DNS:Resolver problem? 
-In-Reply-To: Message from "Gary Funck" <gary@Intrepid.Com> 
-   of "Tue, 17 Sep 2002 18:36:05 PDT." <KNEFLOIOCHLFEGCDNFPHKEHPCFAA.gary@intrepid.com> 
+In-Reply-To: Message from Gary Funck <gary@Intrepid.Com> 
+   of Tue, 17 Sep 2002 18:36:05 PDT. <KNEFLOIOCHLFEGCDNFPHKEHPCFAA.gary@intrepid.com> 
 From: yyyy@spamassassin.taint.org (Justin Mason)
 X-GPG-Key-Fingerprint: 0A48 2D8B 0B52 A87D 0E8A  6ADD 4137 1B50 6E58 EF0A
 X-Habeas-Swe-1: winter into spring
@@ -29,10 +29,10 @@ Message-Id: <20020918114520.9B11716F1A@spamassassin.taint.org>
 
 
 Gary Funck said:
-> I thought the ">> /perllocal.pod" line looked odd. Is it normal to write
+> I thought the >> /perllocal.pod line looked odd. Is it normal to write
 > documentation into the root directory? (<g>). Is there some Make parameter, o
 > r
-> environment variable that should've been set when I ran "make"?
+> environment variable that should've been set when I ran make?
 
 an issue for Razor folks I think.
 
@@ -45,7 +45,7 @@ looks good.
 
 > Question: if we use spamassassin on a per-user basis, invoked from procmailrc
 > ,
-> will each user have to run "razor-admin -register" first? Is there way to
+> will each user have to run razor-admin -register first? Is there way to
 > register with Razor just once per system?
 
 If you use spamd with the -H option and provide a shared directory for

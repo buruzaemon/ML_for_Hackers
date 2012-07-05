@@ -24,12 +24,12 @@ Received: from h-66-166-21-186.snvacaid.covad.net ([66.166.21.186]
 Received: (from vipul@localhost) by rover.vipul.net (8.11.6/8.11.6) id
     g78LT0B05328; Thu, 8 Aug 2002 14:29:00 -0700
 From: Vipul Ved Prakash <mail@vipul.net>
-To: "Craig R . Hughes" <craig@deersoft.com>
+To: Craig R . Hughes <craig@deersoft.com>
 Cc: razor-users@example.sourceforge.net
 Subject: Re: [Razor-users] What's wrong with the Razor servers now?
 Message-Id: <20020808142859.A4489@rover.vipul.net>
 Reply-To: mail@vipul.net
-Mail-Followup-To: "Craig R . Hughes" <craig@deersoft.com>,
+Mail-Followup-To: Craig R . Hughes <craig@deersoft.com>,
 	razor-users@lists.sourceforge.net
 References: <007001c23ef4$25af8f40$6600a8c0@dhiggins>
     <BB00AA31-AB0A-11D6-BCF2-00039396ECF2@deersoft.com>
@@ -60,14 +60,14 @@ Date: Thu, 8 Aug 2002 14:28:59 -0700
 Craig, 
 
 For the most part, 99% times 99% users agree on what is spam. This is the
-nature of the spam problem. Now if you were to use a "personal trust"
+nature of the spam problem. Now if you were to use a personal trust
 system, you'd have a huge personal trust group that would include 99% of
 the userbase. This means 99% times you'd be coming to the same conclusion,
 only after burning several orders of magnitude more CPU cycles. That would
 be stupid. Also, it would take several orders of magnitude longer to
 bootstrap and reach effectiveness. Sub-optimal in the extreme.
 
-As regards to the problems with the "gray" areas you mentioned, servers
+As regards to the problems with the gray areas you mentioned, servers
 recognize such content, and razor-agents can use this information to make
 individual determination. Not to mention, users can set a local confidence
 level they are confortable with.
@@ -82,23 +82,23 @@ On Thu, Aug 08, 2002 at 01:09:22PM -0700, Craig R . Hughes wrote:
 > the same as your trust rating for scoring your own email, or Joe
 > Schmoe's email. You may be great at flagging most spam, but just really
 > bad at flagging one particular piece of controversial mail which is
-> "gray spam" -- ie some people love it, others hate it. Ideally, I should
+> gray spam -- ie some people love it, others hate it. Ideally, I should
 > have my own personal trust score for you which agrees with my beliefs
 > about that controversial mail, rather than the system-wide beliefs. If
 > that doesn't happen, then depending on the trust system's weightings,
 > there are 3 possibilities:
 >
-> 1. All "gray" mail is blocked as spam (ie lots of false positives for
+> 1. All gray mail is blocked as spam (ie lots of false positives for
 >    individual users)
-> 2. All "gray" mail is allowed through as nonspam (ie lots of false
+> 2. All gray mail is allowed through as nonspam (ie lots of false
 >    negatives for individuals)
 > 3. The entire trust system collapses because noone is trusted due to
->    conflicting votes about "gray" spam.
+>    conflicting votes about gray spam.
 
 -- 
 
-Vipul Ved Prakash          |   "The future is here, it's just not 
-Software Design Artist     |    widely distributed."
+Vipul Ved Prakash          |   The future is here, it's just not 
+Software Design Artist     |    widely distributed.
 http://vipul.net/          |              -- William Gibson
 
 

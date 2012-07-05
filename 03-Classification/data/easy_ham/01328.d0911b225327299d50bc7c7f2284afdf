@@ -22,7 +22,7 @@ Received: from moon.campus.luth.se (tony@moon.campus.luth.se
     [130.240.202.158]) by moon.campus.luth.se (8.12.3/8.12.3) with ESMTP id
     g7QGppMg098356; Mon, 26 Aug 2002 18:51:51 +0200 (CEST) (envelope-from
     tony@svanstrom.com)
-From: "Tony L. Svanstrom" <tony@svanstrom.com>
+From: Tony L. Svanstrom <tony@svanstrom.com>
 X-X-Sender: tony@moon.campus.luth.se
 To: CertaintyTech <ed.henderson@certainty.net>
 Cc: satalk <spamassassin-talk@example.sourceforge.net>

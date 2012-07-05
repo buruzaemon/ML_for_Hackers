@@ -56,7 +56,7 @@ X-Original-Date: Mon, 22 Jul 2002 09:41:19 +0700 (ICT)
 Date: Mon, 22 Jul 2002 09:41:19 +0700 (ICT)
 
 >How would forgeries (e.g. viruses) be detected?  Would there be an
->"oops-I-didn't-mean-to-submit-that" option somehow?
+>oops-I-didn't-mean-to-submit-that option somehow?
 
 Real viruses are filtered before they reach any mailbox for delivery.
 

@@ -35,8 +35,8 @@ X-Mailer: exmh version 2.5 07/13/2001 with nmh-1.0.4
 In-Reply-To: <23204.1031891193@dimebox>
 References: <200209130231.g8D2VO021580@hobbit.linuxworks.com.au.nospam>
     <23204.1031891193@dimebox>
-Comments: In-reply-to Hal DeVore <haldevore@acm.org> message dated "Thu,
-    12 Sep 2002 23:26:33 -0500."
+Comments: In-reply-to Hal DeVore <haldevore@acm.org> message dated Thu,
+    12 Sep 2002 23:26:33 -0500.
 To: exmh-users@spamassassin.taint.org
 Subject: Re: Linking message [was: Re: Patch to complete a change...]
 MIME-Version: 1.0
@@ -62,9 +62,9 @@ List-Archive: <https://listman.spamassassin.taint.org/mailman/private/exmh-users
 Date: Fri, 13 Sep 2002 06:57:50 -0500
 
 
-2) In the main window, the "+" key puts you into a "change 
-   folder" mode (the first time you use it after starting exmh),
-   hit a second + and you go to "set a target" mode.  Type a few
+2) In the main window, the + key puts you into a change 
+   folder mode (the first time you use it after starting exmh),
+   hit a second + and you go to set a target mode.  Type a few
    characters of the folder name and hit space for autocomplete.
 
 I should have finished this off.

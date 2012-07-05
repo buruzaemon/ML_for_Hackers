@@ -24,14 +24,14 @@ Remember that saying from chaos theory about how when a butterfly flap its
 wings, it can cause a hurricane a month later halfway around the world? As 
 several people have already noted, Google has made some major changes in their 
 most recent update. The weblogging community was hit hard (for instance, I used 
-to be the #1 "mark"[1]; I am now #6). The changes appear to be the result of an 
+to be the #1 mark[1]; I am now #6). The changes appear to be the result of an 
 attempt to stop two phenomena: explicitly selling ads based on PageRank[2], and 
 Google bombing[3]. 
 
 Specifically, Google is now apparently cross-checking link text with the linked 
 site, and discounting or ignoring links whose text does not appear in the 
-linked site. This all but kills off Google bombing. Searching for "go to hell"
-[4] no longer takes you to microsoft.com[5]; searching for "talentless hack"[6] 
+linked site. This all but kills off Google bombing. Searching for go to hell
+[4] no longer takes you to microsoft.com[5]; searching for talentless hack[6] 
 no longer finds ohmessylife.com[7], although it finds a lot of people who were 
 previously participating in the Google bombing. No definitive word yet on 
 whether Google is actively penalizing such sites. 
@@ -49,8 +49,8 @@ with complaints and speculation:
 
 (Side note: amongst the confusion, it has been suggested that Google is no 
 longer indexing ALT text in images. I can confirm that this is absolutely 
-false. Searching diveintomark.org for "gimli"[11] finds my entry of July 29[12]
-, where "Gimli" is mentioned only in the ALT text of an image.) 
+false. Searching diveintomark.org for gimli[11] finds my entry of July 29[12]
+, where Gimli is mentioned only in the ALT text of an image.) 
 
 Regardless, Google's search results in general appear to be significantly 
 degraded in many key areas. The forums are full of people complaining that spam 
@@ -75,7 +75,7 @@ that helpful.
 
 Many people in the Webmasterworld forums are now suggesting that AllTheWeb.com
 [21] has better search results overall. Just as a single comparison, their 
-results for "eminem"[22] do appear to be much more relevant. Is this the 
+results for eminem[22] do appear to be much more relevant. Is this the 
 beginning of the end of Google's reign?
 
 

@@ -44,7 +44,7 @@ To: cypherpunks@einstein.ssz.com
 Old-Subject: CDR: Notification for Payment Received!
 Date: Wed, 24 Jul 2002 02:42:22
 Mime-Version: 1.0
-Content-Type: text/html; charset="DEFAULT"
+Content-Type: text/html; charset=DEFAULT
 Sender: owner-cypherpunks@einstein.ssz.com
 Precedence: bulk
 Reply-To: cypherpunks@einstein.ssz.com
@@ -60,7 +60,7 @@ X-MIME-Autoconverted: from 8bit to quoted-printable by hq.pro-ns.net id g6OFHwhX
 <HTML>
 <head>
 
-<Font FACE=3D"Arial" color=3D"FF0000" size=3D5  >
+<Font FACE=3DArial color=3DFF0000 size=3D5  >
 <BLOCKQUOTE><BLOCKQUOTE>
 <title>Notification for Payment Received!</title></FONT>
 </head>
@@ -85,8 +85,8 @@ X-MIME-Autoconverted: from 8bit to quoted-printable by hq.pro-ns.net id g6OFHwhX
 					=09
 					=09
 					=09
-<body background=3D"togeather.jpg" BGPROPERTIES=3Dfixed text=3D"#000000" =
-link=3D"#0000aa" vlink=3D"#0000aa" alink=3D"#aa0000">
+<body background=3Dtogeather.jpg BGPROPERTIES=3Dfixed text=3D#000000 =
+link=3D#0000aa vlink=3D#0000aa alink=3D#aa0000>
 
 <br><b>
 
@@ -96,7 +96,7 @@ Notification for Payment Received !!!,<br><br>
 This email confirms that you may receive
 $6,000.00 (Commissions) <br>Payment for LAST month
 for your 1 hours work a day. <br><br>
-<FONT COLOR=3D"#dd5555"><b>
+<FONT COLOR=3D#dd5555><b>
 TRANSACTION INFORMATION:<br>
 
 Amount: $6,000.00<br><br>
@@ -161,7 +161,7 @@ as a special introductory offer! <br>ABSOLUTELY FREE!!!</B></FONT>
 </CENTER>
 <br><br>
 <CENTER>
-<FONT size=3D+2 color=3D"#dd5555"><B>To get all details</B></FONT>
+<FONT size=3D+2 color=3D#dd5555><B>To get all details</B></FONT>
 </CENTER>
 
 =20
@@ -170,7 +170,7 @@ as a special introductory offer! <br>ABSOLUTELY FREE!!!</B></FONT>
 
 <!-- Common part -->
 <CENTER>
-<FONT size=3D+3 color=3D"#dd5555"><B></B></FONT>
+<FONT size=3D+3 color=3D#dd5555><B></B></FONT>
 </CENTER>
 <P>
 <BLOCKQUOTE><BLOCKQUOTE>
@@ -179,19 +179,19 @@ as a special introductory offer! <br>ABSOLUTELY FREE!!!</B></FONT>
 <br><br>
 Push button below.<br>
 
-<FORM action=3D"mailto:mailmoreinfo@371.net?=3D&subject=3DTell me how abo=
-ut the survey!&body=3DPlease tell me about the surveys" method=3Dpost>
-<INPUT name=3Dbuttonpushed type=3Dsubmit value=3D"Send me that informatio=
-n"></FORM>
+<FORM action=3Dmailto:mailmoreinfo@371.net?=3D&subject=3DTell me how abo=
+ut the survey!&body=3DPlease tell me about the surveys method=3Dpost>
+<INPUT name=3Dbuttonpushed type=3Dsubmit value=3DSend me that informatio=
+n></FORM>
 
 <br><br><br>
 
 
 YOU WANT TO BE REMOVED?<br>
 Push button below to be REMOVED=20
-<FORM action=3D"mailto:removeme@371.net?=3D&subject=3DRemove" method=3Dpo=
+<FORM action=3Dmailto:removeme@371.net?=3D&subject=3DRemove method=3Dpo=
 st>
-<INPUT name=3Dbuttonpushed type=3Dsubmit value=3D" Remove me NOW"></FORM>=
+<INPUT name=3Dbuttonpushed type=3Dsubmit value=3D Remove me NOW></FORM>=
 <br>
 
 

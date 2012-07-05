@@ -60,8 +60,8 @@ Ben Liblit <liblit@eecs.berkeley.edu> wrote:
 > >     File not found: /var/tmp/freetype-2.1.2-root/usr/lib/libttf.so
 > 
 > Weird.  I had no problems at all rebuilding from the SRPM with specfile
-> modified to enable the bytecode interpreter.  The "check-files" test
-> warns that "/usr/share/aclocal/freetype2.m4" was not included in any
+> modified to enable the bytecode interpreter.  The check-files test
+> warns that /usr/share/aclocal/freetype2.m4 was not included in any
 > package, but other then that, it's all perfectly clean.
 Hi, Ben,
 

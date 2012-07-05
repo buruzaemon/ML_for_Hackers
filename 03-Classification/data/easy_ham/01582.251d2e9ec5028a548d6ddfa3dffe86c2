@@ -22,12 +22,12 @@ Received: from jabba (localhost [127.0.0.1]) by mail.easydns.com
     (8.11.3/8.11.0) with SMTP id g8A3ulA25617 for
     <razor-users@lists.sourceforge.net>; Mon, 9 Sep 2002 23:56:47 -0400
 Message-Id: <006f01c2587d$058c6b00$c03afea9@viebrock.ca>
-Reply-To: "Colin Viebrock" <colin@easydns.com>
-From: "Colin Viebrock" <colin@easydns.com>
+Reply-To: Colin Viebrock <colin@easydns.com>
+From: Colin Viebrock <colin@easydns.com>
 To: <razor-users@example.sourceforge.net>
 Organization: easyDNS Technologies Inc.
 MIME-Version: 1.0
-Content-Type: text/plain; charset="Windows-1252"
+Content-Type: text/plain; charset=Windows-1252
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal

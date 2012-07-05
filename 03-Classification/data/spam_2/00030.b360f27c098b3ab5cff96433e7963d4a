@@ -4,14 +4,14 @@ Delivered-To: yyyy@netnoteinc.com
 Received: from TmpStr (slip-32-102-60-10.fl.us.prserv.net [32.102.60.10])
     by mail.netnoteinc.com (Postfix) with SMTP id BA5DD130028 for
     <jm@netnoteinc.com>; Tue, 26 Jun 2001 13:04:05 +0100 (IST)
-Reply-To: "" <>
-From: "" <>
-To: "" <yyyy@netnoteinc.com>
+Reply-To:  <>
+From:  <>
+To:  <yyyy@netnoteinc.com>
 Organization: 
 X-Priority: 1
 X-Msmail-Priority: High
 Subject: READ---SHIPPING INSTRUTIONS--FOR YOUR ORDER
-Sender: "" <>
+Sender:  <>
 MIME-Version: 1.0
 Date: Tue, 26 Jun 2001 08:00:31 -0400
 Message-Id: <20010626120405.BA5DD130028@mail.netnoteinc.com>
@@ -20,7 +20,7 @@ Message-Id: <20010626120405.BA5DD130028@mail.netnoteinc.com>
 This is a multipart MIME message.
 
 --= Multipart Boundary 0626010800
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 
 
@@ -34,10 +34,10 @@ Content-Transfer-Encoding: 7bit
 
 --= Multipart Boundary 0626010800
 Content-Type: application/octet-stream;
-	name="bill redmond sports store.htm"
+	name=bill redmond sports store.htm
 Content-Transfer-Encoding: base64
 Content-Disposition: attachment;
-	filename="bill redmond sports store.htm"
+	filename=bill redmond sports store.htm
 
 PCEtLSBCdWxsc2V5ZSBjb2RlIC0tPg0NCjxodG1sPg0NCjxoZWFkPg0NCiAg
 PHRpdGxlPkJJTEwgUkVETU9ORCBTUE9SVFM6IEZyb20gVGVhbSBTcG9ydHMg

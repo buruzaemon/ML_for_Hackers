@@ -60,7 +60,7 @@ On Mon, 2002-10-07 at 19:36, Matthias Saou wrote:
 > > Outputting a message in %post and providing a README of some kind would
 > > be better, as well as perhaps adding a note in %description.
 > 
-> Why "Eek"? :-)
+> Why Eek? :-)
 > If no /dev/dvd exists, it'll create it.
 > If /dev/dvd exists, it won't touch it.
 
@@ -74,7 +74,7 @@ modules.conf either unless you're sure that ogle added it there and
 nothing else needs it.
 
 The /dev stuff isn't that dangerous, but the modules.conf change can
-be.  That's why "Eek" :)
+be.  That's why Eek :)
 
 > If someone installs ogle (a DVD player), I'm assuming the hardware is
 > recent enough for software playback and that the drive is a DVD-ROM... all

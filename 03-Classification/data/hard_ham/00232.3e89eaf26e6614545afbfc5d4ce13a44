@@ -50,7 +50,7 @@ Date: Tue, 8 Oct 2002 17:54:52 -0500
     Cliped from the latest CERT.org warning list:
 
 -----------------------------------------------------------------------------------------------
-"I. Description
+I. Description
 
    The  CERT/CC  has received confirmation that some copies of the source
    code  for  the  Sendmail  package have been modified by an intruder to
@@ -68,9 +68,9 @@ Date: Tue, 8 Oct 2002 17:54:52 -0500
    downloaded  via  HTTP contained the Trojan horse; however, the CERT/CC
    encourages  users  who  may  have  downloaded the source code via HTTP
    during  this  time  period  to take the steps outlined in the Solution
-   section as a precautionary measure."
+   section as a precautionary measure.
 
-     OK, it's now time to work out the PGP securing of apt repository traffic. I've never gotten anything but "sitename.whatever will not be authenticated" until running Redhat 8.0 when I get something about having "No Key" for various files.
+     OK, it's now time to work out the PGP securing of apt repository traffic. I've never gotten anything but sitename.whatever will not be authenticated until running Redhat 8.0 when I get something about having No Key for various files.
 
     What's it take to ensure we're covered against this kind of childish/moronic/Microsoft-era problems?
  

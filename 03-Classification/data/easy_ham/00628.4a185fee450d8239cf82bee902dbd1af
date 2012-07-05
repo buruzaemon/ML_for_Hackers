@@ -21,7 +21,7 @@ Received: by crank.slack.net (Postfix, from userid 596) id AB1203ECF5;
 Received: from localhost (localhost [127.0.0.1]) by crank.slack.net
     (Postfix) with ESMTP id A94CF3ECE9; Wed, 18 Sep 2002 16:29:40 -0400 (EDT)
 From: Tom <tomwhore@slack.net>
-To: "R. A. Hettinga" <rah@shipwright.com>
+To: R. A. Hettinga <rah@shipwright.com>
 Cc: fork@spamassassin.taint.org, Digital Bearer Settlement List <dbs@philodox.com>
 Subject: Re: [VoID] a new low on the personals tip...
 In-Reply-To: <p05111a91b9ae65ce6208@[66.149.49.6]>

@@ -19,12 +19,12 @@ Received: from cats.ucsc.edu (cats-mx2.ucsc.edu [128.114.129.35]) by
 Received: from Tycho (dhcp-60-118.cse.ucsc.edu [128.114.60.118]) by
     cats.ucsc.edu (8.10.1/8.10.1) with SMTP id g6OIku026813 for
     <fork@xent.com>; Wed, 24 Jul 2002 11:46:57 -0700 (PDT)
-From: "Jim Whitehead" <ejw@cse.ucsc.edu>
+From: Jim Whitehead <ejw@cse.ucsc.edu>
 To: <fork@spamassassin.taint.org>
 Subject: RE: USA USA WE ARE NUMBER ....six.
 Message-Id: <AMEPKEBLDJJCCDEJHAMIGEPAFCAA.ejw@cse.ucsc.edu>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal
@@ -47,8 +47,8 @@ List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
 List-Archive: <http://xent.com/pipermail/fork/>
 Date: Wed, 24 Jul 2002 11:45:12 -0700
 
-> "Around the world, there is a growing sense that democracy has not
-> delivered development" Sakiko Fukuda-Parr UN report author
+> Around the world, there is a growing sense that democracy has not
+> delivered development Sakiko Fukuda-Parr UN report author
 
 As opposed to some other form of government which has?
 

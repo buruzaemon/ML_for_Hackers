@@ -23,7 +23,7 @@ Received: (from john@localhost) by jlooney.jinny.ie (8.11.6/8.11.6) id
 X-Authentication-Warning: jlooney.jinny.ie: john set sender to
     jlooney@jinny.ie using -f
 Date: Thu, 1 Aug 2002 17:44:20 +0100
-From: "John P. Looney" <valen@tuatha.org>
+From: John P. Looney <valen@tuatha.org>
 To: ilug@linux.ie
 Subject: Re: [ILUG] Re: serial console question
 Message-Id: <20020801164420.GL5178@jinny.ie>
@@ -48,10 +48,10 @@ X-Beenthere: ilug@linux.ie
 
 On Thu, Aug 01, 2002 at 05:41:03PM +0100, Paul Mc Auley mentioned:
 > On Thu, 1 Aug 2002 17:15:27 +0100 
-> | S+#_+Å± INET __+_: 
-> | S+#_+Å± Å°_°_ MÄ+Å+Å± _+Ä+ °+_<_++_.
-> | S+#_+Å± #+__+ S+#_+Å± #+Å + __+_: 
-> | IÅ+#+ _+°#+_ °Ä_ +#Å _+ -- NÄ+ _+#_+Å± SSL
+> | S+#_+Å INET __+_: 
+> | S+#_+Å Å__ MÄ+Å+Å _+Ä+ +_<_++_.
+> | S+#_+Å #+__+ S+#_+Å #+Å + __+_: 
+> | IÅ+#+ _+#+_ Ä_ +#Å _+ -- NÄ+ _+#_+Å SSL
 > 
 > |  So it looks like some sort of setting mismatch. Various places on the web
 > | say that cobalts are setup with 115200 8n1 serial ports, but someone could

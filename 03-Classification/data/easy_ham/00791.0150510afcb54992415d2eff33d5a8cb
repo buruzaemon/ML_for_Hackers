@@ -20,12 +20,12 @@ Received: from monster (kola.vertexdev.com [209.20.218.149] (may be
     forged)) by smtp001.nwlink.com (8.12.2/8.12.2) with SMTP id g8QCVn22018247
     for <fork@xent.com>; Thu, 26 Sep 2002 05:31:49 -0700
 Message-Id: <04da01c26558$d9bf8550$070d0dc0@monster>
-From: "Jeff Barr" <jeff@vertexdev.com>
+From: Jeff Barr <jeff@vertexdev.com>
 To: <fork@spamassassin.taint.org>
 References: <20020925215801.23505.49195.Mailman@lair.xent.com>
 Subject: Re: Digital radio playlists are prohibited?!
 MIME-Version: 1.0
-Content-Type: text/plain; charset="Windows-1252"
+Content-Type: text/plain; charset=Windows-1252
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal
@@ -54,7 +54,7 @@ Date: Thu, 26 Sep 2002 05:32:01 -0700
 > > Anyone heard of this law before?
 > 
 > 
-> Absolutely.  More accurately, it is part of the RIAAs "regulation" for
+> Absolutely.  More accurately, it is part of the RIAAs regulation for
 > broadcasting music under their auspices.  This is actually part of the
 > default statutory license the RIAA is compelled to issue.  You can try
 > and establish your own contract with each of the individual publishers

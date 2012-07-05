@@ -81,8 +81,8 @@ application (from xterm to netscape) and see how it works.  There
 normally is *no* (mouse based) way to actually clear the primary
 selection (that is, set it to be a null string).
 
-Then, because of the "if I get asked for the selection value, I will
-find something" behaviour, if you click (intending to set the insert
+Then, because of the if I get asked for the selection value, I will
+find something behaviour, if you click (intending to set the insert
 point, the way most other GUI's operate), and then paste, because the
 PRIMARY is clear, but exmh still owns the selection, because nothing
 else has taken it, it does and finds some other ramdom stuff, from
@@ -92,8 +92,8 @@ deleted back in the ancient past, and pastes that.
 That behaviour, to me anyway, is the real issue.
 
 Once that gets fixed, we can switch back to operating the normal
-"select stuff, click at new insert point, paste" mode of operation
-that almost everyone expects to work (whether the "select stuff"
+select stuff, click at new insert point, paste mode of operation
+that almost everyone expects to work (whether the select stuff
 is somewhere in one of the exmh windows, or elsewhere).
 
 kre

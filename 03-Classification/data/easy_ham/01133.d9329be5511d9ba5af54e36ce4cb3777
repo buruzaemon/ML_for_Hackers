@@ -40,11 +40,11 @@ Cc: exmh-workers@spamassassin.taint.org
 Subject: Re: Minor feature request
 In-Reply-To: Message from Ted Cabeen <secabeen@pobox.com>
     <20020924170024.1935256D@gray.impulse.net> .
-X-Face: "UZ!}1W2N?eJdN(`1%|/OOPqJ).Idk?UyvWw'W-%`Gto8^IkEm>.g1O$[.;~}8E=Ire0|lO
-    .o>:NlJS1@vO9bVmswRoq3j<A2*d2*S+2%tyPf2|dwcrNgSx%#^d@7'85{"$i2,xw/T,I<]R$FG"{>
+X-Face: UZ!}1W2N?eJdN(`1%|/OOPqJ).Idk?UyvWw'W-%`Gto8^IkEm>.g1O$[.;~}8E=Ire0|lO
+    .o>:NlJS1@vO9bVmswRoq3j<A2*d2*S+2%tyPf2|dwcrNgSx%#^d@7'85{$i2,xw/T,I<]R$FG{>
     DdX9YGSeJ5a(mfX[1u>Z63G5_^+'8LVqjqvn
 X-Url: http://surf.to/loverso
-From: "John R. LoVerso" <john@loverso.southborough.ma.us>
+From: John R. LoVerso <john@loverso.southborough.ma.us>
 X-Loop: exmh-workers@spamassassin.taint.org
 Sender: exmh-workers-admin@spamassassin.taint.org
 Errors-To: exmh-workers-admin@spamassassin.taint.org
@@ -84,16 +84,16 @@ Adding a menu entry is trivial; add this to your ~/.exmh/exmh-defaults:
 
 Then you just need to provide the source for My_Mark2CurSeen and 
 arrange for Exmh to include it (put it in your ~/.tk/exmh directory
-in your user.tcl; or in pick.patch if you enable the "source hook"
+in your user.tcl; or in pick.patch if you enable the source hook
 under Prefs->Hacking Support)
 
 It's going to look something like this:
 
 proc My_Mark2CurSeen {} {
     global exmh pick msg
-    Exmh_Status "Clearing unseen up to cur..." red
+    Exmh_Status Clearing unseen up to cur... red
     Mh_SetCur $exmh(folder) $msg(id)
-    set pick(ids) [...get message ids for "pick 1-cur"...]
+    set pick(ids) [...get message ids for pick 1-cur...]
     busy PickMarkSeen
     Exmh_Status ok blue
 }
@@ -105,8 +105,8 @@ time!
 
 John
 
-(*) "It just works" (tm)
-(**) "it" == my head
+(*) It just works (tm)
+(**) it == my head
 
 
 

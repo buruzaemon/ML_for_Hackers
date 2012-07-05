@@ -25,12 +25,12 @@ To: Irish Linux Users Group <ilug@linux.ie>
 Reply-To: Irish Linux Users Group <ilug@linux.ie>
 Subject: Re: [ILUG] inputting chinese characters in Redhat 7.3
 In-Reply-To: Message from Brian Foster <blf@utvinternet.ie> of
-    "Wed, 31 Jul 2002 18:57:50 BST."
+    Wed, 31 Jul 2002 18:57:50 BST.
     <200207311757.g6VHvoX11572@linux.local>
 X-Mailer: [nmh-1.0.4] MH.6.8, SuSE Linux 7.3
 X-Url: http://www.blf.utvinternet.ie
 MIME-Version: 1.0
-Content-Type: text/plain; charset="utf-8"
+Content-Type: text/plain; charset=utf-8
 Content-Id: <12221.1028145523.1@linux.local>
 Date: Wed, 31 Jul 2002 20:58:43 +0100
 From: Brian Foster <blf@utvinternet.ie>
@@ -55,7 +55,7 @@ X-Beenthere: ilug@linux.ie
   |   | Can anyone tell me what I should do?
   | 
   |  I've no idea, but a relevant/useful source of info could
-  |  be the Â«linux-utf8Â» e-list:
+  |  be the Âlinux-utf8Â e-list:
   | 
   |      http://www.cl.cam.ac.uk/~mgk25/unicode.html
   |      http://mail.nl.linux.org/linux-utf8/
@@ -65,7 +65,7 @@ X-Beenthere: ilug@linux.ie
 
  sorry for replying to my own post!
 
- a google for "xim linux" found a number of hits.
+ a google for xim linux found a number of hits.
  try (I've haven't finished reading this myself,
  but it seems good):
 
@@ -82,10 +82,10 @@ cheers!
  Innovative, very experienced, Unix and      | Brian Foster    Dublin, Ireland
  Chorus (embedded RTOS) kernel internals     | e-mail: blf@utvinternet.ie
  expert looking for a new position ...       | mobile: (+353 or 0)86 854 9268
-  For a rÃ©sumÃ©, contact me, or see my website  http://www.blf.utvinternet.ie
+  For a rÃsumÃ, contact me, or see my website  http://www.blf.utvinternet.ie
 
-    Stop E$$o (ExxonMobile):  Â«Whatever you do, don't buy Esso --- they
-     don't give a damn about global warming.Â»    http://www.stopesso.com
+    Stop E$$o (ExxonMobile):  ÂWhatever you do, don't buy Esso --- they
+     don't give a damn about global warming.Â    http://www.stopesso.com
      Supported by Greenpeace, Friends of the Earth, and numerous others...
 
 -- 

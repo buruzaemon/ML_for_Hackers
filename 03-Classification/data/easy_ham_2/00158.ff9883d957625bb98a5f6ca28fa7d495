@@ -55,7 +55,7 @@ Nick Hilliard's [nick-lists@netability.ie] 52 lines of wisdom included:
 > rulesets.  It will be good once it's had some time to settle down a
 > little.
 
-I would question anything being ready for "production" being in
+I would question anything being ready for production being in
 STABLE.
 
 He's kept backwards compatibility with ipfw, which is major plus.

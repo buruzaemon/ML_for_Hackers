@@ -39,7 +39,7 @@ To: exmh-users@spamassassin.taint.org
 Subject: Re: From
 X-Image-Url: http://playground.sun.com/~jbeck/gif/Misc/john-face.jpg
 In-Reply-To: Your message of
-    "Wed, 09 Oct 2002 12:16:39 MDT."
+    Wed, 09 Oct 2002 12:16:39 MDT.
     <4226.1034187399@tatanka>
 References: <4226.1034187399@tatanka>
 MIME-Version: 1.0
@@ -68,28 +68,28 @@ James> Solaris and mh.
 Correct.
 
 James> Your sysadmin is wrong.  It is the responsibility of the receiving mail
-James> server to escape lines beginning with "From " if they choose to turn
+James> server to escape lines beginning with From  if they choose to turn
 James> on that facility.  It is not the responsibility for email clients to
 James> cater to the stupid design of the unix mail spool, and Sun's even more
-James> stupid decision to rely on "Content-length:" instead of dealing with
-James> this problem.  Since mh is unaware of "Content-length:", rcvstore gags
+James> stupid decision to rely on Content-length: instead of dealing with
+James> this problem.  Since mh is unaware of Content-length:, rcvstore gags
 James> trying to parse messages from the spool.
 
 Also correct.  In fairness, though I cannot defend the Content-Length: header
 as I consider it brain damage in the extreme, Sun inherited this from AT&T.
 
-James> Get your mail administrator to add the "E" flag to your sendmail.
-James> This means you will never see a line beginning with "From ". Any such
-James> line will look like ">From ".
+James> Get your mail administrator to add the E flag to your sendmail.
+James> This means you will never see a line beginning with From . Any such
+James> line will look like >From .
 
 Specifically, you will need to find a line in /etc/mail/sendmail.cf that
-starts with "Mlocal" such as:
+starts with Mlocal such as:
 
 [4784] grep ^Mlocal /etc/mail/sendmail.cf
 Mlocal,         P=/usr/lib/mail.local, F=lsDFMAw5:/|@qPSXfmnz9E, S=EnvFromSMTP/HdrFromL, R=EnvToL/HdrToL,
 [4785] 
 
-and make sure that 'E' appears in the long list of flags following "F=".
+and make sure that 'E' appears in the long list of flags following F=.
 If your sys-admin uses m4 to generate sendmail.cf, and any good sys-admin
 should, then here is the magic line for the .mc file:
 

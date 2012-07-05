@@ -19,13 +19,13 @@ Received: from bob.dudex.net (dsl092-157-004.wdc1.dsl.speakeasy.net
 Received: from [66.92.157.3] (helo=www.dudex.net) by bob.dudex.net with
     esmtp (Exim 3.35 #1) id 17m81B-0002vI-00; Tue, 03 Sep 2002 03:22:33 -0400
 X-Originating-Ip: [207.172.11.147]
-From: "" Angles " Puglisi" <angles@aminvestments.com>
-To: "Lance" <lance_tt@bellsouth.net>
-Cc: "FreshRPMs List" <rpm-zzzlist@freshrpms.net>
+From:  Angles  Puglisi <angles@aminvestments.com>
+To: Lance <lance_tt@bellsouth.net>
+Cc: FreshRPMs List <rpm-zzzlist@freshrpms.net>
 Subject: Re: thanks for the gamix source rpms! [ALSA stuff]
 Message-Id: <20020903.3BF.49876600@www.dudex.net>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 8bit
 Content-Disposition: inline
 X-Mailer: AngleMail for phpGroupWare (http://www.phpgroupware.org) v
@@ -147,7 +147,7 @@ Lance (lance_tt@bellsouth.net) wrote*:
 >
 >Sub : Command line shortcuts (clear)                 LOST #310
 >
->Tired of typing in "clear" every time you want the screen to
+>Tired of typing in clear every time you want the screen to
 >be cleared ? Press [Ctrl-L] ... This works for  most shells,
 >(except for ash, bsh and ksh)
 >
@@ -156,7 +156,7 @@ Lance (lance_tt@bellsouth.net) wrote*:
 >
 
 --
-That's "angle" as in geometry.
+That's angle as in geometry.
 
 
 

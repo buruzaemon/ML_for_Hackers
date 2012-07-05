@@ -23,7 +23,7 @@ Received: (from john@localhost) by jlooney.jinny.ie (8.11.6/8.11.6) id
 X-Authentication-Warning: jlooney.jinny.ie: john set sender to
     jlooney@jinny.ie using -f
 Date: Tue, 13 Aug 2002 08:46:22 +0100
-From: "John P. Looney" <valen@tuatha.org>
+From: John P. Looney <valen@tuatha.org>
 To: ilug@linux.ie
 Subject: Re: [ILUG] RH7.3 on Cobalt - the saga continues
 Message-Id: <20020813074622.GE1858@jinny.ie>
@@ -53,7 +53,7 @@ On Tue, Aug 13, 2002 at 06:54:28AM +0100, Anders Holm mentioned:
 that looks in an ext2 partition in /dev/hda1 for a file called
 /boot/vmlinux.gz - nothing else.
 
- The only way I think you can set parameters is with a "set_params" line.
+ The only way I think you can set parameters is with a set_params line.
 
  However, when I run 
     set_params root=/dev/hda2

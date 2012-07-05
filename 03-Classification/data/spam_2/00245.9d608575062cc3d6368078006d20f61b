@@ -16,13 +16,13 @@ Delivered-To: fork@spamassassin.taint.org
 Received: from koolre41076.com (unknown [213.251.168.16]) by xent.com
     (Postfix) with SMTP id DEFB3294098 for <fork@xent.com>; Mon,
     6 May 2002 22:55:55 -0700 (PDT)
-From: "laurent mpeti kabila" <mpeti_k@mail.com>
+From: laurent mpeti kabila <mpeti_k@mail.com>
 Reply-To: mpeti_k@mail.com
 To: fork@spamassassin.taint.org
 Date: Tue, 7 May 2002 08:04:46 +0200
 X-Mailer: Microsoft Outlook Express 5.00.2919.7000 Demo
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Message-Id: <20020507055555.DEFB3294098@xent.com>
 Subject: (no subject)
 Sender: fork-admin@xent.com

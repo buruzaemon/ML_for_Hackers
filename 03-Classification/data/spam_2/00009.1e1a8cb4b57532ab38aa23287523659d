@@ -19,7 +19,7 @@ Received: from [64.86.155.148] (helo=ok61655.com) by
     usw-sf-list1.sourceforge.net with smtp (Exim 3.31-VA-mm2 #1 (Debian)) id
     17P60P-0006ds-00 for <spamassassin-sightings@lists.sourceforge.net>;
     Mon, 01 Jul 2002 11:34:34 -0700
-From: "MR.DOUGLAS  AND PRINCESS M." <douglassmith2004@yahoo.co.uk>
+From: MR.DOUGLAS  AND PRINCESS M. <douglassmith2004@yahoo.co.uk>
 Reply-To: princessmar001@yahoo.com
 To: spamassassin-sightings@example.sourceforge.net
 X-Mailer: Microsoft Outlook Express 5.00.2919.6900 DM
@@ -41,10 +41,10 @@ List-Unsubscribe: <https://example.sourceforge.net/lists/listinfo/spamassassin-s
 List-Archive: <http://www.geocrawler.com/redir-sf.php3?list=spamassassin-sightings>
 X-Original-Date: Mon, 5 Apr 1999 20:38:02 +0100
 Date: Mon, 5 Apr 1999 20:38:02 +0100
-Content-Type: multipart/mixed; boundary="===_SecAtt_000_1fnapngoonxcrm"
+Content-Type: multipart/mixed; boundary====_SecAtt_000_1fnapngoonxcrm
 
 --===_SecAtt_000_1fnapngoonxcrm
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: quoted-printable
 
 
@@ -122,9 +122,9 @@ DOUGLAS SMITH  =28PLEASE  CONTACT ME THROUGH  MY WIFE EMAIL=28princessmar001=40y
 
 
 --===_SecAtt_000_1fnapngoonxcrm
-Content-Type: application/octet-stream; name="aaaaaaa.txt"
+Content-Type: application/octet-stream; name=aaaaaaa.txt
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="aaaaaaa.txt"
+Content-Disposition: attachment; filename=aaaaaaa.txt
 
 
 --===_SecAtt_000_1fnapngoonxcrm

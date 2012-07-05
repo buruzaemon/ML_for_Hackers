@@ -24,13 +24,13 @@ Received: from [216.40.247.31] (helo=host.yrex.com) by
 Received: (qmail 21555 invoked from network); 22 Jul 2002 02:24:26 -0000
 Received: from mgm.dsl.xmission.com (HELO scooby) (204.228.152.186) by
     216.40.247.31 with SMTP; 22 Jul 2002 02:24:26 -0000
-From: "Michael Moncur" <mgm@starlingtech.com>
-To: "Marc Perkel" <marc@perkel.com>,
+From: Michael Moncur <mgm@starlingtech.com>
+To: Marc Perkel <marc@perkel.com>,
 	<spamassassin-devel@lists.sourceforge.net>
 Subject: RE: [SAdev] Who uses Spam Assassin this way?
 Message-Id: <NEBBKLEDELIODOCJHLPCKENHMMAA.mgm@starlingtech.com>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="US-ASCII"
+Content-Type: text/plain; charset=US-ASCII
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal
@@ -69,7 +69,7 @@ have been bouncing for years that still get spam.
 
 --
 michael moncur   mgm at starlingtech.com   http://www.starlingtech.com/
-"Truth is more of a stranger than fiction."             -- Mark Twain
+Truth is more of a stranger than fiction.             -- Mark Twain
 
 > -----Original Message-----
 > From: spamassassin-devel-admin@example.sourceforge.net

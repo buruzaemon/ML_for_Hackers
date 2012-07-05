@@ -17,8 +17,8 @@ Received: from usw-sf-list1-b.sourceforge.net ([10.3.1.13]
 Received: from [62.248.32.2] (helo=venus1.ttnet.net.tr) by
     usw-sf-list1.sourceforge.net with smtp (Exim 3.31-VA-mm2 #1 (Debian)) id
     17Xd4y-0005NE-00; Thu, 25 Jul 2002 00:30:33 -0700
-From: "TR Posta NetWorks" <3center@tr.net.tr>
-Reply-To: "TR Posta NetWorks" <3center@tr.net.tr>
+From: TR Posta NetWorks <3center@tr.net.tr>
+Reply-To: TR Posta NetWorks <3center@tr.net.tr>
 To: vtcl-user@example.sourceforge.net
 Cc: webmake-talk@example.sourceforge.net
 X-Mailer: Microsoft Outlook Express 5.00.2919.7000
@@ -41,7 +41,7 @@ List-Unsubscribe: <https://example.sourceforge.net/lists/listinfo/webmake-talk>,
 List-Archive: <http://www.geocrawler.com/redir-sf.php3?list=webmake-talk>
 X-Original-Date: Thu, 25 Jul 2002 10:31:20 +0300
 Date: Thu, 25 Jul 2002 10:31:20 +0300
-Content-Type: text/html; charset="windows-1254"
+Content-Type: text/html; charset=windows-1254
 Content-Transfer-Encoding: quoted-printable
 
 =3Chtml=3E=3Chead=3E=3Cmeta http-equiv=3DContent-Language content=3Dtr=3E=3Cmeta http-equiv=3DContent-Type content=3D=22text=2Fhtml=3B charset=3Dwindows-1254=22=3E=3Ctitle=3ETR Rehber 6=3C=2Ftitle=3E=3C=2Fhead=3E

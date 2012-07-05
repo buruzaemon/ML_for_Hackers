@@ -21,12 +21,12 @@ Received: from adsl-67-116-61-34.dsl.sntc01.pacbell.net ([67.116.61.34]
 Received: (from vipul@localhost) by rover.vipul.net (8.11.6/8.11.6) id
     g7D3XRV01298; Mon, 12 Aug 2002 20:33:27 -0700
 From: Vipul Ved Prakash <mail@vipul.net>
-To: "Craig R . Hughes" <craig@deersoft.com>
+To: Craig R . Hughes <craig@deersoft.com>
 Cc: razor-users@example.sourceforge.net
 Subject: Re: [Razor-users] Re: What's wrong with the Razor servers now?
 Message-Id: <20020812203326.A1211@rover.vipul.net>
 Reply-To: mail@vipul.net
-Mail-Followup-To: "Craig R . Hughes" <craig@deersoft.com>,
+Mail-Followup-To: Craig R . Hughes <craig@deersoft.com>,
 	razor-users@lists.sf.net
 References: <aj6gbq$dt8$1@main.gmane.org>
     <59556AF6-AE1A-11D6-A15F-00039396ECF2@deersoft.com>
@@ -70,8 +70,8 @@ different factors.
 
 -- 
 
-Vipul Ved Prakash          |   "The future is here, it's just not 
-Software Design Artist     |    widely distributed."
+Vipul Ved Prakash          |   The future is here, it's just not 
+Software Design Artist     |    widely distributed.
 http://vipul.net/          |              -- William Gibson
 
 

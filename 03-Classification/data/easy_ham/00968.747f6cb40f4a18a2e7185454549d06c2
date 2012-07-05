@@ -50,9 +50,9 @@ X-Url: http://www.DeepEddy.Com/~cwg
 X-Image-Url: http://www.DeepEddy.Com/~cwg/chris.gif
 MIME-Version: 1.0
 Content-Type: multipart/signed;
-    boundary="==_Exmh_948625160P";
+    boundary===_Exmh_948625160P;
     micalg=pgp-sha1;
-    protocol="application/pgp-signature"
+    protocol=application/pgp-signature
 Content-Transfer-Encoding: 7bit
 Message-Id: <1030629610.14240.TMDA@deepeddy.vircio.com>
 From: Chris Garrigues <cwg-exmh@DeepEddy.Com>
@@ -91,8 +91,8 @@ As I'd written the code a few months ago, we were reading the sequences file
 first to see what sequences were in it and then once per sequence.  This 
 happens anywhere that we look at sequences, most notably in Ftoc_ShowSequences.
 That seemed to be an obvious lose performancewise, but I wanted my abstraction to 
-have a separate call for "what sequences are in this folder?" and "what 
-messages are in this sequence?".  One option would have been to add another 
+have a separate call for what sequences are in this folder? and what 
+messages are in this sequence?.  One option would have been to add another 
 call to get the data off of disk, but I felt that the check-the-modify-time 
 technique would be less error-prone.
 

@@ -12,7 +12,7 @@ Received: from dogma.slashnull.org (localhost [127.0.0.1]) by
     <jm@jmason.org>; Thu, 26 Sep 2002 16:27:43 +0100
 Message-Id: <200209261527.g8QFRhg24232@dogma.slashnull.org>
 To: yyyy@spamassassin.taint.org
-From: "hyatt@mozilla" <rssfeeds@spamassassin.taint.org>
+From: hyatt@mozilla <rssfeeds@spamassassin.taint.org>
 Subject: Usability Problems with Mozilla
 Date: Thu, 26 Sep 2002 15:27:42 -0000
 Content-Type: text/plain; encoding=utf-8
@@ -21,8 +21,8 @@ URL: http://www.mozillazine.org/weblogs/hyatt/#85409355
 Date: Not supplied
 
 Blake blogs[1] about how mpt[2] wants Mozilla to look just like MSIE. I have to 
-admit, the evidence is pretty compelling. I recall someone asking me, "Do you 
-really agree with mpt's Top 10 list? He's quoted you at the top of the list!"
+admit, the evidence is pretty compelling. I recall someone asking me, Do you 
+really agree with mpt's Top 10 list? He's quoted you at the top of the list!
 
 Do I agree that those ten items mpt mentions are the top ten problems? Of 
 course not. No two people will have the same top ten problems. Also keep in 

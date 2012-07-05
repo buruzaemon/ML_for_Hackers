@@ -12,7 +12,7 @@ Received: from dogma.slashnull.org (localhost [127.0.0.1]) by
     <jm@jmason.org>; Thu, 26 Sep 2002 16:27:40 +0100
 Message-Id: <200209261527.g8QFReg24218@dogma.slashnull.org>
 To: yyyy@spamassassin.taint.org
-From: "hyatt@mozilla" <rssfeeds@spamassassin.taint.org>
+From: hyatt@mozilla <rssfeeds@spamassassin.taint.org>
 Subject: Missing the Point
 Date: Thu, 26 Sep 2002 15:27:40 -0000
 Content-Type: text/plain; encoding=utf-8
@@ -100,7 +100,7 @@ difference?
 
 Now to those people who want the full-blown functionality of the Mozilla trunk, 
 you can still get that with Phoenix. The idea is to relegate more features to 
-the "optional add-on" category. If you want the link toolbar or the sidebar or 
+the optional add-on category. If you want the link toolbar or the sidebar or 
 mouse gestures or any other features, you can download and install them 
 yourself. I expect Phoenix will have a little add-in manager that will 
 facilitate this process. There is currently an expectation on the part of an 

@@ -19,7 +19,7 @@ Received: from mx.spiritone.com (mx.spiritone.com [216.99.221.5]) by
 Received: (qmail 7711 invoked from network); 26 Aug 2002 15:38:11 -0000
 Received: (ofmipd 216.99.213.165); 26 Aug 2002 15:37:49 -0000
 Message-Id: <D27C2881-B909-11D6-9880-00039344DDD6@ordersomewherechaos.com>
-From: "RossO" <fork@ordersomewherechaos.com>
+From: RossO <fork@ordersomewherechaos.com>
 To: fork@spamassassin.taint.org
 MIME-Version: 1.0 (Apple Message framework v482)
 Content-Type: text/plain; charset=US-ASCII; format=flowed

@@ -28,13 +28,13 @@ Received: by spamassassin.taint.org (Postfix, from userid 500) id 7E8F716F17;
     Mon, 23 Sep 2002 12:48:39 +0100 (IST)
 Received: from spamassassin.taint.org (localhost [127.0.0.1]) by spamassassin.taint.org (Postfix)
     with ESMTP id 7B70DF7B1; Mon, 23 Sep 2002 12:48:39 +0100 (IST)
-To: "Mike Bostock" <lists@wistaria.co.uk>
+To: Mike Bostock <lists@wistaria.co.uk>
 Cc: spamassassin-talk@example.sourceforge.net
 Subject: Re: [SAtalk] Spam host?
 In-Reply-To: Message from
-    "Mike Bostock"
+    Mike Bostock
     <lists@wistaria.co.uk> of
-    "Mon, 23 Sep 2002 09:56:59 BST."
+    Mon, 23 Sep 2002 09:56:59 BST.
     <20029238570161296016@surgery1.wistaria.co.uk>
 From: yyyy@spamassassin.taint.org (Justin Mason)
 X-GPG-Key-Fingerprint: 0A48 2D8B 0B52 A87D 0E8A  6ADD 4137 1B50 6E58 EF0A
@@ -65,7 +65,7 @@ X-Original-Date: Mon, 23 Sep 2002 12:48:34 +0100
 Date: Mon, 23 Sep 2002 12:48:34 +0100
 
 
-"Mike Bostock" said:
+Mike Bostock said:
 
 > Received: from tracking2 (tracking2.roving.com [10.20.40.142])
 > 	by ccm01.roving.com (Postfix) with ESMTP id 4696633ED4

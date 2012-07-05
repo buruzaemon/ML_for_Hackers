@@ -25,7 +25,7 @@ Received: from localhost (eugen@localhost) by hydrogen.leitl.org
 X-Authentication-Warning: hydrogen.leitl.org: eugen owned process doing -bs
 Date: Fri, 19 Jul 2002 21:18:35 +0200 (CEST)
 From: Eugen Leitl <eugen@leitl.org>
-To: "Adam L. Beberg" <beberg@mithral.com>
+To: Adam L. Beberg <beberg@mithral.com>
 Cc: Tom <tomwhore@slack.net>, Robert Harley <harley@argote.ch>,
 	<fork@xent.com>
 Subject: Re: JPEGs patented

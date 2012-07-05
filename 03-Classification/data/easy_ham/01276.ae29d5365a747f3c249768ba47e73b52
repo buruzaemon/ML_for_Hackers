@@ -68,13 +68,13 @@ On Mon, 2002-10-07 at 11:54, Matthias Saou wrote:
 > > af6_decore.cpp:306: parse error before `if'
 > [...]
 > 
-> All of these "af6" are related to avifile6 support :-/
+> All of these af6 are related to avifile6 support :-/
 > Normally, my 0.6.1-fr2 build of transcode defaults to *not* use avifile,
-> but you can use "--with avifile6" to force recompiling against it.
+> but you can use --with avifile6 to force recompiling against it.
 > 
 > Do you have an old avifile installed maybe?
-> Can you check the "./configure ..." line run at the beginning of the
-> rebuild process to see if it does include the "--without-avifile6" option?
+> Can you check the ./configure ... line run at the beginning of the
+> rebuild process to see if it does include the --without-avifile6 option?
 > 
 Yes it was there.
 You guessed the problem correctly in an earlier e-mail There was still

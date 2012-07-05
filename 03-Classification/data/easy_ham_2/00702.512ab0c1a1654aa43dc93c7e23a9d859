@@ -23,7 +23,7 @@ X-PGP-Dsskey: 0x55FAB8D3
 X-PGP-Rsakey: 0xCAA67415
 Message-Id: <5.1.0.14.2.20020724074914.02c6fec0@bgl.vsnl.net.in>
 X-Nil: 
-To: "Joseph S. Barrera III" <joe@barrera.org>,
+To: Joseph S. Barrera III <joe@barrera.org>,
 	Lucas Gonze <lgonze@panix.com>
 From: Udhay Shankar N <udhay@pobox.com>
 Subject: Re: spam maps
@@ -31,7 +31,7 @@ Cc: FoRK <fork@spamassassin.taint.org>
 In-Reply-To: <3D3D7D3F.7090808@barrera.org>
 References: <Pine.LNX.4.44.0207230912380.9499-100000@localhost.localdomain>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"; format=flowed
+Content-Type: text/plain; charset=us-ascii; format=flowed
 Sender: fork-admin@xent.com
 Errors-To: fork-admin@xent.com
 X-Beenthere: fork@spamassassin.taint.org

@@ -20,7 +20,7 @@ Received: from localhost (danbri@localhost) by tux.w3.org (8.9.3/8.9.3)
     with ESMTP id TAA12658; Thu, 22 Aug 2002 19:39:45 -0400
 From: Dan Brickley <danbri@w3.org>
 To: Lucas Gonze <lgonze@panix.com>
-Cc: "Fork@Xent.Com" <fork@spamassassin.taint.org>
+Cc: Fork@Xent.Com <fork@spamassassin.taint.org>
 Subject: Re: The case for spam
 In-Reply-To: <Pine.LNX.4.44.0208221910560.17440-100000@localhost.localdomain>
 Message-Id: <Pine.LNX.4.30.0208221935220.31207-100000@tux.w3.org>

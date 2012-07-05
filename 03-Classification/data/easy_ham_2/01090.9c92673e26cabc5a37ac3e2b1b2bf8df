@@ -20,12 +20,12 @@ Received: (qmail 29439 invoked from network); 20 Aug 2002 02:55:54 -0000
 Received: from dsl.206.191.151.102.evergo.net (HELO JMHALL)
     (206.191.151.102) by mail.evergo.net with SMTP; 20 Aug 2002 02:55:54 -0000
 Reply-To: <johnhall@evergo.net>
-From: "John Hall" <johnhall@evergo.net>
+From: John Hall <johnhall@evergo.net>
 To: <fork@spamassassin.taint.org>
 Subject: Test Test ignore <eom>
 Message-Id: <00a501c247f5$1561dd50$0200a8c0@JMHALL>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="US-ASCII"
+Content-Type: text/plain; charset=US-ASCII
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal

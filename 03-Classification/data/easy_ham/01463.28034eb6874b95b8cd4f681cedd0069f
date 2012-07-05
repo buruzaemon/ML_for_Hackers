@@ -66,7 +66,7 @@ of reading?
 And the same sort of problem seems to occur with base64 encoded messages.
 The report is placed inside of the mime boundary:
 ------=_NextPart_000_00B7_31E64A2B.B8441E37
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: base64
 
 

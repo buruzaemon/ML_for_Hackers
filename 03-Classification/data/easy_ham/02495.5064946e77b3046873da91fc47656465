@@ -19,8 +19,8 @@ Received: from kbs01.kbs.ie (unknown [213.190.156.48]) by lugh.tuatha.org
 Received: by KBS01 with Internet Mail Service (5.5.2653.19) id <XSWWZCBL>;
     Wed, 4 Dec 2002 11:40:19 -0000
 Message-Id: <55DA5264CE16D41186F600D0B74D6B0924745C@KBS01>
-From: "Brian O'Donoghue" <Brian.ODonoghue@kbs.ie>
-To: "'ilug@linux.ie'" <ilug@linux.ie>
+From: Brian O'Donoghue <Brian.ODonoghue@kbs.ie>
+To: 'ilug@linux.ie' <ilug@linux.ie>
 Subject: RE: [ILUG] Linux Install
 MIME-Version: 1.0
 X-Mailer: Internet Mail Service (5.5.2653.19)

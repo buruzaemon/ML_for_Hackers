@@ -20,7 +20,7 @@ Received: from localhost (steveo@localhost) by saturn.syslang.net
     19:06:32 -0400
 X-Authentication-Warning: saturn.syslang.net: steveo owned process doing -bs
 Date: Mon, 2 Sep 2002 19:06:30 -0400 (EDT)
-From: "Steven W. Orr" <steveo@syslang.net>
+From: Steven W. Orr <steveo@syslang.net>
 To: Justin Mason <yyyy@spamassassin.taint.org>
 Cc: spamassassin talk <SpamAssassin-talk@example.sourceforge.net>,
 	<SpamAssassin-devel@lists.sourceforge.net>

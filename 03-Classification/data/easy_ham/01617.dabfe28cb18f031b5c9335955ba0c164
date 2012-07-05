@@ -23,10 +23,10 @@ Received: from homediet (dogpound.dyndns.org [64.45.134.154]) by
     <Razor-users@lists.sourceforge.net>; Wed, 9 Oct 2002 23:33:04 -0400 (EDT)
     (envelope-from sven@dmv.com)
 Message-Id: <00a301c2700e$4e258510$0201a8c0@homediet>
-From: "Sven" <sven@dmv.com>
+From: Sven <sven@dmv.com>
 To: <Razor-users@example.sourceforge.net>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal

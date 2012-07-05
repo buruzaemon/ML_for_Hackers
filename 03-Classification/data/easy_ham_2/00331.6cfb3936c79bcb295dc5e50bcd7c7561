@@ -23,7 +23,7 @@ Received: (from john@localhost) by jlooney.jinny.ie (8.11.6/8.11.6) id
 X-Authentication-Warning: jlooney.jinny.ie: john set sender to
     jlooney@jinny.ie using -f
 Date: Sat, 10 Aug 2002 16:29:05 +0100
-From: "John P. Looney" <valen@tuatha.org>
+From: John P. Looney <valen@tuatha.org>
 To: ilug@linux.ie
 Subject: Re: [ILUG] cdrecord + 2.4.19 = hard-lock
 Message-Id: <20020810152905.GA4246@jinny.ie>

@@ -17,8 +17,8 @@ Received: from mithral.com (watcher.mithral.com [204.153.244.1]) by
     xent.com (Postfix) with SMTP id B95FA294099 for <fork@xent.com>;
     Sun,  1 Sep 2002 21:07:49 -0700 (PDT)
 Received: (qmail 3740 invoked by uid 1111); 2 Sep 2002 04:10:06 -0000
-From: "Adam L. Beberg" <beberg@mithral.com>
-To: "Joseph S. Barrera III" <joe@barrera.org>
+From: Adam L. Beberg <beberg@mithral.com>
+To: Joseph S. Barrera III <joe@barrera.org>
 Cc: FoRK <fork@spamassassin.taint.org>
 Subject: Re: Java is for kiddies
 In-Reply-To: <3D72BA8F.30303@barrera.org>
@@ -57,7 +57,7 @@ and mathematics. We're just enablers :)
 Yes, but doing it an order of magnitude or 2 easier does :) Which with the
 way things are now, is not hard at all to do.
 
-- Adam L. "Duncan" Beberg
+- Adam L. Duncan Beberg
   http://www.mithral.com/~beberg/
   beberg@mithral.com
 

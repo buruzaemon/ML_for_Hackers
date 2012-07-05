@@ -62,9 +62,9 @@ Date: Wed, 24 Jul 2002 12:27:02 +1200
 This MSDN mail thing reminds me of how I've documented this feature of
 SpamAssassin here so that our users understand it.
 
-I define "Solicited Commercial Email" vs "Unsolicited Commercial Email" -
-the latter being SPAM. As SpamAssassin basically looks for "Commercial
-Email", both get hit, and that's something they must understand.
+I define Solicited Commercial Email vs Unsolicited Commercial Email -
+the latter being SPAM. As SpamAssassin basically looks for Commercial
+Email, both get hit, and that's something they must understand.
 
 Our SA documentation further tells users to filter off their SCE before
 applying a SA rule - gets rid of 100% of the problem as the users know who

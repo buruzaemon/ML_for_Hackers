@@ -28,8 +28,8 @@ Message-Id: <20020822180907.GE16421@kluge.net>
 References: <Pine.BSF.4.44.0208221259380.24381-100000@server1.shellworld.net>
 MIME-Version: 1.0
 Content-Type: multipart/signed; micalg=pgp-sha1;
-    protocol="application/pgp-signature";
-    boundary="lteA1dqeVaWQ9QQl"
+    protocol=application/pgp-signature;
+    boundary=lteA1dqeVaWQ9QQl
 Content-Disposition: inline
 In-Reply-To: <Pine.BSF.4.44.0208221259380.24381-100000@server1.shellworld.net>
 User-Agent: Mutt/1.4i
@@ -66,7 +66,7 @@ On Thu, Aug 22, 2002 at 01:01:44PM -0500, Ken Scott wrote:
 > yahoogroups.com, or is there still checking being done against it?  And if
 
 It still gets checked, but a negative score is added in.  And it doesn't
-mean "coming in from" it means "From: address is @yahoogroups.com".
+mean coming in from it means From: address is @yahoogroups.com.
 There's a Yahoo Groups compensation rule in 2.40 though. :)
 
 > the latter, what does he need to place in user_prefs to cause such mail

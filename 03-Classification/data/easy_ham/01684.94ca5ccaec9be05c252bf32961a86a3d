@@ -8,7 +8,7 @@ Message-ID: <200209070338.g873cpp20640@localhost.localdomain>
 
 
 > > Note that header names are case insensitive, so this one's no
-> > different than "MIME-Version:".  Similarly other headers in your list.
+> > different than MIME-Version:.  Similarly other headers in your list.
 > 
 > Ignoring case here may or may not help; that's for experiment to decide.
 > It's plausible that case is significant, if, e.g., a particular spam mailing
@@ -17,7 +17,7 @@ Message-ID: <200209070338.g873cpp20640@localhost.localdomain>
 
 I found it made no difference for my testing.
 
-> The brilliance of Anthony's "just count them" scheme is that it requires no
+> The brilliance of Anthony's just count them scheme is that it requires no
 > thought, so can't be fooled <wink>.  Header lines that are evenly
 > distributed across spam and ham will turn out to be worthless indicators
 > (prob near 0.5), so do no harm.

@@ -24,11 +24,11 @@ custom pickler.  I just checked my little dbm file and found a lot of
 what I would call bloat:
 
   >>> import anydbm, hammie
-  >>> d = hammie.PersistentGrahamBayes("ham.db")
-  >>> db = anydbm.open("ham.db")
-  >>> db["neale"], len(db["neale"])
+  >>> d = hammie.PersistentGrahamBayes(ham.db)
+  >>> db = anydbm.open(ham.db)
+  >>> db[neale], len(db[neale])
   ('ccopy_reg\n_reconstructor\nq\x01(cclassifier\nWordInfo\nq\x02c__builtin__\nobject\nq\x03NtRq\x04(GA\xce\xbc{\xfd\x94\xbboK\x00K\x00K\x00G?\xe0\x00\x00\x00\x00\x00\x00tb.', 106)
-  >>> d.wordinfo["neale"], len(`d.wordinfo["neale"]`)
+  >>> d.wordinfo[neale], len(`d.wordinfo[neale]`)
   (WordInfo'(1031337979.16197, 0, 0, 0, 0.5)', 42)
 
 Ignoring the fact that there are too many zeros in there, the pickled

@@ -23,7 +23,7 @@ Received: from amaterasu.srvr.nix (0@amaterasu.srvr.nix [192.168.1.14]) by
     Sun, 15 Sep 2002 18:41:10 +0100
 Received: (from nix@localhost) by amaterasu.srvr.nix (8.11.6/8.11.4) id
     g8FHf8o22539; Sun, 15 Sep 2002 18:41:08 +0100
-To: "Tony L. Svanstrom" <tony@svanstrom.com>
+To: Tony L. Svanstrom <tony@svanstrom.com>
 Cc: carlo@alinoe.com, spamassassin-talk@example.sourceforge.net
 Subject: Re: [SAtalk] Getting yourself removed from spam lists
 References: <20020913161526.A97345-100000@moon.campus.luth.se>

@@ -20,12 +20,12 @@ Received: (qmail 32383 invoked from network); 22 Sep 2002 22:53:43 -0000
 Received: from dsl.206.191.151.102.evergo.net (HELO JMHALL)
     (206.191.151.102) by mail.evergo.net with SMTP; 22 Sep 2002 22:53:43 -0000
 Reply-To: <johnhall@evergo.net>
-From: "John Hall" <johnhall@evergo.net>
-To: "FoRK" <fork@spamassassin.taint.org>
+From: John Hall <johnhall@evergo.net>
+To: FoRK <fork@spamassassin.taint.org>
 Subject: RE: sed /s/United States/Roman Empire/g
 Message-Id: <000f01c2628a$e71a61f0$0200a8c0@JMHALL>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal

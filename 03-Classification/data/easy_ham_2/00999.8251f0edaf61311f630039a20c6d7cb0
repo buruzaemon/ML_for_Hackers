@@ -23,7 +23,7 @@ Received: by crank.slack.net (Postfix, from userid 596) id 235543ED5F;
 Received: from localhost (localhost [127.0.0.1]) by crank.slack.net
     (Postfix) with ESMTP id 21B613ECE7; Thu,  8 Aug 2002 17:21:16 -0400 (EDT)
 From: Tom <tomwhore@slack.net>
-To: "Adam L. Beberg" <beberg@mithral.com>
+To: Adam L. Beberg <beberg@mithral.com>
 Cc: fork@spamassassin.taint.org
 Subject: Re: Perhaps Apple isn't as user-friendly as we thought...
 In-Reply-To: <Pine.LNX.4.33.0208081348001.12296-100000@watcher.mithral.com>

@@ -19,14 +19,14 @@ Received: from ex02.idirect.net (ex02.idirect.net [208.226.76.48]) by
 X-Mimeole: Produced By Microsoft Exchange V6.0.4417.0
 Content-Class: urn:content-classes:message
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Subject: RE: RPM's %post, %postun etc
 Message-Id: <BADF3C947A1BD54FBA75C70C241B0B9E762E71@ex02.idirect.net>
 X-MS-Has-Attach: 
 X-MS-Tnef-Correlator: 
 Thread-Topic: RPM's %post, %postun etc
 Thread-Index: AcJJGi1/SASQja5LQ9OUT9svWVeKZwAB7R8Q
-From: "Harig, Mark A." <maharig@idirect.net>
+From: Harig, Mark A. <maharig@idirect.net>
 To: <rpm-zzzlist@freshrpms.net>
 X-Mailscanner: Found to be clean, Found to be clean
 Content-Transfer-Encoding: 8bit

@@ -54,7 +54,7 @@ Date: Thu, 29 Aug 2002 12:37:37 -0500 (CDT)
 
 On Thu, 29 Aug 2002, Rick Beebe wrote:
 
-> > cc: Error: spamd/spamc.c, line 50: In this declaration, "in_addr_t" has no
+> > cc: Error: spamd/spamc.c, line 50: In this declaration, in_addr_t has no
 > > linka
 > > ge and has a prior declaration in this scope at line number 572 in file
 > > /usr/inc
@@ -67,7 +67,7 @@ On Thu, 29 Aug 2002, Rick Beebe wrote:
    Thanks for posting this tip - I had the same problem compiling with
 Tru64 and that took care of it.
 
-   When I did the "make install" I got this error:
+   When I did the make install I got this error:
 
 LOCK:  -f /etc/mail/spamassassin/local.cf
  || cp rules/local.cf /etc/mail/spamassassin/local.cf
@@ -75,7 +75,7 @@ sh: syntax error at line 1: `||' unexpected
 *** Exit 2
 Stop.
 
-   It appears that this comes from the "inst_cfs:" part of the Makefile,
+   It appears that this comes from the inst_cfs: part of the Makefile,
 which copies local.cf into /etc/mail/spamassassin.  The Makefile has
 brackets around the -f test, but they don't show up above.  Any ideas?
 

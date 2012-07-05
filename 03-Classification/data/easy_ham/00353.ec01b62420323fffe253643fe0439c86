@@ -50,7 +50,7 @@ On Tue, 2002-08-27 at 08:58, Joseph S. Barrera III wrote:
 > C is more reliable than Java??
 
 
-Both are reliable.  "Reliability" is more a function of the software
+Both are reliable.  Reliability is more a function of the software
 engineer.  I've written complicated mission-critical server software in
 Java that will run without a hiccup as long as the Unix box it is
 sitting on is running.  Same with C.  For processes that are running

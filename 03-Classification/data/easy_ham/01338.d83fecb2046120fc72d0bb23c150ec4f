@@ -16,9 +16,9 @@ Received: from mx0.emailqueue.net (localhost.daemonmail.net [127.0.0.1])
 Received: from brianmay (brianmay [64.52.135.194]) by mail.unearthed.com
     with ESMTP id bu207z82 Tue, 27 Aug 2002 11:55:48 -0700 (PDT)
 Message-Id: <001101c24dfb$61b7a2f0$8801020a@brianmay>
-From: "Brian May" <brian@unearthed.com>
-To: "Justin Mason" <yyyy@spamassassin.taint.org>,
-	"Jason R. Mastaler" <jason-exp-1031164464.7f11b3@mastaler.com>
+From: Brian May <brian@unearthed.com>
+To: Justin Mason <yyyy@spamassassin.taint.org>,
+	Jason R. Mastaler <jason-exp-1031164464.7f11b3@mastaler.com>
 Cc: <spamassassin-talk@example.sourceforge.net>, <tmda-users@tmda.net>
 References: <20020827144541.3236B43F99@phobos.labs.netnoteinc.com>
     <hhvg5wkv68.fsf@hrothgar.la.mastaler.com>
@@ -26,7 +26,7 @@ Subject: Re: [SAtalk] Re: patent on TMDA-like system
 Date: Tue, 27 Aug 2002 11:55:58 -0700
 Organization: UnEarthed.Com
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal
@@ -66,8 +66,8 @@ from http://tmda.net/releases/old/
 TMDA was already at 0.21 8 days before filing for a patent..
 
 ----- Original Message -----
-From: "Jason R. Mastaler" <jason-exp-1031164464.7f11b3@mastaler.com>
-To: "Justin Mason" <yyyy@spamassassin.taint.org>
+From: Jason R. Mastaler <jason-exp-1031164464.7f11b3@mastaler.com>
+To: Justin Mason <yyyy@spamassassin.taint.org>
 Cc: <spamassassin-talk@example.sourceforge.net>; <tmda-users@tmda.net>
 Sent: Tuesday, August 27, 2002 11:34 AM
 Subject: [SAtalk] Re: patent on TMDA-like system

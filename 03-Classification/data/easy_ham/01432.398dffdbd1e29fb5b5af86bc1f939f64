@@ -6,12 +6,12 @@ Received: by spamassassin.taint.org (Postfix, from userid 500)
 Received: from spamassassin.taint.org (localhost [127.0.0.1])
 	by jmason.org (Postfix) with ESMTP
 	id 6221BF7A7; Tue,  3 Sep 2002 14:38:29 +0100 (IST)
-To: "Craig R.Hughes" <craig@deersoft.com>
+To: Craig R.Hughes <craig@deersoft.com>
 Cc: quinlan@pathname.com, yyyy@spamassassin.taint.org (Justin Mason),
 	spamassassin-devel@lists.sourceforge.net
 Subject: Re: [SAdev] 2.41 release? 
-In-Reply-To: Message from "Craig R.Hughes" <craig@deersoft.com> 
-   of "Mon, 02 Sep 2002 22:37:10 PDT." <312D1C89-BEFF-11D6-9DD0-00039396ECF2@deersoft.com> 
+In-Reply-To: Message from Craig R.Hughes <craig@deersoft.com> 
+   of Mon, 02 Sep 2002 22:37:10 PDT. <312D1C89-BEFF-11D6-9DD0-00039396ECF2@deersoft.com> 
 From: yyyy@spamassassin.taint.org (Justin Mason)
 X-GPG-Key-Fingerprint: 0A48 2D8B 0B52 A87D 0E8A  6ADD 4137 1B50 6E58 EF0A
 X-Habeas-Swe-1: winter into spring
@@ -28,7 +28,7 @@ Sender: yyyy@spamassassin.taint.org
 Message-Id: <20020903133829.6798116F23@spamassassin.taint.org>
 
 
-"Craig R.Hughes" said:
+Craig R.Hughes said:
 
 > Seems like a good idea.  We might get one of two other issues 
 > raised tomorrow too once US people get back to work tomorrow and 
@@ -49,8 +49,8 @@ I heard on the Razor list in the past...
 
 Theo, does it work now that you /dev/null'd the logfile?
 
-> >    - version number (says "cvs")
-> >    - tag tree as "Rel" this time too
+> >    - version number (says cvs)
+> >    - tag tree as Rel this time too
 
 I won't bother tagging with Rel, IMO; I don't think we should
 rely on the version control system inside our code, so I've just

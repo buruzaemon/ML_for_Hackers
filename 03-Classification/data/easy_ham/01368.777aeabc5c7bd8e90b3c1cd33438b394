@@ -69,11 +69,11 @@ diff -b -w -u -d -r1.15.4.1 -r1.15.4.2
    my $tname = shift;
  
    $scr = $ENV{'SCRIPT'};
--  $scr ||= "../spamassassin";
-+  $scr ||= "perl -w ../spamassassin";
+-  $scr ||= ../spamassassin;
++  $scr ||= perl -w ../spamassassin;
  
    $spamd = $ENV{'SPAMD_SCRIPT'};
-   $spamd ||= "../spamd/spamd -x";
+   $spamd ||= ../spamd/spamd -x;
 
 
 

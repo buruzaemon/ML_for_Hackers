@@ -64,7 +64,7 @@ I was wondering that this is a bit dangerous if there is a update for my
 software, as the dummy package might get updated with it overwriting the 
 installation I've done from source... Not good.
 
-Is there really no "--nodeps" kind of switch in apt-get? 
+Is there really no --nodeps kind of switch in apt-get? 
 
 -- 
 Peter

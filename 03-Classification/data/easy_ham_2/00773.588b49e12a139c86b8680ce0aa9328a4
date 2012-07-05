@@ -41,7 +41,7 @@ Received: from localhost (HELO deepeddy.vircio.com)
     <exmh-workers@redhat.com>; 6 Aug 2002 22:14:34 -0000
 X-Mailer: exmh version 2.5 07/13/2001 with nmh-1.0.4
 To: Brent Welch <welch@panasas.com>, exmh-workers@spamassassin.taint.org
-Subject: Re: scan bug: no update after Pick's "New FTOC"
+Subject: Re: scan bug: no update after Pick's New FTOC
 In-Reply-To: <1028225397.7935.TMDA@deepeddy.vircio.com>
 References: <200208010450.AAA07420@blackcomb.panasas.com>
     <1028214066.14545.TMDA@deepeddy.vircio.com>
@@ -50,9 +50,9 @@ X-Url: http://www.DeepEddy.Com/~cwg
 X-Image-Url: http://www.DeepEddy.Com/~cwg/chris.gif
 MIME-Version: 1.0
 Content-Type: multipart/signed;
-    boundary="==_Exmh_-1362576751P";
+    boundary===_Exmh_-1362576751P;
     micalg=pgp-sha1;
-    protocol="application/pgp-signature"
+    protocol=application/pgp-signature
 Content-Transfer-Encoding: 7bit
 Message-Id: <1028672074.3772.TMDA@deepeddy.vircio.com>
 From: Chris Garrigues <cwg-exmh@DeepEddy.Com>
@@ -83,9 +83,9 @@ Content-Type: text/plain; charset=us-ascii
 > > From:  Chris Garrigues <cwg-exmh@DeepEddy.Com>
 > > Date:  Thu, 01 Aug 2002 10:01:04 -0500
 > >
-> > > If you run Pick, and then use the "New FTOC" button to show only
+> > > If you run Pick, and then use the New FTOC button to show only
 > > > those messages selected by pick, then the ftoc display was considered
-> > > "invalid" in the old code.  This prevented the display from being cache
+> > > invalid in the old code.  This prevented the display from being cache
 > d,
 > > > and it meant that you could get back to the full folder display by
 > > > clicking on the folder lablel.  That doesn't work anymore.  You have

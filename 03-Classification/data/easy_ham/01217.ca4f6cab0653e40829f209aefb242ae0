@@ -61,7 +61,7 @@ On Wed, 2 Oct 2002 09:44:15 +0200 (CEST), Thomas Vander Stichele <thomas@urgent.
 
     Anyway, I have returned to Redhat 7.3 on my root filesystem (saved my home directories, music and games on other partitions) and while I have the 8.0 stuff in the list, everything I want to upgrade requires 200+ RPMs.
 
-    I'm not opposed to this, but apt is.  "apt-get dist-upgrade" dumps core.
+    I'm not opposed to this, but apt is.  apt-get dist-upgrade dumps core.
 
     What's the inside secret here, or do I just start searching mirrors for the ISO and get over it?
 

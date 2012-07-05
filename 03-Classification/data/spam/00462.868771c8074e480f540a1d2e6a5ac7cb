@@ -28,7 +28,7 @@ Cc:
 Subject: Account zzzz@spamassassin.taint.org
 Sender: AdultClub <nkup@asia.com>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Date: Wed, 25 Sep 2002 00:48:28 -0700
 X-Mailer: The Bat! (v1.52f) Business
 Message-Id: <20020925074748.C2E172CFA4@smtp.easydns.com>

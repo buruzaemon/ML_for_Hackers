@@ -62,10 +62,10 @@ against something that wasn't installed through rpm :-/
 What I'd recommend in your case : You should keep at least one original Red
 Hat Linux kernel (you do just in case, right? ;-)) and install the matching
 alsa-kernel package as you'll need at least one because of the
-dependencies. Then for your custom built kernel, simply "./configure
---with-cards=all && make && make install DESTDIR=/tmp/alsa-driver" from the
+dependencies. Then for your custom built kernel, simply ./configure
+--with-cards=all && make && make install DESTDIR=/tmp/alsa-driver from the
 alsa-driver sources then as root copy all the modules under
-/tmp/alsa-driver/lib/modules/ to your modules dir and run "depmod -a".
+/tmp/alsa-driver/lib/modules/ to your modules dir and run depmod -a.
 
 Of course you can even make it much faster by not compiling all un-needed
 drivers, as I guess that's one of the reasons one would rebuild his own

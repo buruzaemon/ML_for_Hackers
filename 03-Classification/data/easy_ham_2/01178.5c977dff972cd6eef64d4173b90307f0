@@ -60,8 +60,8 @@ Once upon a time, Manfred wrote :
 > Best regards Manfred Grobosch
 
 Well, you can simply use an rpm tarball (or extract one from a source rpm
-on a machine that has rpm scripts install "rpm2cpio <file.src.rpm> | cpio
--dimv" and "./configure && make && make install" as usual. You need db3 or
+on a machine that has rpm scripts install rpm2cpio <file.src.rpm> | cpio
+-dimv and ./configure && make && make install as usual. You need db3 or
 db4 development files at least, and once everything installed you'll need
 to initialize your rpm database.
 

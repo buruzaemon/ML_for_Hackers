@@ -186,7 +186,7 @@ The 4th-strongest discriminator *still* finds another HTML clue, though!
         'money' 169 0.99
         'content-type:text/plain' 185 0.2
         'charset:us-ascii' 191 0.127273
-        "i'm" 232 0.01
+        i'm 232 0.01
         'content-type:text/html' 248 0.983607
         '&nbsp;' 255 0.99
         'wrote:' 372 0.01

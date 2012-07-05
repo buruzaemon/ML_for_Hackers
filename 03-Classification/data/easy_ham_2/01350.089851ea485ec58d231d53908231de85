@@ -23,7 +23,7 @@ Content-Type: text/plain; charset=US-ASCII; format=flowed
 MIME-Version: 1.0 (Apple Message framework v482)
 Cc: SpamAssassin-talk@example.sourceforge.net
 To: yyyy@spamassassin.taint.org (Justin Mason)
-From: "Craig R.Hughes" <craig@deersoft.com>
+From: Craig R.Hughes <craig@deersoft.com>
 In-Reply-To: <20020806171934.7D996440A8@phobos.labs.netnoteinc.com>
 Message-Id: <CFBCDEE0-A985-11D6-A5A1-00039396ECF2@deersoft.com>
 Content-Transfer-Encoding: 7bit
@@ -33,7 +33,7 @@ X-Mailer: Apple Mail (2.482)
 On Tuesday, August 6, 2002, at 10:19  AM, Justin Mason wrote:
 
 >
-> "Craig R.Hughes" said:
+> Craig R.Hughes said:
 >
 >> Excellent.  After that, I'd suggest we work on stabilizing (ie
 >> no new features) for a bit, and getting 2.40 released.  I think

@@ -21,12 +21,12 @@ Received: from adsl-216-103-211-240.dsl.snfc21.pacbell.net
     Wed, 28 Aug 2002 22:30:58 -0700
 Received: from quinlan by proton.pathname.com with local (Exim 3.35 #1
     (Debian)) id 17kHtK-00013z-00; Wed, 28 Aug 2002 22:30:50 -0700
-To: "Dan Kohn" <dan@dankohn.com>
+To: Dan Kohn <dan@dankohn.com>
 Cc: <spamassassin-talk@example.sourceforge.net>
 Subject: Re: [SAtalk] O.T. Habeus -- Why?
 References: <A23DE7A325D23B49A76B54080E0BCB9E2924A9@kabul.ad.skymv.com>
 From: Daniel Quinlan <quinlan@pathname.com>
-In-Reply-To: "Dan Kohn"'s message of "Wed, 28 Aug 2002 20:09:49 -0700"
+In-Reply-To: Dan Kohn's message of Wed, 28 Aug 2002 20:09:49 -0700
 Message-Id: <yf2k7majkol.fsf@proton.pathname.com>
 X-Mailer: Gnus v5.7/Emacs 20.7
 Sender: spamassassin-talk-admin@example.sourceforge.net
@@ -62,12 +62,12 @@ will reduce the amount of uncaught spam.
 > So, I can't understand how Daniel can assert that you can't track
 > spammers down when it's never really been tried.
 
-Please don't misquote me.  I did not assert that you "can't track
-spammers".  Here is what I said:
+Please don't misquote me.  I did not assert that you can't track
+spammers.  Here is what I said:
 
 | It will be difficult to find, prosecute, and win money from someone in
 | various non-friendly countries where spam originates (China is a good
-| example) even if they do officially "respect" copyright law.
+| example) even if they do officially respect copyright law.
 
 I understand the incentive that you have to pursue spammers, but that
 does not directly translate to less spam being sent to my inbox.  It is

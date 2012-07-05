@@ -35,7 +35,7 @@ X-Mailer: exmh version 2.3.1 01/15/2001 with nmh-1.0.3
 To: exmh-users@spamassassin.taint.org
 Subject: Re: Insert signature
 In-Reply-To: Your message of
-    "Thu, 22 Aug 2002 23:36:32 +1000."
+    Thu, 22 Aug 2002 23:36:32 +1000.
     <200208221336.g7MDaWX26868@hobbit.linuxworks.com.au.nospam>
 MIME-Version: 1.0
 Content-Type: text/plain; charset=us-ascii
@@ -81,7 +81,7 @@ Ulises
 > There might (must?) also be a way to get sedit to do it, but I've
 > been using gvim as my exmh message editor for a long time now.  I
 > load it with a command that loads some email-specific settings, eg,
-> to "syntax" colour-highlight the headers and quoted parts of an
+> to syntax colour-highlight the headers and quoted parts of an
 > email)... it would be possible to map some (vim) keys that would add
 > a sig (or even give a selection of sigs to choose from).
 > 

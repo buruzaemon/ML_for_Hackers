@@ -23,13 +23,13 @@ Received: from lists@spamfilter.cc by www.motornet.ie with
     secs); 22 Aug 2002 09:32:15 -0000
 Received: from unknown (HELO Development05) (172.16.255.79) by 0 with SMTP;
     22 Aug 2002 09:32:15 -0000
-From: "adam" <lists@spamfilter.cc>
+From: adam <lists@spamfilter.cc>
 To: <webdev@linux.ie>
 Subject: RE: [Webdev] PHP/MySQL Virtual Hosting Recommendations?
 Date: Thu, 22 Aug 2002 10:38:40 +0100
 Message-Id: <HMEPLCOKBDDDIPLACFOKCEFICBAA.lists@spamfilter.cc>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="US-ASCII"
+Content-Type: text/plain; charset=US-ASCII
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal
@@ -47,7 +47,7 @@ X-Beenthere: webdev@linux.ie
 Hi Lee,
 
 + You could try iewebs.com aswell, though I don't know if they do
-+ "just hosting".
++ just hosting.
 +
 Heh, you won't find much on iewebs.com these days. Apache test page.
 

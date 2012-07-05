@@ -21,7 +21,7 @@ X-Authentication-Warning: lugh.tuatha.org: Host [213.9.245.86] claimed to
 Received: (qmail 7382 invoked from network); 24 Aug 2002 12:48:45 -0000
 Received: from unknown (HELO h) (192.168.0.2) by linux.local with SMTP;
     24 Aug 2002 12:48:45 -0000
-From: "Sales Department" <info@smokesdirect.com>
+From: Sales Department <info@smokesdirect.com>
 To: ilug@linux.ie
 Reply-To: info@smokesdirect.com
 Date: Sat, 24 Aug 2002 14:54:43 +0200

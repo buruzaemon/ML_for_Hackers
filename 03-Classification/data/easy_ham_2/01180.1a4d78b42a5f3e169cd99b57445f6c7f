@@ -22,7 +22,7 @@ Received: from localhost.localdomain (unverified [213.48.244.15]) by
     pcow057o.blueyonder.co.uk (Content Technologies SMTPRS 4.2.9) with ESMTP
     id <T5c6b925cccac1785b3299@pcow057o.blueyonder.co.uk> for
     <rpm-list@freshrpms.net>; Wed, 31 Jul 2002 05:35:45 +0100
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 From: John Hinsley <johnhinsley@blueyonder.co.uk>
 To: rpm-zzzlist@freshrpms.net
 Subject: OpenGL

@@ -528,7 +528,7 @@ If a user has left the webpage for a chat room using the Back or Forward
 buttons of their browser in lieu of logging out, their account will still
 be logged into the chat room until it times out 15 minutes later.  A
 malicious user may do this repeatedly as different users to overload the
-chat server with "phantom" users.  A denial of service may be the result.
+chat server with phantom users.  A denial of service may be the result.
 
 15. OpenSSH Trojan Horse Vulnerability
 BugTraq ID: 5374
@@ -732,7 +732,7 @@ http://online.securityfocus.com/archive/91/285168
 3. Administrivia: Gone Fishin' (Thread)
 Relevant URL:
 
-http://online.securityfocus.com/archive/91/285159
+http://online.securityfocus.com/archive/91/285159
 
 
 IV. NEW PRODUCTS FOR LINUX PLATFORMS
@@ -752,7 +752,7 @@ Internet gateway, Gateway Guardian uses a pure Java application to
 preconfigure hardware, Internet provider settings, and firewall rules
 through a wizard like format. When the information has been entered, the
 Java application writes an entire Linux operating system and the custom
-firewall configuration onto a 3-1/4" floppy diskette.
+firewall configuration onto a 3-1/4 floppy diskette.
 
 2. PakSecured Linux
 by Paktronix Systems

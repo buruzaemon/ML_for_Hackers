@@ -26,14 +26,14 @@ Received: by phobos.labs.netnoteinc.com (Postfix, from userid 500) id
 Received: from phobos (localhost [127.0.0.1]) by
     phobos.labs.netnoteinc.com (Postfix) with ESMTP id 4C96933D8B;
     Mon, 26 Aug 2002 16:46:26 +0100 (IST)
-To: "Craig R.Hughes" <craig@deersoft.com>
+To: Craig R.Hughes <craig@deersoft.com>
 Cc: Bart Schaefer <schaefer@zanshin.com>,
 	spamassassin-talk@lists.sourceforge.net
 Subject: Re: [SAtalk] 2.40 RELEASE: oops -- newer freqs.
 In-Reply-To: Message from
-    "Craig R.Hughes"
+    Craig R.Hughes
     <craig@deersoft.com> of
-    "Mon, 26 Aug 2002 08:31:03 PDT."
+    Mon, 26 Aug 2002 08:31:03 PDT.
     <D4B33CBA-B908-11D6-9F1A-00039396ECF2@deersoft.com>
 From: yyyy@spamassassin.taint.org (Justin Mason)
 X-GPG-Key-Fingerprint: 0A48 2D8B 0B52 A87D 0E8A  6ADD 4137 1B50 6E58 EF0A
@@ -64,7 +64,7 @@ X-Original-Date: Mon, 26 Aug 2002 16:46:21 +0100
 Date: Mon, 26 Aug 2002 16:46:21 +0100
 
 
-"Craig R.Hughes" said:
+Craig R.Hughes said:
 
 > The GA run on the current corpus is yielding an average (mean) 
 > score for false-positives of about 10 points, which is higher 

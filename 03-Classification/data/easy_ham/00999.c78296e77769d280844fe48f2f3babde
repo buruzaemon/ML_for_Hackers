@@ -35,11 +35,11 @@ Received: from localhost ([127.0.0.1] helo=kanga.nu) by
 To: exmh-users@spamassassin.taint.org
 Subject: Re: Sorting
 In-Reply-To: Message from Robert Waldner <waldner@waldner.priv.at> of
-    "Wed, 11 Sep 2002 01:24:46 +0200."
+    Wed, 11 Sep 2002 01:24:46 +0200.
     <200209102325.g8ANP2KX022602@fsck.intern.waldner.priv.at>
 References: <200209102325.g8ANP2KX022602@fsck.intern.waldner.priv.at>
 X-Face: ?<YUs-cNP1\Oc-H>^_yw@fA`CEX&}--=*&XqXbF-oePvxaT4(kyt\nwM9]{]N!>b^K}-Mb9
-    YH%saz^>nq5usBlD"s{(.h'_w|U^3ldUq7wVZz$`u>MB(-4$f\a6Eu8.e=Pf\
+    YH%saz^>nq5usBlDs{(.h'_w|U^3ldUq7wVZz$`u>MB(-4$f\a6Eu8.e=Pf\
 X-Image-Url: http://www.kanga.nu/~claw/kanga.face.tiff
 X-Url: http://www.kanga.nu/~claw/
 Message-Id: <9996.1031730908@kanga.nu>
@@ -86,8 +86,8 @@ instant visual cue as to which is which.  (No: I've not checked where it
 gets that colour selection from).
 
 > That's what I usually do, but what I'd really like would be some
-> automagism to tell them "Flist", "Rescan Folder", which I now do
-> manually whenever I'm going to work at the "other" machine.
+> automagism to tell them Flist, Rescan Folder, which I now do
+> manually whenever I'm going to work at the other machine.
 
 <nod>
 

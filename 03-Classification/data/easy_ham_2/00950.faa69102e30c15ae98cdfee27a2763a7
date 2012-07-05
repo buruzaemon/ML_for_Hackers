@@ -27,7 +27,7 @@ To: fork@spamassassin.taint.org
 From: martyh@nmcourts.com (Marty Halvorson)
 Subject: Re: What's cool about doing nothing
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"; format=flowed
+Content-Type: text/plain; charset=us-ascii; format=flowed
 Sender: fork-admin@xent.com
 Errors-To: fork-admin@xent.com
 X-Beenthere: fork@spamassassin.taint.org

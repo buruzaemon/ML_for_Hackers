@@ -29,7 +29,7 @@ Cc: fork@spamassassin.taint.org
 Subject: Re: Rambus, Man
 References: <200208262039.NAA20810@stories2.idg.net>
 Content-Type: multipart/related;
-    boundary="------------090602010909000705010009"
+    boundary=------------090602010909000705010009
 Sender: fork-admin@xent.com
 Errors-To: fork-admin@xent.com
 X-Beenthere: fork@spamassassin.taint.org
@@ -94,7 +94,7 @@ http://www.muropaketti.com/artikkelit/cpu/nw2800/index3.phtml
 *English Summary*
 
 When the Intel Pentium 4 2,8GHz CPU arrived to our testlab we ordered 10 
-liters of Liquid Nitrogen (LN2 -196°C) and decided to run some tests in 
+liters of Liquid Nitrogen (LN2 -196C) and decided to run some tests in 
 very low temperatures.
 
 After some adjusting and testing we were able to run SiSoft Sandra CPU 

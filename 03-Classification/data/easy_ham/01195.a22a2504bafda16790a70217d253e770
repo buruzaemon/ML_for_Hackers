@@ -20,12 +20,12 @@ Received: from [66.92.157.3] (helo=www.dudex.net) by bob.dudex.net with
     esmtp (Exim 3.35 #1) id 17vujG-00018Z-00 for rpm-list@freshrpms.net;
     Mon, 30 Sep 2002 03:12:30 -0400
 X-Originating-Ip: [66.44.40.158]
-From: "" Angles " Puglisi" <angles@aminvestments.com>
+From:  Angles  Puglisi <angles@aminvestments.com>
 To: rpm-zzzlist@freshrpms.net
 Subject: Re: New testing packages
 Message-Id: <20020930.bp5.07787800@www.dudex.net>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 8bit
 Content-Disposition: inline
 X-Mailer: AngleMail for phpGroupWare (http://www.phpgroupware.org) v
@@ -58,7 +58,7 @@ Peter Peltonen (peter.peltonen@iki.fi) wrote*:
 _Very_ comprehensive audio app collection, Thanks.
 
 --
-That's "angle" as in geometry.
+That's angle as in geometry.
 
 
 

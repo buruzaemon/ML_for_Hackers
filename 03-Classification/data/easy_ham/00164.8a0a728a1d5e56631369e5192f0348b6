@@ -81,7 +81,7 @@ from technical limitations.  The fallout being that the only way
 inconsistent information spaces can be maintained is by 
 protecting them through a set of trust barriers and boundaries. 
 The local information when combined with the technical
-troubles of providing "just enough" forced synchronization
+troubles of providing just enough forced synchronization
 to remote information provide workable data consistenty, i.e.
 enforcing local constraints or ignoring global ones when
 concerns are more immedidate.  

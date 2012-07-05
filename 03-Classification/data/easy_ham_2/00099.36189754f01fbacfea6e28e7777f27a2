@@ -28,7 +28,7 @@ Received: (qmail 83262 messnum 90486 invoked from
 Received: from p20.as1.drogheda1.eircom.net (HELO there) (159.134.158.20)
     by mail04.svc.cra.dublin.eircom.net (qp 83262) with SMTP; 21 Jul 2002
     18:06:45 -0000
-Content-Type: text/plain; charset="iso-8859-15"
+Content-Type: text/plain; charset=iso-8859-15
 From: John Gay <johngay@eircom.net>
 To: ilug@linux.ie
 Date: Sun, 21 Jul 2002 19:06:06 +0100

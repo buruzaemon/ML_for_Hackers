@@ -100,17 +100,17 @@ On Thu, Sep 05, 2002 at 06:18:55PM -0400, Eugene Chiu wrote:
 > 8343
 > 
 > It looks like you're running via procmail -- what are the permissions
-> on procmail?  "Insecure dependency" screams "I'm in taint mode!", which
+> on procmail?  Insecure dependency screams I'm in taint mode!, which
 > is a typical problem when procmail is setuid/setgid (the permissions
 > should be 755).
 > 
-> If this is in fact the problem, an easy solution is to put "DROPPRIVS=yes"
+> If this is in fact the problem, an easy solution is to put DROPPRIVS=yes
 > in the procmailrc. :)
 > 
 > --
 > Randomly Generated Tagline:
-> "The bus had no heat, blew over in the wind and used the driver's legs
->  as its first line of defense in an accident." - Unknown about the VW Bus
+> The bus had no heat, blew over in the wind and used the driver's legs
+>  as its first line of defense in an accident. - Unknown about the VW Bus
 > 
 > 
 > 

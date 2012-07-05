@@ -26,7 +26,7 @@ Received: (from john@localhost) by jlooney.jinny.ie (8.11.6/8.11.6) id
 X-Authentication-Warning: jlooney.jinny.ie: john set sender to
     jlooney@jinny.ie using -f
 Date: Mon, 22 Jul 2002 08:48:08 +0100
-From: "John P. Looney" <valen@tuatha.org>
+From: John P. Looney <valen@tuatha.org>
 To: Irish LUG list <ilug@linux.ie>
 Message-Id: <20020722074808.GF3234@jinny.ie>
 Reply-To: ilug@linux.ie
@@ -49,7 +49,7 @@ X-Beenthere: ilug@linux.ie
  Has anyone used (successfully!) a fat undelete program on Linux ?
 
  Something like a simple version of the norton disk tools would be fine.
-Actually, most likely the MS DOS "undelete" program would do...
+Actually, most likely the MS DOS undelete program would do...
 
 Kate
 

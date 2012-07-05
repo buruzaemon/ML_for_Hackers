@@ -64,7 +64,7 @@ Couldn't have put it better myself, but that's not going to stop me trying :-)
 The above situation occurs precisely because of the major functional difference
 between symbolic links (AKA soft links, or symlinks to their friends) and hard
 links. Two hard links to the same file are exactly equivalent - one is no more
-the files "real" directory entry than is the other. OTOH a symlink is a special
+the files real directory entry than is the other. OTOH a symlink is a special
 thing which is a link to a real file, and when the file linked to is erased, you
 end up with a broken symbolic link - you can't have a broken hard link (except
 of course in the case of a banjaxed filesystem).

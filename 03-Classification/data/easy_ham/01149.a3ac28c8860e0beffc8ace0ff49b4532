@@ -48,9 +48,9 @@ X-Url: http://www.DeepEddy.Com/~cwg
 X-Image-Url: http://www.DeepEddy.Com/~cwg/chris.gif
 MIME-Version: 1.0
 Content-Type: multipart/signed;
-    boundary="==_Exmh_-2113882517P";
+    boundary===_Exmh_-2113882517P;
     micalg=pgp-sha1;
-    protocol="application/pgp-signature"
+    protocol=application/pgp-signature
 Content-Transfer-Encoding: 7bit
 Message-Id: <1033567132.911.TMDA@deepeddy.vircio.com>
 From: Chris Garrigues <cwg-exmh@DeepEddy.Com>
@@ -79,8 +79,8 @@ Content-Type: text/plain; charset=us-ascii
 > Date:  Tue, 01 Oct 2002 23:21:21 -0500
 >
 > One possibility that occurs to me would be a button or mouse
-> click that "shrinks" the Sequences window to show only the
-> sequences in the "always show" list.  And of course a way to 
+> click that shrinks the Sequences window to show only the
+> sequences in the always show list.  And of course a way to 
 > expand it back.
 
 That's a pretty good idea.  I'm not sure I'll get to it any time soon.  (I 

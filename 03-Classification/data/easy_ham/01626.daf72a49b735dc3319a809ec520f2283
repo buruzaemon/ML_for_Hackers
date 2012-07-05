@@ -34,7 +34,7 @@ User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.1) Gecko/20020827
 X-Accept-Language: en-us, en
 MIME-Version: 1.0
 To: Ben Mord <bmord@icon-nicholson.com>
-Cc: "Webappsec Securityfocus.Com" <webappsec@securityfocus.com>,
+Cc: Webappsec Securityfocus.Com <webappsec@securityfocus.com>,
 	SECPROG Securityfocus <SECPROG@securityfocus.com>
 Subject: Re: use of base image / delta image for automated recovery from
     attacks
@@ -61,7 +61,7 @@ Ben Mord wrote:
 >     interested in applying it to the security problem. Unfortunately,
 >     you hit a bunch of problems:
 >
->         * When can you "commit" a state as being "good"?  You can't
+>         * When can you commit a state as being good?  You can't
 >           run from a redo log forever; the performance and storage
 >           penalties accumulate. Even log structured file systems
 >           garbage collect eventually. So you have to commit sometime.

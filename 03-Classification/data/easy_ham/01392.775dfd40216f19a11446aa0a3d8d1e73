@@ -33,8 +33,8 @@ References: <schaefer@zanshin.com>
     <20020829160017.9E3C643F99@phobos.labs.netnoteinc.com>
 MIME-Version: 1.0
 Content-Type: multipart/signed; micalg=pgp-sha1;
-    protocol="application/pgp-signature";
-    boundary="9amGYk9869ThD9tj"
+    protocol=application/pgp-signature;
+    boundary=9amGYk9869ThD9tj
 Content-Disposition: inline
 In-Reply-To: <20020829160017.9E3C643F99@phobos.labs.netnoteinc.com>
 User-Agent: Mutt/1.4i

@@ -19,12 +19,12 @@ Received: from cats.ucsc.edu (cats-mx1.ucsc.edu [128.114.129.36]) by
 Received: from Tycho (dhcp-63-177.cse.ucsc.edu [128.114.63.177]) by
     cats.ucsc.edu (8.10.1/8.10.1) with SMTP id g86Kugq11953 for
     <FoRK@xent.com>; Fri, 6 Sep 2002 13:56:43 -0700 (PDT)
-From: "Jim Whitehead" <ejw@cse.ucsc.edu>
-To: "FoRK" <FoRK@xent.com>
+From: Jim Whitehead <ejw@cse.ucsc.edu>
+To: FoRK <FoRK@xent.com>
 Subject: Online contents of Electronic Publishing journal
 Message-Id: <AMEPKEBLDJJCCDEJHAMIAEHLFGAA.ejw@cse.ucsc.edu>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal
@@ -45,8 +45,8 @@ List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
 List-Archive: <http://xent.com/pipermail/fork/>
 Date: Fri, 6 Sep 2002 13:54:21 -0700
 
-I recently stumbled across the contents of the journal, "Electronic
-Publishing", which was published from January, 1988 through December, 1995.
+I recently stumbled across the contents of the journal, Electronic
+Publishing, which was published from January, 1988 through December, 1995.
 All papers are available online in PDF (this was apparently one of the first
 journals to disseminate in PDF, in 1994). The journal also reprints some of
 the better papers from the Electronic Publishing conferences, held bi-yearly
@@ -63,7 +63,7 @@ sifting through the intellectual lineage of electronic publishing
 technologies.
 
 Rohit and Adam might find the following papers especially relevant, in the
-context of their WWW7 "Evolution of Document Species" paper:
+context of their WWW7 Evolution of Document Species paper:
 
 Page Description Languages: Development, Implementation and Standardization:
 A. L. Oakley and A. C. Norris

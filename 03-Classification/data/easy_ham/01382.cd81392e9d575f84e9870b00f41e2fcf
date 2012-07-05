@@ -27,13 +27,13 @@ Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: 7bit
 Message-Id: <15725.46293.831269.315365@12-248-11-90.client.attbi.com>
 To: Daniel Quinlan <quinlan@pathname.com>
-Cc: "Dan Kohn" <dan@dankohn.com>,
+Cc: Dan Kohn <dan@dankohn.com>,
 	<spamassassin-talk@lists.sourceforge.net>
 Subject: Re: [SAtalk] O.T. Habeus -- Why?
 In-Reply-To: <yf2k7majkol.fsf@proton.pathname.com>
 References: <A23DE7A325D23B49A76B54080E0BCB9E2924A9@kabul.ad.skymv.com>
     <yf2k7majkol.fsf@proton.pathname.com>
-X-Mailer: VM 6.96 under 21.4 (patch 6) "Common Lisp" XEmacs Lucid
+X-Mailer: VM 6.96 under 21.4 (patch 6) Common Lisp XEmacs Lucid
 Reply-To: skip@pobox.com
 Sender: spamassassin-talk-admin@example.sourceforge.net
 Errors-To: spamassassin-talk-admin@example.sourceforge.net

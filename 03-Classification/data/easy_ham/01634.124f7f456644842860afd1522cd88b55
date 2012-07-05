@@ -26,7 +26,7 @@ List-Subscribe: <mailto:secprog-subscribe@securityfocus.com>
 Delivered-To: mailing list secprog@securityfocus.com
 Delivered-To: moderator for secprog@securityfocus.com
 Received: (qmail 10062 invoked from network); 22 Aug 2002 17:41:11 -0000
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 From: Mario Torre <neugens@libero.it>
 To: secprog@securityfocus.com
 Subject: Encryption approach to secure web applications

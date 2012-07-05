@@ -22,11 +22,11 @@ Received: (qmail 13908 messnum 1017395 invoked from
 Received: from unknown (HELO isgtwomem) (80.247.160.141) by
     relay07.indigo.ie (qp 13908) with SMTP; 21 Aug 2002 15:52:41 -0000
 Message-Id: <003301c2492a$c8375a00$8da0f750@corp.emc.com>
-From: "Mark Twomey" <bauwolf@indigo.ie>
+From: Mark Twomey <bauwolf@indigo.ie>
 To: <ilug@linux.ie>
 Date: Wed, 21 Aug 2002 16:52:41 +0100
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal

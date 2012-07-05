@@ -36,7 +36,7 @@ Subject: Re: [Razor-users] Problem with Razor 2.14 and Spamassassin 2.41
 References: <20020905160808.B2932@greenhydrant.com>
     <Pine.LNX.4.44.0209051816270.22445-100000@burgers.bubbanfriends.org>
     <20020906005315.GH29663@kluge.net> <20020905181308.B4905@greenhydrant.com>
-Content-Type: multipart/mixed; boundary="------------050101050502080302080407"
+Content-Type: multipart/mixed; boundary=------------050101050502080302080407
 Sender: razor-users-admin@example.sourceforge.net
 Errors-To: razor-users-admin@example.sourceforge.net
 X-Beenthere: razor-users@example.sourceforge.net
@@ -113,10 +113,10 @@ David Rees wrote:
 
 --------------050101050502080302080407
 Content-Type: application/x-java-applet;version=1.1.1;
- name="rotate"
+ name=rotate
 Content-Transfer-Encoding: base64
 Content-Disposition: inline;
- filename="rotate"
+ filename=rotate
 
 IyEvdXNyL2Jpbi9wZXJsCjsjCjsjIENvcHlyaWdodCAoYykgMTk5NS0xOTk5CjsjCUlrdW8g
 TmFrYWdhd2EuIEFsbCByaWdodHMgcmVzZXJ2ZWQuCjsjCjsjIFJlZGlzdHJpYnV0aW9uIGFu

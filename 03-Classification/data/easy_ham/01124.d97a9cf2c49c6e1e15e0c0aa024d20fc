@@ -35,11 +35,11 @@ Subject: Re: bad focus/click behaviours
 In-Reply-To: <26402.1031939696@dimebox>
 References: <200209131130.g8DBUZL24217@hobbit.linuxworks.com.au.nospam>
     <200209131705.g8DH5Or30284@lin12.triumf.ca> <26402.1031939696@dimebox>
-Comments: In-reply-to Hal DeVore <haldevore@acm.org> message dated "Fri,
-    13 Sep 2002 12:54:56 -0500."
+Comments: In-reply-to Hal DeVore <haldevore@acm.org> message dated Fri,
+    13 Sep 2002 12:54:56 -0500.
 From: Brent Welch <welch@panasas.com>
 X-Url: http://www.panasas.com/
-X-Face: "HxE|?EnC9fVMV8f70H83&{fgLE.|FZ^$>@Q(yb#N,Eh~N]e&]=>r5~UnRml1:4EglY{9B+
+X-Face: HxE|?EnC9fVMV8f70H83&{fgLE.|FZ^$>@Q(yb#N,Eh~N]e&]=>r5~UnRml1:4EglY{9B+
     :'wJq$@c_C!l8@<$t,{YUr4K,QJGHSvS~U]H`<+L*x?eGzSk>XH\W:AK\j?@?c1o<k;j'Ei/UL)!*0
     ILwSR)J\bc)gjz!rrGQ2#i*f:M:ydhK}jp4dWQW?;0{,#iWrCV$4~%e/3)$1/D
 X-Loop: exmh-users@spamassassin.taint.org
@@ -60,7 +60,7 @@ List-Archive: <https://listman.spamassassin.taint.org/mailman/private/exmh-users
 Date: Sun, 22 Sep 2002 22:11:03 -0700
 
 >>>Hal DeVore said:
- >     "Brent said in his book"
+ >     Brent said in his book
  >     This Paste function can be convenient, but it turns out that
  >     users still need to keep track of the difference between the
  >     two selections.  If a user only understands the CLIPBOARD,
@@ -73,7 +73,7 @@ Date: Sun, 22 Sep 2002 22:11:03 -0700
 
 Yeah, I learned by hearing exmh users scream in agony.  Sorry about
 all that.  We should be able to clean this up.  If you grep for
-"bind" in seditBind you quickly find the Text_Selection proc
+bind in seditBind you quickly find the Text_Selection proc
 I described in the previous email.
 
 --

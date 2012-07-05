@@ -76,8 +76,8 @@ installed. But for multiple typos in the %files section (like when you're
 writing a spec file after 2AM ;-)) it can come in handy :-)
 
 It's also very useful if you need to override some Makefile variables
-during install, when the simple cases like "%makeinstall" or "make install
-DESTDIR=%{buildroot}" don't work. It keeps you from redoing all the
+during install, when the simple cases like %makeinstall or make install
+DESTDIR=%{buildroot} don't work. It keeps you from redoing all the
 unpacking and building processes.
 
 Matthias

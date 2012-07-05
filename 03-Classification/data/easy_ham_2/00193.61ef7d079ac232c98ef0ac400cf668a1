@@ -128,10 +128,10 @@ Niall O Broin thought:
                                       # disk (BIOS ID 0x80).
         boot=/dev/hdb                 # Install LILO on second hard
                                       # disk.
-        map=/new-disk/boot/map        # Location of "map file".
+        map=/new-disk/boot/map        # Location of map file.
         install=/new-disk/boot/boot.b # File to copy to hard disk's
                                       # boot sector.
-        prompt                        # Have LILO show "LILO boot:"
+        prompt                        # Have LILO show LILO boot:
                                       # prompt.
         timeout=50                    # Boot default system after 5
                                       # seconds. (Value is in tenths of
@@ -139,7 +139,7 @@ Niall O Broin thought:
         image=/new-disk/boot/vmlinuz  # Location of Linux kernel. The
                                       # actual name may include a version
                                       # number, for example
-                                      # "vmlinuz-2.0.35".
+                                      # vmlinuz-2.0.35.
             label=linux               # Label for Linux system.
             root=/dev/hda1            # Location of root partition on
                                       # new hard disk. Modify this as

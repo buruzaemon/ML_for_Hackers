@@ -24,13 +24,13 @@ Received: by phobos.labs.netnoteinc.com (Postfix, from userid 500) id
 Received: from phobos (localhost [127.0.0.1]) by
     phobos.labs.netnoteinc.com (Postfix) with ESMTP id E55BB33E50;
     Wed, 24 Jul 2002 12:23:59 +0100 (IST)
-To: "R. A. Hettinga" <rah@shipwright.com>
+To: R. A. Hettinga <rah@shipwright.com>
 Cc: fork@spamassassin.taint.org
-Subject: Re: "Ouch. Ouch. Ouch. Ouch. Ouch...."(was Re: My brain hurts)
+Subject: Re: Ouch. Ouch. Ouch. Ouch. Ouch....(was Re: My brain hurts)
 In-Reply-To: Message from
-    "R. A. Hettinga"
+    R. A. Hettinga
     <rah@shipwright.com> of
-    "Tue, 23 Jul 2002 23:22:04 EDT."
+    Tue, 23 Jul 2002 23:22:04 EDT.
     <p05111a3bb963cd44ea49@[66.149.49.6]>
 From: yyyy@spamassassin.taint.org (Justin Mason)
 X-GPG-Key-Fingerprint: 0A48 2D8B 0B52 A87D 0E8A  6ADD 4137 1B50 6E58 EF0A
@@ -53,10 +53,10 @@ Date: Wed, 24 Jul 2002 12:23:54 +0100
 how's about the String Joke?
 
 A piece of string and his friend walks into a bar.  The barman says
-"sorry, we don't serve string here".  String & friend walk out
-(grumbling).  String asks friend "listen, could you tatter my ends and
-tie me up?"  Friend obliges, and they return; barman says "aren't you
-that piece of string I threw out?"  "No, I'm a frayed knot."
+sorry, we don't serve string here.  String & friend walk out
+(grumbling).  String asks friend listen, could you tatter my ends and
+tie me up?  Friend obliges, and they return; barman says aren't you
+that piece of string I threw out?  No, I'm a frayed knot.
 
 --j.
 http://xent.com/mailman/listinfo/fork

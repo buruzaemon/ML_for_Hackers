@@ -18,7 +18,7 @@ Received: from python (gw01.es3.egwn.net [212.9.66.13]) (authenticated) by
     <rpm-list@freshrpms.net>; Wed, 9 Oct 2002 18:18:03 +0200
 From: Matthias Saou <matthias@rpmforge.net>
 To: rpm-zzzlist@freshrpms.net
-Subject: Re: xine cannot play DVDs - "liba52: a52_block error"
+Subject: Re: xine cannot play DVDs - liba52: a52_block error
 Message-Id: <20021009181801.65d72cbc.matthias@rpmforge.net>
 In-Reply-To: <1034115445.10490.4.camel@damocles>
 References: <1034115445.10490.4.camel@damocles>

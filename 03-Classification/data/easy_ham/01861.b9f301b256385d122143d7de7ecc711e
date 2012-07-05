@@ -53,13 +53,13 @@ RSS 0.91 and RSS 1.0 templates to read the following:&#8221;
 
 I'm sure this is some sort of DMCA violation or something, but here goes: 
 
-    import urllib, re; print "\n TITLE: Burningbird
+    import urllib, re; print \n TITLE: Burningbird
 
-    \n http://weblog.burningbird.net/\n en-us\n \n" + "\n".join(["TITLE: %s
+    \n http://weblog.burningbird.net/\n en-us\n \n + \n.join([TITLE: %s
 
-    %s" % t for t in re.compile(r'dc:title="(.*?)"\s*dc:identifier="(.*?)"', 
+    %s % t for t in re.compile(r'dc:title=(.*?)\s*dc:identifier=(.*?)', 
     re.DOTALL).findall(urllib.urlopen('http://weblog.burningbird.net/').read())]) 
-    + "" 
+    +  
 
 
 

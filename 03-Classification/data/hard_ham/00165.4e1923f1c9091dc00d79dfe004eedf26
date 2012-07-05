@@ -41,7 +41,7 @@ Sender: owner-nessus@list.nessus.org
 Precedence: bulk
 
 > Seriously though, it spurs the question: should this list be moderated ? 
-> (and the next question: if "yes", who wants to co-moderate ?)
+> (and the next question: if yes, who wants to co-moderate ?)
 
 
 No...the list has been on target i'd say about 95% of the time.
@@ -52,7 +52,7 @@ requests have in the entire past year.
 One thing you may want to consider (if feasible) - BugTraq's
 adopted a technique by which they add headers to each message
 indicating where to email to remove. The catch: the mail is
-not sent to "majordomo" - it is sent to "listname-remove"@domain.
+not sent to majordomo - it is sent to listname-remove@domain.
 I've found that useful when I can't remember exactly which mail
 addr I used to signup (since my email addr never shows up in
 a received message, and I have multiple addresses going to the
@@ -68,4 +68,4 @@ Thomas
 -
 nessus@list.nessus.org: general discussions about Nessus.
 * To unsubscribe, send a mail to majordomo@list.nessus.org with
-"unsubscribe nessus" in the body.
+unsubscribe nessus in the body.

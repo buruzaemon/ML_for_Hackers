@@ -48,7 +48,7 @@ Cc: exmh-workers@spamassassin.taint.org
 Subject: Re: exmh bug?
 Reply-To: Kevin.Christian@lsil.com
 In-Reply-To: Your message of
-    "Wed, 11 Sep 2002 12:17:33 PDT."
+    Wed, 11 Sep 2002 12:17:33 PDT.
     <200209111917.PAA02912@blackcomb.panasas.com>
 References: <200209111917.PAA02912@blackcomb.panasas.com>
 MIME-Version: 1.0
@@ -86,7 +86,7 @@ Kevin
 In message <200209111917.PAA02912@blackcomb.panasas.com>, Brent Welch writes:
 > Hmm - I'm cc'ing the exmh-workers list, because I really don't know
 > much about the various PGP interfaces.  I think there has been some
-> talk about "issues" with the latest version of gpg.
+> talk about issues with the latest version of gpg.
 > 
 > >>>Hacksaw said:
 >  > version 2.5 08/15/2002

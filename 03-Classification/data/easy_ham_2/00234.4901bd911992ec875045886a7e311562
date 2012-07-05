@@ -23,13 +23,13 @@ Received: from www.emuse.ie (hassle.emuse.ie) [193.120.145.154] by
 Received: by HASSLE with Internet Mail Service (5.5.2653.19) id <DL00S7JM>;
     Fri, 2 Aug 2002 12:51:07 +0100
 Message-Id: <5FE418B3F962D411BED40000E818B33C9C8E85@HASSLE>
-From: "Hunt, Bryan" <B.Hunt@emuse-tech.com>
-To: "'deedsmis@aculink.net'" <deedsmis@aculink.net>,
-	"'ilug@linux.ie'" <ilug@linux.ie>
+From: Hunt, Bryan <B.Hunt@emuse-tech.com>
+To: 'deedsmis@aculink.net' <deedsmis@aculink.net>,
+	'ilug@linux.ie' <ilug@linux.ie>
 Date: Fri, 2 Aug 2002 12:51:03 +0100
 MIME-Version: 1.0
 X-Mailer: Internet Mail Service (5.5.2653.19)
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Subject: [ILUG] RE: removing lilo
 Sender: ilug-admin@linux.ie
 Errors-To: ilug-admin@linux.ie
@@ -54,19 +54,19 @@ Cc: ILUG (Request)
 Subject: Re: removing lilo
 
 
-"Hunt, Bryan" stated the following:
+Hunt, Bryan stated the following:
 > 
 > choose the repair option when installing windows nt/2000/whatever
 
-What is the "repair option"?
+What is the repair option?
 
 > -----Original Message----- From: SoloCDM [mailto:deedsmis@aculink.net]
 > Sent: 31 July 2002 17:48 To: Hunt, Bryan Cc: ILUG (Request)
 > Subject: Re: removing lilo
 > 
-> "Hunt, Bryan" stated the following:
+> Hunt, Bryan stated the following:
 > 
-> > you need to do a "fdisk /mbr" from a bootable windoze floppy
+> > you need to do a fdisk /mbr from a bootable windoze floppy
 > > alternatively boot from linux boot disk and do fdisk, delete all
 > 
 > partitions.

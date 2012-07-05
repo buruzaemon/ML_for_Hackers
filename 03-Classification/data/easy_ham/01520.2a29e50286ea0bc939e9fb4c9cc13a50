@@ -28,7 +28,7 @@ From: bugzilla-daemon@hughes-family.org
 To: spamassassin-devel@example.sourceforge.net
 X-Bugzilla-Reason: AssignedTo
 Message-Id: <20021003202608.0BE97A877E@belphegore.hughes-family.org>
-Subject: [SAdev] [Bug 1049] Pathname for "triplets.txt" is incorrect.
+Subject: [SAdev] [Bug 1049] Pathname for triplets.txt is incorrect.
 Sender: spamassassin-devel-admin@example.sourceforge.net
 Errors-To: spamassassin-devel-admin@example.sourceforge.net
 X-Beenthere: spamassassin-devel@example.sourceforge.net

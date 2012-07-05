@@ -19,13 +19,13 @@ Received: from nycsmtp3out.rdc-nyc.rr.com (nycsmtp3out.rdc-nyc.rr.com
 Received: from damien (66-108-144-106.nyc.rr.com [66.108.144.106]) by
     nycsmtp3out.rdc-nyc.rr.com (8.12.1/Road Runner SMTP Server 1.0) with ESMTP
     id g7D50Vkl001231; Tue, 13 Aug 2002 01:00:32 -0400 (EDT)
-From: "Damien Morton" <damien.morton@acm.org>
+From: Damien Morton <damien.morton@acm.org>
 To: <gojomo@usa.net>
 Cc: <fork@spamassassin.taint.org>
 Subject: NYTimes.com Article: Bigger Bar Code Inches Up on Retailers
 Message-Id: <000101c24285$d1c8da40$6a906c42@damien>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal

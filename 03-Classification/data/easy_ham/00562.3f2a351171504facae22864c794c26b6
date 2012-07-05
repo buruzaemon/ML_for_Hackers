@@ -20,12 +20,12 @@ Received: (qmail 21570 invoked from network); 11 Sep 2002 18:25:50 -0000
 Received: from dsl.206.191.151.102.evergo.net (HELO JMHALL)
     (206.191.151.102) by mail.evergo.net with SMTP; 11 Sep 2002 18:25:50 -0000
 Reply-To: <johnhall@evergo.net>
-From: "John Hall" <johnhall@evergo.net>
-To: "FoRK" <fork@spamassassin.taint.org>
+From: John Hall <johnhall@evergo.net>
+To: FoRK <fork@spamassassin.taint.org>
 Subject: RE: Hanson's Sept 11 message in the National Review
 Message-Id: <000001c259c0$a8559890$0200a8c0@JMHALL>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal
@@ -53,7 +53,7 @@ Hanson is always good.
 One of my sci-fi authors is planning on slipping the following line into
 one of their stories:
 
-"The worst strategic mistake since the 911 attacks".
+The worst strategic mistake since the 911 attacks.
 
 
 

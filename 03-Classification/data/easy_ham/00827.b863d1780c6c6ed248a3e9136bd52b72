@@ -19,12 +19,12 @@ Received: from Boron.MeepZor.Com (i.meepzor.com [204.146.167.214]) by
 Received: from sashimi (dmz-firewall [206.199.198.4]) by Boron.MeepZor.Com
     (8.11.6/8.11.6) with SMTP id g8ULjL205222 for <fork@xent.com>;
     Mon, 30 Sep 2002 17:45:21 -0400
-From: "Bill Stoddard" <bill@wstoddard.com>
-To: "Fork@Xent.Com" <fork@spamassassin.taint.org>
+From: Bill Stoddard <bill@wstoddard.com>
+To: Fork@Xent.Com <fork@spamassassin.taint.org>
 Subject: RE: Re[4]: A moment of silence for the First Amendment (fwd)
 Message-Id: <JHEPKCEMGPKFFDHHDDKDAEKEFIAA.bill@wstoddard.com>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="US-ASCII"
+Content-Type: text/plain; charset=US-ASCII
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal

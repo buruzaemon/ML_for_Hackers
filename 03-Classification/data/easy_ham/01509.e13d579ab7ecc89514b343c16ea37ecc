@@ -25,8 +25,8 @@ Message-Id: <20020922163819.GB25030@kluge.net>
 References: <20020922133353.193AC16F03@spamassassin.taint.org>
 MIME-Version: 1.0
 Content-Type: multipart/signed; micalg=pgp-sha1;
-    protocol="application/pgp-signature";
-    boundary="qcHopEYAB45HaUaB"
+    protocol=application/pgp-signature;
+    boundary=qcHopEYAB45HaUaB
 Content-Disposition: inline
 In-Reply-To: <20020922133353.193AC16F03@spamassassin.taint.org>
 User-Agent: Mutt/1.4i

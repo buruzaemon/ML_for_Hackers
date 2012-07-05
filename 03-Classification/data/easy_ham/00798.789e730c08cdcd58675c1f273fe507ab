@@ -59,7 +59,7 @@ industry:
  o Pull down tags are never put in order of use instead of alphabetized.
    I was on a site just now that had every single country in the world
    listed; the selection of your country was absolutely critical for you
-   to hit submit, but due to the layout, the "more>" tag on the second
+   to hit submit, but due to the layout, the more> tag on the second
    row was offscreen so it was impossible to select any country except
    about two dozen third world countries. 
  o Even worse, ever time you hit submit, all forms based things complain
@@ -78,8 +78,8 @@ industry:
 
 What's wrong with this picture?  The company is screwing you by wasting
 your time enforcing their data collection standards on you.  I'm sure there's
-someone in that company that would be willing to accept "US", "U.S", "USA"
-"United States", "U of A", "America", etc. and would know exactly which
+someone in that company that would be willing to accept US, U.S, USA
+United States, U of A, America, etc. and would know exactly which
 freaking country the interested party was from instead of forcing them
 to waste even more time playing Web form geography.  
 

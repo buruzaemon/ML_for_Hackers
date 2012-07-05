@@ -23,10 +23,10 @@ Received: from ogma.tuatha.org (postfix@ogma.tuatha.org [62.17.27.129]) by
 Received: from ogma (localhost [127.0.0.1]) by ogma.tuatha.org (Postfix)
     with ESMTP id 6A5BC4BE05 for <ilug@linux.ie>; Fri,  2 Aug 2002 13:41:30
     +0100 (IST)
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 From: Colm Buckley <colm@newworldiq.com>
 Organization: NewWorldIQ
-To: "Irish Linux Users' Group" <ilug@linux.ie>
+To: Irish Linux Users' Group <ilug@linux.ie>
 Date: Fri, 2 Aug 2002 13:41:30 +0100
 User-Agent: KMail/1.4.2
 MIME-Version: 1.0

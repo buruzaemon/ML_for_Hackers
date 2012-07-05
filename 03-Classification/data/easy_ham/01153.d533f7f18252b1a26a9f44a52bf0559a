@@ -37,7 +37,7 @@ In-Reply-To: <1033566989.394.TMDA@deepeddy.vircio.com>
 References: <30957.1033532534@dimebox.bmc.com>
     <1033566989.394.TMDA@deepeddy.vircio.com>
 Comments: In-reply-to Chris Garrigues <cwg-dated-1033998989.c4b917@DeepEddy.Com>
-    message dated "Wed, 02 Oct 2002 08:56:27 -0500."
+    message dated Wed, 02 Oct 2002 08:56:27 -0500.
 To: exmh-workers@spamassassin.taint.org
 Subject: Re: Bindings problem with current CVS code
 MIME-Version: 1.0
@@ -63,7 +63,7 @@ Date: Wed, 02 Oct 2002 09:50:51 -0500
 
 
 
->>>>> On Wed, 2 Oct 2002, "Chris" == Chris Garrigues wrote:
+>>>>> On Wed, 2 Oct 2002, Chris == Chris Garrigues wrote:
 
   Chris> Flist_FindUnseen has changed to Flist_FindSeqs.
 

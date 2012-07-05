@@ -22,13 +22,13 @@ Received: (qmail 9445 invoked from network); 5 Aug 2002 09:16:12 -0000
 Received: from unknown (HELO belvoir) (208.7.1.202) by 208.7.1.205 with
     SMTP; 5 Aug 2002 09:16:12 -0000
 Message-Id: <001701c23c8a$edd2be00$7c640f0a@mfc.corp.mckee.com>
-From: "Fox" <lds0062@cdc.net>
+From: Fox <lds0062@cdc.net>
 To: <razor-users@example.sourceforge.net>
 References: <000a01c23c86$e252b2f0$6600a8c0@dhiggins>
 Subject: Re: [Razor-users] Reliability of the razor servers?
 MIME-Version: 1.0
 Content-Type: multipart/alternative;
-    boundary="----=_NextPart_000_0014_01C23C69.66A70650"
+    boundary=----=_NextPart_000_0014_01C23C69.66A70650
 X-Priority: 3
 X-Msmail-Priority: Normal
 X-Mailer: Microsoft Outlook Express 6.00.2600.0000
@@ -53,7 +53,7 @@ This is a multi-part message in MIME format.
 
 ------=_NextPart_000_0014_01C23C69.66A70650
 Content-Type: text/plain;
-	charset="iso-8859-1"
+	charset=iso-8859-1
 Content-Transfer-Encoding: quoted-printable
 
 I use a perl script that disables Razor for thirty minutes any time it =
@@ -87,14 +87,14 @@ entire mail server
 
 ------=_NextPart_000_0014_01C23C69.66A70650
 Content-Type: text/html;
-	charset="iso-8859-1"
+	charset=iso-8859-1
 Content-Transfer-Encoding: quoted-printable
 
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!DOCTYPE HTML PUBLIC -//W3C//DTD HTML 4.0 Transitional//EN>
 <HTML><HEAD>
-<META http-equiv=3DContent-Type content=3D"text/html; =
-charset=3Diso-8859-1">
-<META content=3D"MSHTML 6.00.2600.0" name=3DGENERATOR>
+<META http-equiv=3DContent-Type content=3Dtext/html; =
+charset=3Diso-8859-1>
+<META content=3DMSHTML 6.00.2600.0 name=3DGENERATOR>
 <STYLE></STYLE>
 </HEAD>
 <BODY bgColor=3D#ffffff>
@@ -105,25 +105,25 @@ workaround.</FONT></DIV>
 <DIV><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
 <DIV><FONT face=3DArial size=3D2>Fox</FONT></DIV>
 <BLOCKQUOTE dir=3Dltr=20
-style=3D"PADDING-RIGHT: 0px; PADDING-LEFT: 5px; MARGIN-LEFT: 5px; =
-BORDER-LEFT: #000000 2px solid; MARGIN-RIGHT: 0px">
-  <DIV style=3D"FONT: 10pt arial">----- Original Message ----- </DIV>
+style=3DPADDING-RIGHT: 0px; PADDING-LEFT: 5px; MARGIN-LEFT: 5px; =
+BORDER-LEFT: #000000 2px solid; MARGIN-RIGHT: 0px>
+  <DIV style=3DFONT: 10pt arial>----- Original Message ----- </DIV>
   <DIV=20
-  style=3D"BACKGROUND: #e4e4e4; FONT: 10pt arial; font-color: =
-black"><B>From:</B>=20
-  <A title=3Ddhiggins@netc.net href=3D"mailto:dhiggins@netc.net">Daniel =
+  style=3DBACKGROUND: #e4e4e4; FONT: 10pt arial; font-color: =
+black><B>From:</B>=20
+  <A title=3Ddhiggins@netc.net href=3Dmailto:dhiggins@netc.net>Daniel =
 Higgins</A>=20
   </DIV>
-  <DIV style=3D"FONT: 10pt arial"><B>To:</B> <A=20
+  <DIV style=3DFONT: 10pt arial><B>To:</B> <A=20
   title=3Drazor-users@lists.sourceforge.net=20
   =
-href=3D"mailto:razor-users@lists.sourceforge.net">razor-users@lists.sourc=
+href=3Dmailto:razor-users@lists.sourceforge.net>razor-users@lists.sourc=
 eforge.net</A>=20
   </DIV>
-  <DIV style=3D"FONT: 10pt arial"><B>Sent:</B> Monday, August 05, 2002 =
+  <DIV style=3DFONT: 10pt arial><B>Sent:</B> Monday, August 05, 2002 =
 9:49=20
   AM</DIV>
-  <DIV style=3D"FONT: 10pt arial"><B>Subject:</B> [Razor-users] =
+  <DIV style=3DFONT: 10pt arial><B>Subject:</B> [Razor-users] =
 Reliability of the=20
   razor servers?</DIV>
   <DIV><BR></DIV>

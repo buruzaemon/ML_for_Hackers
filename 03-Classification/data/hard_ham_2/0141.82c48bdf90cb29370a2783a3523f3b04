@@ -26,7 +26,7 @@ SPAM: -------------------- Start SpamAssassin results ----------------------
   SPAM: See http://spamassassin.org/tag/ for more details.
   SPAM: 
   SPAM: Content analysis details:   (5.3 hits, 5 required)
-  SPAM: Hit! (3.5 points)  URI: URL of page called "unsubscribe"
+  SPAM: Hit! (3.5 points)  URI: URL of page called unsubscribe
   SPAM: Hit! (0.0 points)  Reply-To: massively different from From: or To:
   SPAM: Hit! (1.8 points)  No MX records for the From: domain
   SPAM: 
@@ -72,11 +72,11 @@ e-business
   o  Wimbledon gewinnt: Mit Hilfe von IBM auch online ein packendes Ereignis 
      http://isource.ibm.com/cgi-bin/goto?on=de020756
 
-  o  Neues Buch "Deutschland Online" weist Weg in die
+  o  Neues Buch Deutschland Online weist Weg in die
       Informationsgesellschaft 
      http://isource.ibm.com/cgi-bin/goto?on=de020757
 
-  o  Weitere Artikel aus dem Bereich "e-business" 
+  o  Weitere Artikel aus dem Bereich e-business 
      http://isource.ibm.com/cgi-bin/goto?on=020758
 
 Business Lösungen und Services
@@ -84,7 +84,7 @@ Business Lösungen und Services
   o  Mehr Training für alle: IBM Learning Services Corporate Card 
      http://isource.ibm.com/cgi-bin/goto?on=020721
 
-  o  Weitere Artikel aus dem Bereich "Business Lösungen und Services"  
+  o  Weitere Artikel aus dem Bereich Business Lösungen und Services  
      http://isource.ibm.com/cgi-bin/goto?on=020759
 
 IT Solutions und Services
@@ -96,7 +96,7 @@ IT Solutions und Services
   o  Sprechen Sie mit uns: Sicherheit ist Trumpf 
      http://isource.ibm.com/cgi-bin/goto?on=020712
 
-  o  Weitere Artikel aus dem Bereich "IT Solutions und Services" 
+  o  Weitere Artikel aus dem Bereich IT Solutions und Services 
      http://isource.ibm.com/cgi-bin/goto?on=020760
 
 Software
@@ -107,7 +107,7 @@ Software
   o  WebSphere Integration 
      http://isource.ibm.com/cgi-bin/goto?on=020724
 
-  o  Weitere Artikel aus dem Bereich "Software"  
+  o  Weitere Artikel aus dem Bereich Software  
      http://isource.ibm.com/cgi-bin/goto?on=020761
 
 Hardware
@@ -118,7 +118,7 @@ Hardware
   o  IBM eServer* pSeries 630 6E4/6C4 - Ankündigung des neuen Entry Servers 
      http://isource.ibm.com/cgi-bin/goto?on=020713
 
-  o  Weitere Artikel aus dem Bereich "Hardware" 
+  o  Weitere Artikel aus dem Bereich Hardware 
      http://isource.ibm.com/cgi-bin/goto?on=020762
 
 
@@ -139,22 +139,22 @@ Wimbledon gewinnt: Mit Hilfe von IBM auch online ein packendes Ereignis
   
 
 
-Neues Buch "Deutschland Online" weist Weg in die
+Neues Buch Deutschland Online weist Weg in die
       Informationsgesellschaft 
 
-  "Die schnelle Transformation in die Informationsgesellschaft ist 
+  Die schnelle Transformation in die Informationsgesellschaft ist 
   Deutschlands letzte Chance, um im Kreis der großen 
   Wirtschaftsmächte zu verbleiben. Deutschland muss IT-Weltmacht 
-  werden - und das pronto!" Das verlangte der Vorsitzende der 
+  werden - und das pronto! Das verlangte der Vorsitzende der 
   Geschäftsführung der IBM Deutschland, Erwin Staudt, anlässlich 
-  der Vorstellung des Buches "Deutschland online" - Strategien und 
+  der Vorstellung des Buches Deutschland online - Strategien und 
   Projekte für die Informationsgesellschaft - in Berlin.
    http://isource.ibm.com/cgi-bin/goto?on=de020757
 
 
-Weitere Artikel aus dem Bereich "e-business" 
+Weitere Artikel aus dem Bereich e-business 
 
-  Weitere Artikel aus dem Bereich "e-business" finden Sie online
+  Weitere Artikel aus dem Bereich e-business finden Sie online
   auf unserer IBM eNews Website:
   http://isource.ibm.com/cgi-bin/goto?on=020758
      
@@ -178,9 +178,9 @@ Mehr Training für alle: IBM Learning Services Corporate Card
   http://isource.ibm.com/cgi-bin/goto?on=020721
 
 
-Weitere Artikel aus dem Bereich "Business Lösungen und Services"  
+Weitere Artikel aus dem Bereich Business Lösungen und Services  
 
-  Weitere Artikel aus dem Bereich "Business Lösungen und Services" 
+  Weitere Artikel aus dem Bereich Business Lösungen und Services 
   finden Sie online auf unserer IBM eNews Website:
   http://isource.ibm.com/cgi-bin/goto?on=020759
      
@@ -200,7 +200,7 @@ e-guide aktuell: Produkte und Lösungen für den Mittelstand -
   Mit dieser Ausgabe übernehmen wir Teile des Heftes auch im Web. 
   Lesen Sie hier mehr über den neuen Produkt- und Lösungsteil 
   oder bestellen Sie sich Ihr Exemplar des IBM Kundenmagazins 
-  "e-guide" 2/2002.
+  e-guide 2/2002.
   http://isource.ibm.com/cgi-bin/goto?on=020710
 
 
@@ -215,9 +215,9 @@ Sprechen Sie mit uns: Sicherheit ist Trumpf
   http://isource.ibm.com/cgi-bin/goto?on=020712
 
 
-Weitere Artikel aus dem Bereich "IT Solutions und Services" 
+Weitere Artikel aus dem Bereich IT Solutions und Services 
 
-  Weitere Artikel aus dem Bereich "IT Solutions und Services" 
+  Weitere Artikel aus dem Bereich IT Solutions und Services 
   finden Sie online auf unserer IBM eNews Website:
   http://isource.ibm.com/cgi-bin/goto?on=020760
   
@@ -255,9 +255,9 @@ WebSphere Integration
   http://isource.ibm.com/cgi-bin/goto?on=020724
 
 
-Weitere Artikel aus dem Bereich "Software"  
+Weitere Artikel aus dem Bereich Software  
 
-  Weitere Artikel aus dem Bereich "Software" finden Sie online
+  Weitere Artikel aus dem Bereich Software finden Sie online
   auf unserer IBM eNews Website:
   http://isource.ibm.com/cgi-bin/goto?on=020761
   
@@ -294,9 +294,9 @@ IBM eServer* pSeries 630 6E4/6C4 - Ankündigung des neuen Entry Servers
   http://isource.ibm.com/cgi-bin/goto?on=020713
 
 
-Weitere Artikel aus dem Bereich "Hardware" 
+Weitere Artikel aus dem Bereich Hardware 
 
-  Weitere Artikel aus dem Bereich "Hardware" finden Sie online
+  Weitere Artikel aus dem Bereich Hardware finden Sie online
   auf unserer IBM eNews Website:
   http://isource.ibm.com/cgi-bin/goto?on=020762
     
@@ -314,7 +314,7 @@ Sie erhalten diese E-Mail, da Sie zu IBM eNews
 
 *Das IBM eServer Warenzeichen besteht aus dem eingeführten 
 IBM e-business Logo, gefolgt von dem beschreibenden Begriff 
-"Server".
+Server.
   
 Nach unseren Kundendaten sind Sie an Informationsmaterial von 
 IBM interessiert. An- und Abmelden sowie Ihre Einstellungen 

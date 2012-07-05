@@ -18,14 +18,14 @@ that my user name on that server is mail.comcast.net:timmy.  In that way the
 proxy picks up both the real server and user names from what the mail reader
 tells it the user name is.
 
-This is an N-way classifier (like ifile that way), and "all it does" is
+This is an N-way classifier (like ifile that way), and all it does is
 insert a
 
     X-Text-Classification:  one_of_the_class_names_you_picked
 
 header into your email before passing it on to your mail reader.  The user
-then presumably fiddles their mail reader to look for such headers and "do
-something about it" (and even Outlook can handle *that* much <wink>).
+then presumably fiddles their mail reader to look for such headers and do
+something about it (and even Outlook can handle *that* much <wink>).
 
 The user is responsible for generating text files with appropriate examples
 of each class of message, and for running the cmdline tools to train the

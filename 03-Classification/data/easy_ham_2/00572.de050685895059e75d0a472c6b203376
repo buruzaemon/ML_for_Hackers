@@ -53,7 +53,7 @@ It also seems that an email consisting of 5 blank lines is also
 treated as spam:
 
 efes:~% rm -f qq
-efes:~% perl -e 'for($i = 0; $i < 5; $i++) { print "\n"; }' >> qq
+efes:~% perl -e 'for($i = 0; $i < 5; $i++) { print \n; }' >> qq
 efes:~% razor-check -d qq > /tmp/bar
 efes:~% grep 'known spam' /tmp/bar
 Aug 05 16:07:20.141526 check[31105]: [ 3] mail 1 is known spam.

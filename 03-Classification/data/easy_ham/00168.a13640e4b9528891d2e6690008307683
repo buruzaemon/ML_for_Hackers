@@ -21,7 +21,7 @@ Received: from barney (fw.jinny.ie [193.120.171.2]) by homer.jinny.ie
     8 Oct 2002 14:27:39 +0100 (IST)
 Received: from john by barney with local (Exim 3.35 #1 (Debian)) id
     17yuOi-0006Yc-00 for <ilug@linux.ie>; Tue, 08 Oct 2002 14:27:40 +0100
-From: "John P. Looney" <valen@tuatha.org>
+From: John P. Looney <valen@tuatha.org>
 To: Irish LUG list <ilug@linux.ie>
 Message-Id: <20021008132740.GG23820@jinny.ie>
 Reply-To: ilug@linux.ie

@@ -25,8 +25,8 @@ Received: from 15.145.8.186 by fowey.BR.ITC.HP.COM (InterScan E-Mail
 Received: by fowey.br.itc.hp.com with Internet Mail Service (5.5.2655.55)
     id <R88J6DYT>; Mon, 2 Sep 2002 15:47:00 +0100
 Message-Id: <253B1BDA4E68D411AC3700D0B77FC5F807C0F446@patsydan.dublin.hp.com>
-From: "HAMILTON,DAVID (HP-Ireland,ex2)" <david_hamilton3@hp.com>
-To: "'ilug@linux.ie'" <ilug@linux.ie>
+From: HAMILTON,DAVID (HP-Ireland,ex2) <david_hamilton3@hp.com>
+To: 'ilug@linux.ie' <ilug@linux.ie>
 Subject: RE: [ILUG] Redhat 8.0
 Date: Mon, 2 Sep 2002 15:46:58 +0100
 MIME-Version: 1.0
@@ -64,7 +64,7 @@ large projects.
 
  I'd not be putting it on any production machines for a while...
 
- Though many say "RedHat X.0 releases are rubbish" - it's worth baring in
+ Though many say RedHat X.0 releases are rubbish - it's worth baring in
 mind that they jump a release when the underlying archtechture changes, not
 just the installer, so they are .0 for a reason.
 

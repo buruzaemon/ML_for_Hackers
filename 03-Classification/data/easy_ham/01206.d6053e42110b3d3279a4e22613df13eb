@@ -54,7 +54,7 @@ Once upon a time, Ralf wrote :
 
 > Matthias Saou <matthias@egwn.net> wrote:
 > > My main concern is that when rebuilding the recent packages I've made
-> > for Psyche on Valhalla, I'd need to lower the "Release:" tag (to keep
+> > for Psyche on Valhalla, I'd need to lower the Release: tag (to keep
 > > an upgrade working), and that would f*ck up my CVS repository which is
 > > on my Valhalla box
 > 
@@ -64,7 +64,7 @@ Say you have installed synaptic-0.24-fr1 on your Valhalla box (package
 rebuilt for Valhalla). Then you upgrade to Psyche using the Red Hat CDs.
 Hopefully with the compat libraries the package will still be there
 (although I doubt that since C++ is binary incompatible, so this is
-probably a bad example), then you "apt-get update" with the new Psyche
+probably a bad example), then you apt-get update with the new Psyche
 repository... and there's where the problem will be : It will say that
 there are two synaptic-0.24-fr1 packages (one installed, the other
 available) with the same version but different dependencies :-/

@@ -46,9 +46,9 @@ X-Url: http://www.DeepEddy.Com/~cwg
 X-Image-Url: http://www.DeepEddy.Com/~cwg/chris.gif
 MIME-Version: 1.0
 Content-Type: multipart/signed;
-    boundary="==_Exmh_1920300774P";
+    boundary===_Exmh_1920300774P;
     micalg=pgp-sha1;
-    protocol="application/pgp-signature"
+    protocol=application/pgp-signature
 Content-Transfer-Encoding: 7bit
 From: Chris Garrigues <cwg-exmh@DeepEddy.Com>
 Message-Id: <1032548220.28201.TMDA@deepeddy.vircio.com>

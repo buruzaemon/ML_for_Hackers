@@ -22,11 +22,11 @@ Received: from A700 (A700 [192.123.60.2]) by NS.ramblernet.com
     (8.11.6/8.11.6) with SMTP id g7T0kvr27715 for
     <spamassassin-talk@lists.sourceforge.net>; Wed, 28 Aug 2002 20:46:57 -0400
 Reply-To: <ken@ramblernet.com>
-From: "Ken" <ken@ramblernet.com>
+From: Ken <ken@ramblernet.com>
 To: <spamassassin-talk@example.sourceforge.net>
 Message-Id: <01da01c24ef6$585238a0$023c7bc0@A700>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="US-ASCII"
+Content-Type: text/plain; charset=US-ASCII
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal
@@ -54,7 +54,7 @@ Date: Wed, 28 Aug 2002 20:52:25 -0400
 Now that I have spam assassin and mailscanner working, how can I have smap
 deleted rather than forwarded?
 
-I changed spam.actions.conf to "default	delete" but it is still sending it
+I changed spam.actions.conf to default	delete but it is still sending it
 to the recipient.
 
 Thanks,

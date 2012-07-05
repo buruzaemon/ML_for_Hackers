@@ -58,7 +58,7 @@ Once upon a time, Chris wrote :
 > > 1) I've had to install a Red Hat Linux 6.2 server because of an old
 > > proprietary IVR software that doesn't work on newer releases :-( So
 > > I've recompiled both the latest apt and openssh packages for it, and
-> > they are now available with a complete "os, updates & freshrpms" apt
+> > they are now available with a complete os, updates & freshrpms apt
 > > repository at apt.freshrpms.net, for those who might be interested.
 > 
 > Gack. Did you try 7.3 with the compat-glibc first? Or does it require an

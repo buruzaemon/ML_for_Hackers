@@ -19,12 +19,12 @@ Received: from homer.perfectpresence.com (unknown [209.123.207.194]) by
 Received: from adsl-157-233-109.jax.bellsouth.net ([66.157.233.109]
     helo=regina) by homer.perfectpresence.com with smtp (Exim 3.36 #1) id
     17r32k-00063A-00; Mon, 16 Sep 2002 17:04:31 -0400
-From: "Geege Schuman" <geege@barrera.org>
-To: "Jim Whitehead" <ejw@cse.ucsc.edu>, "FoRK" <fork@spamassassin.taint.org>
+From: Geege Schuman <geege@barrera.org>
+To: Jim Whitehead <ejw@cse.ucsc.edu>, FoRK <fork@spamassassin.taint.org>
 Subject: RE: introductions
 Message-Id: <ILEHJNJFPDLMDEKNIAKCAEGLCAAA.geege@barrera.org>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal

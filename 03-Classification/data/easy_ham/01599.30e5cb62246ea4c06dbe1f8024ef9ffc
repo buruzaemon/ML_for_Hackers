@@ -28,7 +28,7 @@ MIME-Version: 1.0
 Content-Type: text/plain; charset=us-ascii
 Content-Disposition: inline
 User-Agent: Mutt/1.2.5i
-Subject: [Razor-users] "No razor servers available at this time"
+Subject: [Razor-users] No razor servers available at this time
 Sender: razor-users-admin@example.sourceforge.net
 Errors-To: razor-users-admin@example.sourceforge.net
 X-Beenthere: razor-users@example.sourceforge.net
@@ -45,7 +45,7 @@ List-Archive: <http://sourceforge.net/mailarchives/forum.php?forum=razor-users>
 X-Original-Date: Wed, 25 Sep 2002 12:57:13 -0400
 Date: Wed, 25 Sep 2002 12:57:13 -0400
 
-I'm getting "no servers available" about half the time in the last few days.
+I'm getting no servers available about half the time in the last few days.
 This is with Razor 2. Is there something I need adjust in the installation
 here, or are the servers just down/overloaded?
 

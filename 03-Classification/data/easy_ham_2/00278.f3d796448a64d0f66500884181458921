@@ -64,7 +64,7 @@ The socket (which references the others at the bottom) is here:
 http://www-106.ibm.com/developerworks/linux/library/l-rt6/?t=gr,Redhat=Sockets
 
 The following in google gave useful info also:
-"linux IPC mechanisms compared"
+linux IPC mechanisms compared
 
 Pádraig.
 

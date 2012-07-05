@@ -7,7 +7,7 @@ Message-ID: <15737.31513.555967.915801@12-248-11-90.client.attbi.com>
 
 
 I actually like Neale's X-Spam-Disposition header, I just wonder if maybe we
-should choose something with a different prefix than "X-Spam-" so that
+should choose something with a different prefix than X-Spam- so that
 people don't confuse it with SpamAssassin, all of whose headers begin with
 that prefix.
 

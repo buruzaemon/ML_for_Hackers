@@ -18,7 +18,7 @@ The effect of set sizes on accuracy rates isn't known.  I've informally
 reported some results from just a few controlled experiments on that.
 Jeremy reported improved accuracy by doubling the training set size, but
 that wasn't a controlled experiment (things besides just training set size
-changed between "before" and "after").
+changed between before and after).
 
 > Ham distribution for all runs:
 > * = 589 items
@@ -68,7 +68,7 @@ there.
 > f-ps.
 
 With probabilities favoring ham or spam?  A skip token is produced in lieu
-of "word" more than 12 chars long and without any high-bit characters.  It's
+of word more than 12 chars long and without any high-bit characters.  It's
 possible that they helped me because raw HTML produces lots of these.
 However, if you're running current CVS, Tokenizer/retain_pure_html_tags
 defaults to False now, so HTML decorations should vanish before body

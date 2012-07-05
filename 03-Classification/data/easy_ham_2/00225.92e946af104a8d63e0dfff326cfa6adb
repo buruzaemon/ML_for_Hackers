@@ -23,13 +23,13 @@ Received: from www.emuse.ie (hassle.emuse.ie) [193.120.145.154] by
 Received: by HASSLE with Internet Mail Service (5.5.2653.19) id <DL00S7BS>;
     Fri, 2 Aug 2002 10:07:22 +0100
 Message-Id: <5FE418B3F962D411BED40000E818B33C9C8E7F@HASSLE>
-From: "Hunt, Bryan" <B.Hunt@emuse-tech.com>
-To: "'ilug@linux.ie'" <ilug@linux.ie>
+From: Hunt, Bryan <B.Hunt@emuse-tech.com>
+To: 'ilug@linux.ie' <ilug@linux.ie>
 Subject: RE: [ILUG] Dell GX260 V Redhat 7.3
 Date: Fri, 2 Aug 2002 10:07:17 +0100
 MIME-Version: 1.0
 X-Mailer: Internet Mail Service (5.5.2653.19)
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Sender: ilug-admin@linux.ie
 Errors-To: ilug-admin@linux.ie
 X-Mailman-Version: 1.1
@@ -58,14 +58,14 @@ And this isn't taking a swing at you John but ...
 >>the box.
 
 A lot of the time the reason that you encounter this is cause someone has 
-such a box and they say to you "hey can you install that linux code that I
+such a box and they say to you hey can you install that linux code that I
 got
-from the guy in the internet cafe" :-) and you say sure and you go to their
+from the guy in the internet cafe :-) and you say sure and you go to their
 house 
 (without a net connection/56k modem). And the machine has got this crap
 windoze
 only hardware and eventually you shrug in frustration and they say 
-"well I didn't expect much from something thats free anyhow"
+well I didn't expect much from something thats free anyhow
 
 When Dell were squabbling with Windows and it looked as though there might
 be 

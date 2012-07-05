@@ -21,7 +21,7 @@ Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
 Received: from 216.30.74.2 by lw15fd.law15.hotmail.msn.com with HTTP;
     Fri, 09 Aug 2002 14:08:22 GMT
 X-Originating-Ip: [216.30.74.2]
-From: "Russell Turpin" <deafbox@hotmail.com>
+From: Russell Turpin <deafbox@hotmail.com>
 To: fork@spamassassin.taint.org
 Subject: Re: David Friedman: Mail Me the Money!
 MIME-Version: 1.0
@@ -73,24 +73,24 @@ action, to institute an effective epostage
 standard!
 
 I think the better idea is to require that people
-off your white list "hand sign" email to you. A
+off your white list hand sign email to you. A
 couple of companies are now trying to implement
 this. An email sender, if not on your white list,
 must respond to a verification email or go to a
 website, by a process that is very simply for a
 human sender, but difficult for a spammer to
 automate. Where epostage requires a standard
-mechanism, a variety of mechanisms for "hand
-signing" would frustrate spammers while making it
+mechanism, a variety of mechanisms for hand
+signing would frustrate spammers while making it
 no more difficult for legitimate senders. I'm
 hoping Eudora and some of the other big mail
 clients incorporate this kind of feature. The
 advantage to putting this in the mail client is
-that the required "hand sign" can be personalized:
+that the required hand sign can be personalized:
 
-  "Your attempt to email David Friedman is
+  Your attempt to email David Friedman is
   blocked until you fill in the blank: The
-  Incredible ______ Machine."
+  Incredible ______ Machine.
 
 It will be a long time before spammers have a
 process that defeats millions of personal

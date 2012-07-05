@@ -50,10 +50,10 @@ Red Hat 8.0 is released tomorrow (monday).  I took some time out to make
 RPMs of GStreamer for it.
 
 All of them (core, plugins and player) have been uploaded to the apt 
-repository in a new "redhat-80-i386" directory.
+repository in a new redhat-80-i386 directory.
 
-The repository for dependencies is again called "deps", and the one for 
-the gstreamer rpms is "redhat", because this time around the base distro 
+The repository for dependencies is again called deps, and the one for 
+the gstreamer rpms is redhat, because this time around the base distro 
 contains all the necessary packages.
 
 A screenshot of Red Hat 8.0 running gst-player is up at
@@ -75,7 +75,7 @@ undefined symbol: _ZTVN10__cxxabiv120__si_class_type_infoE
 
 Plugin /usr/lib/gst/libgstwincodec.so failed to load
 DEBUG(15299: 0)gst_plugin_load_plugin:161: attempt to load plugin 
-"/usr/lib/gst/libgstmodplug.so"
+/usr/lib/gst/libgstmodplug.so
 INFO (15299: 0)gst_xml_registry_rebuild:1555: Plugin 
 /usr/lib/gst/libgstmodplug.so failed to load: Error loading plugin 
 /usr/lib/gst/libgstmodplug.so, reason: /usr/lib/gst/libgstmodplug.so: 

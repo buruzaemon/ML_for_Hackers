@@ -21,15 +21,15 @@ Received: from 12-236-11-40.client.attbi.com ([12.236.11.40]
 Received: (from jpr5@localhost) by cynosure.darkridge.com (8.11.6/8.11.5)
     id g935Kox02976; Wed, 2 Oct 2002 22:20:50 -0700
 From: Jordan Ritter <jpr5@darkridge.com>
-To: "Rose, Bobby" <brose@med.wayne.edu>
+To: Rose, Bobby <brose@med.wayne.edu>
 Cc: razor-users@example.sourceforge.net
 Subject: Re: [Razor-users] Fire.cloudmark.com is having issues
 Message-Id: <20021003052049.GA2299@darkridge.com>
 References: <D79A56AD131896448D0860DEE07CBE1F3BADEB@med-core07.med.wayne.edu>
 MIME-Version: 1.0
 Content-Type: multipart/signed; micalg=pgp-sha1;
-    protocol="application/pgp-signature";
-    boundary="CE+1k2dSO48ffgeK"
+    protocol=application/pgp-signature;
+    boundary=CE+1k2dSO48ffgeK
 Content-Disposition: inline
 In-Reply-To: <D79A56AD131896448D0860DEE07CBE1F3BADEB@med-core07.med.wayne.edu>
 User-Agent: Mutt/1.4i

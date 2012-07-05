@@ -34,8 +34,8 @@ Received: from dimebox (localhost [127.0.0.1]) by dimebox.bmc.com
 X-Mailer: exmh version 2.5 07/13/2001 with nmh-1.0.4
 In-Reply-To: <200209132329.g8DNTx409571@head-cfa.harvard.edu>
 References: <200209132329.g8DNTx409571@head-cfa.harvard.edu>
-Comments: In-reply-to "Wendy P. Roberts" <wendy@head-cfa.harvard.edu>
-    message dated "Fri, 13 Sep 2002 19:29:59 -0400."
+Comments: In-reply-to Wendy P. Roberts <wendy@head-cfa.harvard.edu>
+    message dated Fri, 13 Sep 2002 19:29:59 -0400.
 To: exmh-users@spamassassin.taint.org
 Subject: Re: Automated forwarding
 MIME-Version: 1.0
@@ -61,7 +61,7 @@ List-Archive: <https://listman.spamassassin.taint.org/mailman/private/exmh-users
 Date: Sat, 14 Sep 2002 08:22:58 -0500
 
 
->>>>> On Fri, 13 Sep 2002, "Wendy" == Wendy P. Roberts wrote:
+>>>>> On Fri, 13 Sep 2002, Wendy == Wendy P. Roberts wrote:
 
   Wendy> I've been trying to set a button called which
   Wendy> automatically forwards mail using a '-form mycomps'
@@ -73,9 +73,9 @@ home mail.  The binding looks like this:
 
 set {bindings(key,HD_Dist_Silently -form distcomps.to-me)} <Meta-dollar>
 
-The "HD_Dist_Silently" is a hacked up version of the proc that 
+The HD_Dist_Silently is a hacked up version of the proc that 
 does dist in exmh and is pasted in below.  It's getting old and 
-probably should be "resynced" with the current code.  But it 
+probably should be resynced with the current code.  But it 
 still works (on a relatively recent CVS copy of exmh)
 
 It's also possible that there's an easier way but I hacked this 
@@ -96,16 +96,16 @@ proc HD_Dist_Silently { args } {
 	if {[string compare [info command $args] $args] == 0} {
 	    # Old interface with hook procedure
 	    if [catch {$args $exmh(folder) $m} err] {   ;# Setup draft msg
-		Exmh_Status "${args}: $err" purple
+		Exmh_Status ${args}: $err purple
 		return
 	    }
 	}  else {
 	    if [catch {
-		Exmh_Status "dist +$exmh(folder) $m"
+		Exmh_Status dist +$exmh(folder) $m
 		eval {MhExec dist +$exmh(folder) $m} -nowhatnowproc $args
 		MhAnnoSetup $exmh(folder) $m dist
 	    } err] {
-		Exmh_Status "dist: $err" purple
+		Exmh_Status dist: $err purple
 		return
 	    }
 	}

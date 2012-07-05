@@ -103,7 +103,7 @@ GPL type licence *_on condition_* that the
 specific conditions of the granting of such
 rights are clear - if they are not, there is
 nothing to stop the original author taking
-back "his work". The lawyers see this
+back his work. The lawyers see this
 (correctly IMHO) as a weakness in the GPL).
 
 }
@@ -130,7 +130,7 @@ a sale, but rather a service/leasing arrangement
 and that's why it doesn't come under this point.
 
 I would suggest that the whole thrust of this
-article has been to see software "sales" (even
+article has been to see software sales (even
 if no money changes hands) as governed very
 much by consumer law (in France anyway).
 
@@ -173,10 +173,10 @@ Specialised lawyers look at the GPL.
 Lawyer Cyril Rojinsky (duly appointed to 
 the court) and the jurist Vincent Grynbaum, both 
 specialised in the area of intellectual property 
-examine the "free" licences and in particular the 
+examine the free licences and in particular the 
 GPL. They have published their study
-in the review "Proprietes intellectuelles 
-(Intellectual property)[1]" and their
+in the review Proprietes intellectuelles 
+(Intellectual property)[1] and their
 conclusion is grim.
 
 
@@ -196,7 +196,7 @@ Absence of critical clauses.
 
 
 The authors tell us that first of all, the 
-reference to "copyright" is not legally 
+reference to copyright is not legally 
 sufficient in the framework of international 
 contracts  (which is the case of licence 
 contracts for programmes developed and spread 
@@ -225,17 +225,17 @@ in several respects. Firstly, it is written in
 English and the FSF doesn't officially approve 
 translations. 
 
-The "Toubon law" obliges this sort 
+The Toubon law obliges this sort 
 of contract to be written in French, including for 
-businesses since the notion of "user" applies not 
+businesses since the notion of user applies not 
 only to consumers, but also to businesses, 
 professionals &c. 
 
 
 Contacted by the editors of LinuxFrench, 
 lawyer Cyril Rojinsky declared that, as 
-far as business is concerned, the "Toubon 
-law" is probably doomed to change since 
+far as business is concerned, the Toubon 
+law is probably doomed to change since 
 it is in contradiction of European directives 
 on the subject, but whatever about that, the 
 problem is still valid for individuals, and 
@@ -274,19 +274,19 @@ revert to proprietary from one day to the next.
  
 
 
-The problem of the guarantee "hidden defects".
+The problem of the guarantee hidden defects.
 
 
 An other very serious flaw is that of the 
 guarantee. The GPL licences and others show 
-that the software is delivered "without 
-guarantee". You are going to immediately
+that the software is delivered without 
+guarantee. You are going to immediately
 reply that commercical programmes carry the 
 same clause in their licence contracts,
 and this is correct. However, whatever is 
 written in a licence contract, one cannot
-free oneself from the "guarantee from 
-hidden defects", since it is imposed in the 
+free oneself from the guarantee from 
+hidden defects, since it is imposed in the 
 Civil Code. This concept is poorly understood 
 by the layman, it protects the buyer
 (whoever it may be, individual or business, 
@@ -298,26 +298,26 @@ the seller.
 
 For example, if one buys a pair of socks 
 in a sale, and the shop has a notice 
-specifying that "Sale items are neither 
-refunded nor exchanged", and on arriving 
+specifying that Sale items are neither 
+refunded nor exchanged, and on arriving 
 home you notice that one of the socks has 
 a hole in it, several scenarios are possible.
 
 
 You could have checked the socks before 
-purchase: the flaw is deemed "obvious" and
+purchase: the flaw is deemed obvious and
 you can sing for your money.
 
 
 You couldn't check the socks (they were 
 packaged for example), and in this case, 
-despite the notice "neither refund nor 
-exchange", you may invoke "hidden defect" 
+despite the notice neither refund nor 
+exchange, you may invoke hidden defect 
 and have them changed or obtain a refund, 
 it's up to you. 
 
 Personally, I have already invoked in shops 
-the "hidden defect" clause and it always 
+the hidden defect clause and it always 
 worked well (shopkeepers are always very 
 cooperative if you quote a couple of words 
 of the Civil Code). 
@@ -343,7 +343,7 @@ tickets to go to the shop, the fuse
 which blew when you plugged it in &c.)
 
 
-This idea of "hidden defect" applies to
+This idea of hidden defect applies to
  all products, including programmes. This 
 was made abundantly clear by the 
 authorities (and the courts) surrounding 
@@ -358,14 +358,14 @@ hidden flaws.
 
 LinuxFrench asked Cyril ROJINSKY if 
 in the case of a free programme, 
-one could speak about a "hidden" defect 
+one could speak about a hidden defect 
 since the source code was available, 
-he replied "Actually, concerning the 
+he replied Actually, concerning the 
 guarantee, the question of obvious 
 defect will arise. This analyis will 
 be different depending on whether the 
 person who downloads the distribution 
-is an IT professional or not". 
+is an IT professional or not. 
 
 OpenSource has this advantage over 
 the proprietary programme: it protects 
@@ -396,12 +396,12 @@ intention of permitting interoperability
 with another programme. If for that,
 I need to link with a proprietary library 
 (communication protocol, device driver)
-I may consider as "null and void" this 
+I may consider as null and void this 
 clause of the GPL.
 
 
 The conclusion of this study is a wake 
-up call for the community. "Freedom" 
+up call for the community. Freedom 
 merits more than these shoddy licences, 
 which should be modified before court 
 cases over them proliferate and put at 
@@ -419,8 +419,8 @@ intellectuelle, No4 Juillet 2002
 [2] Une telle clause de contrat 
 qui est opposée à ce que dit la Loi 
 française est qualifiée en terme 
-juridique de « clause réputée 
-non-écrite », c'est-à-dire 
+juridique de  clause réputée 
+non-écrite , c'est-à-dire 
 qu'on fait comme si cette clause 
 n'était pas écrite dans le contrat. 
 
@@ -433,7 +433,7 @@ inquiétude d'avoir quand même
 un enfant, en effet le code civil 
 stipule que le devoir d'un locataire 
 d'un appartement doit se comporter 
-en « bon père de famille » 
+en  bon père de famille  
 
 [3] Article L131-3
 

@@ -20,7 +20,7 @@ Received: from 70.muca.bstn.bstnmaco.dsl.att.net ([12.98.14.70]
     for <razor-users@lists.sourceforge.net>; Tue, 23 Jul 2002 14:59:28 -0700
 Received: from twells by pulse.fsckit.net with local (Exim) id
     17X7gg-0007b4-00; Tue, 23 Jul 2002 17:59:22 -0400
-From: "Tabor J. Wells" <razor-users@fsckit.net>
+From: Tabor J. Wells <razor-users@fsckit.net>
 To: Scott Henderson <boyhowdy@cyberspace.org>
 Cc: Razor-Users <razor-users@example.sourceforge.net>
 Subject: Re: [Razor-users] can't find Razor/Client.pm

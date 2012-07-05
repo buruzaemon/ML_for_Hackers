@@ -19,12 +19,12 @@ Received: from hotmail.com (dav68.law15.hotmail.com [64.4.22.203]) by
 Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
     Tue, 1 Oct 2002 23:02:50 -0700
 X-Originating-Ip: [207.202.171.254]
-From: "Mr. FoRK" <fork_list@hotmail.com>
+From: Mr. FoRK <fork_list@hotmail.com>
 To: <fork@spamassassin.taint.org>
-Cc: "Rohit Khare" <Rohit@KnowNow.com>
+Cc: Rohit Khare <Rohit@KnowNow.com>
 Subject: ActiveBuddy
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal
@@ -98,9 +98,9 @@ Humidity: 62 %
 Visibility: 10 mi
 Wind: N/0 mph
 
-Next time, just type "weather seattle, wa."
+Next time, just type weather seattle, wa.
 
-To get the forecast for Seattle, WA, just type "forecast."
+To get the forecast for Seattle, WA, just type forecast.
 
 
 

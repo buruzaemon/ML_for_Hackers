@@ -24,12 +24,12 @@ Received: from paul@cwie.net by corpmail.cwie.net by uid 510 with
     Processed in 0.422956 secs); 12 Sep 2002 19:07:23 -0000
 Received: from unknown (HELO paul01) (64.38.194.14) by corpmail.cwie.net
     with SMTP; 12 Sep 2002 19:07:22 -0000
-From: "Paul Fries" <paul@cwie.net>
+From: Paul Fries <paul@cwie.net>
 To: <spamassassin-talk@example.sourceforge.net>
 Subject: RE: [SAtalk] 2.41/2.50 spamd/spamc problem
 Message-Id: <031001c25a8f$9faa5a80$d900000a@paul01>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="us-ascii"
+Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal
@@ -89,7 +89,7 @@ source.
 
 Is there any way around this? I would like all HTML/RTF messages to
 retain their formatting even if they are flagged as spam. I would
-accomplish this on 2.31 by using the "-F 0" flag when starting spamd.
+accomplish this on 2.31 by using the -F 0 flag when starting spamd.
 
 Thanks!
 

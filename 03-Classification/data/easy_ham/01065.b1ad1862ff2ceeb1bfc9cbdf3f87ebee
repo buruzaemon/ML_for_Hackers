@@ -28,8 +28,8 @@ Subject: http://apt.nixia.no/
 Message-Id: <20020201150022.B11472@cs.helsinki.fi>
 MIME-Version: 1.0
 Content-Type: multipart/signed; micalg=pgp-md5;
-    protocol="application/pgp-signature";
-    boundary="6sX45UoQRIJXqkqR"
+    protocol=application/pgp-signature;
+    boundary=6sX45UoQRIJXqkqR
 Content-Disposition: inline
 User-Agent: Mutt/1.2.5.1i
 Sender: rpm-zzzlist-admin@freshrpms.net
@@ -59,7 +59,7 @@ Title page has a login screen and I can't seem to get the apt indexes
 anymore. Is it just me or is something going on there?
 
 --=20
-Additive E120 - "not suitable for vegetarians".
+Additive E120 - not suitable for vegetarians.
 http://www.bryngollie.freeserve.co.uk/E120.htm
 
 --6sX45UoQRIJXqkqR

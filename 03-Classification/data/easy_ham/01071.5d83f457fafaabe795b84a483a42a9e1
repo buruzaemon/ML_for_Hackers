@@ -65,7 +65,7 @@ Once upon a time, Brian wrote :
 > How can i get it to recognize that the package is indeed installed it,
 > and/or get it to unstall it?
 
-You're a bit too vague on your "[rpm package]" here...
+You're a bit too vague on your [rpm package] here...
 Maybe this will help you :
 
 [root@python apg]# rpm -e apg

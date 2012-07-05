@@ -23,7 +23,7 @@ Received: from iww.netfr.alcatel.fr (iww.netfr.alcatel.fr
     g7LHsTWb005902 for <spamassassin-talk@lists.sourceforge.net>;
     Wed, 21 Aug 2002 19:54:29 +0200
 Received: by iww.netfr.alcatel.fr
-    ("Mikrosoft Xchange",
+    (Mikrosoft Xchange,
     from userid 513) id 32F5E1C2D; Wed, 21 Aug 2002 19:55:29 +0200 (CEST)
 From: Stephane Lentz <Stephane.Lentz@ansf.alcatel.fr>
 To: spamassassin-talk@example.sourceforge.net

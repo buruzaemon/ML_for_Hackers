@@ -55,7 +55,7 @@ license on development branches of ipfilter to prohibit redistribution,
 although official releases would still be kept under the old license. 
 This policy got up the nose of Theo de Raadt (lots of things do, which
 is why OpenBSD exists in the first place), so OpenBSD re-invented the
-wheel and called their firewall "pf", under a full-time BSD license.   
+wheel and called their firewall pf, under a full-time BSD license.   
 
 The standard release versions of ipfilter are unencumbered, as always.
 

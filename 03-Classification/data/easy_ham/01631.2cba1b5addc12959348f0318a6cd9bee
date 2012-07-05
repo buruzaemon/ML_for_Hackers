@@ -23,14 +23,14 @@ List-Subscribe: <mailto:secprog-subscribe@securityfocus.com>
 Delivered-To: mailing list secprog@securityfocus.com
 Delivered-To: moderator for secprog@securityfocus.com
 Received: (qmail 2162 invoked from network); 19 Sep 2002 21:10:14 -0000
-From: "Michael McKay" <mmckay@iscubed.com>
-To: "'Bryan Feir'" <bryan@sgl.crestech.ca>,
+From: Michael McKay <mmckay@iscubed.com>
+To: 'Bryan Feir' <bryan@sgl.crestech.ca>,
 	<secprog@securityfocus.com>, <strange@nsk.yi.org>
 Subject: RE: Secure Sofware Key
 Date: Thu, 19 Sep 2002 14:44:22 -0700
 Message-Id: <004401c26025$c4aa3260$01000001@iS3Inc>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="US-ASCII"
+Content-Type: text/plain; charset=US-ASCII
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal
@@ -91,7 +91,7 @@ or
 > peek at the executable after the lock has been deactivated.
 
 Going back to the original question, once the encrypted material goes
-outside the trusted hardware, it is impossible to "unbreakably" protect
+outside the trusted hardware, it is impossible to unbreakably protect
 it.  There may be some mitigation steps you can take, such as the SDMI
 watermarking, but most schemes to date have been easily broken.  
 

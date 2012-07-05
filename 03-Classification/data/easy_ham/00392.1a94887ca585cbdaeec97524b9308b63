@@ -35,7 +35,7 @@ X-Mailer: exmh version 2.5 07/13/2001 with nmh-1.0.4
 In-Reply-To: <20020824133127.25B6E6F982@washington.bellatlantic.net>
 References: <20020824133127.25B6E6F982@washington.bellatlantic.net>
 Comments: In-reply-to Harlan Feinstein <harlan@feinsteins.net> message
-    dated "Sat, 24 Aug 2002 09:31:22 -0400."
+    dated Sat, 24 Aug 2002 09:31:22 -0400.
 To: exmh-users@spamassassin.taint.org
 Subject: Re: defaulting to showing plaintext versions of e-mails
 MIME-Version: 1.0
@@ -62,7 +62,7 @@ Date: Sun, 25 Aug 2002 21:58:24 -0500
 
 
 
->>>>> On Sat, 24 Aug 2002, "Harlan" == Harlan Feinstein wrote:
+>>>>> On Sat, 24 Aug 2002, Harlan == Harlan Feinstein wrote:
 
   Harlan> What's the trick again to have it default to showing
   Harlan> text/plain instead of html?

@@ -65,9 +65,9 @@ Once upon a time, Nick wrote :
 > I'm pretty sure it worked with the previous freshrpms release... Any way
 > of rolling back updates ?
 
-If you get this message, it means that you're using the "DVD" button, which
+If you get this message, it means that you're using the DVD button, which
 is the default DVD plugin and doesn't support decryption. You should either
-use the "d4d" one (no menus) or "d5d" (with menus).
+use the d4d one (no menus) or d5d (with menus).
 
 Matthias
 

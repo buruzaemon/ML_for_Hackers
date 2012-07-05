@@ -58,9 +58,9 @@ X-Url: http://www.DeepEddy.Com/~cwg
 X-Image-Url: http://www.DeepEddy.Com/~cwg/chris.gif
 MIME-Version: 1.0
 Content-Type: multipart/signed;
-    boundary="==_Exmh_893671157P";
+    boundary===_Exmh_893671157P;
     micalg=pgp-sha1;
-    protocol="application/pgp-signature"
+    protocol=application/pgp-signature
 Content-Transfer-Encoding: 7bit
 Message-Id: <1030549201.11428.TMDA@deepeddy.vircio.com>
 From: Chris Garrigues <cwg-exmh@DeepEddy.Com>
@@ -132,7 +132,7 @@ removed.  (I think.)
 That *was* a problem, but if you look at Mh_Sequence (and Mh_Sequences and 
 Mh_SequenceUpdate), they all call MhReadSeqs to do the actual reading and it 
 only reads the sequences if the file has been touched.  Look for the 
-"Exmh_Debug Reading $filename" output in the debug log to see when sequences 
+Exmh_Debug Reading $filename output in the debug log to see when sequences 
 are actually reread from disk.
 
 

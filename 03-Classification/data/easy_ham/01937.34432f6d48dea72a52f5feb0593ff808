@@ -13,7 +13,7 @@ Received: from dogma.slashnull.org (localhost [127.0.0.1]) by
 Message-Id: <200209261528.g8QFSQg24429@dogma.slashnull.org>
 To: yyyy@spamassassin.taint.org
 From: joelonsoftware <rssfeeds@spamassassin.taint.org>
-Subject: Jakob Nielsen on Offshore Usability: "To save costs, some
+Subject: Jakob Nielsen on Offshore Usability: To save costs, some
     companies are ou
 Date: Thu, 26 Sep 2002 15:28:26 -0000
 Content-Type: text/plain; encoding=utf-8
@@ -21,12 +21,12 @@ Content-Type: text/plain; encoding=utf-8
 URL: http://www.joelonsoftware.com/news/20020917.html
 Date: Not supplied
 
-Jakob Nielsen on Offshore Usability[1]: "To save costs, some companies are 
+Jakob Nielsen on Offshore Usability[1]: To save costs, some companies are 
 outsourcing Web projects to countries with cheap labor. Unfortunately, these 
 countries lack strong usability traditions and their developers have limited 
-access -- if any -- to good usability data from the target users." 
+access -- if any -- to good usability data from the target users. 
 
-Offshore usability is a specific case of the general "offshore design" problem. 
+Offshore usability is a specific case of the general offshore design problem. 
 Put simply, software teams are not successful when 
 design or management are done in a different physical location than 
 programming. Once I actually had a job where I was in New York, my direct 

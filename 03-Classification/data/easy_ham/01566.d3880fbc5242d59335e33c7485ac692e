@@ -61,13 +61,13 @@ owner to read and execute won't alleviate a write problem.
 
 On Thu, 5 Sep 2002, Michael Duff wrote:
 
-> This is due to insufficient write privileges to the "razor-agent.log" 
-> file. A quick work-around is to do a "chmod go+rx" on that file (of 
+> This is due to insufficient write privileges to the razor-agent.log 
+> file. A quick work-around is to do a chmod go+rx on that file (of 
 > course, it's better to restrict the access as much as possible).
 > 
 > In Agent.pm, when the Razor2::Logger object is created, if it doesn't 
 > have write permission to the log file it does not succeed. Then, later 
-> in the code when the log object is used, it fails with the "unblessed" 
+> in the code when the log object is used, it fails with the unblessed 
 > error.
 > 
 > Hope this helps,
@@ -85,7 +85,7 @@ On Thu, 5 Sep 2002, Michael Duff wrote:
 > >With a freshly installed SpamAssassin 2.41 and Razor 2.14 I'm seeing these
 > >messages spit out from spamd:
 > >
-> >razor2 check skipped: No such file or directory Can't call method "log" on
+> >razor2 check skipped: No such file or directory Can't call method log on
 > >unblessed reference at /usr/lib/perl5/site_perl/5.6.0/Razor2/Client/Agent.pm
 > >line 211, <STDIN> line 75.
 > >

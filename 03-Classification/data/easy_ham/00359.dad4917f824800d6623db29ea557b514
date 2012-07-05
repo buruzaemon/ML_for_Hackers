@@ -19,12 +19,12 @@ Received: from cats.ucsc.edu (cats-mx1.ucsc.edu [128.114.129.36]) by
 Received: from Tycho (dhcp-63-177.cse.ucsc.edu [128.114.63.177]) by
     cats.ucsc.edu (8.10.1/8.10.1) with SMTP id g7SK48T11280 for
     <FoRK@xent.com>; Wed, 28 Aug 2002 13:04:08 -0700 (PDT)
-From: "Jim Whitehead" <ejw@cse.ucsc.edu>
-To: "FoRK" <FoRK@xent.com>
+From: Jim Whitehead <ejw@cse.ucsc.edu>
+To: FoRK <FoRK@xent.com>
 Subject: RIAA site hacked overnight
 Message-Id: <AMEPKEBLDJJCCDEJHAMIGEGEFFAA.ejw@cse.ucsc.edu>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="iso-8859-1"
+Content-Type: text/plain; charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal

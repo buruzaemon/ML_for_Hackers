@@ -26,8 +26,8 @@ To: razor-users@example.sourceforge.net
 Message-Id: <20021003184308.GA2254@darkridge.com>
 MIME-Version: 1.0
 Content-Type: multipart/signed; micalg=pgp-sha1;
-    protocol="application/pgp-signature";
-    boundary="5vNYLRcllDrimb99"
+    protocol=application/pgp-signature;
+    boundary=5vNYLRcllDrimb99
 Content-Disposition: inline
 User-Agent: Mutt/1.4i
 X-Copyright: This e-mail is Copyright (c) 2002 by jpr5@darkridge.com

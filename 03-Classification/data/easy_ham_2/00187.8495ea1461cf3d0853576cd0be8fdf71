@@ -31,8 +31,8 @@ Reply-To: deedsmis@aculink.net, ilug@linux.ie
 X-Mailer: Mozilla 4.78 [en] (X11; U; Linux 2.2.20-9.2mdk i586)
 X-Accept-Language: en
 MIME-Version: 1.0
-To: "Hunt, Bryan" <B.Hunt@emuse-tech.com>
-Cc: "ILUG (Request)" <ilug@linux.ie>
+To: Hunt, Bryan <B.Hunt@emuse-tech.com>
+Cc: ILUG (Request) <ilug@linux.ie>
 References: <5FE418B3F962D411BED40000E818B33C9C8E65@HASSLE>
 Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: 7bit
@@ -44,9 +44,9 @@ Precedence: bulk
 List-Id: Irish Linux Users' Group <ilug.linux.ie>
 X-Beenthere: ilug@linux.ie
 
-"Hunt, Bryan" stated the following:
+Hunt, Bryan stated the following:
 > 
-> you need to do a "fdisk /mbr" from a bootable windoze floppy
+> you need to do a fdisk /mbr from a bootable windoze floppy
 > alternatively boot from linux boot disk and do fdisk, delete all partitions.
 
 I need to ask a question concerning this issue.

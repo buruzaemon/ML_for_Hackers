@@ -56,19 +56,19 @@ Once upon a time, Brian wrote :
 > 
 > > Sorry, this hasn't got much to do with rpm packages directly ;-)
 > > 
-> > My "builds" page is getting bigger and bigger, and quite messy as
+> > My builds page is getting bigger and bigger, and quite messy as
 > > directories are listed in no particular order :
 > > http://freshrpms.net/builds...
 > 
 >     Yep.  Make sure there's a field in the database called (for example)
->     "Updated" and when it comes time to generate the list, add "order by
->     updated".  This'll put it in that particular order for ya.  You can
+>     Updated and when it comes time to generate the list, add order by
+>     updated.  This'll put it in that particular order for ya.  You can
 >     also chose to order it by name, etc by changing this field.
 > 
 >     This should be the same for both MySql and Postgressql (any modern
 >     SQL, really).  Which are you using?
 
-None for that "builds" part : It's just an export of the CVS tree in which
+None for that builds part : It's just an export of the CVS tree in which
 I keep my spec files and patches! ;-)
 I think the filemtime() php function that Ville uses in his sript is what
 I'm looking for, then I guess I just need to fill an array with the names

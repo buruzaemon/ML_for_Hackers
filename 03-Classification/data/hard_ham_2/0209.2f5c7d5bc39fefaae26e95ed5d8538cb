@@ -9,14 +9,14 @@ Received: from eliasbone (eliasbone.groundspeak.biz [66.150.167.137])
 	for <ler+geocache@lerctr.org>; Thu,  5 Sep 2002 19:40:53 -0700 (PDT)
 thread-index: AcJVTtmZew4Txc3rT5mVUIq4Zv87Cg==
 Thread-Topic: Geocaching.com Weekly Cache Notification
-From: "Geocaching Notify Bot" <notify@geocaching.com>
+From: Geocaching Notify Bot <notify@geocaching.com>
 To: <ler+geocache@lerctr.org>
 Subject: Geocaching.com Weekly Cache Notification
 Date: Thu, 5 Sep 2002 19:41:06 -0700
 Message-ID: <2e2601c2554e$d9995570$89a79642@groundspeak.biz>
 MIME-Version: 1.0
 Content-Type: text/plain;
-	charset="iso-8859-1"
+	charset=iso-8859-1
 Content-Transfer-Encoding: 7bit
 X-Mailer: Microsoft CDO for Exchange 2000
 Content-Class: urn:content-classes:message
@@ -97,4 +97,4 @@ http://www.geocaching.com/seek/cache_details.asp?ID=35259
 
 Your account name is 'lrosenman'.  If you would like to be removed from this
 list, please log into the web site and uncheck cache notifications through
-the "modify your account" link on your "my cache page".
+the modify your account link on your my cache page.

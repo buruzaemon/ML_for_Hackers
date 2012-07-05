@@ -27,13 +27,13 @@ Received: from unknown (HELO XENON16) (213.190.156.48) by
     mail04.svc.cra.dublin.eircom.net (qp 50698) with SMTP; 16 Aug 2002
     13:34:21 -0000
 Message-Id: <003c01c24529$e17df820$e600000a@XENON16>
-From: "wintermute" <cout@eircom.net>
+From: wintermute <cout@eircom.net>
 To: <ilug@linux.ie>
 References: <3D5CFB9A.6060209@cunniffe.net>
 Subject: Re: [ILUG] replacement xircom dongle?
 Date: Fri, 16 Aug 2002 14:36:09 +0100
 MIME-Version: 1.0
-Content-Type: text/plain; charset="ISO-8859-15"
+Content-Type: text/plain; charset=ISO-8859-15
 Content-Transfer-Encoding: 7bit
 X-Priority: 3
 X-Msmail-Priority: Normal

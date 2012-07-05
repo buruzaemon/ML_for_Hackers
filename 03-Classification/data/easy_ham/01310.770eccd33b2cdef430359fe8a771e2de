@@ -22,11 +22,11 @@ Received: from c35123.upc-c.chello.nl ([212.187.35.123]
 Received: (qmail 97944 invoked from network); 22 Aug 2002 17:51:43 -0000
 Received: from erik.besmart.nu (HELO erik) (192.168.1.4) by 0 with SMTP;
     22 Aug 2002 17:51:43 -0000
-From: "Erik Rudolfs" <abbo@impression.nu>
+From: Erik Rudolfs <abbo@impression.nu>
 To: <spamassassin-devel@example.sourceforge.net>
 Message-Id: <002601c24a04$8eea9ca0$0401a8c0@erik>
 MIME-Version: 1.0
-Content-Type: text/plain; charset="US-ASCII"
+Content-Type: text/plain; charset=US-ASCII
 Content-Transfer-Encoding: 7bit
 X-Priority: 3 (Normal)
 X-Msmail-Priority: Normal

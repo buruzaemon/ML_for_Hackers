@@ -20,8 +20,8 @@ Received: from waynemain (cs2427121-96.houston.rr.com [24.27.121.96]) by
     sm14.texas.rr.com (8.12.0.Beta16/8.12.0.Beta16) with ESMTP id
     g74NG4Uw031613 for <fork@xent.com>; Sun, 4 Aug 2002 18:16:10 -0500
 Message-Id: <4110-22002804231443982@waynemain>
-From: "Wayne" <lwharris@flash.net>
-To: "fork@spamassassin.taint.org" <fork@spamassassin.taint.org>
+From: Wayne <lwharris@flash.net>
+To: fork@spamassassin.taint.org <fork@spamassassin.taint.org>
 Subject: OOPS!  Please Excuse My mistake!
 MIME-Version: 1.0
 Content-Type: text/plain; charset=US-ASCII

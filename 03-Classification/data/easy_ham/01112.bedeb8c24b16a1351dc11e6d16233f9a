@@ -20,7 +20,7 @@ Received: from leenx.co.za ([10.1.1.130]) by zeus.scania.co.za
     (8.11.6/8.11.2) with ESMTP id g8JAgWC10724 for <rpm-list@freshrpms.net>;
     Thu, 19 Sep 2002 12:42:36 +0200
 Message-Id: <3D89AA17.4090005@leenx.co.za>
-From: "C.Lee Taylor" <leet@leenx.co.za>
+From: C.Lee Taylor <leet@leenx.co.za>
 Organization: LeeNX
 User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.0.0) Gecko/20020607
 X-Accept-Language: en-us, en
@@ -53,7 +53,7 @@ Greetings ...
 > PS: Yup, I'm back from my holidays ;-)
 	I hope you did not miss us at all ... ;-0
 
- > I think I'll use this "--with <whatever>" switch more and more where
+ > I think I'll use this --with <whatever> switch more and more where
  > possible.
 	Mmm, great stuff ... Now to get the RedHat Samba packager to do the same 
 thing ...
