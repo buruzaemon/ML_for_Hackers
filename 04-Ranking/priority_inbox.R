@@ -44,7 +44,7 @@ msg.full <- function(path)
   return(msg)
 }
 
-# Retuns the email address of the sender for a given
+# Returns the email address of the sender for a given
 # email message
 get.from <- function(msg.vec)
 {
@@ -54,7 +54,7 @@ get.from <- function(msg.vec)
   return(from[grepl("@", from)][1])
 }
 
-# Retuns the subject string for a given email message
+# Returns the subject string for a given email message
 get.subject <- function(msg.vec)
 {
   subj <- msg.vec[grepl("Subject: ", msg.vec)]
@@ -76,7 +76,7 @@ get.msg <- function(msg.vec)
   return(paste(msg, collapse = "\n"))
 }
 
-# Retuns the date a given email message was received
+# Returns the date a given email message was received
 get.date <- function(msg.vec)
 {
   date.grep <- grepl("^Date: ", msg.vec)
