@@ -29,6 +29,11 @@ library('ggplot2')
 data.path <- file.path("..", "03-Classification", "data")
 easyham.path <- file.path(data.path, "easy_ham")
 
+# DO NOT ASSUME ENV SETTINGS FOR LC_TIME!!!
+# This setting should only affect strptime and not date or other
+# base functions
+Sys.setlocale("LC_TIME", locale="USA")
+
 # We define a set of function that will extract the data
 # for the feature set we have defined to rank email
 # impportance.  This includes the following: message
@@ -101,7 +106,7 @@ parse.email <- function(path)
 }
 
 # In this case we are not interested in classifiying SPAM or HAM, so we will take
-# it as given that is is being performed.  As such, we will use the EASY HAM email
+# it as given that it is being performed.  As such, we will use the EASY HAM email
 # to train and test our ranker.
 easyham.docs <- dir(easyham.path)
 easyham.docs <- easyham.docs[which(easyham.docs != "cmds")]
@@ -113,9 +118,9 @@ ehparse.matrix <- do.call(rbind, easyham.parse)
 allparse.df <- data.frame(ehparse.matrix, stringsAsFactors = FALSE)
 names(allparse.df) <- c("Date", "From.EMail", "Subject", "Message", "Path")
 
-# Convert date strings to POSIX for comparison. Because the emails data
-# contain slightly different date format pattners we have to account for
-# this by passining them as required partmeters of the function. 
+# Convert date strings to POSIX for comparison. Because the email data
+# contain slightly different date format patterns, we have to account for
+# this by passing them as required parameters of the function. 
 date.converter <- function(dates, pattern1, pattern2)
 {
   pattern1.convert <- strptime(dates, pattern1)
@@ -141,7 +146,7 @@ priority.df <- allparse.df[with(allparse.df, order(Date)), ]
 priority.train <- priority.df[1:(round(nrow(priority.df) / 2)), ]
 
 # The first step is to create rank weightings for all of the features.
-# We begin with the simpliest: who the email is from.
+# We begin with the simplest: who the email is from.
 
 # Calculate the frequency of correspondence with all emailers in the training set
 from.weight <- ddply(priority.train, .(From.EMail),
@@ -194,7 +199,7 @@ ggsave(plot = from.rescaled,
        height = 4.8,
        width = 7)
 
-# To calculate the rank priority of an email we should calculate some probability that 
+# To calculate the rank priority of an email, we should calculate some probability that 
 # the user will respond to it.  In our case, we only have one-way communication data.
 # In this case, we can calculate a weighting based on words in threads that have a lot
 # of activity.
@@ -321,9 +326,9 @@ msg.weights <- data.frame(list(Term = names(msg.terms),
 msg.weights <- subset(msg.weights, Weight > 0)
 
 # This function uses our pre-calculated weight data frames to look up
-# the appropriate weightt for a given search.term.  We use the 'term'
-# parameter to dertermine if we are looking up a word in the weight.df
-# for it message body weighting, or for its subject line weighting.
+# the appropriate weight for a given search.term.  We use the 'term'
+# parameter to determine if we are looking up a word in the weight.df
+# for its message body weighting, or for its subject line weighting.
 get.weights <- function(search.term, weight.df, term = TRUE)
 {
   if(length(search.term) > 0)
@@ -352,9 +357,8 @@ get.weights <- function(search.term, weight.df, term = TRUE)
   }
 }
 
-# Our final step is to write a function that will assign a weight to each message based
-# on all of our, we create a function that will assign a weight to each message based on
-# the mean weighting across our entire feature set.
+# Our final step is to create a function that will assign a weight to each message
+# based on the mean weighting across our entire feature set.
 rank.message <- function(path)
 {
   msg <- parse.email(path)
