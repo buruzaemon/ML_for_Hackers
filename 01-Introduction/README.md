@@ -1,6 +1,10 @@
 # NOTES: Ch. 1 - Using R #
 
 ### Tips & Tricks 
+- `?[function name]` accesses the named function's help file
+- `??[package]::[function name]` searches the specified package for the named function's help file
+- `help.search("[function name]")` searches for the named function in ALL help files
+- `RSiteSearch("[search term]")` searches for the search term on the R site
 - `sessionInfo()` lists R version info and package details (both attached and loaded)
 
 ### Matrix Filtering 
