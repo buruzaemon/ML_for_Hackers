@@ -9,4 +9,4 @@
 
 ### Corrections
 1.  `scale_x_date(breaks = date_breaks("n years"), labels = date_format("%Y"))`
-2.  `scale_color_manual` arguments require `guide="none"`
+2.  `scale_color_manual` arguments require `guide="none"` rather than `legend = FALSE`
