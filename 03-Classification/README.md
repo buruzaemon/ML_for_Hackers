@@ -1,7 +1,7 @@
 # NOTES: Ch. 3 - Classification: Spam Filtering #
 
 ### Tips & Tricks 
-Scan the sample email files in a directory to see confirm charset:
+Scan the sample email files in a directory to determine true charset:
 
 `$ find . -type f | grep -v cmd | xargs file -i`
 
