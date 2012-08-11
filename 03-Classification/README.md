@@ -13,7 +13,7 @@ Remove control characters and other non-ASCII entities from these sample email f
 
 `$ cat files | while read LINE; do tr -cd '\11\12\15\40\41\43-\176\300-\377' < $LINE > $LINE.clean; done`
 
-*using Cygwin and the GNU tools*
+*... using Cygwin and the GNU tools*
 
 
 ### Links

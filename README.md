@@ -2,6 +2,10 @@
 
 This repository contains all of the code examples and some corrections for [Machine Learning for Hackers](http://shop.oreilly.com/product/0636920018483.do) (2012).  The code may not appear exactly as it does in the text, as additional comments and modifications may have been added since publication. This code is meant to be run on R 2.15.0 for Windows XP (32-bit) or Windows 7 (64-bit). Package versions will be noted where necessary.
 
+## Links ##
+* [Confirmed errata](http://oreilly.com/catalog/errata.csp?isbn=0636920018483)
+* [Unconfirmed errata](http://oreilly.com/catalog/errataunconfirmed.csp?isbn=0636920018483)
+
 ## Authors ##
 
  - Drew Conway, Department of Politics, New York University [http://drewconway.com/](http://drewconway.com/)
