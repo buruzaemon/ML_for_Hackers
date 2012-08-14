@@ -39,7 +39,6 @@ ages <- read.csv(file.path('data', 'longevity.csv'))
 
 guess.accuracy <- data.frame()
 
-#for (guess in seq(63, 83, by = 1))
 for (guess in 63:83)
 {
   prediction.error <- with(ages, mean((AgeAtDeath - guess) ^ 2))
@@ -71,8 +70,6 @@ ages <- transform(ages,
 with(ages, sqrt(mean((AgeAtDeath - NewPrediction) ^ 2)))
 
 # Fifth snippet
-library('ggplot2')
-
 heights.weights <- read.csv(file.path('data', '01_heights_weights_genders.csv'),
                             header = TRUE,
                             sep = ',')
