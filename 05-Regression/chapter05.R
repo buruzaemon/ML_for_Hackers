@@ -39,10 +39,10 @@ ages <- read.csv(file.path('data', 'longevity.csv'))
 
 guess.accuracy <- data.frame()
 
-for (guess in seq(63, 83, by = 1))
+#for (guess in seq(63, 83, by = 1))
+for (guess in 63:83)
 {
-  prediction.error <- with(ages,
-                           mean((AgeAtDeath - guess) ^ 2))
+  prediction.error <- with(ages, mean((AgeAtDeath - guess) ^ 2))
   guess.accuracy <- rbind(guess.accuracy,
                           data.frame(Guess = guess,
                                      Error = prediction.error))
@@ -59,11 +59,9 @@ constant.guess <- with(ages, mean(AgeAtDeath))
 
 with(ages, sqrt(mean((AgeAtDeath - constant.guess) ^ 2)))
 
-smokers.guess <- with(subset(ages, Smokes == 1),
-                      mean(AgeAtDeath))
+smokers.guess <- with(subset(ages, Smokes == 1), mean(AgeAtDeath))
 
-non.smokers.guess <- with(subset(ages, Smokes == 0),
-                          mean(AgeAtDeath))
+non.smokers.guess <- with(subset(ages, Smokes == 0), mean(AgeAtDeath))
 
 ages <- transform(ages,
                   NewPrediction = ifelse(Smokes == 0,
@@ -75,8 +73,7 @@ with(ages, sqrt(mean((AgeAtDeath - NewPrediction) ^ 2)))
 # Fifth snippet
 library('ggplot2')
 
-heights.weights <- read.csv(file.path('data',
-                                      '01_heights_weights_genders.csv'),
+heights.weights <- read.csv(file.path('data', '01_heights_weights_genders.csv'),
                             header = TRUE,
                             sep = ',')
 
