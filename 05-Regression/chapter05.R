@@ -79,8 +79,7 @@ ggplot(heights.weights, aes(x = Height, y = Weight)) +
   geom_smooth(method = 'lm')
 
 # Sixth snippet
-fitted.regression <- lm(Weight ~ Height,
-                        data = heights.weights)
+fitted.regression <- lm(Weight ~ Height, data = heights.weights)
 
 coef(fitted.regression)
 #(Intercept) Height
@@ -110,30 +109,20 @@ plot(fitted.regression, which = 1)
 x <- 1:10
 y <- x ^ 2
 
-fitted.regression <- lm(y ~ x)
-
-plot(fitted.regression, which = 1)
+plot(lm(y ~ x) , which = 1)
 
 # Thirteenth snippet
 x <- 1:10
 y <- x ^ 2
 
-fitted.regression <- lm(y ~ x)
-
-errors <- residuals(fitted.regression)
-squared.errors <- errors ^ 2
-sum(squared.errors)
+sum(residuals(lm(y ~ x)) ^ 2)
 #[1] 528
 
 # Fourteenth snippet
 x <- 1:10
 y <- x ^ 2
 
-fitted.regression <- lm(y ~ x)
-
-errors <- residuals(fitted.regression)
-squared.errors <- errors ^ 2
-mse <- mean(squared.errors)
+mse <- mean(residuals(lm(y ~ x)) ^ 2)
 mse
 #[1] 52.8
 
@@ -141,12 +130,7 @@ mse
 x <- 1:10
 y <- x ^ 2
 
-fitted.regression <- lm(y ~ x)
-
-errors <- residuals(fitted.regression)
-squared.errors <- errors ^ 2
-mse <- mean(squared.errors)
-rmse <- sqrt(mse)
+rmse <- sqrt(mean(residuals(lm(y ~ x)) ^ 2))
 rmse
 #[1] 7.266361
 
@@ -165,20 +149,16 @@ top.1000.sites <- read.csv(file.path('data', 'top_1000_sites.tsv'),
                            sep = '\t',
                            stringsAsFactors = FALSE)
 
-ggplot(top.1000.sites, aes(x = PageViews, y = UniqueVisitors)) +
-  geom_point()
+ggplot(top.1000.sites, aes(x = PageViews, y = UniqueVisitors)) + geom_point()
 
 # Eighteenth snippet
-ggplot(top.1000.sites, aes(x = PageViews)) +
-  geom_density()
+ggplot(top.1000.sites, aes(x = PageViews)) + geom_density()
 
 # Ninteenth snippet
-ggplot(top.1000.sites, aes(x = log(PageViews))) +
-  geom_density()
+ggplot(top.1000.sites, aes(x = log(PageViews))) + geom_density()
 
 # Twentieth snippet
-ggplot(top.1000.sites, aes(x = log(PageViews), y = log(UniqueVisitors))) +
-  geom_point()
+ggplot(top.1000.sites, aes(x = log(PageViews), y = log(UniqueVisitors))) + geom_point()
 
 # Twenty-first snippet
 ggplot(top.1000.sites, aes(x = log(PageViews), y = log(UniqueVisitors))) +
@@ -186,8 +166,7 @@ ggplot(top.1000.sites, aes(x = log(PageViews), y = log(UniqueVisitors))) +
   geom_smooth(method = 'lm', se = FALSE)
 
 # Twenty-second snippet
-lm.fit <- lm(log(PageViews) ~ log(UniqueVisitors),
-             data = top.1000.sites)
+lm.fit <- lm(log(PageViews) ~ log(UniqueVisitors), data = top.1000.sites)
 
 # Twenty-third snippet
 summary(lm.fit)
@@ -238,18 +217,15 @@ summary(lm.fit)
 #F-statistic: 229.4 on 4 and 995 DF, p-value: < 2.2e-16
 
 # Twenty-fifth snippet
-lm.fit <- lm(log(PageViews) ~ HasAdvertising,
-             data = top.1000.sites)
+lm.fit <- lm(log(PageViews) ~ HasAdvertising, data = top.1000.sites)
 summary(lm.fit)$r.squared
 #[1] 0.01073766
 
-lm.fit <- lm(log(PageViews) ~ log(UniqueVisitors),
-             data = top.1000.sites)
+lm.fit <- lm(log(PageViews) ~ log(UniqueVisitors), data = top.1000.sites)
 summary(lm.fit)$r.squared
 #[1] 0.4615985
 
-lm.fit <- lm(log(PageViews) ~ InEnglish,
-             data = top.1000.sites)
+lm.fit <- lm(log(PageViews) ~ InEnglish, data = top.1000.sites)
 summary(lm.fit)$r.squared
 #[1] 0.03122206
 
