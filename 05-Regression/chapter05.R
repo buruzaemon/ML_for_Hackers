@@ -19,14 +19,14 @@
 
 library('ggplot2')
 
-# First snippet
+# Snippet 1
 ages <- read.csv(file.path('data', 'longevity.csv'))
 
 ggplot(ages, aes(x = AgeAtDeath, fill = factor(Smokes))) +
   geom_density() +
   facet_grid(Smokes ~ .)
 
-# Second snippet
+# Snippet 2
 ages <- read.csv(file.path('data', 'longevity.csv'))
 
 guess <- 73
@@ -34,7 +34,7 @@ guess <- 73
 with(ages, mean((AgeAtDeath - guess) ^ 2))
 #[1] 32.991
 
-# Third snippet
+# Snippet 3
 ages <- read.csv(file.path('data', 'longevity.csv'))
 
 guess.accuracy <- data.frame()
@@ -51,7 +51,7 @@ ggplot(guess.accuracy, aes(x = Guess, y = Error)) +
   geom_point() +
   geom_line()
 
-# Fourth snippet
+# Snippet 4
 ages <- read.csv(file.path('data', 'longevity.csv'))
 
 constant.guess <- with(ages, mean(AgeAtDeath))
@@ -69,7 +69,7 @@ ages <- transform(ages,
 
 with(ages, sqrt(mean((AgeAtDeath - NewPrediction) ^ 2)))
 
-# Fifth snippet
+# Snippet 5
 heights.weights <- read.csv(file.path('data', '01_heights_weights_genders.csv'),
                             header = TRUE,
                             sep = ',')
@@ -78,47 +78,47 @@ ggplot(heights.weights, aes(x = Height, y = Weight)) +
   geom_point() +
   geom_smooth(method = 'lm')
 
-# Sixth snippet
+# Snippet 6
 fitted.regression <- lm(Weight ~ Height, data = heights.weights)
 
 coef(fitted.regression)
 #(Intercept) Height
 #-350.737192 7.717288
 
-# Seventh snippet
+# Snippet 7
 intercept <- coef(fitted.regression)[1]
 slope <- coef(fitted.regression)[2]
 
 # predicted.weight <- intercept + slope * observed.height
 # predicted.weight == -350.737192 + 7.717288 * observed.height
 
-# Eighth snippet
+# Snippet 8
 predict(fitted.regression)
 
-# Ninth snippet
+# Snippet 9
 true.values <- with(heights.weights, Weight)
 errors <- true.values - predict(fitted.regression)
 
-# Tenth snippet
+# Snippet 10
 residuals(fitted.regression)
 
-# Eleventh snippet
+# Snippet 11
 plot(fitted.regression, which = 1)
 
-# Twelfth snippet
+# Snippet 12
 x <- 1:10
 y <- x ^ 2
 
 plot(lm(y ~ x) , which = 1)
 
-# Thirteenth snippet
+# Snippet 13
 x <- 1:10
 y <- x ^ 2
 
 sum(residuals(lm(y ~ x)) ^ 2)
 #[1] 528
 
-# Fourteenth snippet
+# Snippet 14
 x <- 1:10
 y <- x ^ 2
 
@@ -126,7 +126,7 @@ mse <- mean(residuals(lm(y ~ x)) ^ 2)
 mse
 #[1] 52.8
 
-# Fifteenth snippet
+# Snippet 15
 x <- 1:10
 y <- x ^ 2
 
@@ -134,7 +134,7 @@ rmse <- sqrt(mean(residuals(lm(y ~ x)) ^ 2))
 rmse
 #[1] 7.266361
 
-# Sixteenth snippet
+# Snippet 16
 # There was an error in the book for this example.
 # R-squared is a ratio of MSE's, not RMSE's.
 mean.mse <- 1.09209343
@@ -144,31 +144,31 @@ r2 <- 1 - (model.mse / mean.mse)
 r2
 #[1] 0.1259502
 
-# Seventeenth snippet
+# Snippet 17
 top.1000.sites <- read.csv(file.path('data', 'top_1000_sites.tsv'),
                            sep = '\t',
                            stringsAsFactors = FALSE)
 
 ggplot(top.1000.sites, aes(x = PageViews, y = UniqueVisitors)) + geom_point()
 
-# Eighteenth snippet
+# Snippet 18
 ggplot(top.1000.sites, aes(x = PageViews)) + geom_density()
 
-# Ninteenth snippet
+# Snippet 19
 ggplot(top.1000.sites, aes(x = log(PageViews))) + geom_density()
 
-# Twentieth snippet
+# Snippet 20
 ggplot(top.1000.sites, aes(x = log(PageViews), y = log(UniqueVisitors))) + geom_point()
 
-# Twenty-first snippet
+# Snippet 21
 ggplot(top.1000.sites, aes(x = log(PageViews), y = log(UniqueVisitors))) +
   geom_point() +
   geom_smooth(method = 'lm', se = FALSE)
 
-# Twenty-second snippet
+# Snippet 22
 lm.fit <- lm(log(PageViews) ~ log(UniqueVisitors), data = top.1000.sites)
 
-# Twenty-third snippet
+# Snippet 23
 summary(lm.fit)
 
 #Call:
@@ -189,10 +189,10 @@ summary(lm.fit)
 #Multiple R-squared: 0.4616, Adjusted R-squared: 0.4611
 #F-statistic: 855.6 on 1 and 998 DF, p-value: < 2.2e-16
 
-# Twenty-fourth snippet
-lm.fit <- lm(log(PageViews) ~ HasAdvertising + log(UniqueVisitors) + InEnglish,
-             data = top.1000.sites)
-summary(lm.fit)
+# Snippet 24
+lm.fit.2 <- lm(log(PageViews) ~ HasAdvertising + log(UniqueVisitors) + InEnglish,
+               data = top.1000.sites)
+summary(lm.fit.2)
 
 #Call:
 #lm(formula = log(PageViews) ~ HasAdvertising + log(UniqueVisitors) +
@@ -216,20 +216,20 @@ summary(lm.fit)
 #Multiple R-squared: 0.4798, Adjusted R-squared: 0.4777
 #F-statistic: 229.4 on 4 and 995 DF, p-value: < 2.2e-16
 
-# Twenty-fifth snippet
-lm.fit <- lm(log(PageViews) ~ HasAdvertising, data = top.1000.sites)
-summary(lm.fit)$r.squared
+# Snippet 25
+lm.fit.3 <- lm(log(PageViews) ~ HasAdvertising, data = top.1000.sites)
+summary(lm.fit.3)$r.squared
 #[1] 0.01073766
 
-lm.fit <- lm(log(PageViews) ~ log(UniqueVisitors), data = top.1000.sites)
-summary(lm.fit)$r.squared
+lm.fit.4 <- lm(log(PageViews) ~ log(UniqueVisitors), data = top.1000.sites)
+summary(lm.fit.4)$r.squared
 #[1] 0.4615985
 
-lm.fit <- lm(log(PageViews) ~ InEnglish, data = top.1000.sites)
-summary(lm.fit)$r.squared
+lm.fit.5 <- lm(log(PageViews) ~ InEnglish, data = top.1000.sites)
+summary(lm.fit.5)$r.squared
 #[1] 0.03122206
 
-# Twenty-sixth snippet
+# Snippet 26
 x <- 1:10
 y <- x ^ 2
 
@@ -237,11 +237,16 @@ ggplot(data.frame(X = x, Y = y), aes(x = X, y = Y)) +
   geom_point() +
   geom_smooth(method = 'lm', se = FALSE)
 
-# Twenty-seventh snippet
+# Snippet 27
 cor(x, y)
 #[1] 0.9745586
 
-# Twenty-eighth snippet
+# Snippet 28
 coef(lm(scale(y) ~ scale(x)))
 # (Intercept) scale(x)
 #-1.386469e-16 9.745586e-01
+
+# BONUS Snippet 29
+coef(lm(scale(log(PageViews)) ~ scale(log(UniqueVisitors)), data = top.1000.sites))
+#  (Intercept) scale(log(UniqueVisitors))
+#  8.570509e-16               6.794104e-01
