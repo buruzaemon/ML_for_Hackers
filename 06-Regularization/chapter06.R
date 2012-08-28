@@ -19,7 +19,7 @@
 
 library('ggplot2')
 
-# First snippet
+# Snippet 1
 set.seed(1)
 
 x <- seq(-10, 10, by = 0.01)
@@ -29,22 +29,22 @@ ggplot(data.frame(X = x, Y = y), aes(x = X, y = Y)) +
   geom_point() +
   geom_smooth(se = FALSE)
 
-# Second code snippet
+# Snippet 2
 x.squared <- x ^ 2
 
-# Third code snippet
+# Snippet 3
 ggplot(data.frame(XSquared = x.squared, Y = y), aes(x = XSquared, y = Y)) +
   geom_point() +
   geom_smooth(method = 'lm', se = FALSE)
 
-# Fourth code snippet
+# Snippet 4
 summary(lm(y ~ x))$r.squared
 #[1] 2.973e-06
 
 summary(lm(y ~ x.squared))$r.squared
 #[1] 0.9707
 
-# Fifth code snippet
+# Snippet 5
 set.seed(1)
 
 x <- seq(0, 1, by = 0.01)
@@ -52,10 +52,9 @@ y <- sin(2 * pi * x) + rnorm(length(x), 0, 0.1)
 
 df <- data.frame(X = x, Y = y)
 
-ggplot(df, aes(x = X, y = Y)) +
-  geom_point()
+ggplot(df, aes(x = X, y = Y)) + geom_point()
 
-# Sixth code snippet
+# Snippet 6
 summary(lm(Y ~ X, data = df))
 
 #Call:
@@ -76,12 +75,12 @@ summary(lm(Y ~ X, data = df))
 #Multiple R-squared: 0.5885, Adjusted R-squared: 0.5843
 #F-statistic: 141.6 on 1 and 99 DF, p-value: < 2.2e-16
 
-# Seventh code snippet
+# Snippet 7
 ggplot(data.frame(X = x, Y = y), aes(x = X, y = Y)) +
   geom_point() +
   geom_smooth(method = 'lm', se = FALSE)
 
-# Eighth code snippet
+# Snippet 8
 df <- transform(df, X2 = X ^ 2)
 df <- transform(df, X3 = X ^ 3)
 
@@ -107,7 +106,7 @@ summary(lm(Y ~ X + X2 + X3, data = df))
 #Multiple R-squared: 0.9745, Adjusted R-squared: 0.9737
 #F-statistic: 1235 on 3 and 97 DF, p-value: < 2.2e-16
 
-# Ninth code snippet
+# Snippet 9
 df <- transform(df, X4 = X ^ 4)
 df <- transform(df, X5 = X ^ 5)
 df <- transform(df, X6 = X ^ 6)
@@ -154,7 +153,7 @@ summary(lm(Y ~ X + X2 + X3 + X4 + X5 + X6 + X7 + X8 + X9 + X10 + X11 + X12 + X13
 #Multiple R-squared: 0.9858, Adjusted R-squared: 0.9837
 #F-statistic: 465.2 on 13 and 87 DF, p-value: < 2.2e-16
 
-# Tenth code snippet
+# Snippet 10
 summary(lm(Y ~ poly(X, degree = 14), data = df))
 
 #Call:
@@ -188,7 +187,7 @@ summary(lm(Y ~ poly(X, degree = 14), data = df))
 #Multiple R-squared: 0.986, Adjusted R-squared: 0.9837
 #F-statistic: 431.7 on 14 and 86 DF, p-value: < 2.2e-16
 
-# Eleventh code snippet
+# Snippet 11
 poly.fit <- lm(Y ~ poly(X, degree = 1), data = df)
 df <- transform(df, PredictedY = predict(poly.fit))
 
@@ -217,13 +216,13 @@ ggplot(df, aes(x = X, y = PredictedY)) +
   geom_point() +
   geom_line()
 
-# Twelfth code snippet
+# Snippet 12
 set.seed(1)
 
 x <- seq(0, 1, by = 0.01)
 y <- sin(2 * pi * x) + rnorm(length(x), 0, 0.1)
 
-# Thirteenth code snippet
+# Snippet 13
 n <- length(x)
 
 indices <- sort(sample(1:n, round(0.5 * n)))
@@ -237,13 +236,13 @@ test.y <- y[-indices]
 training.df <- data.frame(X = training.x, Y = training.y)
 test.df <- data.frame(X = test.x, Y = test.y)
 
-# Fourteenth code snippet
+# Snippet 14
 rmse <- function(y, h)
 {
   return(sqrt(mean((y - h) ^ 2)))
 }
 
-# Fifteenth code snippet
+# Snippet 15
 performance <- data.frame()
 
 for (d in 1:12)
@@ -262,27 +261,27 @@ for (d in 1:12)
                                                               newdata = test.df))))
 }
 
-# Sixteenth code snippet
+# Snippet 16
 ggplot(performance, aes(x = Degree, y = RMSE, linetype = Data)) +
   geom_point() +
   geom_line()
 
-# Seventeenth code snippet
+# Snippet 17
 lm.fit <- lm(y ~ x)
 model.complexity <- sum(coef(lm.fit) ^ 2)
 
-# Eighteenth code snippet
+# Snippet 18
 lm.fit <- lm(y ~ x)
 l2.model.complexity <- sum(coef(lm.fit) ^ 2)
 l1.model.complexity <- sum(abs(coef(lm.fit)))
 
-# Ninteenth code snippet
+# Snippet 19
 set.seed(1)
 
 x <- seq(0, 1, by = 0.01)
 y <- sin(2 * pi * x) + rnorm(length(x), 0, 0.1)
 
-# Twentieth code snippet
+# Snippet 20
 x <- matrix(x)
 
 library('glmnet')
@@ -304,7 +303,7 @@ glmnet(x, y)
 #[54,] 1 0.58850 0.003920
 #[55,] 1 0.58850 0.003571
 
-# Twenty-first code snippet
+# Snippet 21
 set.seed(1)
 
 x <- seq(0, 1, by = 0.01)
@@ -330,7 +329,7 @@ rmse <- function(y, h)
   return(sqrt(mean((y - h) ^ 2)))
 }
 
-# Twenty-second code snippet
+# Snippet 22
 library('glmnet')
 
 glmnet.fit <- with(training.df, glmnet(poly(X, degree = 10), Y))
@@ -350,7 +349,7 @@ for (lambda in lambdas)
                                                            s = lambda)))))
 }
 
-# Twenty-third code snippet
+# Snippet 23
 ggplot(performance, aes(x = Lambda, y = RMSE)) +
   geom_point() +
   geom_line()
@@ -361,12 +360,12 @@ ggplot(performance, aes(x = Lambda, y = RMSE)) +
   geom_line() +
   scale_x_log10()
 
-# Twenty-fourth code snippet
+# Snippet 24
 best.lambda <- with(performance, Lambda[which(RMSE == min(RMSE))])
 
 glmnet.fit <- with(df, glmnet(poly(X, degree = 10), Y))
 
-# Twenty-fifth code snippet
+# Snippet 25
 coef(glmnet.fit, s = best.lambda)
 
 #11 x 1 sparse Matrix of class "dgCMatrix"
@@ -383,7 +382,7 @@ coef(glmnet.fit, s = best.lambda)
 #9 0.0000000
 #10 0.0000000
 
-# Twenty-sixth code snippet
+# Snippet 26
 ranks <- read.csv(file.path('data', 'oreilly.csv'),
                   stringsAsFactors = FALSE)
 
@@ -399,16 +398,16 @@ corpus <- tm_map(corpus, removeWords, stopwords('english'))
 
 dtm <- DocumentTermMatrix(corpus)
 
-# Twenty-seventh code snippet
+# Snippet 27
 x <- as.matrix(dtm)
 y <- rev(1:100)
 
-# Twenty-eighth code snippet
+# Snippet 28
 set.seed(1)
 
 library('glmnet')
 
-# Twenty-ninth code snippet
+# Snippet 29
 performance <- data.frame()
 
 for (lambda in c(0.1, 0.25, 0.5, 1, 2, 5))
@@ -436,25 +435,25 @@ for (lambda in c(0.1, 0.25, 0.5, 1, 2, 5))
   }
 }
 
-# Thirtieth code snippet
+# Snippet 30
 ggplot(performance, aes(x = Lambda, y = RMSE)) +
   stat_summary(fun.data = 'mean_cl_boot', geom = 'errorbar') +
   stat_summary(fun.data = 'mean_cl_boot', geom = 'point')
 
-# Thirty-first code snippet
+# Snippet 31
 y <- rep(c(1, 0), each = 50)
 
-# Thirty-second code snippet
+# Snippet 32
 regularized.fit <- glmnet(x, y, family = 'binomial')
 
-# Thirty-third code snippet
+# Snippet 33
 regularized.fit <- glmnet(x, y)
 
 regularized.fit <- glmnet(x, y, family = 'gaussian')
 
 regularized.fit <- glmnet(x, y, family = 'binomial')
 
-# Thirty-fourth code snippet
+# Snippet 34
 predict(regularized.fit, newx = x, s = 0.001)
 #1 4.884576
 #2 6.281354
@@ -464,7 +463,7 @@ predict(regularized.fit, newx = x, s = 0.001)
 #99 -5.677161
 #100 -4.956271
 
-# Thirty-fifth code snippet
+# Snippet 35
 ifelse(predict(regularized.fit, newx = x, s = 0.001) > 0, 1, 0)
 #1 1
 #2 1
@@ -474,7 +473,7 @@ ifelse(predict(regularized.fit, newx = x, s = 0.001) > 0, 1, 0)
 #99 0
 #100 0
 
-# Thirty-sixth code snippet
+# Snippet 36
 library('boot')
 
 inv.logit(predict(regularized.fit, newx = x, s = 0.001))
@@ -486,7 +485,7 @@ inv.logit(predict(regularized.fit, newx = x, s = 0.001))
 #99 0.003411583
 #100 0.006989922
 
-# Thirty-seventh code snippet
+# Snippet 37
 set.seed(1)
 
 performance <- data.frame()
@@ -516,7 +515,7 @@ for (i in 1:250)
   }
 }
 
-# Thirty-eighth code snippet
+# Snippet 38
 ggplot(performance, aes(x = Lambda, y = ErrorRate)) +
   stat_summary(fun.data = 'mean_cl_boot', geom = 'errorbar') +
   stat_summary(fun.data = 'mean_cl_boot', geom = 'point') +
