@@ -69,7 +69,7 @@ summary(lm(Y ~ X, data = df))
 #(Intercept) 0.94111 0.09057 10.39 <2e-16 ***
 #X -1.86189 0.15648 -11.90 <2e-16 ***
 #---
-#Signif. codes: 0 â€˜***â€™ 0.001 â€˜**â€™ 0.01 â€˜*â€™ 0.05 â€˜.â€™ 0.1 â€˜ â€™ 1
+#Signif. codes:  0 e***f 0.001 e**f 0.01 e*f 0.05 e.f 0.1 e
 #
 #Residual standard error: 0.4585 on 99 degrees of freedom
 #Multiple R-squared: 0.5885, Adjusted R-squared: 0.5843
@@ -100,7 +100,7 @@ summary(lm(Y ~ X + X2 + X3, data = df))
 #X2 -33.94179 0.89748 -37.819 < 2e-16 ***
 #X3 22.59349 0.58979 38.308 < 2e-16 ***
 #---
-#Signif. codes: 0 â€˜***â€™ 0.001 â€˜**â€™ 0.01 â€˜*â€™ 0.05 â€˜.â€™ 0.1 â€˜ â€™ 1
+#Signif. codes:  0 e***f 0.001 e**f 0.01 e*f 0.05 e.f 0.1 e f 1 
 #
 #Residual standard error: 0.1153 on 97 degrees of freedom
 #Multiple R-squared: 0.9745, Adjusted R-squared: 0.9737
@@ -119,73 +119,108 @@ df <- transform(df, X12 = X ^ 12)
 df <- transform(df, X13 = X ^ 13)
 df <- transform(df, X14 = X ^ 14)
 df <- transform(df, X15 = X ^ 15)
+df <- transform(df, X16 = X ^ 16)
+df <- transform(df, X17 = X ^ 17)
+df <- transform(df, X18 = X ^ 18)
+df <- transform(df, X19 = X ^ 19)
+df <- transform(df, X10 = X ^ 10)
+df <- transform(df, X21 = X ^ 21)
+df <- transform(df, X22 = X ^ 22)
+df <- transform(df, X23 = X ^ 23)
+df <- transform(df, X24 = X ^ 24)
+df <- transform(df, X25 = X ^ 25)
 
-summary(lm(Y ~ X + X2 + X3 + X4 + X5 + X6 + X7 + X8 + X9 + X10 + X11 + X12 + X13 + X14,
+summary(lm(Y ~ X + X2 + X3 + X4 + X5 + X6 + X7 + X8 + X9 + X10 + 
+               X11 + X12 + X13 + X14 + X15 + X16 + X17 + X18 + X19 + 
+	       X20 + X21 + X22 + X23 + X24 + X25,
            data = df))
 
 #Call:
-#lm(formula = Y ~ X + X2 + X3 + X4 + X5 + X6 + X7 + X8 + X9 +
-# X10 + X11 + X12 + X13 + X14, data = df)
+#lm(formula = Y ~ X + X2 + X3 + X4 + X5 + X6 + X7 + X8 + X9 + 
+#    X10 + X11 + X12 + X13 + X14 + X15 + X16 + X17 + X18 + X19 + 
+#    X20 + X21 + X22 + X23 + X24 + X25, data = df)
+#
 #
 #Residuals:
-# Min 1Q Median 3Q Max
-#-0.242662 -0.038179 0.002771 0.052484 0.210917
+#Min        1Q    Median        3Q       Max 
+#      -0.234800 -0.041481  0.002777  0.052896  0.209105 
 #
-#Coefficients: (1 not defined because of singularities)
+#Coefficients: (8 not defined because of singularities)
 # Estimate Std. Error t value Pr(>|t|)
-#(Intercept) -6.909e-02 8.413e-02 -0.821 0.414
-#X 1.494e+01 1.056e+01 1.415 0.161
-#X2 -2.609e+02 4.275e+02 -0.610 0.543
-#X3 3.764e+03 7.863e+03 0.479 0.633
-#X4 -3.203e+04 8.020e+04 -0.399 0.691
-#X5 1.717e+05 5.050e+05 0.340 0.735
-#X6 -6.225e+05 2.089e+06 -0.298 0.766
-#X7 1.587e+06 5.881e+06 0.270 0.788
-#X8 -2.889e+06 1.146e+07 -0.252 0.801
-#X9 3.752e+06 1.544e+07 0.243 0.809
-#X10 -3.398e+06 1.414e+07 -0.240 0.811
-#X11 2.039e+06 8.384e+06 0.243 0.808
-#X12 -7.276e+05 2.906e+06 -0.250 0.803
-#X13 1.166e+05 4.467e+05 0.261 0.795
-#X14 NA NA NA NA
+#(Intercept) -4.574e-02  8.987e-02  -0.509    0.612
+#X            4.062e+00  1.786e+01   0.227    0.821
+#X2           4.732e+02  1.131e+03   0.419    0.677
+#X3          -1.635e+04  3.198e+04  -0.511    0.610
+#X4           2.650e+05  5.012e+05   0.529    0.598
+#X5          -2.531e+06  4.878e+06  -0.519    0.605
+#X6           1.572e+07  3.151e+07   0.499    0.619
+#X7          -6.694e+07  1.405e+08  -0.477    0.635
+#X8           2.008e+08  4.406e+08   0.456    0.650
+#X9          -4.264e+08  9.746e+08  -0.437    0.663
+#X10          6.291e+08  1.490e+09   0.422    0.674
+#X11         -6.061e+08  1.480e+09  -0.410    0.683
+#X12          3.124e+08  7.821e+08   0.399    0.691
+#X13                 NA         NA      NA       NA
+#X14         -7.955e+07  2.066e+08  -0.385    0.701
+#X15                 NA         NA      NA       NA
+#X16          3.194e+07  8.501e+07   0.376    0.708
+#X17                 NA         NA      NA       NA
+#X18         -1.090e+07  2.950e+07  -0.370    0.713
+#X19                 NA         NA      NA       NA
+#X20          2.271e+06  6.218e+06   0.365    0.716
+#X21                 NA         NA      NA       NA
+#X22                 NA         NA      NA       NA
+#X23         -1.257e+05  3.494e+05  -0.360    0.720
+#X24                 NA         NA      NA       NA
+#X25                 NA         NA      NA       NA
 #
-#Residual standard error: 0.09079 on 87 degrees of freedom
-#Multiple R-squared: 0.9858, Adjusted R-squared: 0.9837
-#F-statistic: 465.2 on 13 and 87 DF, p-value: < 2.2e-16
+#Residual standard error: 0.09237 on 83 degrees of freedom
+#Multiple R-squared: 0.986,      Adjusted R-squared: 0.9831 
+#F-statistic: 343.8 on 17 and 83 DF,  p-value: < 2.2e-16 
 
 # Snippet 10
-summary(lm(Y ~ poly(X, degree = 14), data = df))
-
+summary(lm(Y ~ poly(X, degree = 25), data = df))
 #Call:
-#lm(formula = Y ~ poly(X, degree = 14), data = df)
+#lm(formula = Y ~ poly(X, degree = 25), data = df)
 #
 #Residuals:
-# Min 1Q Median 3Q Max
-#-0.232557 -0.042933 0.002159 0.051021 0.209959
+#      Min        1Q    Median        3Q       Max 
+# -0.211435 -0.040653  0.005966  0.040225  0.221436 
 #
 #Coefficients:
-# Estimate Std. Error t value Pr(>|t|)
-#(Intercept) 0.010167 0.009038 1.125 0.2638
-#poly(X, degree = 14)1 -5.455362 0.090827 -60.063 < 2e-16 ***
-#poly(X, degree = 14)2 -0.039389 0.090827 -0.434 0.6656
-#poly(X, degree = 14)3 4.418054 0.090827 48.642 < 2e-16 ***
-#poly(X, degree = 14)4 -0.047966 0.090827 -0.528 0.5988
-#poly(X, degree = 14)5 -0.706451 0.090827 -7.778 1.48e-11 ***
-#poly(X, degree = 14)6 -0.204221 0.090827 -2.248 0.0271 *
-#poly(X, degree = 14)7 -0.051341 0.090827 -0.565 0.5734
-#poly(X, degree = 14)8 -0.031001 0.090827 -0.341 0.7337
-#poly(X, degree = 14)9 0.077232 0.090827 0.850 0.3975
-#poly(X, degree = 14)10 0.048088 0.090827 0.529 0.5979
-#poly(X, degree = 14)11 0.129990 0.090827 1.431 0.1560
-#poly(X, degree = 14)12 0.024726 0.090827 0.272 0.7861
-#poly(X, degree = 14)13 0.023706 0.090827 0.261 0.7947
-#poly(X, degree = 14)14 0.087906 0.090827 0.968 0.3358
+#Estimate Std. Error t value Pr(>|t|)    
+#(Intercept)             1.017e-02  9.114e-03   1.116   0.2682    
+#poly(X, degree = 25)1  -5.455e+00  9.159e-02 -59.561  < 2e-16 ***
+#poly(X, degree = 25)2  -3.939e-02  9.159e-02  -0.430   0.6684    
+#poly(X, degree = 25)3   4.418e+00  9.159e-02  48.236  < 2e-16 ***
+#poly(X, degree = 25)4  -4.797e-02  9.159e-02  -0.524   0.6020    
+#poly(X, degree = 25)5  -7.065e-01  9.159e-02  -7.713 4.19e-11 ***
+#poly(X, degree = 25)6  -2.042e-01  9.159e-02  -2.230   0.0288 *  
+#poly(X, degree = 25)7  -5.134e-02  9.159e-02  -0.561   0.5768    
+#poly(X, degree = 25)8  -3.100e-02  9.159e-02  -0.338   0.7360    
+#poly(X, degree = 25)9   7.723e-02  9.159e-02   0.843   0.4018    
+#poly(X, degree = 25)10  4.809e-02  9.159e-02   0.525   0.6011    
+#poly(X, degree = 25)11  1.300e-01  9.159e-02   1.419   0.1600    
+#poly(X, degree = 25)12  2.473e-02  9.159e-02   0.270   0.7879    
+#poly(X, degree = 25)13  2.371e-02  9.159e-02   0.259   0.7965    
+#poly(X, degree = 25)14  8.791e-02  9.159e-02   0.960   0.3403    
+#poly(X, degree = 25)15 -1.346e-02  9.159e-02  -0.147   0.8836    
+#poly(X, degree = 25)16 -2.613e-05  9.159e-02   0.000   0.9998    
+#poly(X, degree = 25)17  3.501e-02  9.159e-02   0.382   0.7034    
+#poly(X, degree = 25)18 -1.372e-01  9.159e-02  -1.498   0.1384    
+#poly(X, degree = 25)19 -6.913e-02  9.159e-02  -0.755   0.4528    
+#poly(X, degree = 25)20 -6.793e-02  9.159e-02  -0.742   0.4606    
+#poly(X, degree = 25)21 -1.093e-01  9.159e-02  -1.193   0.2365    
+#poly(X, degree = 25)22  1.367e-01  9.159e-02   1.493   0.1397    
+#poly(X, degree = 25)23 -3.921e-02  9.159e-02  -0.428   0.6698    
+#poly(X, degree = 25)24 -5.032e-02  9.159e-02  -0.549   0.5844    
+#poly(X, degree = 25)25  1.262e-01  9.159e-02   1.378   0.1722    
 #---
-#Signif. codes: 0 â€˜***â€™ 0.001 â€˜**â€™ 0.01 â€˜*â€™ 0.05 â€˜.â€™ 0.1 â€˜ â€™ 1
+#Signif. codes:  0 e***f 0.001 e**f 0.01 e*f 0.05 e.f 0.1 e f 1 
 #
-#Residual standard error: 0.09083 on 86 degrees of freedom
-#Multiple R-squared: 0.986, Adjusted R-squared: 0.9837
-#F-statistic: 431.7 on 14 and 86 DF, p-value: < 2.2e-16
+#Residual standard error: 0.09159 on 75 degrees of freedom
+#Multiple R-squared: 0.9876,     Adjusted R-squared: 0.9834 
+#F-statistic: 238.1 on 25 and 75 DF,  p-value: < 2.2e-16 
 
 # Snippet 11
 poly.fit <- lm(Y ~ poly(X, degree = 1), data = df)
