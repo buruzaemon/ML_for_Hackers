@@ -375,13 +375,10 @@ performance <- data.frame()
 
 for (lambda in lambdas)
 {
+  h <- with(test.df, predict(glmnet.fit, poly(X, degree = 10), s = lambda)) 
   performance <- rbind(performance,
                        data.frame(Lambda = lambda,
-                                  RMSE = rmse(test.y,
-                                              with(test.df,
-                                                   predict(glmnet.fit,
-                                                           poly(X, degree = 10),
-                                                           s = lambda)))))
+                                  RMSE = rmse(test.y, h)))
 }
 
 # Snippet 23
@@ -404,18 +401,18 @@ glmnet.fit <- with(df, glmnet(poly(X, degree = 10), Y))
 coef(glmnet.fit, s = best.lambda)
 
 #11 x 1 sparse Matrix of class "dgCMatrix"
-# 1
-#(Intercept) 0.0101667
-#1 -5.2132586
-#2 0.0000000
-#3 4.1759498
-#4 0.0000000
-#5 -0.4643476
-#6 0.0000000
-#7 0.0000000
-#8 0.0000000
-#9 0.0000000
-#10 0.0000000
+#                      1
+# (Intercept)  0.0101667
+# 1           -5.2132586
+# 2            .        
+# 3            4.1759498
+# 4            .        
+# 5           -0.4643476
+# 6            .        
+# 7            .        
+# 8            .        
+# 9            .        
+# 10           .        
 
 # Snippet 26
 ranks <- read.csv(file.path('data', 'oreilly.csv'),
