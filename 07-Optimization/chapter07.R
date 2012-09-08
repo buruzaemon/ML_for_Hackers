@@ -17,20 +17,20 @@
 # working directory for the console to whereever you have saved this file prior to running.
 # Otherwise you will see errors when loading data or saving figures!
 
-# First code snippet
+# Snippet 1
 height.to.weight <- function(height, a, b)
 {
   return(a + b * height)
 }
 
-# Second code snippet
+# Snippet 2
 heights.weights <- read.csv(file.path('data', '01_heights_weights_genders.csv'))
 
 coef(lm(Weight ~ Height, data = heights.weights))
 #(Intercept) Height
 #-350.737192 7.717288
 
-# Third code snippet
+# Snippet 3
 squared.error <- function(heights.weights, a, b)
 {
   predictions <- with(heights.weights, height.to.weight(Height, a, b))
@@ -38,7 +38,7 @@ squared.error <- function(heights.weights, a, b)
   return(sum(errors ^ 2))
 }
 
-# Fourth code snippet
+# Snippet 4
 for (a in seq(-1, 1, by = 1))
 {
   for (b in seq(-1, 1, by = 1))
@@ -47,7 +47,7 @@ for (a in seq(-1, 1, by = 1))
   }
 }
 
-# Fifth code snippet
+# Snippet 5
 optim(c(0, 0),
       function (x)
       {
@@ -69,16 +69,16 @@ optim(c(0, 0),
 #$message
 #NULL
 
-# Sixth code snippet
+# Snippet 6
 a.error <- function(a)
 {
   return(squared.error(heights.weights, a, 0))
 }
 
-# Seventh code snippet
+# Snippet 7
 curve(sapply(x, function (a) {a.error(a)}), from = -1000, to = 1000)
 
-# Eighth code snippet
+# Snippet 8
 b.error <- function(b)
 {
   return(squared.error(heights.weights, 0, b))
@@ -86,7 +86,7 @@ b.error <- function(b)
 
 curve(sapply(x, function (b) {b.error(b)}), from = -1000, to = 1000)
 
-# Ninth code snippet
+# Snippet 9
 ridge.error <- function(heights.weights, a, b, lambda)
 {
   predictions <- with(heights.weights, height.to.weight(Height, a, b))
@@ -94,7 +94,7 @@ ridge.error <- function(heights.weights, a, b, lambda)
   return(sum(errors ^ 2) + lambda * (a ^ 2 + b ^ 2))
 }
 
-# Tenth code snippet
+# Snippet 10
 lambda <- 1
 
 optim(c(0, 0),
@@ -119,7 +119,7 @@ optim(c(0, 0),
 #$message
 #NULL
 
-# Eleventh code snippet
+# Snippet 11
 a.ridge.error <- function(a, lambda)
 {
   return(ridge.error(heights.weights, a, 0, lambda))
@@ -132,7 +132,7 @@ b.ridge.error <- function(b, lambda)
 }
 curve(sapply(x, function (b) {b.ridge.error(b, lambda)}), from = -1000, to = 1000)
 
-# Twelfth code snippet
+# Snippet 12
 absolute.error <- function(heights.weights, a, b)
 {
   predictions <- with(heights.weights, height.to.weight(Height, a, b))
@@ -140,7 +140,7 @@ absolute.error <- function(heights.weights, a, b)
   return(sum(abs(errors)))
 }
 
-# Thirteenth code snippet
+# Snippet 13
 a.absolute.error <- function(a)
 {
   return(absolute.error(heights.weights, a, 0))
@@ -148,7 +148,7 @@ a.absolute.error <- function(a)
 
 curve(sapply(x, function (a) {a.absolute.error(a)}), from = -1000, to = 1000)
 
-# Fourteenth code snippet
+# Snippet 14
 english.letters <- c('a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k',
                      'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v',
                      'w', 'x', 'y', 'z')
@@ -165,7 +165,7 @@ for (index in 1:length(english.letters))
 
 print(caesar.cipher)
 
-# Fifteenth code snippet
+# Snippet 15
 apply.cipher.to.string <- function(string, cipher)
 {
   output <- ''
@@ -192,7 +192,7 @@ apply.cipher.to.text <- function(text, cipher)
 
 apply.cipher.to.text(c('sample', 'text'), caesar.cipher)
 
-# Sixteenth code snippet
+# Snippet 16
 generate.random.cipher <- function()
 {
   cipher <- list()
@@ -234,17 +234,17 @@ propose.modified.cipher <- function(cipher)
   return(modify.cipher(cipher, input, output))
 }
 
-# Seventeenth code snippet
+# Snippet 17
 load(file.path('data', 'lexical_database.Rdata'))
 
-# Eighteength code snippet
+# Snippet 18
 lexical.database[['a']]
 lexical.database[['the']]
 lexical.database[['he']]
 lexical.database[['she']]
 lexical.database[['data']]
 
-# Nineteenth code snippet
+# Snippet 19
 one.gram.probability <- function(one.gram, lexical.database = list())
 {
   lexical.probability <- lexical.database[[one.gram]]
@@ -259,7 +259,7 @@ one.gram.probability <- function(one.gram, lexical.database = list())
   }
 }
 
-# Twentieth code snippet
+# Snippet 20
 log.probability.of.text <- function(text, cipher, lexical.database = list())
 {
   log.probability <- 0.0
@@ -274,7 +274,7 @@ log.probability.of.text <- function(text, cipher, lexical.database = list())
   return(log.probability)
 }
 
-# Twenty-first code snippet
+# Snippet 21
 metropolis.step <- function(text, cipher, lexical.database = list())
 {
   proposed.cipher <- propose.modified.cipher(cipher)
@@ -302,13 +302,13 @@ metropolis.step <- function(text, cipher, lexical.database = list())
   }
 }
 
-# Twenty-second code snippet
+# Snippet 22
 decrypted.text <- c('here', 'is', 'some', 'sample', 'text')
 
-# Twenty-third code snippet
+# Snippet 23
 encrypted.text <- apply.cipher.to.text(decrypted.text, caesar.cipher)
 
-# Twenty-fourth code snippet
+# Snippet 24
 set.seed(1)
 
 cipher <- generate.random.cipher()
