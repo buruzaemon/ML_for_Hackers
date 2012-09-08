@@ -415,8 +415,7 @@ coef(glmnet.fit, s = best.lambda)
 # 10           .        
 
 # Snippet 26
-ranks <- read.csv(file.path('data', 'oreilly.csv'),
-                  stringsAsFactors = FALSE)
+ranks <- read.csv(file.path('data', 'oreilly.csv'), stringsAsFactors = FALSE)
 
 library('tm')
 
@@ -468,9 +467,10 @@ for (lambda in c(0.1, 0.25, 0.5, 1, 2, 5))
 }
 
 # Snippet 30
-ggplot(performance, aes(x = Lambda, y = RMSE)) +
+s30.plot <- ggplot(performance, aes(x = Lambda, y = RMSE)) +
   stat_summary(fun.data = 'mean_cl_boot', geom = 'errorbar') +
   stat_summary(fun.data = 'mean_cl_boot', geom = 'point')
+ggsave(plot=s30.plot, file="images/Snippet_30.pdf", width=14,height=8.5)
 
 # Snippet 31
 y <- rep(c(1, 0), each = 50)
@@ -536,7 +536,7 @@ for (i in 1:250)
   {
     glm.fit <- glmnet(training.x, training.y, family = 'binomial')
     
-    predicted.y <- ifelse(predict(glm.fit, test.x, s = lambda) > 0, 1, 0)
+    predicted.y <- inv.logit(predict(glm.fit, newx = test.x, s = lambda))
     
     error.rate <- mean(predicted.y != test.y)
 
@@ -548,7 +548,8 @@ for (i in 1:250)
 }
 
 # Snippet 38
-ggplot(performance, aes(x = Lambda, y = ErrorRate)) +
+s38.plot <- ggplot(performance, aes(x = Lambda, y = ErrorRate)) +
   stat_summary(fun.data = 'mean_cl_boot', geom = 'errorbar') +
   stat_summary(fun.data = 'mean_cl_boot', geom = 'point') +
   scale_x_log10()
+ggsave(plot=s38.plot, file="images/Snippet_38.pdf", width=14,height=8.5)
