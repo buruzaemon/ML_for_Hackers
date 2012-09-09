@@ -382,15 +382,17 @@ for (lambda in lambdas)
 }
 
 # Snippet 23
-ggplot(performance, aes(x = Lambda, y = RMSE)) +
+s23.plot <- ggplot(performance, aes(x = Lambda, y = RMSE)) +
   geom_point() +
   geom_line()
+ggsave(plot=s23.plot, file="images/Fig_6-7.pdf", width=14, height=8.5)
 
 # Alternative plot not shown in the book.
-ggplot(performance, aes(x = Lambda, y = RMSE)) +
+s23a.plot <- ggplot(performance, aes(x = Lambda, y = RMSE)) +
   geom_point() +
   geom_line() +
   scale_x_log10()
+ggsave(plot=s23a.plot, file="images/Fig_6-7_alt.pdf", width=14, height=8.5)
 
 # Snippet 24
 best.lambda <- with(performance, Lambda[which(RMSE == min(RMSE))])
@@ -470,7 +472,7 @@ for (lambda in c(0.1, 0.25, 0.5, 1, 2, 5))
 s30.plot <- ggplot(performance, aes(x = Lambda, y = RMSE)) +
   stat_summary(fun.data = 'mean_cl_boot', geom = 'errorbar') +
   stat_summary(fun.data = 'mean_cl_boot', geom = 'point')
-ggsave(plot=s30.plot, file="images/Snippet_30.pdf", width=14,height=8.5)
+ggsave(plot=s30.plot, file="images/Fig_6-8.pdf", width=14, height=8.5)
 
 # Snippet 31
 y <- rep(c(1, 0), each = 50)
@@ -536,7 +538,7 @@ for (i in 1:250)
   {
     glm.fit <- glmnet(training.x, training.y, family = 'binomial')
     
-    predicted.y <- inv.logit(predict(glm.fit, newx = test.x, s = lambda))
+    predicted.y <- ifelse(predict(glm.fit, test.x, s = lambda) > 0, 1, 0)
     
     error.rate <- mean(predicted.y != test.y)
 
@@ -552,4 +554,4 @@ s38.plot <- ggplot(performance, aes(x = Lambda, y = ErrorRate)) +
   stat_summary(fun.data = 'mean_cl_boot', geom = 'errorbar') +
   stat_summary(fun.data = 'mean_cl_boot', geom = 'point') +
   scale_x_log10()
-ggsave(plot=s38.plot, file="images/Snippet_38.pdf", width=14,height=8.5)
+ggsave(plot=s38.plot, file="images/Fig_6-9.pdf", width=14, height=8.5)
