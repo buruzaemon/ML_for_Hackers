@@ -18,5 +18,5 @@
    - `Lambda`: hyperparameter of model that controls the values of the other model parameters
 
 ### Observations
-- *regularization* gives higher performance with a trade-off with a simple regression model for a more complex one.
+- *regularization* gives higher performance via a trade-off with a simple regression model for a more complex one.
 - Switching from a prediction (*regression*) model to classification one gives better performance, since the requirements for binary distinction are weaker than that for predicting rank.
