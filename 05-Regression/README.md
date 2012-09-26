@@ -11,7 +11,7 @@
 - During the exploratory phase of modelling, determine if the dependent variable Y has a linear relation with independent variable X.
    - use `ggplot` with `geom_smooth(method="lm")` to see if the scatterplot could contain a regression line for predicting Y from X
    - use `plot(fitted.regression, which=1` to make sure that the residuals plot is irregular and random
-- If such plots look nonsensical or impenetrable, try a density plot of log-transformed values.
+- If such plots look nonsensical or impenetrable, try a density plot of log-transformed values (`aed(x=log(...), y=log(...)` with `geom_density()`).
 - In the `summary` of a linear regression, the `t value` column of the `Coeffecients` section is the number of standard deviations (`Std. Error` column value) the `Estimate` is away from 0. The higher this `t value` is, the greater the confidence in this factor actually predicting the output. A value of 2 or greater is the general measure. 0 would mean that there is no correlation between the predictor and output.
 - The `Residual standard error` is the RMSE for the model used.
 - The `Multiple R-squared` value is the R squared value. 
