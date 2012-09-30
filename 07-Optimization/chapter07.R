@@ -267,8 +267,7 @@ log.probability.of.text <- function(text, cipher, lexical.database = list())
   for (string in text)
   {
     decrypted.string <- apply.cipher.to.string(string, cipher)
-    log.probability <- log.probability +
-    log(one.gram.probability(decrypted.string, lexical.database))
+    log.probability <- log.probability + log(one.gram.probability(decrypted.string, lexical.database))
   }
   
   return(log.probability)

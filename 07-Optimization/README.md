@@ -16,19 +16,24 @@
     sq.error <- function(df, a, b)
     {
         predictions <- with(df, line.func(X.in.df, a, b))
-	errors <- with(df, Y.in.df - predictions)
-	return(sum(errors^2))
+        errors <- with(df, Y.in.df - predictions)
+        return(sum(errors^2))
     }
 
     optim( c(0, 0,
            function(x) 
-	   {
-	       sq.error(df, a, b)
-	   } )
+           {
+               sq.error(df, a, b)
+           } )
 ```
 - `optim(...)$par` yields the values that optimize the given function.
 - `optim(...)$convergence` will be `0` if a set of parameters optimizing the given function are found.
 - `optim(...)$message` provides clues when the optimization cannot be done.
+- *Ridge regression* goes beyond plain-vanilla least squares regression by considering the *size* of the regression coefficients, and using *lambda* as a hyperparameter to minimize the prediction error to avoid over-fitting.
+- `lambda` can be calculated by cross-validation (c.f. Ch. 6).
+- `.Machine` can be used to reference machine-dependent sizes, minima and maxima, like `.Machine$double.eps` for lowest possible probability.
+- `runif(n)` returns a vector with `n` random deviates; good for generating random probabilities.
+
 
 ### Observations
 - In general, algorithms in machine learning can be seen as *optimization problems*.
