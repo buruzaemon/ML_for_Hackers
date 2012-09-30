@@ -5,7 +5,7 @@
    1. vector of default values as starting points for parameters in question (`c(0, 0)`)
    2. function to optimize that accepts a vector of arguments
 - An example:
-
+```
     df <- read.csv('some/csv/data.csv')
     
     line.func <- function(x, a, b)
@@ -25,7 +25,10 @@
 	   {
 	       sq.error(df, a, b)
 	   } )
- 
+```
+- `optim(...)$par` yields the values that optimize the given function.
+- `optim(...)$convergence` will be `0` if a set of parameters optimizing the given function are found.
+- `optim(...)$message` provides clues when the optimization cannot be done.
 
 ### Observations
 - In general, algorithms in machine learning can be seen as *optimization problems*.
