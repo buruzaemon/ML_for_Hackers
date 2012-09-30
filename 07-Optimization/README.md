@@ -1,9 +1,10 @@
 # NOTES: Ch. 7 - Optimization: Breaking Codes
 
 ### Tips & Tricks 
-- `optim`
+- `optim` takes the following arguments:
    1. vector of default values as starting points for parameters in question (`c(0, 0)`)
    2. function to optimize that accepts a vector of arguments
+- An example:
 
     df <- read.csv('some/csv/data.csv')
     
