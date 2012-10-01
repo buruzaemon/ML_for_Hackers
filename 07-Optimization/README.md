@@ -37,5 +37,8 @@
 
 ### Observations
 - In general, algorithms in machine learning can be seen as *optimization problems*.
-- *Optimation* attempts to minimize some measure of prediction error in a regression model.
+- *Optimization* attempts to minimize some measure of prediction error in a regression model.
 - `lm` uses its own optimization logic, specific to *linear* regression (c.f. `coef`).
+- Bit puzzled as to why the authors would spend the first half of the chapter discussing `optim`, only to change the topic to using Metropolis method to soften greediness in optimizing algorithm for choosing alternate ciphers.
+- Keep in mind that the Metropolis implementation listed is non-greedy, and will just as likely move away from a correct guess as move towards it.
+- A more intelligent approach may be to consider using [simulated annealing](http://mathworld.wolfram.com/SimulatedAnnealing.html) to gradually make the algorithm greedier over time; or to use an algorithm that pays more heed to the nature of the English language and weighs probabilities of word sequences, rather than just looking at single word-grams in isolation.

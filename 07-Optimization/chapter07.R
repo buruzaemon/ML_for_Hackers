@@ -278,16 +278,17 @@ metropolis.step <- function(text, cipher, lexical.database = list())
 {
   proposed.cipher <- propose.modified.cipher(cipher)
   
-  lp1 <- log.probability.of.text(text, cipher, lexical.database)
-  lp2 <- log.probability.of.text(text, proposed.cipher, lexical.database)
+  logp1 <- log.probability.of.text(text, cipher, lexical.database)
+  logp2 <- log.probability.of.text(text, proposed.cipher, lexical.database)
   
-  if (lp2 > lp1)
+  if (logp2 > logp1)
   {
     return(proposed.cipher)
   }
   else
   {
-    a <- exp(lp2 - lp1)
+    # don't forget, we are working with log probabilities
+    a <- exp(logp2 - logp1)
     x <- runif(1)
     
     if (x < a)
