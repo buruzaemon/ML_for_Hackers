@@ -19,30 +19,30 @@
 
 library('ggplot2')
 
-# First code snippet
+# Snippet 1
 prices <- read.csv(file.path('data', 'stock_prices.csv'))
 
 prices[1, ]
 # Date Stock Close
 #1 2011-05-25 DTE 51.12
 
-# Second code snippet
+# Snippet 2
 library('lubridate')
 
 prices <- transform(prices, Date = ymd(Date))
 
-# Third code snippet
+# Snippet 3
 library('reshape')
 
 date.stock.matrix <- cast(prices, Date ~ Stock, value = 'Close')
 
-# Fourth code snippet
+# Snippet 4
 prices <- subset(prices, Date != ymd('2002-02-01'))
 prices <- subset(prices, Stock != 'DDR')
 
 date.stock.matrix <- cast(prices, Date ~ Stock, value = 'Close')
 
-# Fifth code snippet
+# Snippet 5
 cor.matrix <- cor(date.stock.matrix[,2:ncol(date.stock.matrix)])
 correlations <- as.numeric(cor.matrix)
 
@@ -51,10 +51,10 @@ ggplot(data.frame(Correlation = correlations),
   geom_density() +
   opts(legend.position = 'none')
 
-# Sixth code snippet
+# Snippet 6
 pca <- princomp(date.stock.matrix[,2:ncol(date.stock.matrix)])
 
-# Seventh code snippet
+# Snippet 7
 #Call:
 #princomp(x = date.stock.matrix[, 2:ncol(date.stock.matrix)])
 #Standard deviations:
@@ -68,10 +68,10 @@ pca <- princomp(date.stock.matrix[,2:ncol(date.stock.matrix)])
 #0.8583681 0.7390626 0.4347983
 #24 variables and 2366 observations.
 
-# Eighth code snippet
+# Snippet 8
 principal.component <- pca$loadings[, 1]
 
-# Ninth code snippet
+# Snippet 9
 loadings <- as.numeric(principal.component)
 
 ggplot(data.frame(Loading = loadings),
@@ -79,22 +79,22 @@ ggplot(data.frame(Loading = loadings),
   geom_density() +
   opts(legend.position = 'none')
 
-# Tenth code snippet
+# Snippet 10
 market.index <- predict(pca)[, 1]
 
-# Eleventh code snippet
+# Snippet 11
 dji.prices <- read.csv(file.path('data', 'DJI.csv'))
 dji.prices <- transform(dji.prices, Date = ymd(Date))
 
-# Twelfth code snippet
+# Snippet 12
 dji.prices <- subset(dji.prices, Date > ymd('2001-12-31'))
 dji.prices <- subset(dji.prices, Date != ymd('2002-02-01'))
 
-# Thirteenth code snippet
+# Snippet 13
 dji <- with(dji.prices, rev(Close))
 dates <- with(dji.prices, rev(Date))
 
-# Fourteenth code snippet
+# Snippet 14
 comparison <- data.frame(Date = dates,
                          MarketIndex = market.index,
                          DJI = dji)
@@ -103,15 +103,15 @@ ggplot(comparison, aes(x = MarketIndex, y = DJI)) +
   geom_point() +
   geom_smooth(method = 'lm', se = FALSE)
 
-# Fifteenth code snippet
+# Snippet 15
 comparison <- transform(comparison, MarketIndex = -1 * MarketIndex)
 
-# Sixteenth code snippet
+# Snippet 16
 ggplot(comparison, aes(x = MarketIndex, y = DJI)) +
   geom_point() +
   geom_smooth(method = 'lm', se = FALSE)
 
-# Seventeenth code snippet
+# Snippet 17
 alt.comparison <- melt(comparison, id.vars = 'Date')
 
 names(alt.comparison) <- c('Date', 'Index', 'Price')
@@ -121,7 +121,7 @@ ggplot(alt.comparison,
   geom_point() +
   geom_line()
 
-# Eighteenth code snippet
+# Snippet 18
 comparison <- transform(comparison, MarketIndex = scale(MarketIndex))
 comparison <- transform(comparison, DJI = scale(DJI))
 
