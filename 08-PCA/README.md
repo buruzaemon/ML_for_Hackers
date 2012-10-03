@@ -21,6 +21,5 @@
 ```
                              
 - Interesting [question on `princomp` function in R](http://stats.stackexchange.com/questions/32901/do-components-of-pca-really-represent-percentage-of-variance-can-they-sum-to-mo) on Cross Validated @StackExchange
-- Yet another interesting question re: (PCA on Correlation or Covariance?)[http://stats.stackexchange.com/questions/53/pca-on-correlation-or-covariance]
-- 
+- Yet another interesting question re: [PCA on Correlation or Covariance?](http://stats.stackexchange.com/questions/53/pca-on-correlation-or-covariance)
 
