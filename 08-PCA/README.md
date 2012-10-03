@@ -8,7 +8,7 @@
 
 ### Observations
 - Steps for using PCA
-  1. calculate correlations between columns in data matrix
+  1. calculate correlations between columns in data matrix with `cor`
   2. visually inspect a density plot; iff correlations are mostly positive, then PCA should work for given data set
   3. calculate principal components matrix with `princomp`
   4. confirm standard deviations and proportions of variance per component; 1st one should be the one to choose, as the components are already returned in order of decreasing importance (eigenvalue???)
