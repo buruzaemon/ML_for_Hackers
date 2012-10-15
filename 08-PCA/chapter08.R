@@ -37,6 +37,9 @@ library('reshape')
 date.stock.matrix <- cast(prices, Date ~ Stock, value = 'Close')
 
 # Snippet 4
+# Examining prices at this point, it appears that there is only
+# one closing price for 2002-02-01: DDR. Hence, we will throw
+# out that one date, and also throw out DDR as well
 prices <- subset(prices, Date != ymd('2002-02-01'))
 prices <- subset(prices, Stock != 'DDR')
 
