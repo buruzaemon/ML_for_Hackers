@@ -25,7 +25,7 @@ library('ggplot2')
 
 # Some sample code to understand matrix multiplication
 
-# First code snippet.
+# Snippet 1
 set.seed(851982) # To make sure results are consistent
 ex.matrix <- matrix(sample(c(-1, 0, 1), 24, replace = TRUE),
                     nrow = 4,
@@ -33,7 +33,7 @@ ex.matrix <- matrix(sample(c(-1, 0, 1), 24, replace = TRUE),
 row.names(ex.matrix) <- c('A', 'B', 'C', 'D')
 colnames(ex.matrix) <- c('P1', 'P2', 'P3', 'P4', 'P5', 'P6')
 
-# Second code snippet
+# Snippet 2
 ex.matrix
 
 #P1 P2 P3 P4 P5 P6
@@ -44,7 +44,7 @@ ex.matrix
 
 # Convert matrix to customer-by-customer matrix
 
-# Third code snippet
+# Snippet 3
 t(ex.matrix)
 
 #A B C D
@@ -55,7 +55,7 @@ t(ex.matrix)
 #P5 0 1 -1 0
 #P6 0 0 1 0
 
-# Fourth code snippet
+# Snippet 4
 # Calculate distance matrix
 ex.mult <- ex.matrix %*% t(ex.matrix)
 ex.mult
@@ -66,7 +66,7 @@ ex.mult
 #C -1 0 3 -1
 #D 1 -1 -1 3
 
-# Fifth code snippet
+# Snippet 5
 sqrt(sum((ex.mult[1, ] - ex.mult[4, ]) ^ 2))
 #[1] 2.236068
 
@@ -78,13 +78,13 @@ ex.dist
 #C 5.477226 5.000000
 #D 2.236068 6.782330 6.082763
 
-# Sixth code snippet
+# Snippet 6
 # Visualize clusters
 ex.mds <- cmdscale(ex.dist)
 plot(ex.mds, type = 'n')
 text(ex.mds, c('A', 'B', 'C', 'D'))
 
-# Seventh code snippet
+# Snippet 7
 library('foreign')
 library('ggplot2')
 
@@ -100,7 +100,7 @@ data.files
 #[9] "sen109kh.dta" "sen110kh_2008.dta"
 #[11] "sen111kh.dta"
 
-# Eighth code snippet
+# Snippet 8
 # Add all roll call vote data frames to a single list
 rollcall.data <- lapply(data.files,
                         function(f)
@@ -108,7 +108,7 @@ rollcall.data <- lapply(data.files,
                           read.dta(file.path(data.dir, f), convert.factors = FALSE)
                         })
 
-# Ninth code snippet
+# Snippet 9
 dim(rollcall.data[[1]])
 #[1] 103 647
 
@@ -121,7 +121,7 @@ head(rollcall.data[[1]])
 #5 101 14907 81 0 ALASKA 200 0 1 MURKOWSKI, 1 1 1 ... 6
 #6 101 14502 61 0 ARIZONA 100 0 1 DECONCINI, 1 1 1 ... 6
 
-# Tenth code snippet
+# Snippet 10
 # This function takes a single data frame of roll call votes and returns a 
 # Senator-by-vote matrix.
 rollcall.simplified <- function(df)
@@ -140,7 +140,7 @@ rollcall.simplified <- function(df)
 
 rollcall.simple <- lapply(rollcall.data, rollcall.simplified)
 
-# Eleventh code snippet
+# Snippet 11
 # Multiply the matrix by its transpose to get Senator-to-Senator tranformation, 
 # and calculate the Euclidan distance between each Senator.
 rollcall.dist <- lapply(rollcall.simple, function(m) dist(m %*% t(m)))
@@ -149,7 +149,7 @@ rollcall.dist <- lapply(rollcall.simple, function(m) dist(m %*% t(m)))
 rollcall.mds <- lapply(rollcall.dist,
                        function(d) as.data.frame((cmdscale(d, k = 2)) * -1))
 
-# Twelfth code snippet
+# Snippet 12
 # Add identification information about Senators back into MDS data frames
 congresses <- 101:111
 
@@ -178,7 +178,7 @@ head(rollcall.mds[[1]])
 #6 -843.58421 220.1038 DECONCINI 100 101
 #7 1594.50998 225.8166 MCCAIN 200 101
 
-# Thirteenth code snippet
+# Snippet 13
 # Create a plot of just the 110th Congress
 cong.110 <- rollcall.mds[[9]]
 
@@ -208,7 +208,7 @@ print(base.110 + geom_text(aes(color = party,
                                label = cong.110$name,
                                size = 2)))
 
-# Fourteenth code snippet
+# Snippet 14
 # Create a single visualization of MDS for all Congresses on a grid
 all.mds <- do.call(rbind, rollcall.mds)
 all.plot <- ggplot(all.mds, aes(x = x, y = y)) +
