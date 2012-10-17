@@ -34,6 +34,9 @@ prices <- transform(prices, Date = ymd(Date))
 # Snippet 3
 library('reshape')
 
+# prices is already in a molten state,
+# with Date and Stock as identifier variables
+# and Close value as measured variables
 date.stock.matrix <- cast(prices, Date ~ Stock, value = 'Close')
 
 # Snippet 4

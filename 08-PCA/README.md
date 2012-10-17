@@ -3,8 +3,10 @@
 ### Tips & Tricks 
 - As you cannot assume data type when reading in data files, you will often have to transform data before you can use it.
 - `lubridate` package's `ymd` parses date and transforms to a formatted string representation in the given timezone (default to UTC).
-- `reshape` package's `cast` will alter a data frame into the specified shape or aggregated form.
 - `reshape` package's `melt` melts an object (data.frame, array, list) into a form that is easy to `cast`.
+   - specify which fields are fixed (Identifier variables) and numerical (Measured variables)
+- `reshape` package's `cast` will alter a data frame into the specified shape or aggregated form.
+   - think of pivot tables
 
 ### Observations
 - Steps for using PCA
