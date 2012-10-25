@@ -7,6 +7,9 @@
    - specify which fields are fixed (Identifier variables) and numerical (Measured variables)
 - `reshape` package's `cast` will alter a data frame into the specified shape or aggregated form.
    - think of pivot tables
+- `cor` argument `method` defaults to `pearson`, but also accepts `spearman` and `kendall`
+   - `pearson` is the default, handles most data distributions well if there are few outliers
+   - `spearman` and `kendall` are more robust than `pearson` when the data distribution is non-normal and/or skewed; with outliers; and is of ordinal (e.g., satisfaction on scale of 1-5, etc.) rather than interval (e.g., temperature) nature
 
 ### Observations
 - Steps for using PCA
