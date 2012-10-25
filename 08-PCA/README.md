@@ -10,6 +10,7 @@
 - `cor` argument `method` defaults to `pearson`, but also accepts `spearman` and `kendall`
    - `pearson` is the default, handles most data distributions well if there are few outliers
    - `spearman` and `kendall` are more robust than `pearson` when the data distribution is non-normal and/or skewed; with outliers; and is of ordinal (e.g., satisfaction on scale of 1-5, etc.) rather than interval (e.g., temperature) nature
+   - *always* draw a data plot to see how the data is distributed; based on this, choose the correct `cor` method
    - c.f. [What could cause big differences in correlation coefficient between Pearson's and Spearman's correlation for a given dataset?](http://stats.stackexchange.com/questions/11746/what-could-cause-big-differences-in-correlation-coefficient-between-pearsons-an?lq=1)
 
 ### Observations
