@@ -14,6 +14,13 @@
    - c.f. [What could cause big differences in correlation coefficient between Pearson's and Spearman's correlation for a given dataset?](http://stats.stackexchange.com/questions/11746/what-could-cause-big-differences-in-correlation-coefficient-between-pearsons-an?lq=1)
 
 ### Observations
+- `prcomp` vs `princomp`
+  - `prcomp` 
+     1. uses singular value decomposition, and not `eigen`, on the covariance matrix
+     2. variances computed with the usual `n-1`, *unlike* `princomp`
+     3. `prcomp` is the preferred method for numerical accuracy!
+  - `princomp` 
+     1. uses `eigen` on the covariance matrix
 - Steps for using PCA
   1. calculate correlations between columns in data matrix with `cor`
   2. visually inspect a density plot; iff correlations are mostly positive, then PCA should work for given data set
