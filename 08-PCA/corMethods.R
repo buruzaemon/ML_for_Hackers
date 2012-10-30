@@ -73,10 +73,8 @@ df <- rbind(df.pearson, df.kendall, df.spearman)
 #ggplot(df, aes(x = Correlation, fill = 1)) +
 #  geom_density() +
 #  facet_grid(Method ~ .)
-method.comparison <- ggplot(df, aes(x = Correlation, fill = 1)) +
+ggplot(df, aes(x = Correlation, fill = 1)) +
   geom_density() +
   facet_grid(Method ~ .) +
   opts(title = "cor method comparison: Pearson, Kendall & Spearman")
-
-ggsave(plot = method.comparison,
-  filename = file.path("images", "00_cor_method_comparison.pdf")
+ggsave(filename = file.path("images", "00_cor_method_comparison.pdf"))
