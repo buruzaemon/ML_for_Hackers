@@ -16,14 +16,22 @@
 ### Observations
 - `prcomp` vs `princomp`
   - `prcomp` 
-     1. uses singular value decomposition, and not `eigen`, on the covariance matrix
-     2. variances computed with the usual `n-1`, *unlike* `princomp`
-     3. `prcomp` is the preferred method for numerical accuracy!
+     1. uses singular value decomposition
+     2. variances computed with the usual `n-1`
+     3. Q-mode PCA (attempts to reduce complexity of questions/samples (*rows*))
+     4. `prcomp` is the preferred method for numerical accuracy
   - `princomp` 
      1. uses `eigen` on the covariance matrix
-- Steps for using PCA
+     2. variances computed with the usual `n`
+     3. _only_ handles R-mode PCA (reduces complexity of variables (*columns*))
+     4. Interesting [question on `princomp` function in R](http://stats.stackexchange.com/questions/32901/do-components-of-pca-really-represent-percentage-of-variance-can-they-sum-to-mo) on Cross Validated
+  - _covariance_ vs _correlation_
+     1. When the variables are on a similar scale, use a covariance matrix
+     2. Else use a correlation matrix, which standardizes the values
+     3. Yet another interesting question re: [PCA on Correlation or Covariance?](http://stats.stackexchange.com/questions/53/pca-on-correlation-or-covariance)
+- Steps for using PCA, R-mode
   1. calculate correlations between columns in data matrix with `cor`
-  2. visually inspect a density plot; iff correlations are mostly positive, then PCA should work for given data set
+  2. visually inspect a density plot; _iff_ correlations are mostly positive, then PCA should work for given data set
   3. calculate principal components matrix with `princomp`
   4. confirm standard deviations and proportions of variance per component; 1st one should be the one to choose, as the components are already returned in order of decreasing importance (eigenvalue???)
   5. create a one-column (principal column) summary of data set with `predict(pca)[,1]`
@@ -33,6 +41,4 @@
       geom_point() +
       geom_line()
 ```
-- Interesting [question on `princomp` function in R](http://stats.stackexchange.com/questions/32901/do-components-of-pca-really-represent-percentage-of-variance-can-they-sum-to-mo) on Cross Validated
-- Yet another interesting question re: [PCA on Correlation or Covariance?](http://stats.stackexchange.com/questions/53/pca-on-correlation-or-covariance)
 
