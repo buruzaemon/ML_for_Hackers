@@ -36,6 +36,7 @@
   4. confirm standard deviations and proportions of variance per component; 1st one should be the one to choose, as the components are already returned in order of decreasing importance (eigenvalue???)
   5. create a one-column (principal column) summary of data set with `predict(pca)[,1]`
   6. compare this PCA summary with actual data from a known-quantity, perhaps by plotting both in `ggplot`
+
 ```
     ggplot(comparison.df, aes(x = Date, y = Price, group = Index, color = Index))+
       geom_point() +
