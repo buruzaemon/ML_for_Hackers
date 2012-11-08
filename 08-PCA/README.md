@@ -18,12 +18,12 @@
   - `prcomp` 
      1. uses singular value decomposition
      2. variances computed with the usual `n-1`
-     3. for Q-mode PCA, which attempts to reduce complexity of questions/samples (_rows_)
+     3. for Q-mode PCA, which attempts to reduce complexity of questions/samples ( _rows_ )
      4. `prcomp` is the preferred method for numerical accuracy
   - `princomp` 
      1. uses `eigen` on the covariance matrix
      2. variances computed with `n`
-     3. _only_ handles R-mode PCA, which reduces complexity of variables (_columns_)
+     3. _only_ handles R-mode PCA, which reduces complexity of variables ( _columns_ )
      4. Interesting [question on `princomp` function in R](http://stats.stackexchange.com/questions/32901/do-components-of-pca-really-represent-percentage-of-variance-can-they-sum-to-mo) on Cross Validated
   - _covariance_ vs _correlation_
      1. When the variables are on a similar scale, use a covariance matrix
