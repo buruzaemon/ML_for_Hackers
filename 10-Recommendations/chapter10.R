@@ -70,9 +70,11 @@ knn <- function(df, k = 5)
 # Snippet 5
 df <- transform(df, kNNPredictions = knn(df))
 
+# count how many of our Label predictions are off
 sum(with(df, Label != kNNPredictions))
 #[1] 7
 
+# out of a total of how may samples?
 nrow(df)
 #[1] 100
 
@@ -87,30 +89,44 @@ n <- nrow(df)
 
 set.seed(1)
 
+# divide the data by half into training and test data
+# we will be doing cross-validation!
 indices <- sort(sample(1:n, n * (1 / 2)))
 
+# x will be the vectors (points)
 training.x <- df[indices, 1:2]
 test.x <- df[-indices, 1:2]
 
+# y will be the Label values
 training.y <- df[indices, 3]
 test.y <- df[-indices, 3]
 
 # There's a bug here!
 predicted.y <- knn(training.x, test.x, training.y, k = 5)
 
+# count how many of our predictions are off
 sum(predicted.y != test.y)
 #[1] 7
 
+# out of how many samples?
 length(test.y)
 #[1] 50
 
+# Our custom knn implementation in Snippet 4 seemed to do better
+# than the class package's knn; 93% > 86%
+
 # Snippet 7
+# And how would it be using a logistic model?
 logit.model <- glm(Label ~ X + Y, data = df[indices, ])
 
+# calculate the predictions on the test data
 predictions <- as.numeric(predict(logit.model, newdata = df[-indices, ]) > 0)
 
+# how many of these logistic model predictions are off?
 sum(predictions != test.y)
 #[1] 16
+
+# And so you see that a logistic classifier has accuracy of only 68%
 
 # Snippet 8
 installations <- read.csv(file.path('data', 'installations.csv'))
