@@ -22,7 +22,7 @@
      4. `prcomp` is the preferred method for numerical accuracy
   - `princomp` 
      1. uses `eigen` on the covariance matrix
-     2. variances computed with the usual `n`
+     2. variances computed with the `n`
      3. _only_ handles R-mode PCA (reduces complexity of variables, or _columns_)
      4. Interesting [question on `princomp` function in R](http://stats.stackexchange.com/questions/32901/do-components-of-pca-really-represent-percentage-of-variance-can-they-sum-to-mo) on Cross Validated
   - _covariance_ vs _correlation_
