@@ -30,7 +30,7 @@ set.seed(851982) # To make sure results are consistent
 ex.matrix <- matrix(sample(c(-1, 0, 1), 24, replace = TRUE),
                     nrow = 4,
                     ncol = 6)
-row.names(ex.matrix) <- c('A', 'B', 'C', 'D')
+rownames(ex.matrix) <- c('A', 'B', 'C', 'D')
 colnames(ex.matrix) <- c('P1', 'P2', 'P3', 'P4', 'P5', 'P6')
 
 # Snippet 2
@@ -77,6 +77,31 @@ ex.dist
 #B 6.244998
 #C 5.477226 5.000000
 #D 2.236068 6.782330 6.082763
+
+# a poor man's dist
+my.dist <- function(m)
+{
+  if (!is.matrix(m))
+      stop("argument m is not a matrix")
+  if (nrow(m) != ncol(m))
+      stop("argument m is not a square matrix")
+   
+  rows = nrow(m)
+  r <- matrix(rep(NA,rows^2), nrow=rows)
+   
+  for (i in 1:rows) {
+    for (j in 2:rows) {
+      if (i != j) {
+        r[i,j] <- sqrt(sum((m[i,] - m[,j])^2))
+        r[j,i] <- r[i,j]
+      }
+    }
+  }
+  rownames(r) <- rownames(m)
+  colnames(r) <- rownames(r)
+  return(r)
+}
+my.dist(ex.mult)
 
 # Snippet 6
 # Visualize clusters
@@ -184,7 +209,8 @@ cong.110 <- rollcall.mds[[9]]
 
 base.110 <- ggplot(cong.110, aes(x = x, y = y)) +
   scale_size(range = c(2,2), guide = "none") +
-  scale_alpha(guide = "none") + theme_bw() +
+  scale_alpha(guide = "none") + 
+  theme_bw() +
   opts(axis.ticks = theme_blank(),
        axis.text.x = theme_blank(),
        axis.text.y = theme_blank(),
@@ -194,9 +220,8 @@ base.110 <- ggplot(cong.110, aes(x = x, y = y)) +
   ylab("") +
   scale_shape(name = "Party", breaks = c("100", "200", "328"),
               labels = c("Dem.", "Rep.", "Ind."), solid = FALSE) +
-  scale_color_manual(name = "Party", values = c("100" = "black",
-                                                "200" = "dimgray",
-                                                "328"="grey"),
+  scale_color_manual(name = "Party", 
+                     values = c("100" = "black", "200" = "dimgray", "328" = "grey"),
                      breaks = c("100", "200", "328"),
                      labels = c("Dem.", "Rep.", "Ind."))
 
@@ -271,8 +296,8 @@ for(i in 1:length(rollcall.mds))
                                          labels = c("Dem.", "Rep.", "Ind."),
                                          solid = FALSE)
     mds.text <- mds.text + scale_color_manual(name = "Party",
-                                              values = c("100" = "black",
-                                                         "200" = "dimgray",
+                                              values = c("100" = "blue",
+                                                         "200" = "red",
                                                          "328" = "gray"),
                                               breaks = c("100", "200", "328"),
                                               labels = c("Dem.", "Rep.", "Ind."))
@@ -284,8 +309,8 @@ for(i in 1:length(rollcall.mds))
                                          labels = c("Dem.", "Rep."),
                                          solid = FALSE)
     mds.text <- mds.text + scale_color_manual(name = "Party",
-                                              values = c("100" = "black",
-                                                         "200" = "dimgray"),
+                                              values = c("100" = "blue",
+                                                         "200" = "red"),
                                               breaks = c("100", "200"),
                                               labels = c("Dem.", "Rep."))
   }
