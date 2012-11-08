@@ -17,7 +17,7 @@
 # working directory for the console to whereever you have saved this file prior to running.
 # Otherwise you will see errors when loading data or saving figures!
 
-# First code snippet
+# Snippet 1
 df <- read.csv(file.path('data', 'example_data.csv'))
 
 head(df)
@@ -29,7 +29,7 @@ head(df)
 #5 3.329508 6.433024 0
 #6 2.179532 6.980400 0
 
-# Second code snippet
+# Snippet 2
 distance.matrix <- function(df)
 {
   distance <- matrix(rep(NA, nrow(df) ^ 2), nrow = nrow(df))
@@ -45,13 +45,13 @@ distance.matrix <- function(df)
   return(distance)
 }
 
-# Third code snippet
+# Snippet 3
 k.nearest.neighbors <- function(i, distance, k = 5)
 {
   return(order(distance[i, ])[2:(k + 1)])
 }
 
-# Fourth code snippet
+# Snippet 4
 knn <- function(df, k = 5)
 {
   distance <- distance.matrix(df)
@@ -67,7 +67,7 @@ knn <- function(df, k = 5)
   return(predictions)
 }
 
-# Fifth code snippet
+# Snippet 5
 df <- transform(df, kNNPredictions = knn(df))
 
 sum(with(df, Label != kNNPredictions))
@@ -76,7 +76,7 @@ sum(with(df, Label != kNNPredictions))
 nrow(df)
 #[1] 100
 
-# Sixth code snippet
+# Snippet 6
 rm('knn') # In case you still have our implementation in memory.
 
 library('class')
@@ -104,7 +104,7 @@ sum(predicted.y != test.y)
 length(test.y)
 #[1] 50
 
-# Seventh code snippet
+# Snippet 7
 logit.model <- glm(Label ~ X + Y, data = df[indices, ])
 
 predictions <- as.numeric(predict(logit.model, newdata = df[-indices, ]) > 0)
@@ -112,7 +112,7 @@ predictions <- as.numeric(predict(logit.model, newdata = df[-indices, ]) > 0)
 sum(predictions != test.y)
 #[1] 16
 
-# Eighth code snippet
+# Snippet 8
 installations <- read.csv(file.path('data', 'installations.csv'))
 
 head(installations)
@@ -124,7 +124,7 @@ head(installations)
 #5 acepack 1 0
 #6 aCGH.Spline 1 0
 
-# Ninth code snippet
+# Snippet 9
 library('reshape')
 
 user.package.matrix <- cast(installations, User ~ Package, value = 'Installed')
@@ -142,7 +142,7 @@ row.names(user.package.matrix) <- user.package.matrix[, 1]
 
 user.package.matrix <- user.package.matrix[, -1]
 
-# Tenth code snippet
+# Snippet 10
 similarities <- cor(user.package.matrix)
 
 nrow(similarities)
@@ -154,16 +154,16 @@ similarities[1, 1]
 similarities[1, 2]
 #[1] -0.04822428
 
-# Eleventh code snippet
+# Snippet 11
 distances <- -log((similarities / 2) + 0.5)
 
-# Twelfth code snippet
+# Snippet 12
 k.nearest.neighbors <- function(i, distances, k = 25)
 {
   return(order(distances[i, ])[2:(k + 1)])
 }
 
-# Thirteenth code snippet
+# Snippet 13
 installation.probability <- function(user, package, user.package.matrix, distances, k = 25)
 {
   neighbors <- k.nearest.neighbors(package, distances, k = k)
@@ -174,7 +174,7 @@ installation.probability <- function(user, package, user.package.matrix, distanc
 installation.probability(1, 1, user.package.matrix, distances)
 #[1] 0.76
 
-# Fourteenth code snippet
+# Snippet 14
 most.probable.packages <- function(user, user.package.matrix, distances, k = 25)
 {
   return(order(sapply(1:ncol(user.package.matrix),
