@@ -143,6 +143,10 @@ head(installations)
 # Snippet 9
 library('reshape')
 
+# installations is already molten, so we cast as:
+# - rows: User id (52)
+# - columns: Packages (2487)
+# - values: installed or not (1/0)
 user.package.matrix <- cast(installations, User ~ Package, value = 'Installed')
 
 user.package.matrix[, 1]
@@ -154,16 +158,21 @@ user.package.matrix[, 2]
 # [1] 1 1 0 1 1 1 1 1 1 1 1 0 0 1 1 1 1 1 0 0 1 1 1 1 1 1 1 0 1 0 1 0 1 1 1 1 1 1
 #[39] 1 1 1 1 1 1 1 1 0 1 1 1 1 1
 
-row.names(user.package.matrix) <- user.package.matrix[, 1]
+# first column is actually the user ids themselves,
+# so assign them as row names, and then drop the first column
+rownames(user.package.matrix) <- user.package.matrix[, 1]
 
 user.package.matrix <- user.package.matrix[, -1]
 
 # Snippet 10
 similarities <- cor(user.package.matrix)
 
-nrow(similarities)
+dim(similarities)
+#[1] 2487 2487
+
+#nrow(similarities)
 #[1] 2487
-ncol(similarities)
+#ncol(similarities)
 #[1] 2487
 similarities[1, 1]
 #[1] 1
@@ -171,6 +180,14 @@ similarities[1, 2]
 #[1] -0.04822428
 
 # Snippet 11
+# transform the correlation values (ranging from 1 to -1)
+# into distance values, where:
+#  1 => 0
+# -1 => some number approaching infinity
+x <- c(seq(-1,1,by=0.00001))
+y <- -log((x/2) + 0.5)
+plot(x,y,type='l',ylab='-1*log((x/2)+0.5)',main='correlation-to-distance conversion')
+
 distances <- -log((similarities / 2) + 0.5)
 
 # Snippet 12
