@@ -179,6 +179,16 @@ similarities[1, 1]
 similarities[1, 2]
 #[1] -0.04822428
 
+# Snippet 10.5
+# Always plot to get a visual understanding
+library(ggplot2)
+sim <- as.numeric(similarities)
+ggplot(data.frame(Similarities=sim), aes(x=Similarities,fill=1)) +
+  geom_density() +
+  opts(legend.position='none')
+#  警告メッセージ： 
+#Removed 14910 rows containing non-finite values (stat_density). 
+
 # Snippet 11
 # transform the correlation values (ranging from 1 to -1)
 # into distance values, where:
@@ -191,6 +201,8 @@ plot(x,y,type='l',ylab='-1*log((x/2)+0.5)',main='correlation-to-distance convers
 distances <- -log((similarities / 2) + 0.5)
 
 # Snippet 12
+# Returns the indices of the k nearest neighbors for row i,
+# for the given distances matrix.
 k.nearest.neighbors <- function(i, distances, k = 25)
 {
   return(order(distances[i, ])[2:(k + 1)])
