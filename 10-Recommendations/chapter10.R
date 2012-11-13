@@ -196,7 +196,10 @@ ggplot(data.frame(Similarities=sim), aes(x=Similarities,fill=1)) +
 # -1 => some number approaching infinity
 x <- c(seq(-1,1,by=0.00001))
 y <- -log((x/2) + 0.5)
+# png(filename='images/foo.png', height=400, width=500, bg='white')
 plot(x,y,type='l',ylab='-1*log((x/2)+0.5)',main='correlation-to-distance conversion')
+# box()
+# dev.off()
 
 distances <- -log((similarities / 2) + 0.5)
 
