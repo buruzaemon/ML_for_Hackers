@@ -11,7 +11,7 @@
   distances <- -log((similarities / 2) + 0.5)
   ````
 
-  ![correlation-to-distance conversion](/images/cor-to-dist.png "correlation-to-distance conversion")
+  ![correlation-to-distance conversion](./images/cor-to-dist.png "correlation-to-distance conversion")
 
 ### Observations
 - _k-Nearest Neighbors_ one of the most intuitive and simple algorithms for classification where linear (see [Ch. 5] [https://github.com/buruzaemon/ML_for_Hackers/tree/master/05-Regression]) and logistic (see [Ch. 6][https://github.com/buruzaemon/ML_for_Hackers/tree/master/06-Regularization]) regression may not be applicable.
