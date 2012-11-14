@@ -23,6 +23,10 @@ library(reshape)
 # Snippet 1
 df <- read.csv(file.path('data', 'df.csv'))
 
+snippet01 <- ggplot(df, aes(x=X, y=Y, color=factor(Label))) + 
+               geom_point()
+ggsave(plot=snippet01, filename=file.path('images','fig_12-1.png'))
+
 logit.fit <- glm(Label ~ X + Y,
                  family = binomial(link = 'logit'),
                  data = df)
@@ -36,7 +40,7 @@ mean(with(df, 0 == Label))
 #[1] 0.5156
 
 # Snippet 2
-library('e1071')
+library(e1071)
 
 svm.fit <- svm(Label ~ X + Y, data = df)
 svm.predictions <- ifelse(predict(svm.fit) > 0, 1, 0)
