@@ -17,9 +17,10 @@
 # working directory for the console to whereever you have saved this file prior to running.
 # Otherwise you will see errors when loading data or saving figures!
 
-library('ggplot2')
+library(ggplot2)
+library(reshape)
 
-# First code snippet
+# Snippet 1
 df <- read.csv(file.path('data', 'df.csv'))
 
 logit.fit <- glm(Label ~ X + Y,
@@ -34,7 +35,7 @@ mean(with(df, logit.predictions == Label))
 mean(with(df, 0 == Label))
 #[1] 0.5156
 
-# Second code snippet
+# Snippet 2
 library('e1071')
 
 svm.fit <- svm(Label ~ X + Y, data = df)
@@ -42,7 +43,7 @@ svm.predictions <- ifelse(predict(svm.fit) > 0, 1, 0)
 mean(with(df, svm.predictions == Label))
 #[1] 0.7204
 
-# Third code snippet
+# Snippet 3
 df <- cbind(df,
             data.frame(Logit = ifelse(predict(logit.fit) > 0, 1, 0),
                        SVM = ifelse(predict(svm.fit) > 0, 1, 0)))
@@ -53,7 +54,7 @@ ggplot(predictions, aes(x = X, y = Y, color = factor(value))) +
   geom_point() +
   facet_grid(variable ~ .)
 
-# Fourth code snippet
+# Snippet 4
 df <- df[, c('X', 'Y', 'Label')]
 
 linear.svm.fit <- svm(Label ~ X + Y, data = df, kernel = 'linear')
@@ -80,7 +81,7 @@ ggplot(predictions, aes(x = X, y = Y, color = factor(value))) +
   geom_point() +
   facet_grid(variable ~ .)
 
-# Fifth code snippet
+# Snippet 5
 polynomial.degree3.svm.fit <- svm(Label ~ X + Y,
                                   data = df,
                                   kernel = 'polynomial',
@@ -109,22 +110,14 @@ polynomial.degree12.svm.fit <- svm(Label ~ X + Y,
 with(df, mean(Label != ifelse(predict(polynomial.degree12.svm.fit) > 0, 1, 0)))
 #[1] 0.4464
 
-# Sixth code snippet
+# Snippet 6
 df <- df[, c('X', 'Y', 'Label')]
 
 df <- cbind(df,
-            data.frame(Degree3SVM = ifelse(predict(polynomial.degree3.svm.fit) > 0,
-                                           1,
-                                           0),
-                       Degree5SVM = ifelse(predict(polynomial.degree5.svm.fit) > 0,
-                                           1,
-                                           0),
-                       Degree10SVM = ifelse(predict(polynomial.degree10.svm.fit) > 0,
-                                            1,
-                                            0),
-                       Degree12SVM = ifelse(predict(polynomial.degree12.svm.fit) > 0,
-                                            1,
-                                            0)))
+            data.frame(Degree3SVM = ifelse(predict(polynomial.degree3.svm.fit) > 0, 1, 0),
+                       Degree5SVM = ifelse(predict(polynomial.degree5.svm.fit) > 0, 1, 0),
+                       Degree10SVM = ifelse(predict(polynomial.degree10.svm.fit) > 0, 1, 0),
+                       Degree12SVM = ifelse(predict(polynomial.degree12.svm.fit) > 0, 1, 0)))
 
 predictions <- melt(df, id.vars = c('X', 'Y'))
 
@@ -132,7 +125,7 @@ ggplot(predictions, aes(x = X, y = Y, color = factor(value))) +
   geom_point() +
   facet_grid(variable ~ .)
 
-# Seventh code snippet
+# Snippet 7
 radial.cost1.svm.fit <- svm(Label ~ X + Y,
                             data = df,
                             kernel = 'radial',
@@ -161,7 +154,7 @@ radial.cost4.svm.fit <- svm(Label ~ X + Y,
 with(df, mean(Label == ifelse(predict(radial.cost4.svm.fit) > 0, 1, 0)))
 #[1] 0.694
 
-# Eighth code snippet
+# Snippet 8
 df <- df[, c('X', 'Y', 'Label')]
 
 df <- cbind(df,
@@ -176,7 +169,7 @@ ggplot(predictions, aes(x = X, y = Y, color = factor(value))) +
   geom_point() +
   facet_grid(variable ~ .)
 
-# Ninth code snippet
+# Snippet 9
 sigmoid.gamma1.svm.fit <- svm(Label ~ X + Y,
                               data = df,
                               kernel = 'sigmoid',
@@ -205,7 +198,7 @@ sigmoid.gamma4.svm.fit <- svm(Label ~ X + Y,
 with(df, mean(Label == ifelse(predict(sigmoid.gamma4.svm.fit) > 0, 1, 0)))
 #[1] 0.4824
 
-# Tenth code snippet
+# Snippet 10
 df <- df[, c('X', 'Y', 'Label')]
 
 df <- cbind(df,
@@ -220,7 +213,7 @@ ggplot(predictions, aes(x = X, y = Y, color = factor(value))) +
   geom_point() +
   facet_grid(variable ~ .)
 
-# Eleventh code snippet
+# Snippet 11
 load(file.path('data', 'dtm.RData'))
 
 set.seed(1)
@@ -236,11 +229,11 @@ test.y <- dtm[test.indices, 1]
 
 rm(dtm)
 
-# Twelfth code snippet
+# Snippet 12
 library('glmnet')
 regularized.logit.fit <- glmnet(train.x, train.y, family = c('binomial'))
 
-# Thirteenth code snippet
+# Snippet 13
 lambdas <- regularized.logit.fit$lambda
 
 performance <- data.frame()
@@ -257,20 +250,20 @@ ggplot(performance, aes(x = Lambda, y = MSE)) +
   geom_point() +
   scale_x_log10()
 
-# Fourteenth code snippet
+# Snippet 14
 best.lambda <- with(performance, max(Lambda[which(MSE == min(MSE))]))
 
-# Fifteenth code snippet
+# Snippet 15
 mse <- with(subset(performance, Lambda == best.lambda), MSE)
 
 mse
 #[1] 0.06830769
 
-# Sixteenth code snippet
+# Snippet 16
 library('e1071')
 linear.svm.fit <- svm(train.x, train.y, kernel = 'linear')
 
-# Seventeenth code snippet
+# Snippet 17
 predictions <- predict(linear.svm.fit, test.x)
 predictions <- as.numeric(predictions > 0)
 
@@ -279,7 +272,7 @@ mse <- mean(predictions != test.y)
 mse
 #0.128
 
-# Eighteenth code snippet
+# Snippet 18
 radial.svm.fit <- svm(train.x, train.y, kernel = 'radial')
 
 predictions <- predict(radial.svm.fit, test.x)
@@ -290,7 +283,7 @@ mse <- mean(predictions != test.y)
 mse
 #[1] 0.1421538
 
-# Nineteenth code snippet
+# Snippet 19
 library('class')
 
 knn.fit <- knn(train.x, test.x, train.y, k = 50)
@@ -302,7 +295,7 @@ mse <- mean(predictions != test.y)
 mse
 #[1] 0.1396923
 
-# Twentieth code snippet
+# Snippet 20
 performance <- data.frame()
 
 for (k in seq(5, 50, by = 5))
