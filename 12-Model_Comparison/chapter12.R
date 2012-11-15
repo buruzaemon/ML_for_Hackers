@@ -23,9 +23,10 @@ library(reshape)
 # Snippet 1
 df <- read.csv(file.path('data', 'df.csv'))
 
-snippet01 <- ggplot(df, aes(x=X, y=Y, color=factor(Label))) + 
-               geom_point()
-ggsave(plot=snippet01, filename=file.path('images','fig_12-1.png'))
+ggplot(df, aes(x=X, y=Y, color=factor(Label))) + 
+    geom_point() +
+    opts(title='Fig. 12-1: Classification, non-linear decision boundary', plot.title=theme_text(size=12, face='bold'))
+ggsave(filename=file.path('images','fig_12-1.png'))
 
 logit.fit <- glm(Label ~ X + Y,
                  family = binomial(link = 'logit'),
@@ -55,8 +56,10 @@ df <- cbind(df,
 predictions <- melt(df, id.vars = c('X', 'Y'))
 
 ggplot(predictions, aes(x = X, y = Y, color = factor(value))) +
-  geom_point() +
-  facet_grid(variable ~ .)
+    geom_point() +
+    facet_grid(variable ~ .) +
+    opts(title = 'Fig. 12-2: Logistic (glm) vs. SVM', plot.title=theme_text(size=12, face='bold'))
+ggsave(filename=file.path('images','fig_12-2.png'))
 
 # Snippet 4
 df <- df[, c('X', 'Y', 'Label')]
@@ -82,8 +85,10 @@ df <- cbind(df,
 predictions <- melt(df, id.vars = c('X', 'Y'))
 
 ggplot(predictions, aes(x = X, y = Y, color = factor(value))) +
-  geom_point() +
-  facet_grid(variable ~ .)
+    geom_point() +
+    facet_grid(variable ~ .) +
+    opts(title = 'Fig. 12-3: SVM Kernels (linear, polynomial, radial, sigmoid)', plot.title=theme_text(size=12, face='bold'))
+ggsave(filename=file.path('images','fig_12-3.png'))
 
 # Snippet 5
 polynomial.degree3.svm.fit <- svm(Label ~ X + Y,
@@ -126,8 +131,10 @@ df <- cbind(df,
 predictions <- melt(df, id.vars = c('X', 'Y'))
 
 ggplot(predictions, aes(x = X, y = Y, color = factor(value))) +
-  geom_point() +
-  facet_grid(variable ~ .)
+    geom_point() +
+    facet_grid(variable ~ .) +
+    opts(title = 'Fig. 12-4: polynomial kernel and degree tuning', plot.title=theme_text(size=12, face='bold'))
+ggsave(filename=file.path('images','fig_12-4.png'))
 
 # Snippet 7
 radial.cost1.svm.fit <- svm(Label ~ X + Y,
@@ -170,8 +177,10 @@ df <- cbind(df,
 predictions <- melt(df, id.vars = c('X', 'Y'))
 
 ggplot(predictions, aes(x = X, y = Y, color = factor(value))) +
-  geom_point() +
-  facet_grid(variable ~ .)
+    geom_point() +
+    facet_grid(variable ~ .) +
+    opts(title = 'Fig. 12-5: radial kernel and cost tuning', plot.title=theme_text(size=12, face='bold'))
+ggsave(filename=file.path('images','fig_12-5.png'))
 
 # Snippet 9
 sigmoid.gamma1.svm.fit <- svm(Label ~ X + Y,
@@ -214,8 +223,10 @@ df <- cbind(df,
 predictions <- melt(df, id.vars = c('X', 'Y'))
 
 ggplot(predictions, aes(x = X, y = Y, color = factor(value))) +
-  geom_point() +
-  facet_grid(variable ~ .)
+    geom_point() +
+    facet_grid(variable ~ .) + 
+    opts(title = 'Fig. 12-6: sigmoid kernel and gamma tuning', plot.title=theme_text(size=12, face='bold'))
+ggsave(filename=file.path('images','fig_12-6.png'))
 
 # Snippet 11
 load(file.path('data', 'dtm.RData'))
