@@ -261,9 +261,17 @@ for (lambda in lambdas)
   performance <- rbind(performance, data.frame(Lambda = lambda, MSE = mse))
 }
 
+# Without scaling the x values, it is difficult to see the minima
+ggplot(performance, aes(x = Lambda, y = MSE)) +
+  geom_point()  +
+  opts(title = 'Fig. 12-7 (pre): before scale_x_log10', plot.title=theme_text(size=12, face='bold'))
+ggsave(filename=file.path('images','fig_12-7-0.png'))
+
 ggplot(performance, aes(x = Lambda, y = MSE)) +
   geom_point() +
-  scale_x_log10()
+  scale_x_log10() +
+  opts(title = 'Fig. 12-7: finding the best lambda setting', plot.title=theme_text(size=12, face='bold'))
+ggsave(filename=file.path('images','fig_12-7-1.png'))
 
 # Snippet 14
 best.lambda <- with(performance, max(Lambda[which(MSE == min(MSE))]))
@@ -283,20 +291,95 @@ predictions <- predict(linear.svm.fit, test.x)
 predictions <- as.numeric(predictions > 0)
 
 mse <- mean(predictions != test.y)
-
 mse
 #0.128
 
 # Snippet 18
-radial.svm.fit <- svm(train.x, train.y, kernel = 'radial')
+#
+#   SVM radial kernel hyperparameter is 'cost'
+#   let's try a small range and see...
+#
+tmp <- data.frame()
+for (c in 1:10) {
+  radial.svm.fit <- svm(train.x, train.y, kernel='radial', cost=c)
+  predictions    <- predict(radial.svm.fit, test.x)
+  predictions    <- as.numeric(predictions > 0)
+  mse            <- mean(predictions != test.y)
+  tmp            <- rbind(tmp, data.frame(Cost=c, MSE=mse))
+}
+tmp
+#   Cost       MSE
+#   1     1 0.1421538
+#   2     2 0.1335385
+#   3     3 0.1255385
+#   4     4 0.1243077
+#   5     5 0.1212308
+#   6     6 0.1212308
+#   7     7 0.1193846
+#   8     8 0.1193846
+#   9     9 0.1193846
+#  10    10 0.1193846
+with(tmp, min(MSE))
 
-predictions <- predict(radial.svm.fit, test.x)
-predictions <- as.numeric(predictions > 0)
+#radial.svm.fit <- svm(train.x, train.y, kernel = 'radial')
+#predictions <- predict(radial.svm.fit, test.x)
+#predictions <- as.numeric(predictions > 0)
+#mse <- mean(predictions != test.y)
+#mse
+##[1] 0.1421538
 
-mse <- mean(predictions != test.y)
 
-mse
-#[1] 0.1421538
+# Extra Credit: svm, polynomial kernel
+#
+#   SVM polynomial kernel hyperparameter is 'degree'
+#   let's try a small range and see...
+#
+tmp <- data.frame()
+for (d in seq(3,15,2)) {
+  polynomial.svm.fit <- svm(train.x, train.y, kernel = 'polynomial', degree=d)
+  predictions        <- predict(polynomial.svm.fit, test.x)
+  predictions        <- as.numeric(predictions > 0)
+  mse                <- mean(predictions != test.y)
+  tmp                <- rbind(tmp, data.frame(Degree=d, MSE=mse))
+}
+tmp
+#  Degree       MSE
+#  1      3 0.1440000
+#  2      5 0.1452308
+#  3      7 0.1458462
+#  4      9 0.1464615
+#  5     11 0.1476923
+#  6     13 0.1476923
+#  7     15 0.1476923
+with(tmp, min(MSE))
+
+
+# Extra Credit: svm, sigmoid kernel
+#
+#   SVM sigmoid kernel hyperparameter is 'gamma'
+#   let's try a small range and see...
+#
+tmp <- data.frame()
+for (g in 1:10) {
+  sigmoid.svm.fit <- svm(train.x, train.y, kernel = 'sigmoid', gamma=g)
+  predictions     <- predict(sigmoid.svm.fit, test.x)
+  predictions     <- as.numeric(predictions > 0)
+  mse             <- mean(predictions != test.y)
+  tmp             <- rbind(tmp, data.frame(Gamma=g, MSE=mse))
+}
+tmp
+#   Gamma       MSE
+#   1      1 0.4652308
+#   2      2 0.4541538
+#   3      3 0.5169231
+#   4      4 0.4596923
+#   5      5 0.5181538
+#   6      6 0.4578462
+#   7      7 0.4584615
+#   8      8 0.4590769
+#   9      9 0.4590769
+#  10     10 0.4627692
+with(tmp, min(MSE))
 
 # Snippet 19
 library('class')
