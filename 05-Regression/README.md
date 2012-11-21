@@ -5,7 +5,7 @@
 - `lm` calculates a linear model based on the given regression formula. A simple example is predicting a response from the given terms.
 - Mean Squared Error (MSE) is a simple barometer for summarizing the quality of a linear regression model. `mean(residuals(fitted.regression ^ 2))`
 - Root Mean Squared Error (RMSE) is a more popular measure of performance for machine learning. `sqrt(mean(residuals(fitted.regression ^ 2)))`
-- R<sup>2</sup> is a measure of how well a regression model fits the data. It is the proportion of variability in a data set that explained by the regression model. Derived by `1 - (var(residuals(fitted.regression)) / var(true.values - mean(true.values)))`. 
+- R<sup>2</sup> is a measure of how well a regression model fits the data. It is the proportion of variability in a data set that is explained by the regression model. Derived by `1 - (var(residuals(fitted.regression)) / var(true.values - mean(true.values)))`. 
 
 ### On Linear Regression and Modelling
 - During the exploratory phase of modelling, determine if the dependent variable Y has a linear relation with independent variable X.
