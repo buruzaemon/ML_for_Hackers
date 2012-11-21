@@ -12,10 +12,11 @@
    - use `ggplot` with `geom_smooth(method="lm")` to see if the scatterplot could contain a regression line for predicting Y from X
    - use `plot(fitted.regression, which=1` to make sure that the residuals plot is irregular and random
 - If such plots look nonsensical or impenetrable, try a density plot of log-transformed values (`aes(x=log(...), y=log(...)` with `geom_density()`).
-- In the `summary` of a linear regression, the `t value` column of the `Coeffecients` section is the number of standard deviations (`Std. Error` column value) the `Estimate` is away from 0. The higher this `t value` is, the greater the confidence in this factor actually predicting the output. A value of 2 or greater is the general measure. 0 would mean that there is no correlation between the predictor and output.
-- The `Residual standard error` is the RMSE for the model used.
-- The `Multiple R-squared` value is the R<sup>2</sup> value. 
-- The R<sup>2</sup> values <i>vis a vis</i> each of the regression inputs in isolation can be used to see the predictive power, individually. c.f. `summary(lm(...))$r.squared`
+- `summary(fitted.regression)`
+   - `t value` column of the `Coeffecients` section is the number of standard deviations (`Std. Error` column value) the `Estimate` is away from 0. The higher this `t value` is, the greater the confidence in this factor actually predicting the output. A value of 2 or greater is the general measure. 0 would mean that there is no correlation between the predictor and output.
+   - `Residual standard error` is the RMSE for the model used.
+   - `Multiple R-squared` value is the R<sup>2</sup> value. 
+   - c.f. [Interpretation of R's lm() output](http://stats.stackexchange.com/questions/5135/interpretation-of-rs-lm-output)
 
 ### On Correlation
 - `cor` can be used to calculate the correlation between two variables.
