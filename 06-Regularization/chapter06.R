@@ -297,9 +297,11 @@ for (d in 1:12)
 }
 
 # Snippet 16
-ggplot(performance, aes(x = Degree, y = RMSE, linetype = Data)) +
+ggplot(performance, aes(x=Degree, y=RMSE, linetype=Data, colour=Data)) +
   geom_point() +
-  geom_line()
+  geom_line() +
+  opts(title='Fig. 6-6: Cross-validation', plot.title=theme_text(size=12, face='bold'))
+ggsave(filename=file.path('images', 'fig_6-6.png'))
 
 # Snippet 17
 lm.fit <- lm(y ~ x)
@@ -384,15 +386,19 @@ for (lambda in lambdas)
 # Snippet 23
 s23.plot <- ggplot(performance, aes(x = Lambda, y = RMSE)) +
   geom_point() +
-  geom_line()
-ggsave(plot=s23.plot, file="images/Fig_6-7.pdf", width=14, height=8.5)
+  geom_line() +
+  opts(title = 'Fig. 6-7: Varying lambda parameter in regularization, w/out scaling', 
+       plot.title=theme_text(size=12, face='bold'))
+ggsave(filename=file.path('images', 'Fig_6-7.png'))
 
 # Alternative plot not shown in the book.
 s23a.plot <- ggplot(performance, aes(x = Lambda, y = RMSE)) +
   geom_point() +
   geom_line() +
-  scale_x_log10()
-ggsave(plot=s23a.plot, file="images/Fig_6-7_alt.pdf", width=14, height=8.5)
+  scale_x_log10() +
+  opts(title = 'Fig. 6-7: Varying lambda parameter in regularization w/ scaling', 
+       plot.title=theme_text(size=12, face='bold'))
+ggsave(filename=file.path('images', 'Fig_6-7_alt.png'))
 
 # Snippet 24
 best.lambda <- with(performance, Lambda[which(RMSE == min(RMSE))])
@@ -470,9 +476,12 @@ for (lambda in c(0.1, 0.25, 0.5, 1, 2, 5))
 
 # Snippet 30
 s30.plot <- ggplot(performance, aes(x = Lambda, y = RMSE)) +
+  ylim(20, 40) +
   stat_summary(fun.data = 'mean_cl_boot', geom = 'errorbar') +
-  stat_summary(fun.data = 'mean_cl_boot', geom = 'point')
-ggsave(plot=s30.plot, file="images/Fig_6-8.pdf", width=14, height=8.5)
+  stat_summary(fun.data = 'mean_cl_boot', geom = 'point') +
+  opts(title = 'Fig. 6-8: Results of varying lambda parameter', 
+       plot.title=theme_text(size=12, face='bold'))
+ggsave(filename=file.path('images', 'Fig_6-8.png'))
 
 # Snippet 31
 y <- rep(c(1, 0), each = 50)
@@ -550,8 +559,14 @@ for (i in 1:250)
 }
 
 # Snippet 38
+library('scales')
 s38.plot <- ggplot(performance, aes(x = Lambda, y = ErrorRate)) +
-  stat_summary(fun.data = 'mean_cl_boot', geom = 'errorbar') +
-  stat_summary(fun.data = 'mean_cl_boot', geom = 'point') +
-  scale_x_log10()
-ggsave(plot=s38.plot, file="images/Fig_6-9.pdf", width=14, height=8.5)
+  xlim(1e-4, 1e-1) +
+  ylim(0.2, 0.8) +
+  stat_summary(fun.data='mean_cl_boot', geom='errorbar') +
+  stat_summary(fun.data='mean_cl_boot', geom='point') +
+  scale_x_log10(breaks=trans_breaks('log10', function(x) 10^x),
+                labels=trans_format('log10', math_format(10^.x))) + 
+  opts(title = 'Fig. 6-9: Error rates for classifying books', 
+       plot.title=theme_text(size=12, face='bold'))
+ggsave(filename=file.path('images', 'Fig_6-9.png'))
