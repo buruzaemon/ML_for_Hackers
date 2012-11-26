@@ -301,7 +301,7 @@ ggplot(performance, aes(x=Degree, y=RMSE, linetype=Data, colour=Data)) +
   geom_point() +
   geom_line() +
   opts(title='Fig. 6-6: Cross-validation', plot.title=theme_text(size=12, face='bold'))
-ggsave(filename=file.path('images', 'fig_6-6.png'))
+ggsave(filename=file.path('images', 'Fig_6-6.png'))
 
 # Snippet 17
 lm.fit <- lm(y ~ x)
