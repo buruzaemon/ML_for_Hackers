@@ -223,33 +223,48 @@ summary(lm(Y ~ poly(X, degree = 25), data = df))
 #F-statistic: 238.1 on 25 and 75 DF,  p-value: < 2.2e-16 
 
 # Snippet 11
-poly.fit <- lm(Y ~ poly(X, degree = 1), data = df)
-df <- transform(df, PredictedY = predict(poly.fit))
-
-ggplot(df, aes(x = X, y = PredictedY)) +
+#poly.fit <- lm(Y ~ poly(X, degree = 1), data = df)
+#df <- transform(df, PredictedY = predict(poly.fit))
+#
+#ggplot(df, aes(x = X, y = PredictedY)) +
+#  geom_point() +
+#  geom_line()
+#
+#poly.fit <- lm(Y ~ poly(X, degree = 3), data = df)
+#df <- transform(df, PredictedY = predict(poly.fit))
+#
+#ggplot(df, aes(x = X, y = PredictedY)) +
+#  geom_point() +
+#  geom_line()
+#
+#poly.fit <- lm(Y ~ poly(X, degree = 5), data = df)
+#df <- transform(df, PredictedY = predict(poly.fit))
+#
+#ggplot(df, aes(x = X, y = PredictedY)) +
+#  geom_point() +
+#  geom_line()
+#
+#poly.fit <- lm(Y ~ poly(X, degree = 25), data = df)
+#df <- transform(df, PredictedY = predict(poly.fit))
+#
+#ggplot(df, aes(x = X, y = PredictedY)) +
+#  geom_point() +
+#  geom_line()
+poly.frame <- data.frame()
+for (d in c(1,3,5,25))
+{
+  poly.fit <- lm(Y ~ poly(X, degree=d), data=df)
+  poly.frame <- rbind(poly.frame,
+                      data.frame(Degree = d,
+		                 X = x,
+				 PredictedY = predict(poly.fit)))
+}
+ggplot(poly.frame, aes(x=X, y=PredictedY)) +
   geom_point() +
-  geom_line()
-
-poly.fit <- lm(Y ~ poly(X, degree = 3), data = df)
-df <- transform(df, PredictedY = predict(poly.fit))
-
-ggplot(df, aes(x = X, y = PredictedY)) +
-  geom_point() +
-  geom_line()
-
-poly.fit <- lm(Y ~ poly(X, degree = 5), data = df)
-df <- transform(df, PredictedY = predict(poly.fit))
-
-ggplot(df, aes(x = X, y = PredictedY)) +
-  geom_point() +
-  geom_line()
-
-poly.fit <- lm(Y ~ poly(X, degree = 25), data = df)
-df <- transform(df, PredictedY = predict(poly.fit))
-
-ggplot(df, aes(x = X, y = PredictedY)) +
-  geom_point() +
-  geom_line()
+  geom_line() +
+  facet_wrap(~Degree, nrow=2, ncol=2) +
+  opts(title='Fig. 6-5: Polynomial Regression for Varying Degrees', plot.title=theme_text(size=12, face='bold'))
+ggsave(filename=file.path('images', 'Fig_6-5.png'))
 
 # Snippet 12
 set.seed(1)
