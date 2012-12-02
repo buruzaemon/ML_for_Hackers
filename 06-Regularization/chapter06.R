@@ -498,6 +498,48 @@ s30.plot <- ggplot(performance, aes(x = Lambda, y = RMSE)) +
        plot.title=theme_text(size=12, face='bold'))
 ggsave(filename=file.path('images', 'Fig_6-8.png'))
 
+
+# Snippet 30.5
+# Fig. 6-8 is supposed to show that this is a failure to fit
+# a statistical model to this data, but it is difficult to see
+# that. Let's try adding more Lambda points, and seeing how 
+# Lambda relates to RMSE...
+perf2 <- data.frame()
+
+for (lambda in seq(0.1, 10.0, 0.1))
+{
+  for (i in 1:50)
+  {
+    indices <- sample(1:100, 80)
+    
+    training.x <- x[indices, ]
+    training.y <- y[indices]
+    
+    test.x <- x[-indices, ]
+    test.y <- y[-indices]
+    
+    glm.fit <- glmnet(training.x, training.y)
+    
+    predicted.y <- predict(glm.fit, test.x, s = lambda)
+    
+    rmse <- sqrt(mean((predicted.y - test.y) ^ 2))
+
+    perf2 <- rbind(perf2,
+                   data.frame(Lambda = lambda,
+                              Iteration = i,
+                              RMSE = rmse))
+  }
+}
+# ... generate a plot and see...
+s30a.plot <- ggplot(perf2, aes(x = Lambda, y = RMSE)) +
+  stat_summary(fun.data = 'mean_cl_boot', geom = 'errorbar') +
+  stat_summary(fun.data = 'mean_cl_boot', geom = 'point') +
+  opts(title = 'Fig. 6-8a: Adding more Lambda values to our range', 
+       plot.title=theme_text(size=12, face='bold'))
+ggsave(filename=file.path('images', 'Fig_6-8_alt.png'))
+
+
+
 # Snippet 31
 y <- rep(c(1, 0), each = 50)
 
