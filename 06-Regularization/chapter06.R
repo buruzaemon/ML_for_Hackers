@@ -532,6 +532,7 @@ for (lambda in seq(0.1, 10.0, 0.1))
 }
 # ... generate a plot and see...
 s30a.plot <- ggplot(perf2, aes(x = Lambda, y = RMSE)) +
+  ylim(20, 40) +
   stat_summary(fun.data = 'mean_cl_boot', geom = 'errorbar') +
   stat_summary(fun.data = 'mean_cl_boot', geom = 'point') +
   opts(title = 'Fig. 6-8a: Adding more Lambda values to our range', 
